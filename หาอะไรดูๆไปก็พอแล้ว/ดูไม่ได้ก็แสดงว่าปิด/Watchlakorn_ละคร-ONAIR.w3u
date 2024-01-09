@@ -1,6 +1,6 @@
 {
  "name": "ละคร-ONAIR",
- "author": "เจียว เจียว อัพ วันที่ 08 มกราคม 2567",
+ "author": "เจียว เจียว อัพ วันที่ 10 มกราคม 2567",
  "info": "Watchlakorn.in",
  "image": "https://cdn.watchlakorn.in/images/video_logo.png",
  "groups": [
@@ -1135,6 +1135,13 @@
      "image": "https://cdn.watchlakorn.in/storage/images/av-1699372838.jpg",
      "url": "https://www.watchlakorn.in/egdeny/9773983b6f11e5fe395cfde36144ab49/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ชีวิตภาคสอง  ตอนที่ 17",
+     "info": "วันที่ 9 มกราคม 2567",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1699372838.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/47130b415fb1dfa0145791dda7b2b465/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
     }
    ]
   },
@@ -1177,19 +1184,12 @@
      "image": "https://cdn.watchlakorn.in/storage/images/av-1702912958.jpg",
      "url": "https://www.watchlakorn.in/egdeny/631d069062699c50da3aadcf6a02f7cb/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
-    }
-   ]
-  },
-  {
-   "name": "วิญญาณแพศยา [ยังไม่จบ]",
-   "info": "Watchlakorn.in",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1704721180.jpg",
-   "stations": [
+    },
     {
-     "name": "วิญญาณแพศยา  ตอนที่ 1",
-     "info": "วันที่ 8 มกราคม 2567",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1704721180.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/86e0a60b84b48a1f3c2ff3b0492a21ff/aGQ=/master.m3u8",
+     "name": "หารักด้วยใจเธอ  ตอนที่ 6",
+     "info": "วันที่ 9 มกราคม 2567",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1702912958.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/c04cc15ff10237d6d4440e282a174302/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
     }
    ]
@@ -1204,6 +1204,34 @@
      "info": "วันที่ 8 มกราคม 2567",
      "image": "https://cdn.watchlakorn.in/storage/images/av-1704721231.jpg",
      "url": "https://www.watchlakorn.in/egdeny/6ba7a2ebe0487e7276a4fdcd81eadbfe/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ลิเกหมอลำ  ตอนที่ 2",
+     "info": "วันที่ 9 มกราคม 2567",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1704721231.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/ed372ae891f333a76902f6737817ad98/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    }
+   ]
+  },
+  {
+   "name": "วิญญาณแพศยา [ยังไม่จบ]",
+   "info": "Watchlakorn.in",
+   "image": "https://cdn.watchlakorn.in/storage/images/av-1704721180.jpg",
+   "stations": [
+    {
+     "name": "วิญญาณแพศยา  ตอนที่ 1",
+     "info": "วันที่ 8 มกราคม 2567",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1704721180.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/86e0a60b84b48a1f3c2ff3b0492a21ff/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "วิญญาณแพศยา  ตอนที่ 2",
+     "info": "วันที่ 9 มกราคม 2567",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1704721180.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/e08d1b88c46f11c547a1df783f7869fc/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
     }
    ]
@@ -1546,7 +1574,7 @@
      "name": "หลังคาใบบัว  ตอนที่ 18",
      "info": "วันที่ 23 ธันวาคม 2566",
      "image": "https://cdn.watchlakorn.in/storage/images/av-1698019441.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/bcb1b73ab7ca91b2e860c330dc90b2e1/aGQ=/master.m3u8",
+     "url": "No url m3u8",
      "referer": "https://www.watchlakorn.in/"
     },
     {
