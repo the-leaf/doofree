@@ -1,9 +1,22 @@
 {
  "name": "ละคร",
- "author": "เจียว เจียว อัพวันที่ 09 มกราคม 2567",
+ "author": "เจียว เจียว อัพวันที่ 10 มกราคม 2567",
  "info": "Watchlakorn ที่สุดของคนรักละคร",
  "image": "https://cdn.watchlakorn.in/images/video_logo.png",
  "groups": [
+  {
+   "name": "ไทม์ผ่านเวลา [ยังไม่จบ]",
+   "image": "https://cdn.watchlakorn.in/storage/images/av-1704843480.jpg",
+   "stations": [
+    {
+     "name": "ไทม์ผ่านเวลา  ตอนที่ 1",
+     "info": "วันที่ 9 มกราคม 2567",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1704843480.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/7cb0dbe1ccb05fc98e6ccf9e24f899f3/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    }
+   ]
+  },
   {
    "name": "ลิเกหมอลำ [ยังไม่จบ]",
    "image": "https://cdn.watchlakorn.in/storage/images/av-1704721231.jpg",
@@ -20,6 +33,13 @@
      "info": "วันที่ 9 มกราคม 2567",
      "image": "https://cdn.watchlakorn.in/storage/images/av-1704721231.jpg",
      "url": "https://www.watchlakorn.in/egdeny/ed372ae891f333a76902f6737817ad98/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ลิเกหมอลำ  ตอนที่ 3",
+     "info": "วันที่ 10 มกราคม 2567",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1704721231.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/9468cfacb8133b7cb414167889714a79/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
     }
    ]
@@ -40,6 +60,13 @@
      "info": "วันที่ 9 มกราคม 2567",
      "image": "https://cdn.watchlakorn.in/storage/images/av-1704721180.jpg",
      "url": "https://www.watchlakorn.in/egdeny/e08d1b88c46f11c547a1df783f7869fc/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "วิญญาณแพศยา  ตอนที่ 3",
+     "info": "วันที่ 10 มกราคม 2567",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1704721180.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/9894d29fd949be9c0ef780bd8212f278/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
     }
    ]
@@ -285,6 +312,13 @@
      "info": "วันที่ 4 มกราคม 2567",
      "image": "https://cdn.watchlakorn.in/storage/images/av-1701876047.jpg",
      "url": "https://www.watchlakorn.in/egdeny/fe93c87d601e5d7b978b3d1a0e08ccdf/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "รักไม่รู้หน้า  ตอนที่ 11",
+     "info": "วันที่ 10 มกราคม 2567",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1701876047.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/86d32b70e462f7cbd0118a0e8a96e2ae/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
     }
    ]
