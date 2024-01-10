@@ -1,9 +1,23 @@
 {
  "name": "2024",
- "author": "เจียว เจียว อัพวันที่ 09 มกราคม 2567",
+ "author": "เจียว เจียว อัพวันที่ 10 มกราคม 2567",
  "info": "ชีวิตไม่ได้ให้เราสิ่งที่ต้องการเสมอไป แต่มันจะให้เราสิ่งที่เราจำเป็นต้องการ",
  "image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
  "groups": [
+  {
+   "name": "One More Shot (2024)",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/One-More-Shot-2024.jpg",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "One More Shot (2024)",
+     "info": "ตัวเล่นสำรอง ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/One-More-Shot-2024.jpg",
+     "url": "https://streamhls.com/view/e8e07f77-58bd-5069-b344-a02099cb03be.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    }
+   ]
+  },
   {
    "name": "Marry My Husband สามีคนนี้แจกฟรีให้เธอ (2024)",
    "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Marry-My-Husband.jpg",
@@ -28,6 +42,13 @@
      "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Marry-My-Husband.jpg",
      "url": "https://sgcdnseriesn.xyz/view/b1eb25da-4953-5cfe-8acb-a72579ddd9df.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 4",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Marry-My-Husband.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/e839dc63-030a-544f-910b-a30e203efa79.m3u8",
      "referer": "https://www.nung2hdd.com/"
     }
    ]
