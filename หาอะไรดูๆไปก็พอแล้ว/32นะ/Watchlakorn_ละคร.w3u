@@ -1,6 +1,6 @@
 {
  "name": "ละคร",
- "author": "เจียว เจียว อัพวันที่ 11 มกราคม 2567",
+ "author": "เจียว เจียว อัพวันที่ 12 มกราคม 2567",
  "info": "Watchlakorn ที่สุดของคนรักละคร",
  "image": "https://cdn.watchlakorn.in/images/video_logo.png",
  "groups": [
@@ -408,6 +408,13 @@
      "info": "วันที่ 4 มกราคม 2567",
      "image": "https://cdn.watchlakorn.in/storage/images/av-1701390939.jpg",
      "url": "https://www.watchlakorn.in/egdeny/8db805511f5f253cbee59e138df56428/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ยอมเป็นของฮิม  ตอนที่ 7",
+     "info": "วันที่ 11 มกราคม 2567",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1701390939.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/f9070e18717978efe94f06a990fbf684/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
     }
    ]
