@@ -1,6 +1,6 @@
 {
  "name": "ละคร",
- "author": "เจียว เจียว อัพวันที่ 17 มกราคม 2567",
+ "author": "เจียว เจียว อัพวันที่ 19 มกราคม 2567",
  "info": "Watchlakorn ที่สุดของคนรักละคร",
  "image": "https://cdn.watchlakorn.in/images/video_logo.png",
  "groups": [
@@ -83,6 +83,13 @@
      "image": "https://cdn.watchlakorn.in/storage/images/av-1704721231.jpg",
      "url": "https://www.watchlakorn.in/egdeny/f01117dcac2677dbdbda27ade7a90004/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ลิเกหมอลำ  ตอนที่ 9",
+     "info": "วันที่ 18 มกราคม 2567",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1704721231.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/dba713cccd588d9bee0254623f9b3502/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
     }
    ]
   },
@@ -137,6 +144,13 @@
      "info": "วันที่ 17 มกราคม 2567",
      "image": "https://cdn.watchlakorn.in/storage/images/av-1704721180.jpg",
      "url": "https://www.watchlakorn.in/egdeny/350b11d88c1dcb11d77b3a6f0f1278ad/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "วิญญาณแพศยา  ตอนที่ 8",
+     "info": "วันที่ 18 มกราคม 2567",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1704721180.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/a5bfb045c3d63edf116e9ae14c9b82f5/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
     }
    ]
@@ -473,6 +487,13 @@
      "info": "วันที่ 17 มกราคม 2567",
      "image": "https://cdn.watchlakorn.in/storage/images/av-1701876047.jpg",
      "url": "https://www.watchlakorn.in/egdeny/cbf7a6e16271fb863f6218a936182d90/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "รักไม่รู้หน้า  ตอนที่ 14",
+     "info": "วันที่ 18 มกราคม 2567",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1701876047.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/0b1a3f1a5b53fad955ab6b473df03889/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
     }
    ]
@@ -824,6 +845,13 @@
      "info": "วันที่ 10 มกราคม 2567",
      "image": "https://cdn.watchlakorn.in/storage/images/av-1700700693.jpg",
      "url": "https://www.watchlakorn.in/egdeny/b1ca618f8f822145ab9ae51d1b8ab200/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "7 วันก่อนวาเลนไทน์ ปมที่ต้องแก้  ตอนที่ 9",
+     "info": "วันที่ 17 มกราคม 2567",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1700700693.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/8a86538507bcce83dd27eb186321840a/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
     }
    ]
