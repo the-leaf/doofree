@@ -1,9 +1,48 @@
 {
  "name": "ละคร",
- "author": "เจียว เจียว อัพวันที่ 21 มกราคม 2567",
+ "author": "เจียว เจียว อัพวันที่ 23 มกราคม 2567",
  "info": "Watchlakorn ที่สุดของคนรักละคร",
  "image": "https://cdn.watchlakorn.in/images/video_logo.png",
  "groups": [
+  {
+   "name": "วิมานสีทอง [ยังไม่จบ]",
+   "image": "https://cdn.watchlakorn.in/storage/images/av-1705902809.jpg",
+   "stations": [
+    {
+     "name": "วิมานสีทอง  ตอนที่ 1",
+     "info": "วันที่ 22 มกราคม 2567",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1705902809.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/00a789ec2196781c9e006f89b2f70422/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    }
+   ]
+  },
+  {
+   "name": "รักท่วมทุ่ง [ยังไม่จบ]",
+   "image": "https://cdn.watchlakorn.in/storage/images/av-1705902175.jpg",
+   "stations": [
+    {
+     "name": "รักท่วมทุ่ง  ตอนที่ 1",
+     "info": "วันที่ 22 มกราคม 2567",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1705902175.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/98984cc124c1aa8796702060d82348e9/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    }
+   ]
+  },
+  {
+   "name": "มือปราบมหาอุตม์ [ยังไม่จบ]",
+   "image": "https://cdn.watchlakorn.in/storage/images/av-1705902420.webp",
+   "stations": [
+    {
+     "name": "มือปราบมหาอุตม์  ตอนที่ 1",
+     "info": "วันที่ 22 มกราคม 2567",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1705902420.webp",
+     "url": "https://www.watchlakorn.in/egdeny/9ca95d94b6a0a1eb62380a5891f8a461/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    }
+   ]
+  },
   {
    "name": "ไทม์ผ่านเวลา [ยังไม่จบ]",
    "image": "https://cdn.watchlakorn.in/storage/images/av-1704843480.jpg",
@@ -97,6 +136,13 @@
      "image": "https://cdn.watchlakorn.in/storage/images/av-1704721231.jpg",
      "url": "https://www.watchlakorn.in/egdeny/ae2221a2910c99f29a67d86ee32e0d6f/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ลิเกหมอลำ  ตอนที่ 11",
+     "info": "วันที่ 22 มกราคม 2567",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1704721231.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/75345a356f1a110061af7458e1f47f6d/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
     }
    ]
   },
@@ -158,6 +204,13 @@
      "info": "วันที่ 18 มกราคม 2567",
      "image": "https://cdn.watchlakorn.in/storage/images/av-1704721180.jpg",
      "url": "https://www.watchlakorn.in/egdeny/a5bfb045c3d63edf116e9ae14c9b82f5/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "วิญญาณแพศยา  ตอนที่ 9",
+     "info": "วันที่ 22 มกราคม 2567",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1704721180.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/eabda3ad1c86b6964cd499217f7869dc/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
     }
    ]
@@ -405,6 +458,13 @@
      "info": "วันที่ 16 มกราคม 2567",
      "image": "https://cdn.watchlakorn.in/storage/images/av-1702912958.jpg",
      "url": "https://www.watchlakorn.in/egdeny/3ff1103f51b961329fa640072af99424/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "หารักด้วยใจเธอ  ตอนที่ 9",
+     "info": "วันที่ 22 มกราคม 2567",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1702912958.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/e986ecb3a0bb528a3c5ffaa601ee702a/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
     }
    ]
@@ -6285,6 +6345,13 @@
      "info": "วันที่ 14 มกราคม2567",
      "image": "https://cdn.watchlakorn.in/storage/images/av-1692579088.jpg",
      "url": "https://www.watchlakorn.in/egdeny/b063244fbe3343f07e69822a3e3a7070/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "รักเราเท่าจักวาล I Wish you Love อธิษฐานสานใจ EP.1",
+     "info": "วันที่ 21 มกราคม2567",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1692579088.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/0bffa4592de9348ed805727b67d151f7/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
     }
    ]
