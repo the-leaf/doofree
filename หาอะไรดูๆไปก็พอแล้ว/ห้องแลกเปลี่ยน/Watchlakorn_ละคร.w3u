@@ -5,6 +5,39 @@
  "image": "https://cdn.watchlakorn.in/images/video_logo.png",
  "groups": [
   {
+   "name": "ปล้นเหนือเมฆ [ยังไม่จบ]",
+   "image": "https://cdn.watchlakorn.in/storage/images/av-1706016285.jpg",
+   "stations": [
+    {
+     "name": "ปล้นเหนือเมฆ  ตอนที่ 1",
+     "info": "วันที่ 23 มกราคม 2567",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1706016285.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/2d91013278f34b27ae48ddbdb03f0d9c/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    }
+   ]
+  },
+  {
+   "name": "ฟางเล่นไฟ [ยังไม่จบ]",
+   "image": "https://cdn.watchlakorn.in/storage/images/av-1705930456.jpg",
+   "stations": [
+    {
+     "name": "ฟางเล่นไฟ  ตอนที่ 1",
+     "info": "วันที่ 22 มกราคม 2567",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1705930456.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/ca92533723bb60e116a2c4986b52e544/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ฟางเล่นไฟ  ตอนที่ 2",
+     "info": "วันที่ 23 มกราคม 2567",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1705930456.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/fde1a0edde89dd1cb5584e8df6e24f79/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    }
+   ]
+  },
+  {
    "name": "วิมานสีทอง [ยังไม่จบ]",
    "image": "https://cdn.watchlakorn.in/storage/images/av-1705902809.jpg",
    "stations": [
@@ -13,6 +46,13 @@
      "info": "วันที่ 22 มกราคม 2567",
      "image": "https://cdn.watchlakorn.in/storage/images/av-1705902809.jpg",
      "url": "https://www.watchlakorn.in/egdeny/00a789ec2196781c9e006f89b2f70422/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "วิมานสีทอง  ตอนที่ 2",
+     "info": "วันที่ 23 มกราคม 2567",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1705902809.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/222b73f06c70cbfb2ac8ea63100b4ab6/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
     }
    ]
@@ -27,6 +67,13 @@
      "image": "https://cdn.watchlakorn.in/storage/images/av-1705902175.jpg",
      "url": "https://www.watchlakorn.in/egdeny/98984cc124c1aa8796702060d82348e9/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "รักท่วมทุ่ง  ตอนที่ 2",
+     "info": "วันที่ 23 มกราคม 2567",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1705902175.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/7449eecb3d204bf6390d951bfdd6d8b5/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
     }
    ]
   },
@@ -39,6 +86,13 @@
      "info": "วันที่ 22 มกราคม 2567",
      "image": "https://cdn.watchlakorn.in/storage/images/av-1705902420.webp",
      "url": "https://www.watchlakorn.in/egdeny/9ca95d94b6a0a1eb62380a5891f8a461/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "มือปราบมหาอุตม์  ตอนที่ 2",
+     "info": "วันที่ 23 มกราคม 2567",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1705902420.webp",
+     "url": "https://www.watchlakorn.in/egdeny/39ab907cb6b8647f89d21e20e8a0d062/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
     }
    ]
@@ -143,6 +197,13 @@
      "image": "https://cdn.watchlakorn.in/storage/images/av-1704721231.jpg",
      "url": "https://www.watchlakorn.in/egdeny/75345a356f1a110061af7458e1f47f6d/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ลิเกหมอลำ  ตอนที่ 12",
+     "info": "วันที่ 23 มกราคม 2567",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1704721231.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/1ad2156e0b6bfe64d5938ae2d609e271/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
     }
    ]
   },
@@ -211,6 +272,13 @@
      "info": "วันที่ 22 มกราคม 2567",
      "image": "https://cdn.watchlakorn.in/storage/images/av-1704721180.jpg",
      "url": "https://www.watchlakorn.in/egdeny/eabda3ad1c86b6964cd499217f7869dc/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "วิญญาณแพศยา  ตอนที่ 10",
+     "info": "วันที่ 23 มกราคม 2567",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1704721180.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/b34174b130077eff4dcb93c0e85c087b/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
     }
    ]
@@ -465,6 +533,13 @@
      "info": "วันที่ 22 มกราคม 2567",
      "image": "https://cdn.watchlakorn.in/storage/images/av-1702912958.jpg",
      "url": "https://www.watchlakorn.in/egdeny/e986ecb3a0bb528a3c5ffaa601ee702a/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "หารักด้วยใจเธอ  ตอนที่ 10",
+     "info": "วันที่ 23 มกราคม 2567",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1702912958.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/644554298efa9e5f7a8b0ec014afce7e/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
     }
    ]
@@ -2172,7 +2247,7 @@
      "name": "แม่โขง  ตอนที่ 2",
      "info": "วันที่ 7 พฤศจิกายน 2566",
      "image": "https://cdn.watchlakorn.in/storage/images/av-1699285448.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/01907c9b13f2c7652df0a95e541947e3/aGQ=/master.m3u8",
+     "url": "No url m3u8",
      "referer": "https://www.watchlakorn.in/"
     },
     {
