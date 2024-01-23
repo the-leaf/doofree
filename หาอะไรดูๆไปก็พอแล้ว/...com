@@ -2,7 +2,7 @@
 	"name": "ทีวีดิจิตอล ดูฟรีเพื่อความบันเทิงภายในที่พักอาศัย",
 	"author": "เจียว เจียว",
 	"image": "https://i.ibb.co/TWNQhtv/image.png",
-	"url": "https://br14.short.gy/ทีวีดิจิตอล",
+	"url": "https://br14.short.gy/tv,
 	"groups": [
     {
         "name": "แจกฟรี 100%",
