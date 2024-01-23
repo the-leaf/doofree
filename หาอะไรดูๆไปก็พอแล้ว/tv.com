@@ -4,6 +4,13 @@
 	"image": "https://i.ibb.co/TWNQhtv/image.png",
 	"url": "https://br14.short.gy/tv",
 	"groups": [
+	
+	{
+		"name": "",
+		"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkTqtz9oF061oQmn54m05L5-NVqkXseF3X9PNwUIpuaTAaJE0Qrj2h_mTN--9kie8yfXbPsdXeKCVTR27eWPHNJRelH0tnhxwcYsGVON-e3sbkPTDJ19r0njx8UWZ1DpOZa-EAxH7N0WM1jotOUe1kBkRF_JLpjbdLpBKjur0z6RCKUzaWlxU-iDiHkI11/s500/pngegg.png",
+		"url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้ว/ห้องแลกเปลี่ยน/%E0%B8%97%E0%B8%B3%E0%B8%9A%E0%B8%B8%E0%B8%8D.txt",
+		"embed": "true"
+	},
 	{
   "name": "madoohd TV",
   "author": "เจียว เจียว อัพเดท วันที่ 4 ตุลาคม 2566",
