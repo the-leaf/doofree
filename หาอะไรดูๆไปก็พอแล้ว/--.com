@@ -2,31 +2,8 @@
 	"name": "ทีวีดิจิตอล ดูฟรีเพื่อความบันเทิงภายในที่พักอาศัย",
 	"author": "เจียว เจียว",
 	"image": "https://i.ibb.co/TWNQhtv/image.png",
-	"url": "https://br14.short.gy/tv,
+	"url": "https://br14.short.gy/n,
 	"groups": [
-    {
-        "name": "แจกฟรี 100%",
-        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkTqtz9oF061oQmn54m05L5-NVqkXseF3X9PNwUIpuaTAaJE0Qrj2h_mTN--9kie8yfXbPsdXeKCVTR27eWPHNJRelH0tnhxwcYsGVON-e3sbkPTDJ19r0njx8UWZ1DpOZa-EAxH7N0WM1jotOUe1kBkRF_JLpjbdLpBKjur0z6RCKUzaWlxU-iDiHkI11/s500/pngegg.png",
-        "info": "อย่าหวังอะไรจากสิ่งที่ไม่ได้ลงมือทำ",
-		"stations": [
-	{
-		"name": "",
-		"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkTqtz9oF061oQmn54m05L5-NVqkXseF3X9PNwUIpuaTAaJE0Qrj2h_mTN--9kie8yfXbPsdXeKCVTR27eWPHNJRelH0tnhxwcYsGVON-e3sbkPTDJ19r0njx8UWZ1DpOZa-EAxH7N0WM1jotOUe1kBkRF_JLpjbdLpBKjur0z6RCKUzaWlxU-iDiHkI11/s500/pngegg.png",
-		"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/ดูฟรี/%E0%B8%AA%E0%B8%99%E0%B8%B1%E0%B8%9A%E0%B8%AA%E0%B8%99%E0%B8%B8%E0%B8%99.txt",
-		"embed": "true"
-	},
-	{
-		"name": "",
-		"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkTqtz9oF061oQmn54m05L5-NVqkXseF3X9PNwUIpuaTAaJE0Qrj2h_mTN--9kie8yfXbPsdXeKCVTR27eWPHNJRelH0tnhxwcYsGVON-e3sbkPTDJ19r0njx8UWZ1DpOZa-EAxH7N0WM1jotOUe1kBkRF_JLpjbdLpBKjur0z6RCKUzaWlxU-iDiHkI11/s500/pngegg.png",
-		"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/ดูฟรี/%E0%B8%97%E0%B8%B3%E0%B8%9A%E0%B8%B8%E0%B8%8D.txt",
-		"embed": "true"
-	},
-	{
-  "name": "dooball2you TV",
-  "author": "เจียว เจียว อัพเดท 19/07/2023",
-  "info": "ชีวิตไม่ได้ให้เราสิ่งที่ต้องการเสมอไป แต่มันจะให้เราสิ่งที่เราจำเป็นต้องการ",
-  "image": "https://dooball2you.com/wp-content/uploads/2023/09/cropped-dooball2you.png",
-  "groups": [
     {
       "name": "ช่องทีวีดิจิตอล",
       "image": "https://dooball2you.com/wp-content/uploads/2023/09/cropped-dooball2you.png",
@@ -349,16 +326,8 @@
 		  "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/aisplay3/playlist.m3u8",
 		  "referer": "https://dooball2you.com/"
 		}
-      ]
-    }
   ]
 },
-{
-  "name": "FreeTVdd",
-  "author": "เจียว เจียว อัพเดท วันที่ 4 ตุลาคม 2566",
-  "info": "ความสำเร็จไม่ใช่จุดสิ้นสุด ความล้มเหลวไม่ใช่เรื่องร้ายแรง ความกล้าหาญที่จะทำต่อไปต่างหากที่สำคัญ",
-  "image": "https://freetvdd.com/wp-content/uploads/2020/02/logo-freetvdd.com_.png",
-  "groups": [
     {
       "name": "บันเทิง",
       "image": "https://freetvdd.com/wp-content/uploads/2020/02/logo-freetvdd.com_.png",
@@ -2775,16 +2744,8 @@
           "url": "https://streaming.livescorethai.net/iptv/uk-discoveryturbo.stream/playlist.m3u8",
           "referer": "https://streaming.livescorethai.net/"
         }
-      ]
-    }
   ]
 },
-{
-  "name": "youdooball TV",
-  "author": "เจียว เจียว อัพเดท  วันที่ 4 ตุลาคม 2566",
-  "info": "ชีวิตไม่ได้ให้เราสิ่งที่ต้องการเสมอไป แต่มันจะให้เราสิ่งที่เราจำเป็นต้องการ",
-  "image": "https://www.youdooball.com/assets/images/logo_big.png",
-  "groups": [
     {
       "name": "ทีวีดิจิตอล",
       "image": "https://www.youdooball.com/assets/images/logo_big.png",
