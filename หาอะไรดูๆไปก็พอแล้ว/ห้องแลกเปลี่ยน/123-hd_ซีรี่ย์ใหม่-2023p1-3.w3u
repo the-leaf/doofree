@@ -5,131 +5,6 @@
   "image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
   "groups": [
     {
-      "name": "Find Yourself (2023) หารักด้วยใจเธอ",
-      "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Find-Yourself-2023-หารักด้วยใจเธอ.jpg",
-      "stations": [
-        {
-          "name": "ตอนที่ 1",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Find-Yourself-2023-หารักด้วยใจเธอ.jpg",
-          "url": "https://main.77player.xyz/m3u8/fbf980d19cda9ef125fa25a8/fbf980d19cda9ef125fa25a8438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 1",
-          "info": "ตัวเล่นสำรอง",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Find-Yourself-2023-หารักด้วยใจเธอ.jpg",
-          "url": "https://xxx.77player.xyz/m3u8/d26a8d94f91ac829b79e3ec6/d26a8d94f91ac829b79e3ec6800.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 2",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Find-Yourself-2023-หารักด้วยใจเธอ.jpg",
-          "url": "https://main.77player.xyz/m3u8/82843ed69e21db17ee06cfa7/82843ed69e21db17ee06cfa7438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 2",
-          "info": "ตัวเล่นสำรอง",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Find-Yourself-2023-หารักด้วยใจเธอ.jpg",
-          "url": "https://xxx.77player.xyz/m3u8/98e4664cb8751354f04775cd/98e4664cb8751354f04775cd800.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 3",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Find-Yourself-2023-หารักด้วยใจเธอ.jpg",
-          "url": "https://main.77player.xyz/m3u8/33b49c3c7efd1a57ef7d90ea/33b49c3c7efd1a57ef7d90ea438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 3",
-          "info": "ตัวเล่นสำรอง",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Find-Yourself-2023-หารักด้วยใจเธอ.jpg",
-          "url": "https://xxx.77player.xyz/m3u8/624d87176e05140bf4f21bf2/624d87176e05140bf4f21bf2800.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 4",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Find-Yourself-2023-หารักด้วยใจเธอ.jpg",
-          "url": "https://main.77player.xyz/m3u8/772b1d0ec1672279e4dfb660/772b1d0ec1672279e4dfb660438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 4",
-          "info": "ตัวเล่นสำรอง",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Find-Yourself-2023-หารักด้วยใจเธอ.jpg",
-          "url": "https://xxx.77player.xyz/m3u8/f7b81cbe550f43f8f34905f6/f7b81cbe550f43f8f34905f6800.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 5",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Find-Yourself-2023-หารักด้วยใจเธอ.jpg",
-          "url": "https://main.77player.xyz/m3u8/77cbc95cfa936706dd789b55/77cbc95cfa936706dd789b55438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 5",
-          "info": "ตัวเล่นสำรอง",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Find-Yourself-2023-หารักด้วยใจเธอ.jpg",
-          "url": "https://xxx.77player.xyz/m3u8/798a0af29b1842f495fef7f4/798a0af29b1842f495fef7f4800.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 6",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Find-Yourself-2023-หารักด้วยใจเธอ.jpg",
-          "url": "https://main.77player.xyz/m3u8/761887d66458d8c7b808029a/761887d66458d8c7b808029a438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 6",
-          "info": "ตัวเล่นสำรอง",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Find-Yourself-2023-หารักด้วยใจเธอ.jpg",
-          "url": "https://xxx.77player.xyz/m3u8/e2b7b1cc590f28b537c8acef/e2b7b1cc590f28b537c8acef800.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 7",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Find-Yourself-2023-หารักด้วยใจเธอ.jpg",
-          "url": "https://main.77player.xyz/m3u8/6990cec47cacffc91184d9fc/6990cec47cacffc91184d9fc438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 7",
-          "info": "ตัวเล่นสำรอง",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Find-Yourself-2023-หารักด้วยใจเธอ.jpg",
-          "url": "https://xxx.77player.xyz/m3u8/9d2d20169823cccbb8cfd3c9/9d2d20169823cccbb8cfd3c9800.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 8",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Find-Yourself-2023-หารักด้วยใจเธอ.jpg",
-          "url": "https://main.77player.xyz/m3u8/28bbb8cd43dab46768ed30b6/28bbb8cd43dab46768ed30b6438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 8",
-          "info": "ตัวเล่นสำรอง",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Find-Yourself-2023-หารักด้วยใจเธอ.jpg",
-          "url": "https://xxx.77player.xyz/m3u8/71ab1f1bedbe2d983cfc542f/71ab1f1bedbe2d983cfc542f800.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 9",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Find-Yourself-2023-หารักด้วยใจเธอ.jpg",
-          "url": "https://xxx.77player.xyz/m3u8/5ebee6a034745ada83378d74/5ebee6a034745ada83378d74800.m3u8",
-          "referer": "https://www.123-hd.com/"
-        }
-      ]
-    },
-    {
       "name": "Marry My Husband (2024) สามีคนนี้แจกฟรีให้เธอ",
       "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Marry-My-Husband.jpg",
       "stations": [
@@ -229,6 +104,838 @@
           "info": "ตัวเล่นสำรอง",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Marry-My-Husband.jpg",
           "url": "https://xxx.77player.xyz/m3u8/649d632c86e588fec5d00ed8/649d632c86e588fec5d00ed8800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Marry-My-Husband.jpg",
+          "url": "https://main.77player.xyz/m3u8/0209bd1ae3f8e4efbfbd22c6/0209bd1ae3f8e4efbfbd22c6438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Marry-My-Husband.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/a34491be7cd525c80b091a17/a34491be7cd525c80b091a17800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "Weaving a Tale of Love Season 2 (2023) ตำนานรักช่างภูษา ภาคพลิกชะตาซีโจว",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Weaving-a-Tale-of-Love-Season-2-2023-ตำนานรักช่างภูษา-ภาคพลิกชะตาซีโจว.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Weaving-a-Tale-of-Love-Season-2-2023-ตำนานรักช่างภูษา-ภาคพลิกชะตาซีโจว.jpg",
+          "url": "https://main.77player.xyz/m3u8/562b678624e7339409e3ac43/562b678624e7339409e3ac43438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 1",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Weaving-a-Tale-of-Love-Season-2-2023-ตำนานรักช่างภูษา-ภาคพลิกชะตาซีโจว.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/2a1da268a926a000d391398c/2a1da268a926a000d391398c800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 1",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Weaving-a-Tale-of-Love-Season-2-2023-ตำนานรักช่างภูษา-ภาคพลิกชะตาซีโจว.jpg",
+          "url": "https://main.77player.xyz/m3u8/f488909a3bd77ef711aad339/f488909a3bd77ef711aad339438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 1",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Weaving-a-Tale-of-Love-Season-2-2023-ตำนานรักช่างภูษา-ภาคพลิกชะตาซีโจว.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/2135e9ce0816ba02da7951d6/2135e9ce0816ba02da7951d6800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Weaving-a-Tale-of-Love-Season-2-2023-ตำนานรักช่างภูษา-ภาคพลิกชะตาซีโจว.jpg",
+          "url": "https://main.77player.xyz/m3u8/eb59bcb35a6d88a510245bd4/eb59bcb35a6d88a510245bd4438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Weaving-a-Tale-of-Love-Season-2-2023-ตำนานรักช่างภูษา-ภาคพลิกชะตาซีโจว.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/afc119458840b5f0f8f280a6/afc119458840b5f0f8f280a6800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Weaving-a-Tale-of-Love-Season-2-2023-ตำนานรักช่างภูษา-ภาคพลิกชะตาซีโจว.jpg",
+          "url": "https://main.77player.xyz/m3u8/f7a1154242bd53f073f030c4/f7a1154242bd53f073f030c4438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Weaving-a-Tale-of-Love-Season-2-2023-ตำนานรักช่างภูษา-ภาคพลิกชะตาซีโจว.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/210d009f68d24f26cf915070/210d009f68d24f26cf915070800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Weaving-a-Tale-of-Love-Season-2-2023-ตำนานรักช่างภูษา-ภาคพลิกชะตาซีโจว.jpg",
+          "url": "https://main.77player.xyz/m3u8/d4152325242c00f03725bbc2/d4152325242c00f03725bbc2438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Weaving-a-Tale-of-Love-Season-2-2023-ตำนานรักช่างภูษา-ภาคพลิกชะตาซีโจว.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/71a624b55ea57a98b888f304/71a624b55ea57a98b888f304800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Weaving-a-Tale-of-Love-Season-2-2023-ตำนานรักช่างภูษา-ภาคพลิกชะตาซีโจว.jpg",
+          "url": "https://main.77player.xyz/m3u8/64837d5bfec3db7035204d6a/64837d5bfec3db7035204d6a438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Weaving-a-Tale-of-Love-Season-2-2023-ตำนานรักช่างภูษา-ภาคพลิกชะตาซีโจว.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/125202a6a03de73bf8c741a4/125202a6a03de73bf8c741a4800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Weaving-a-Tale-of-Love-Season-2-2023-ตำนานรักช่างภูษา-ภาคพลิกชะตาซีโจว.jpg",
+          "url": "https://main.77player.xyz/m3u8/6c1467cc449f122702fd675c/6c1467cc449f122702fd675c438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Weaving-a-Tale-of-Love-Season-2-2023-ตำนานรักช่างภูษา-ภาคพลิกชะตาซีโจว.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/74245902fc66706f3be9700a/74245902fc66706f3be9700a800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Weaving-a-Tale-of-Love-Season-2-2023-ตำนานรักช่างภูษา-ภาคพลิกชะตาซีโจว.jpg",
+          "url": "https://main.77player.xyz/m3u8/c9243dfef74d1081e76b5ea8/c9243dfef74d1081e76b5ea8438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Weaving-a-Tale-of-Love-Season-2-2023-ตำนานรักช่างภูษา-ภาคพลิกชะตาซีโจว.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/c3a6527b2b4e5e8183d52d52/c3a6527b2b4e5e8183d52d52800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Weaving-a-Tale-of-Love-Season-2-2023-ตำนานรักช่างภูษา-ภาคพลิกชะตาซีโจว.jpg",
+          "url": "https://main.77player.xyz/m3u8/494fdac8bb9ccb46b3ca7b76/494fdac8bb9ccb46b3ca7b76438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Weaving-a-Tale-of-Love-Season-2-2023-ตำนานรักช่างภูษา-ภาคพลิกชะตาซีโจว.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/fcb639636e69f867616ed69a/fcb639636e69f867616ed69a800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Weaving-a-Tale-of-Love-Season-2-2023-ตำนานรักช่างภูษา-ภาคพลิกชะตาซีโจว.jpg",
+          "url": "https://main.77player.xyz/m3u8/80600c1d2f1fac1278d3d9af/80600c1d2f1fac1278d3d9af438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Weaving-a-Tale-of-Love-Season-2-2023-ตำนานรักช่างภูษา-ภาคพลิกชะตาซีโจว.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/f1dd9e80c12cda93631f269e/f1dd9e80c12cda93631f269e800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Weaving-a-Tale-of-Love-Season-2-2023-ตำนานรักช่างภูษา-ภาคพลิกชะตาซีโจว.jpg",
+          "url": "https://main.77player.xyz/m3u8/5538c77c5dffb4c510568cef/5538c77c5dffb4c510568cef438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Weaving-a-Tale-of-Love-Season-2-2023-ตำนานรักช่างภูษา-ภาคพลิกชะตาซีโจว.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/b75e447e201dd647319b151d/b75e447e201dd647319b151d800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Weaving-a-Tale-of-Love-Season-2-2023-ตำนานรักช่างภูษา-ภาคพลิกชะตาซีโจว.jpg",
+          "url": "https://main.77player.xyz/m3u8/0b744eeb4c871b27328694e1/0b744eeb4c871b27328694e1438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Weaving-a-Tale-of-Love-Season-2-2023-ตำนานรักช่างภูษา-ภาคพลิกชะตาซีโจว.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/9af75ee6719006854b372d89/9af75ee6719006854b372d89800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Weaving-a-Tale-of-Love-Season-2-2023-ตำนานรักช่างภูษา-ภาคพลิกชะตาซีโจว.jpg",
+          "url": "https://main.77player.xyz/m3u8/b8bc0f7e9d8c87f88750930e/b8bc0f7e9d8c87f88750930e438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Weaving-a-Tale-of-Love-Season-2-2023-ตำนานรักช่างภูษา-ภาคพลิกชะตาซีโจว.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/770ac1889085e1bdc155c792/770ac1889085e1bdc155c792800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Weaving-a-Tale-of-Love-Season-2-2023-ตำนานรักช่างภูษา-ภาคพลิกชะตาซีโจว.jpg",
+          "url": "https://main.77player.xyz/m3u8/defdb3225b8274d93e2a1377/defdb3225b8274d93e2a1377438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Weaving-a-Tale-of-Love-Season-2-2023-ตำนานรักช่างภูษา-ภาคพลิกชะตาซีโจว.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/399a98de91b31aaff4904d6c/399a98de91b31aaff4904d6c800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Weaving-a-Tale-of-Love-Season-2-2023-ตำนานรักช่างภูษา-ภาคพลิกชะตาซีโจว.jpg",
+          "url": "https://main.77player.xyz/m3u8/27389985b3b80b87c6c6cff4/27389985b3b80b87c6c6cff4438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Weaving-a-Tale-of-Love-Season-2-2023-ตำนานรักช่างภูษา-ภาคพลิกชะตาซีโจว.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/aa272f1fe53b6ae6e997a7e7/aa272f1fe53b6ae6e997a7e7800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Weaving-a-Tale-of-Love-Season-2-2023-ตำนานรักช่างภูษา-ภาคพลิกชะตาซีโจว.jpg",
+          "url": "https://main.77player.xyz/m3u8/922c0a828dba983a24f32ea7/922c0a828dba983a24f32ea7438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Weaving-a-Tale-of-Love-Season-2-2023-ตำนานรักช่างภูษา-ภาคพลิกชะตาซีโจว.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/7dc1b60d3acb586b3d5b6877/7dc1b60d3acb586b3d5b6877800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 9",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Weaving-a-Tale-of-Love-Season-2-2023-ตำนานรักช่างภูษา-ภาคพลิกชะตาซีโจว.jpg",
+          "url": "https://main.77player.xyz/m3u8/15536ec686f2005bd3d8b15f/15536ec686f2005bd3d8b15f438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 9",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Weaving-a-Tale-of-Love-Season-2-2023-ตำนานรักช่างภูษา-ภาคพลิกชะตาซีโจว.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/0e381298cd93f14a01f3df77/0e381298cd93f14a01f3df77800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 9",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Weaving-a-Tale-of-Love-Season-2-2023-ตำนานรักช่างภูษา-ภาคพลิกชะตาซีโจว.jpg",
+          "url": "https://main.77player.xyz/m3u8/c0cf7cb31ed773129de8a7fb/c0cf7cb31ed773129de8a7fb438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 9",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Weaving-a-Tale-of-Love-Season-2-2023-ตำนานรักช่างภูษา-ภาคพลิกชะตาซีโจว.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/115878e6a1c64dda9b84aeae/115878e6a1c64dda9b84aeae800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 10",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Weaving-a-Tale-of-Love-Season-2-2023-ตำนานรักช่างภูษา-ภาคพลิกชะตาซีโจว.jpg",
+          "url": "https://main.77player.xyz/m3u8/a32d6b32114b90a2911cbc57/a32d6b32114b90a2911cbc57438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 10",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Weaving-a-Tale-of-Love-Season-2-2023-ตำนานรักช่างภูษา-ภาคพลิกชะตาซีโจว.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/5ea4cce6bda26b98616085c4/5ea4cce6bda26b98616085c4800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 10",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Weaving-a-Tale-of-Love-Season-2-2023-ตำนานรักช่างภูษา-ภาคพลิกชะตาซีโจว.jpg",
+          "url": "https://main.77player.xyz/m3u8/3fc1638bc4e206255dfb9f03/3fc1638bc4e206255dfb9f03438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 10",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Weaving-a-Tale-of-Love-Season-2-2023-ตำนานรักช่างภูษา-ภาคพลิกชะตาซีโจว.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/0993ee1ea71ebd38667566aa/0993ee1ea71ebd38667566aa800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 11",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Weaving-a-Tale-of-Love-Season-2-2023-ตำนานรักช่างภูษา-ภาคพลิกชะตาซีโจว.jpg",
+          "url": "https://main.77player.xyz/m3u8/16a0f816fd0ebf40fd29f817/16a0f816fd0ebf40fd29f817438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 11",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Weaving-a-Tale-of-Love-Season-2-2023-ตำนานรักช่างภูษา-ภาคพลิกชะตาซีโจว.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/7e389d643b7f7012b535dd09/7e389d643b7f7012b535dd09800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 11",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Weaving-a-Tale-of-Love-Season-2-2023-ตำนานรักช่างภูษา-ภาคพลิกชะตาซีโจว.jpg",
+          "url": "https://main.77player.xyz/m3u8/cc687dd716cd75dd407337a4/cc687dd716cd75dd407337a4438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 11",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Weaving-a-Tale-of-Love-Season-2-2023-ตำนานรักช่างภูษา-ภาคพลิกชะตาซีโจว.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/32594fadfaeb5dd3d68471d9/32594fadfaeb5dd3d68471d9800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 12",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Weaving-a-Tale-of-Love-Season-2-2023-ตำนานรักช่างภูษา-ภาคพลิกชะตาซีโจว.jpg",
+          "url": "https://main.77player.xyz/m3u8/506c7e9bd323becb28fe6817/506c7e9bd323becb28fe6817438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 12",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Weaving-a-Tale-of-Love-Season-2-2023-ตำนานรักช่างภูษา-ภาคพลิกชะตาซีโจว.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/317bbb149d355721fabe66c4/317bbb149d355721fabe66c4800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 12",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Weaving-a-Tale-of-Love-Season-2-2023-ตำนานรักช่างภูษา-ภาคพลิกชะตาซีโจว.jpg",
+          "url": "https://main.77player.xyz/m3u8/96adb8b09b6f9e70af8f4034/96adb8b09b6f9e70af8f4034438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 12",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Weaving-a-Tale-of-Love-Season-2-2023-ตำนานรักช่างภูษา-ภาคพลิกชะตาซีโจว.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/d0abf6d366ffe870fa015602/d0abf6d366ffe870fa015602800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 13",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Weaving-a-Tale-of-Love-Season-2-2023-ตำนานรักช่างภูษา-ภาคพลิกชะตาซีโจว.jpg",
+          "url": "https://main.77player.xyz/m3u8/55687fc0b9b18bae0fdd28c8/55687fc0b9b18bae0fdd28c8438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 13",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Weaving-a-Tale-of-Love-Season-2-2023-ตำนานรักช่างภูษา-ภาคพลิกชะตาซีโจว.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/ade184882832c384a9ccfc99/ade184882832c384a9ccfc99800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 13",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Weaving-a-Tale-of-Love-Season-2-2023-ตำนานรักช่างภูษา-ภาคพลิกชะตาซีโจว.jpg",
+          "url": "https://main.77player.xyz/m3u8/00ecdf4ca64ed38769857a3e/00ecdf4ca64ed38769857a3e438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 13",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Weaving-a-Tale-of-Love-Season-2-2023-ตำนานรักช่างภูษา-ภาคพลิกชะตาซีโจว.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/e26ef1c2d581e6bff7a06b72/e26ef1c2d581e6bff7a06b72800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 14",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Weaving-a-Tale-of-Love-Season-2-2023-ตำนานรักช่างภูษา-ภาคพลิกชะตาซีโจว.jpg",
+          "url": "https://main.77player.xyz/m3u8/d7e9f9ac1ecc1f5388fbf199/d7e9f9ac1ecc1f5388fbf199438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 14",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Weaving-a-Tale-of-Love-Season-2-2023-ตำนานรักช่างภูษา-ภาคพลิกชะตาซีโจว.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/9704f34f9bf857d74b83cc54/9704f34f9bf857d74b83cc54800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 14",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Weaving-a-Tale-of-Love-Season-2-2023-ตำนานรักช่างภูษา-ภาคพลิกชะตาซีโจว.jpg",
+          "url": "https://main.77player.xyz/m3u8/b416e7f31ac6ecf1fdc1b60b/b416e7f31ac6ecf1fdc1b60b438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 14",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Weaving-a-Tale-of-Love-Season-2-2023-ตำนานรักช่างภูษา-ภาคพลิกชะตาซีโจว.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/22bd6cac60254993685d9ec1/22bd6cac60254993685d9ec1800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 15",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Weaving-a-Tale-of-Love-Season-2-2023-ตำนานรักช่างภูษา-ภาคพลิกชะตาซีโจว.jpg",
+          "url": "https://main.77player.xyz/m3u8/b3fdab1e2ff63370c9fccdad/b3fdab1e2ff63370c9fccdad438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 15",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Weaving-a-Tale-of-Love-Season-2-2023-ตำนานรักช่างภูษา-ภาคพลิกชะตาซีโจว.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/2245cbe18648151057d43ac2/2245cbe18648151057d43ac2800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 15",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Weaving-a-Tale-of-Love-Season-2-2023-ตำนานรักช่างภูษา-ภาคพลิกชะตาซีโจว.jpg",
+          "url": "https://main.77player.xyz/m3u8/ab22761c8f5dce1fa29428b9/ab22761c8f5dce1fa29428b9438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 15",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Weaving-a-Tale-of-Love-Season-2-2023-ตำนานรักช่างภูษา-ภาคพลิกชะตาซีโจว.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/616469edd90212408a338f94/616469edd90212408a338f94800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 16",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Weaving-a-Tale-of-Love-Season-2-2023-ตำนานรักช่างภูษา-ภาคพลิกชะตาซีโจว.jpg",
+          "url": "https://main.77player.xyz/m3u8/fb5e774cedcf54c7a411095f/fb5e774cedcf54c7a411095f438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 16",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Weaving-a-Tale-of-Love-Season-2-2023-ตำนานรักช่างภูษา-ภาคพลิกชะตาซีโจว.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/1a65aeee47c867fa312bd726/1a65aeee47c867fa312bd726800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 16",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Weaving-a-Tale-of-Love-Season-2-2023-ตำนานรักช่างภูษา-ภาคพลิกชะตาซีโจว.jpg",
+          "url": "https://main.77player.xyz/m3u8/bd8568febc2e131bdb92f18a/bd8568febc2e131bdb92f18a438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 16",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Weaving-a-Tale-of-Love-Season-2-2023-ตำนานรักช่างภูษา-ภาคพลิกชะตาซีโจว.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/cc14977e5111c05baed534a8/cc14977e5111c05baed534a8800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 17",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Weaving-a-Tale-of-Love-Season-2-2023-ตำนานรักช่างภูษา-ภาคพลิกชะตาซีโจว.jpg",
+          "url": "https://main.77player.xyz/m3u8/3cf2f97273102b1270dd6273/3cf2f97273102b1270dd6273438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 17",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Weaving-a-Tale-of-Love-Season-2-2023-ตำนานรักช่างภูษา-ภาคพลิกชะตาซีโจว.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/0152b4721aaf78d66009ba07/0152b4721aaf78d66009ba07800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 17",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Weaving-a-Tale-of-Love-Season-2-2023-ตำนานรักช่างภูษา-ภาคพลิกชะตาซีโจว.jpg",
+          "url": "https://main.77player.xyz/m3u8/6e5fbd323cb5371408e19a88/6e5fbd323cb5371408e19a88438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 17",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Weaving-a-Tale-of-Love-Season-2-2023-ตำนานรักช่างภูษา-ภาคพลิกชะตาซีโจว.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/d24eef225365e4903d022969/d24eef225365e4903d022969800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 18",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Weaving-a-Tale-of-Love-Season-2-2023-ตำนานรักช่างภูษา-ภาคพลิกชะตาซีโจว.jpg",
+          "url": "https://main.77player.xyz/m3u8/e9078e8e31bd70b69350bf2f/e9078e8e31bd70b69350bf2f438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 18",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Weaving-a-Tale-of-Love-Season-2-2023-ตำนานรักช่างภูษา-ภาคพลิกชะตาซีโจว.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/1a708d2a47311857e8fa5f3a/1a708d2a47311857e8fa5f3a800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 18",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Weaving-a-Tale-of-Love-Season-2-2023-ตำนานรักช่างภูษา-ภาคพลิกชะตาซีโจว.jpg",
+          "url": "https://main.77player.xyz/m3u8/434896e063c0f1d3e643aa0f/434896e063c0f1d3e643aa0f438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 18",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Weaving-a-Tale-of-Love-Season-2-2023-ตำนานรักช่างภูษา-ภาคพลิกชะตาซีโจว.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/b3b991a533de590100cf316a/b3b991a533de590100cf316a800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 19",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Weaving-a-Tale-of-Love-Season-2-2023-ตำนานรักช่างภูษา-ภาคพลิกชะตาซีโจว.jpg",
+          "url": "https://main.77player.xyz/m3u8/a0495f91ef0dcd33a3d42be3/a0495f91ef0dcd33a3d42be3438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 19",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Weaving-a-Tale-of-Love-Season-2-2023-ตำนานรักช่างภูษา-ภาคพลิกชะตาซีโจว.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/2b216c7d2da41b5ea17006c3/2b216c7d2da41b5ea17006c3800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 19",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Weaving-a-Tale-of-Love-Season-2-2023-ตำนานรักช่างภูษา-ภาคพลิกชะตาซีโจว.jpg",
+          "url": "https://main.77player.xyz/m3u8/3aff1c8a0bff94285a51e69b/3aff1c8a0bff94285a51e69b438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 19",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Weaving-a-Tale-of-Love-Season-2-2023-ตำนานรักช่างภูษา-ภาคพลิกชะตาซีโจว.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/f7a12cae44c522feb9558cfe/f7a12cae44c522feb9558cfe800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 20",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Weaving-a-Tale-of-Love-Season-2-2023-ตำนานรักช่างภูษา-ภาคพลิกชะตาซีโจว.jpg",
+          "url": "https://main.77player.xyz/m3u8/2ceeaefadc6041838eb09558/2ceeaefadc6041838eb09558438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 20",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Weaving-a-Tale-of-Love-Season-2-2023-ตำนานรักช่างภูษา-ภาคพลิกชะตาซีโจว.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/09a17362ec16605bdbd46a7f/09a17362ec16605bdbd46a7f800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 20",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Weaving-a-Tale-of-Love-Season-2-2023-ตำนานรักช่างภูษา-ภาคพลิกชะตาซีโจว.jpg",
+          "url": "https://main.77player.xyz/m3u8/0ed0fadd325a44b93552b1d3/0ed0fadd325a44b93552b1d3438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 20",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Weaving-a-Tale-of-Love-Season-2-2023-ตำนานรักช่างภูษา-ภาคพลิกชะตาซีโจว.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/c71baddd9a1acf71572f4e9b/c71baddd9a1acf71572f4e9b800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 21",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Weaving-a-Tale-of-Love-Season-2-2023-ตำนานรักช่างภูษา-ภาคพลิกชะตาซีโจว.jpg",
+          "url": "https://main.77player.xyz/m3u8/ccb7434e8c62627f4905f636/ccb7434e8c62627f4905f636438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 21",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Weaving-a-Tale-of-Love-Season-2-2023-ตำนานรักช่างภูษา-ภาคพลิกชะตาซีโจว.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/f19de622a5d08b9103daed69/f19de622a5d08b9103daed69800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 21",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Weaving-a-Tale-of-Love-Season-2-2023-ตำนานรักช่างภูษา-ภาคพลิกชะตาซีโจว.jpg",
+          "url": "https://main.77player.xyz/m3u8/9f673546142a798ac76da133/9f673546142a798ac76da133438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 21",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Weaving-a-Tale-of-Love-Season-2-2023-ตำนานรักช่างภูษา-ภาคพลิกชะตาซีโจว.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/3586fcb2c6065e9321fcee2f/3586fcb2c6065e9321fcee2f800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 22",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Weaving-a-Tale-of-Love-Season-2-2023-ตำนานรักช่างภูษา-ภาคพลิกชะตาซีโจว.jpg",
+          "url": "https://main.77player.xyz/m3u8/29f498ef10efa6f0cc4707bb/29f498ef10efa6f0cc4707bb438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 22",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Weaving-a-Tale-of-Love-Season-2-2023-ตำนานรักช่างภูษา-ภาคพลิกชะตาซีโจว.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/b2be183379d38ce79a1eb1e3/b2be183379d38ce79a1eb1e3800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 22",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Weaving-a-Tale-of-Love-Season-2-2023-ตำนานรักช่างภูษา-ภาคพลิกชะตาซีโจว.jpg",
+          "url": "https://main.77player.xyz/m3u8/0a9f119058ac0926ed5d2e86/0a9f119058ac0926ed5d2e86438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 22",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Weaving-a-Tale-of-Love-Season-2-2023-ตำนานรักช่างภูษา-ภาคพลิกชะตาซีโจว.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/620a632092aba36ae4e96ee5/620a632092aba36ae4e96ee5800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 23",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Weaving-a-Tale-of-Love-Season-2-2023-ตำนานรักช่างภูษา-ภาคพลิกชะตาซีโจว.jpg",
+          "url": "https://main.77player.xyz/m3u8/89abfc83c7d5549cddd48fdf/89abfc83c7d5549cddd48fdf438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 23",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Weaving-a-Tale-of-Love-Season-2-2023-ตำนานรักช่างภูษา-ภาคพลิกชะตาซีโจว.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/973809ee9be0625523646d85/973809ee9be0625523646d85800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 23",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Weaving-a-Tale-of-Love-Season-2-2023-ตำนานรักช่างภูษา-ภาคพลิกชะตาซีโจว.jpg",
+          "url": "https://main.77player.xyz/m3u8/4462557fedeb47d9aed060c8/4462557fedeb47d9aed060c8438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 23",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Weaving-a-Tale-of-Love-Season-2-2023-ตำนานรักช่างภูษา-ภาคพลิกชะตาซีโจว.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/1a7e4d660a05cd659c1fecdd/1a7e4d660a05cd659c1fecdd800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 24",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Weaving-a-Tale-of-Love-Season-2-2023-ตำนานรักช่างภูษา-ภาคพลิกชะตาซีโจว.jpg",
+          "url": "https://main.77player.xyz/m3u8/f3f7e429fd1e892ce7a78c01/f3f7e429fd1e892ce7a78c01438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 24",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Weaving-a-Tale-of-Love-Season-2-2023-ตำนานรักช่างภูษา-ภาคพลิกชะตาซีโจว.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/eb9c03078291be0e4096a91c/eb9c03078291be0e4096a91c800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 24",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Weaving-a-Tale-of-Love-Season-2-2023-ตำนานรักช่างภูษา-ภาคพลิกชะตาซีโจว.jpg",
+          "url": "https://main.77player.xyz/m3u8/70595610cedbc3b720576646/70595610cedbc3b720576646438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 24",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Weaving-a-Tale-of-Love-Season-2-2023-ตำนานรักช่างภูษา-ภาคพลิกชะตาซีโจว.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/5f5e47591fc346dde0cb3424/5f5e47591fc346dde0cb3424800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 25",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Weaving-a-Tale-of-Love-Season-2-2023-ตำนานรักช่างภูษา-ภาคพลิกชะตาซีโจว.jpg",
+          "url": "https://main.77player.xyz/m3u8/55eeb49a6613ba7ca1bbce70/55eeb49a6613ba7ca1bbce70438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 25",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Weaving-a-Tale-of-Love-Season-2-2023-ตำนานรักช่างภูษา-ภาคพลิกชะตาซีโจว.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/0d2693801c6c04418986cbb3/0d2693801c6c04418986cbb3800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 25",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Weaving-a-Tale-of-Love-Season-2-2023-ตำนานรักช่างภูษา-ภาคพลิกชะตาซีโจว.jpg",
+          "url": "https://main.77player.xyz/m3u8/1f72dc563a987611a048a54c/1f72dc563a987611a048a54c438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 25",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Weaving-a-Tale-of-Love-Season-2-2023-ตำนานรักช่างภูษา-ภาคพลิกชะตาซีโจว.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/65cf320fdc7d754310ef95a2/65cf320fdc7d754310ef95a2800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 26",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Weaving-a-Tale-of-Love-Season-2-2023-ตำนานรักช่างภูษา-ภาคพลิกชะตาซีโจว.jpg",
+          "url": "https://main.77player.xyz/m3u8/d80966a79a9f3ca2e9996edf/d80966a79a9f3ca2e9996edf438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 26",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Weaving-a-Tale-of-Love-Season-2-2023-ตำนานรักช่างภูษา-ภาคพลิกชะตาซีโจว.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/11184e74aea397ba7f7eee6a/11184e74aea397ba7f7eee6a800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 26",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Weaving-a-Tale-of-Love-Season-2-2023-ตำนานรักช่างภูษา-ภาคพลิกชะตาซีโจว.jpg",
+          "url": "https://main.77player.xyz/m3u8/d68bc66e17917f2f0018d8ea/d68bc66e17917f2f0018d8ea438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 26",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Weaving-a-Tale-of-Love-Season-2-2023-ตำนานรักช่างภูษา-ภาคพลิกชะตาซีโจว.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/38de7e75185c5f8e4b9c08cb/38de7e75185c5f8e4b9c08cb800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 27",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Weaving-a-Tale-of-Love-Season-2-2023-ตำนานรักช่างภูษา-ภาคพลิกชะตาซีโจว.jpg",
+          "url": "https://main.77player.xyz/m3u8/11e54737580cc09de92d00cb/11e54737580cc09de92d00cb438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 27",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Weaving-a-Tale-of-Love-Season-2-2023-ตำนานรักช่างภูษา-ภาคพลิกชะตาซีโจว.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/0ceb5245852b8f88b17d236c/0ceb5245852b8f88b17d236c800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 27",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Weaving-a-Tale-of-Love-Season-2-2023-ตำนานรักช่างภูษา-ภาคพลิกชะตาซีโจว.jpg",
+          "url": "https://main.77player.xyz/m3u8/8309aa8ed403f22946198051/8309aa8ed403f22946198051438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 27",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Weaving-a-Tale-of-Love-Season-2-2023-ตำนานรักช่างภูษา-ภาคพลิกชะตาซีโจว.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/50fdf1d475047f564abba6c8/50fdf1d475047f564abba6c8800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 28",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Weaving-a-Tale-of-Love-Season-2-2023-ตำนานรักช่างภูษา-ภาคพลิกชะตาซีโจว.jpg",
+          "url": "https://main.77player.xyz/m3u8/1df309d5b8d52b71c59e1415/1df309d5b8d52b71c59e1415438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 28",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Weaving-a-Tale-of-Love-Season-2-2023-ตำนานรักช่างภูษา-ภาคพลิกชะตาซีโจว.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/913993cc0bc80dc4d718d8c6/913993cc0bc80dc4d718d8c6800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 28",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Weaving-a-Tale-of-Love-Season-2-2023-ตำนานรักช่างภูษา-ภาคพลิกชะตาซีโจว.jpg",
+          "url": "https://main.77player.xyz/m3u8/9ced6e93fe54d9e377cdb04e/9ced6e93fe54d9e377cdb04e438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 28",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Weaving-a-Tale-of-Love-Season-2-2023-ตำนานรักช่างภูษา-ภาคพลิกชะตาซีโจว.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/2b3309fdb14041addda98bf3/2b3309fdb14041addda98bf3800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 29",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Weaving-a-Tale-of-Love-Season-2-2023-ตำนานรักช่างภูษา-ภาคพลิกชะตาซีโจว.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/62f07ab2feb8bc6ffe415418/62f07ab2feb8bc6ffe415418800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 29",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Weaving-a-Tale-of-Love-Season-2-2023-ตำนานรักช่างภูษา-ภาคพลิกชะตาซีโจว.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/6fef4da443fe64add4a7b7f8/6fef4da443fe64add4a7b7f8800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 30",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Weaving-a-Tale-of-Love-Season-2-2023-ตำนานรักช่างภูษา-ภาคพลิกชะตาซีโจว.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/dc3acf2732ecef4d30791ed4/dc3acf2732ecef4d30791ed4800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 30",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Weaving-a-Tale-of-Love-Season-2-2023-ตำนานรักช่างภูษา-ภาคพลิกชะตาซีโจว.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/59852f0d50472cc2ab5b0e4c/59852f0d50472cc2ab5b0e4c800.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -519,6 +1226,20 @@
         },
         {
           "name": "ตอนที่ 11",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/11/Moon-in-the-Day.jpg",
+          "url": "https://main.77player.xyz/m3u8/ff1c81cbf988e1f2dcf28010/ff1c81cbf988e1f2dcf28010438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 11",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/11/Moon-in-the-Day.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/a8c2ef6580bed8a6a55dc274/a8c2ef6580bed8a6a55dc274800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 11",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/11/Moon-in-the-Day.jpg",
           "url": "https://main.77player.xyz/m3u8/559e8d5964dae7fd7c3cf721/559e8d5964dae7fd7c3cf721438.m3u8",
@@ -529,6 +1250,20 @@
           "info": "ตัวเล่นสำรอง",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/11/Moon-in-the-Day.jpg",
           "url": "https://xxx.77player.xyz/m3u8/158b96e5f368ceb2d32432b5/158b96e5f368ceb2d32432b5800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 12",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/11/Moon-in-the-Day.jpg",
+          "url": "https://main.77player.xyz/m3u8/f5c6cf0983571859526d826d/f5c6cf0983571859526d826d438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 12",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/11/Moon-in-the-Day.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/6f3675e4d181e4f0e1e7c31f/6f3675e4d181e4f0e1e7c31f800.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -571,6 +1306,138 @@
           "info": "ตัวเล่นสำรอง",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/11/Moon-in-the-Day.jpg",
           "url": "https://xxx.77player.xyz/m3u8/1d7a4eab424e1e0fdcc82585/1d7a4eab424e1e0fdcc82585800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "Find Yourself (2023) หารักด้วยใจเธอ",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Find-Yourself-2023-หารักด้วยใจเธอ.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Find-Yourself-2023-หารักด้วยใจเธอ.jpg",
+          "url": "https://main.77player.xyz/m3u8/fbf980d19cda9ef125fa25a8/fbf980d19cda9ef125fa25a8438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 1",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Find-Yourself-2023-หารักด้วยใจเธอ.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/d26a8d94f91ac829b79e3ec6/d26a8d94f91ac829b79e3ec6800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Find-Yourself-2023-หารักด้วยใจเธอ.jpg",
+          "url": "https://main.77player.xyz/m3u8/82843ed69e21db17ee06cfa7/82843ed69e21db17ee06cfa7438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Find-Yourself-2023-หารักด้วยใจเธอ.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/98e4664cb8751354f04775cd/98e4664cb8751354f04775cd800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Find-Yourself-2023-หารักด้วยใจเธอ.jpg",
+          "url": "https://main.77player.xyz/m3u8/33b49c3c7efd1a57ef7d90ea/33b49c3c7efd1a57ef7d90ea438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Find-Yourself-2023-หารักด้วยใจเธอ.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/624d87176e05140bf4f21bf2/624d87176e05140bf4f21bf2800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Find-Yourself-2023-หารักด้วยใจเธอ.jpg",
+          "url": "https://main.77player.xyz/m3u8/772b1d0ec1672279e4dfb660/772b1d0ec1672279e4dfb660438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Find-Yourself-2023-หารักด้วยใจเธอ.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/f7b81cbe550f43f8f34905f6/f7b81cbe550f43f8f34905f6800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Find-Yourself-2023-หารักด้วยใจเธอ.jpg",
+          "url": "https://main.77player.xyz/m3u8/77cbc95cfa936706dd789b55/77cbc95cfa936706dd789b55438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Find-Yourself-2023-หารักด้วยใจเธอ.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/798a0af29b1842f495fef7f4/798a0af29b1842f495fef7f4800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Find-Yourself-2023-หารักด้วยใจเธอ.jpg",
+          "url": "https://main.77player.xyz/m3u8/761887d66458d8c7b808029a/761887d66458d8c7b808029a438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Find-Yourself-2023-หารักด้วยใจเธอ.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/e2b7b1cc590f28b537c8acef/e2b7b1cc590f28b537c8acef800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Find-Yourself-2023-หารักด้วยใจเธอ.jpg",
+          "url": "https://main.77player.xyz/m3u8/6990cec47cacffc91184d9fc/6990cec47cacffc91184d9fc438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Find-Yourself-2023-หารักด้วยใจเธอ.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/9d2d20169823cccbb8cfd3c9/9d2d20169823cccbb8cfd3c9800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Find-Yourself-2023-หารักด้วยใจเธอ.jpg",
+          "url": "https://main.77player.xyz/m3u8/28bbb8cd43dab46768ed30b6/28bbb8cd43dab46768ed30b6438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Find-Yourself-2023-หารักด้วยใจเธอ.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/71ab1f1bedbe2d983cfc542f/71ab1f1bedbe2d983cfc542f800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 9",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Find-Yourself-2023-หารักด้วยใจเธอ.jpg",
+          "url": "https://main.77player.xyz/m3u8/6f355fb99478f35ba87a16e3/6f355fb99478f35ba87a16e3438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 9",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Find-Yourself-2023-หารักด้วยใจเธอ.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/5ebee6a034745ada83378d74/5ebee6a034745ada83378d74800.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -1827,12 +2694,26 @@
           "name": "ตอนที่ 19",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Beauty-Killer-2023-ซ่อนคมเขี้ยวเกี่ยวหัวใจ.jpg",
+          "url": "https://main.77player.xyz/m3u8/6ebf9d2d008479ad29d7aa1a/6ebf9d2d008479ad29d7aa1a438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 19",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Beauty-Killer-2023-ซ่อนคมเขี้ยวเกี่ยวหัวใจ.jpg",
           "url": "https://xxx.77player.xyz/m3u8/2ad4076a14bf3566d64a392c/2ad4076a14bf3566d64a392c800.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
           "name": "ตอนที่ 20",
           "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Beauty-Killer-2023-ซ่อนคมเขี้ยวเกี่ยวหัวใจ.jpg",
+          "url": "https://main.77player.xyz/m3u8/a319707ba5d6a959db556a30/a319707ba5d6a959db556a30438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 20",
+          "info": "ตัวเล่นสำรอง",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Beauty-Killer-2023-ซ่อนคมเขี้ยวเกี่ยวหัวใจ.jpg",
           "url": "https://xxx.77player.xyz/m3u8/931ce361ad148d9542e58475/931ce361ad148d9542e58475800.m3u8",
           "referer": "https://www.123-hd.com/"
@@ -2497,6 +3378,20 @@
           "info": "ตัวเล่นสำรอง",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Welcome-to-Samdalri.jpg",
           "url": "https://xxx.77player.xyz/m3u8/da8b2160aeca67a331b65ec3/da8b2160aeca67a331b65ec3800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 16",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Welcome-to-Samdalri.jpg",
+          "url": "https://main.77player.xyz/m3u8/c9d43305027a9e06400a85aa/c9d43305027a9e06400a85aa438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 16",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Welcome-to-Samdalri.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/786ee9cf6fbd5389d2bf3d5f/786ee9cf6fbd5389d2bf3d5f800.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -3467,7 +4362,7 @@
           "name": "ตอนที่ 5",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Dead-Friend-Forever-2023-เพื่อน-ตาย.jpg",
-          "url": "https://main.77player.xyz/m3u8/2c0e10b21c634ba67e2b067b/2c0e10b21c634ba67e2b067b438.m3u8",
+          "url": "https://main.77player.xyz/newplaylist/2c0e10b21c634ba67e2b067b/2c0e10b21c634ba67e2b067b.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -3501,7 +4396,7 @@
           "name": "ตอนที่ 2",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Cherry-Magic.jpg",
-          "url": "https://main.77player.xyz/newplaylist/55474ca020fc1d7112ef586d/55474ca020fc1d7112ef586d.m3u8",
+          "url": "https://main.77player.xyz/m3u8/55474ca020fc1d7112ef586d/55474ca020fc1d7112ef586d438.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -4899,7 +5794,7 @@
           "name": "ตอนที่ 1",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/11/Pit-Babe-2023-พิษเบ๊บ-เดอะ-ซีรีส์.jpg",
-          "url": "https://main.77player.xyz/m3u8/067396c4aa7693d939ad2768/067396c4aa7693d939ad2768438.m3u8",
+          "url": "https://main.77player.xyz/newplaylist/067396c4aa7693d939ad2768/067396c4aa7693d939ad2768.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -5737,7 +6632,7 @@
           "name": "ตอนที่ 9",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Passionate-Love-2023-เพลิงรักซ่อนแค้น.jpg",
-          "url": "https://main.77player.xyz/m3u8/ac0f42eeefc0c81650a0b5f8/ac0f42eeefc0c81650a0b5f8438.m3u8",
+          "url": "https://main.77player.xyz/newplaylist/ac0f42eeefc0c81650a0b5f8/ac0f42eeefc0c81650a0b5f8.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -5857,376 +6752,6 @@
           "info": "ตัวเล่นสำรอง",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Passionate-Love-2023-เพลิงรักซ่อนแค้น.jpg",
           "url": "https://xxx.77player.xyz/m3u8/be58a6f89a28003bcb45daa1/be58a6f89a28003bcb45daa1800.m3u8",
-          "referer": "https://www.123-hd.com/"
-        }
-      ]
-    },
-    {
-      "name": "The Reincarnated Lovers (2023) วิวาห์ย้อนรอยแค้น",
-      "image": "https://www.123-hd.com/wp-content/uploads/2023/12/The-Reincarnated-Lovers-2023-วิวาห์ย้อนรอยแค้น.jpg",
-      "stations": [
-        {
-          "name": "ตอนที่ 1",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/The-Reincarnated-Lovers-2023-วิวาห์ย้อนรอยแค้น.jpg",
-          "url": "https://main.77player.xyz/m3u8/98c3f68a41cb3b66cb84f291/98c3f68a41cb3b66cb84f291438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 1",
-          "info": "ตัวเล่นสำรอง",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/The-Reincarnated-Lovers-2023-วิวาห์ย้อนรอยแค้น.jpg",
-          "url": "https://xxx.77player.xyz/m3u8/37bcf2b6ce521a17db0e05b7/37bcf2b6ce521a17db0e05b7800.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 2",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/The-Reincarnated-Lovers-2023-วิวาห์ย้อนรอยแค้น.jpg",
-          "url": "https://main.77player.xyz/m3u8/71b00abd27bdeb930a41698b/71b00abd27bdeb930a41698b438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 2",
-          "info": "ตัวเล่นสำรอง",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/The-Reincarnated-Lovers-2023-วิวาห์ย้อนรอยแค้น.jpg",
-          "url": "https://xxx.77player.xyz/m3u8/acc1f31459f5a25ae8971f2a/acc1f31459f5a25ae8971f2a800.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 3",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/The-Reincarnated-Lovers-2023-วิวาห์ย้อนรอยแค้น.jpg",
-          "url": "https://main.77player.xyz/m3u8/afaebe2fad79c66497ad47b9/afaebe2fad79c66497ad47b9438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 3",
-          "info": "ตัวเล่นสำรอง",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/The-Reincarnated-Lovers-2023-วิวาห์ย้อนรอยแค้น.jpg",
-          "url": "https://xxx.77player.xyz/m3u8/e3821eb0a545cabca0e2d161/e3821eb0a545cabca0e2d161800.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 4",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/The-Reincarnated-Lovers-2023-วิวาห์ย้อนรอยแค้น.jpg",
-          "url": "https://main.77player.xyz/m3u8/518a68f5cefa1746c6527775/518a68f5cefa1746c6527775438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 4",
-          "info": "ตัวเล่นสำรอง",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/The-Reincarnated-Lovers-2023-วิวาห์ย้อนรอยแค้น.jpg",
-          "url": "https://xxx.77player.xyz/m3u8/d40149a6d8fc8b6758cf2260/d40149a6d8fc8b6758cf2260800.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 5",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/The-Reincarnated-Lovers-2023-วิวาห์ย้อนรอยแค้น.jpg",
-          "url": "https://main.77player.xyz/m3u8/cfc0f385d55439839cde3be7/cfc0f385d55439839cde3be7438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 5",
-          "info": "ตัวเล่นสำรอง",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/The-Reincarnated-Lovers-2023-วิวาห์ย้อนรอยแค้น.jpg",
-          "url": "https://xxx.77player.xyz/m3u8/472cea77d1359b979edb9228/472cea77d1359b979edb9228800.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 6",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/The-Reincarnated-Lovers-2023-วิวาห์ย้อนรอยแค้น.jpg",
-          "url": "https://main.77player.xyz/m3u8/789ca234879dd03763cd6a94/789ca234879dd03763cd6a94438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 6",
-          "info": "ตัวเล่นสำรอง",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/The-Reincarnated-Lovers-2023-วิวาห์ย้อนรอยแค้น.jpg",
-          "url": "https://xxx.77player.xyz/m3u8/3322c86d06bdd5e6c3b181de/3322c86d06bdd5e6c3b181de800.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 7",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/The-Reincarnated-Lovers-2023-วิวาห์ย้อนรอยแค้น.jpg",
-          "url": "https://main.77player.xyz/m3u8/35c3b9ba1c004c3b4fa193b5/35c3b9ba1c004c3b4fa193b5438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 7",
-          "info": "ตัวเล่นสำรอง",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/The-Reincarnated-Lovers-2023-วิวาห์ย้อนรอยแค้น.jpg",
-          "url": "https://xxx.77player.xyz/m3u8/3cfffbc5e13964d8b156f8a6/3cfffbc5e13964d8b156f8a6800.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 8",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/The-Reincarnated-Lovers-2023-วิวาห์ย้อนรอยแค้น.jpg",
-          "url": "https://main.77player.xyz/m3u8/e9d1222ad608503c3513f468/e9d1222ad608503c3513f468438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 8",
-          "info": "ตัวเล่นสำรอง",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/The-Reincarnated-Lovers-2023-วิวาห์ย้อนรอยแค้น.jpg",
-          "url": "https://xxx.77player.xyz/m3u8/b82b86ef5fa9fa3d506e1be1/b82b86ef5fa9fa3d506e1be1800.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 9",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/The-Reincarnated-Lovers-2023-วิวาห์ย้อนรอยแค้น.jpg",
-          "url": "https://main.77player.xyz/m3u8/94f9e62312caefca733a7a59/94f9e62312caefca733a7a59438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 9",
-          "info": "ตัวเล่นสำรอง",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/The-Reincarnated-Lovers-2023-วิวาห์ย้อนรอยแค้น.jpg",
-          "url": "https://xxx.77player.xyz/m3u8/f98843492acdde88e9013830/f98843492acdde88e9013830800.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 10",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/The-Reincarnated-Lovers-2023-วิวาห์ย้อนรอยแค้น.jpg",
-          "url": "https://main.77player.xyz/m3u8/4215b7dbe762d03484d4740a/4215b7dbe762d03484d4740a438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 10",
-          "info": "ตัวเล่นสำรอง",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/The-Reincarnated-Lovers-2023-วิวาห์ย้อนรอยแค้น.jpg",
-          "url": "https://xxx.77player.xyz/m3u8/ae16f3b727dc0a44b5de093b/ae16f3b727dc0a44b5de093b800.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 11",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/The-Reincarnated-Lovers-2023-วิวาห์ย้อนรอยแค้น.jpg",
-          "url": "https://main.77player.xyz/m3u8/fbf971ab9e1f2387075c9e5f/fbf971ab9e1f2387075c9e5f438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 11",
-          "info": "ตัวเล่นสำรอง",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/The-Reincarnated-Lovers-2023-วิวาห์ย้อนรอยแค้น.jpg",
-          "url": "https://xxx.77player.xyz/m3u8/39bf6ec1998ad9d26f792fc1/39bf6ec1998ad9d26f792fc1800.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 12",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/The-Reincarnated-Lovers-2023-วิวาห์ย้อนรอยแค้น.jpg",
-          "url": "https://main.77player.xyz/m3u8/5af3d84928e9ffe3945f5d71/5af3d84928e9ffe3945f5d71438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 12",
-          "info": "ตัวเล่นสำรอง",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/The-Reincarnated-Lovers-2023-วิวาห์ย้อนรอยแค้น.jpg",
-          "url": "https://xxx.77player.xyz/m3u8/fce26c856af0ca9094158564/fce26c856af0ca9094158564800.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 13",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/The-Reincarnated-Lovers-2023-วิวาห์ย้อนรอยแค้น.jpg",
-          "url": "https://main.77player.xyz/m3u8/a3f31240edcf934bcfb8ddf3/a3f31240edcf934bcfb8ddf3438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 13",
-          "info": "ตัวเล่นสำรอง",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/The-Reincarnated-Lovers-2023-วิวาห์ย้อนรอยแค้น.jpg",
-          "url": "https://xxx.77player.xyz/m3u8/27f2991396b8b1016b450e44/27f2991396b8b1016b450e44800.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 14",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/The-Reincarnated-Lovers-2023-วิวาห์ย้อนรอยแค้น.jpg",
-          "url": "https://main.77player.xyz/m3u8/c9b6946d06808f4dfa744698/c9b6946d06808f4dfa744698438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 14",
-          "info": "ตัวเล่นสำรอง",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/The-Reincarnated-Lovers-2023-วิวาห์ย้อนรอยแค้น.jpg",
-          "url": "https://xxx.77player.xyz/m3u8/53efa9cfcf030fc14715f6c7/53efa9cfcf030fc14715f6c7800.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 15",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/The-Reincarnated-Lovers-2023-วิวาห์ย้อนรอยแค้น.jpg",
-          "url": "https://main.77player.xyz/m3u8/31bef127b9ddac1f5e34d524/31bef127b9ddac1f5e34d524438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 15",
-          "info": "ตัวเล่นสำรอง",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/The-Reincarnated-Lovers-2023-วิวาห์ย้อนรอยแค้น.jpg",
-          "url": "https://xxx.77player.xyz/m3u8/2f94e53d4d78d5a817f89cfe/2f94e53d4d78d5a817f89cfe800.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 16",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/The-Reincarnated-Lovers-2023-วิวาห์ย้อนรอยแค้น.jpg",
-          "url": "https://main.77player.xyz/m3u8/5adae7f217c1cba1d138a047/5adae7f217c1cba1d138a047438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 16",
-          "info": "ตัวเล่นสำรอง",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/The-Reincarnated-Lovers-2023-วิวาห์ย้อนรอยแค้น.jpg",
-          "url": "https://xxx.77player.xyz/m3u8/616790958d10cde2dfe66111/616790958d10cde2dfe66111800.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 17",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/The-Reincarnated-Lovers-2023-วิวาห์ย้อนรอยแค้น.jpg",
-          "url": "https://main.77player.xyz/m3u8/c36b7b4b856fed4711e73f64/c36b7b4b856fed4711e73f64438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 17",
-          "info": "ตัวเล่นสำรอง",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/The-Reincarnated-Lovers-2023-วิวาห์ย้อนรอยแค้น.jpg",
-          "url": "https://xxx.77player.xyz/m3u8/1bd1689527e1daa9a012af42/1bd1689527e1daa9a012af42800.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 18",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/The-Reincarnated-Lovers-2023-วิวาห์ย้อนรอยแค้น.jpg",
-          "url": "https://main.77player.xyz/m3u8/86e10c46101f3efb51c33f1c/86e10c46101f3efb51c33f1c438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 18",
-          "info": "ตัวเล่นสำรอง",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/The-Reincarnated-Lovers-2023-วิวาห์ย้อนรอยแค้น.jpg",
-          "url": "https://xxx.77player.xyz/m3u8/1a523315ad3bd60c5b40428a/1a523315ad3bd60c5b40428a800.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 19",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/The-Reincarnated-Lovers-2023-วิวาห์ย้อนรอยแค้น.jpg",
-          "url": "https://main.77player.xyz/m3u8/30bac093215e682df6dc2fc5/30bac093215e682df6dc2fc5438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 19",
-          "info": "ตัวเล่นสำรอง",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/The-Reincarnated-Lovers-2023-วิวาห์ย้อนรอยแค้น.jpg",
-          "url": "https://xxx.77player.xyz/m3u8/ab6339c3248cc6bb4a4e0240/ab6339c3248cc6bb4a4e0240800.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 20",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/The-Reincarnated-Lovers-2023-วิวาห์ย้อนรอยแค้น.jpg",
-          "url": "https://main.77player.xyz/m3u8/619c4c54f525066a08ca9a45/619c4c54f525066a08ca9a45438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 20",
-          "info": "ตัวเล่นสำรอง",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/The-Reincarnated-Lovers-2023-วิวาห์ย้อนรอยแค้น.jpg",
-          "url": "https://xxx.77player.xyz/m3u8/1511fa5fd11a36ac627424cc/1511fa5fd11a36ac627424cc800.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 21",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/The-Reincarnated-Lovers-2023-วิวาห์ย้อนรอยแค้น.jpg",
-          "url": "https://main.77player.xyz/m3u8/9f71946308723cd77cec8700/9f71946308723cd77cec8700438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 21",
-          "info": "ตัวเล่นสำรอง",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/The-Reincarnated-Lovers-2023-วิวาห์ย้อนรอยแค้น.jpg",
-          "url": "https://xxx.77player.xyz/m3u8/ef7b932b9728f253e6cccd1c/ef7b932b9728f253e6cccd1c800.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 22",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/The-Reincarnated-Lovers-2023-วิวาห์ย้อนรอยแค้น.jpg",
-          "url": "https://main.77player.xyz/m3u8/d55efd133d2921860ae0c5fb/d55efd133d2921860ae0c5fb438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 22",
-          "info": "ตัวเล่นสำรอง",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/The-Reincarnated-Lovers-2023-วิวาห์ย้อนรอยแค้น.jpg",
-          "url": "https://xxx.77player.xyz/m3u8/d85950aa3ab9c45ff4a32037/d85950aa3ab9c45ff4a32037800.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 23",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/The-Reincarnated-Lovers-2023-วิวาห์ย้อนรอยแค้น.jpg",
-          "url": "https://main.77player.xyz/m3u8/0229d2e5381f2207805fe419/0229d2e5381f2207805fe419438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 23",
-          "info": "ตัวเล่นสำรอง",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/The-Reincarnated-Lovers-2023-วิวาห์ย้อนรอยแค้น.jpg",
-          "url": "https://xxx.77player.xyz/m3u8/bf38a1bbebae05c74a786913/bf38a1bbebae05c74a786913800.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 24",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/The-Reincarnated-Lovers-2023-วิวาห์ย้อนรอยแค้น.jpg",
-          "url": "https://main.77player.xyz/m3u8/fc63dadf38e77a73ec40eaad/fc63dadf38e77a73ec40eaad438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 24",
-          "info": "ตัวเล่นสำรอง",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/The-Reincarnated-Lovers-2023-วิวาห์ย้อนรอยแค้น.jpg",
-          "url": "https://xxx.77player.xyz/m3u8/0efbf9469da54e0d386ad037/0efbf9469da54e0d386ad037800.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 25",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/The-Reincarnated-Lovers-2023-วิวาห์ย้อนรอยแค้น.jpg",
-          "url": "https://main.77player.xyz/m3u8/c6f85961eed0e9ef3a24b41e/c6f85961eed0e9ef3a24b41e438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 25",
-          "info": "ตัวเล่นสำรอง",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/The-Reincarnated-Lovers-2023-วิวาห์ย้อนรอยแค้น.jpg",
-          "url": "https://xxx.77player.xyz/m3u8/40015acf9facb29ce0def89d/40015acf9facb29ce0def89d800.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 26",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/The-Reincarnated-Lovers-2023-วิวาห์ย้อนรอยแค้น.jpg",
-          "url": "https://main.77player.xyz/m3u8/29748af8c2b8544328615470/29748af8c2b8544328615470438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 26",
-          "info": "ตัวเล่นสำรอง",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/The-Reincarnated-Lovers-2023-วิวาห์ย้อนรอยแค้น.jpg",
-          "url": "https://xxx.77player.xyz/m3u8/9736438fd944e54a128bd4c2/9736438fd944e54a128bd4c2800.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -7084,6 +7609,20 @@
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/02/Never-Give-Up-2023.jpg",
           "url": "https://main.77player.xyz/m3u8/f3db40aa6bbdfa00731bc7f4/f3db40aa6bbdfa00731bc7f4438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 14",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/02/Never-Give-Up-2023.jpg",
+          "url": "https://main.77player.xyz/m3u8/bf4d9c10872ac008a6ad3e69/bf4d9c10872ac008a6ad3e69438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 14",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/02/Never-Give-Up-2023.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/1c8b22fe1e8c8721e7a709dc/1c8b22fe1e8c8721e7a709dc800.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -9129,7 +9668,7 @@
           "name": "ตอนที่ 3",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/12/The-Forensic-Examiner-Song-Ci-2023-ตำนานนักสืบซ่งสือ.jpg",
-          "url": "https://main.77player.xyz/m3u8/143eef4d8cadf954e5790db9/143eef4d8cadf954e5790db9438.m3u8",
+          "url": "https://main.77player.xyz/newplaylist/143eef4d8cadf954e5790db9/143eef4d8cadf954e5790db9.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -9687,7 +10226,7 @@
           "name": "ตอนที่ 4",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Perfect-Marriage-Revenge.jpg",
-          "url": "https://main.77player.xyz/newplaylist/595960ac0eb81cf6ec2671d2/595960ac0eb81cf6ec2671d2.m3u8",
+          "url": "https://main.77player.xyz/m3u8/595960ac0eb81cf6ec2671d2/595960ac0eb81cf6ec2671d2438.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -11573,7 +12112,7 @@
           "name": "ตอนที่ 21",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/10/Blooming-2023-เมื่อรักเบ่งบาน.jpg",
-          "url": "https://main.77player.xyz/m3u8/d9f16a9fba58c83b84d6277e/d9f16a9fba58c83b84d6277e438.m3u8",
+          "url": "https://main.77player.xyz/newplaylist/d9f16a9fba58c83b84d6277e/d9f16a9fba58c83b84d6277e.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -13478,7 +14017,7 @@
           "name": "ตอนที่ 11",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Miss-Fangs-Love-Secrets-2023.jpg",
-          "url": "https://main.77player.xyz/m3u8/4fe6cce151a05f39456d7cfb/4fe6cce151a05f39456d7cfb438.m3u8",
+          "url": "https://main.77player.xyz/newplaylist/4fe6cce151a05f39456d7cfb/4fe6cce151a05f39456d7cfb.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -14336,7 +14875,7 @@
           "name": "ตอนที่ 7",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Gyeongseong-Creature.jpg",
-          "url": "https://main.77player.xyz/newplaylist/5efc52a64c2d120bde8ae2a5/5efc52a64c2d120bde8ae2a5.m3u8",
+          "url": "https://main.77player.xyz/m3u8/5efc52a64c2d120bde8ae2a5/5efc52a64c2d120bde8ae2a5438.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -14636,7 +15175,7 @@
           "name": "ตอนที่ 7",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/09/The-Escape-of-the-Seven-2023.jpg",
-          "url": "https://main.77player.xyz/m3u8/2f400e4528fda9cd14fff485/2f400e4528fda9cd14fff485438.m3u8",
+          "url": "https://main.77player.xyz/newplaylist/2f400e4528fda9cd14fff485/2f400e4528fda9cd14fff485.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -15648,7 +16187,7 @@
           "name": "ตอนที่ 22",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Derailment-2023-เหวี่ยงเรามาเจอรัก.jpg",
-          "url": "https://main.77player.xyz/m3u8/f5631c334c916ea2d03a1e52/f5631c334c916ea2d03a1e52438.m3u8",
+          "url": "https://main.77player.xyz/newplaylist/f5631c334c916ea2d03a1e52/f5631c334c916ea2d03a1e52.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -18661,7 +19200,7 @@
           "name": "ตอนที่ 19",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/10/Rising-With-the-Wind-2023-พลิกชะตา-ฝ่าเกมธุรกิจ.jpg",
-          "url": "https://main.77player.xyz/m3u8/6ea2c303be71cbe373987f47/6ea2c303be71cbe373987f47438.m3u8",
+          "url": "https://main.77player.xyz/newplaylist/6ea2c303be71cbe373987f47/6ea2c303be71cbe373987f47.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -19445,20 +19984,6 @@
           "info": "ตัวเล่นสำรอง",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/12/My-Star-2023-เพียงคุณเคียงรัก.jpg",
           "url": "https://xxx.77player.xyz/m3u8/3b1bb88cea13219d70f0235c/3b1bb88cea13219d70f0235c800.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 15",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/My-Star-2023-เพียงคุณเคียงรัก.jpg",
-          "url": "https://main.77player.xyz/m3u8/5473b36f0deb9c7c325d678c/5473b36f0deb9c7c325d678c438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 15",
-          "info": "ตัวเล่นสำรอง",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/My-Star-2023-เพียงคุณเคียงรัก.jpg",
-          "url": "https://xxx.77player.xyz/m3u8/45b14b86f4d999bec3d481db/45b14b86f4d999bec3d481db800.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -23998,7 +24523,7 @@
           "name": "ตอนที่ 23",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Sunshine-by-My-Side-2023-แสงส่องรักข้างกาย.jpg",
-          "url": "https://main.77player.xyz/m3u8/f20fe0a8ed942fb8ab4228d6/f20fe0a8ed942fb8ab4228d6438.m3u8",
+          "url": "https://main.77player.xyz/newplaylist/f20fe0a8ed942fb8ab4228d6/f20fe0a8ed942fb8ab4228d6.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -25651,7 +26176,7 @@
           "name": "ตอนที่ 15",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Unshakable-Faith-2023.jpg",
-          "url": "https://main.77player.xyz/m3u8/e7c63ff3052a762aac40acaa/e7c63ff3052a762aac40acaa438.m3u8",
+          "url": "https://main.77player.xyz/newplaylist/e7c63ff3052a762aac40acaa/e7c63ff3052a762aac40acaa.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -27507,7 +28032,7 @@
           "name": "ตอนที่ 20",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/11/The-Fatal-Letter-2023-จดหมายสู่หายนะ.jpg",
-          "url": "https://main.77player.xyz/newplaylist/7f41b90dd0e96c96c58ea6d1/7f41b90dd0e96c96c58ea6d1.m3u8",
+          "url": "https://main.77player.xyz/m3u8/7f41b90dd0e96c96c58ea6d1/7f41b90dd0e96c96c58ea6d1438.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -28614,7 +29139,7 @@
           "name": "ตอนที่ 3",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Soundtrack2.jpg",
-          "url": "https://main.77player.xyz/m3u8/a3050ecb88c3fa169665f183/a3050ecb88c3fa169665f183438.m3u8",
+          "url": "https://main.77player.xyz/newplaylist/a3050ecb88c3fa169665f183/a3050ecb88c3fa169665f183.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -29026,7 +29551,7 @@
           "name": "ตอนที่ 26",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/10/Love-Destiny-2-2023.jpg",
-          "url": "https://main.77player.xyz/m3u8/71becfd1a6c649ba7c8e8212/71becfd1a6c649ba7c8e8212438.m3u8",
+          "url": "https://main.77player.xyz/newplaylist/71becfd1a6c649ba7c8e8212/71becfd1a6c649ba7c8e8212.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -34105,7 +34630,7 @@
           "name": "ตอนที่ 9",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/11/Stand-by-Me-2023-อยากเก็บเวลาไว้ในวันวาน.jpg",
-          "url": "https://main.77player.xyz/newplaylist/32e796442a907e7c933e5fbb/32e796442a907e7c933e5fbb.m3u8",
+          "url": "https://main.77player.xyz/m3u8/32e796442a907e7c933e5fbb/32e796442a907e7c933e5fbb438.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -34637,7 +35162,7 @@
           "name": "ตอนที่ 28",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/11/Stand-by-Me-2023-อยากเก็บเวลาไว้ในวันวาน.jpg",
-          "url": "https://main.77player.xyz/m3u8/a2e1dcfda7765f519aa6b8c5/a2e1dcfda7765f519aa6b8c5438.m3u8",
+          "url": "https://main.77player.xyz/newplaylist/a2e1dcfda7765f519aa6b8c5/a2e1dcfda7765f519aa6b8c5.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -37608,7 +38133,7 @@
           "name": "ตอนที่ 27",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/10/My-Precious-2023-หวานใจเจ้านายขนฟู.jpg",
-          "url": "https://main.77player.xyz/newplaylist/8d83b2d11fbc0045bb54bf86/8d83b2d11fbc0045bb54bf86.m3u8",
+          "url": "https://main.77player.xyz/m3u8/8d83b2d11fbc0045bb54bf86/8d83b2d11fbc0045bb54bf86438.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -38626,7 +39151,7 @@
           "name": "ตอนที่ 3",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/11/The-Deal.jpg",
-          "url": "https://main.77player.xyz/newplaylist/f3336fcf271f7b43954d2bdd/f3336fcf271f7b43954d2bdd.m3u8",
+          "url": "https://main.77player.xyz/m3u8/f3336fcf271f7b43954d2bdd/f3336fcf271f7b43954d2bdd438.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -40676,7 +41201,7 @@
           "name": "ตอนที่ 7",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/06/Miraculous-Brothers-2023.jpg",
-          "url": "https://main.77player.xyz/m3u8/17c7f578e1bd8424c0f5f7af/17c7f578e1bd8424c0f5f7af438.m3u8",
+          "url": "https://main.77player.xyz/newplaylist/17c7f578e1bd8424c0f5f7af/17c7f578e1bd8424c0f5f7af.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -40948,7 +41473,7 @@
           "name": "ตอนที่ 3",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/10/Valentines-Again-2023-มูไม่พัก-วันรักวนลูป.jpg",
-          "url": "https://main.77player.xyz/m3u8/227e52e656a0809d8e1fac21/227e52e656a0809d8e1fac21438.m3u8",
+          "url": "https://main.77player.xyz/newplaylist/227e52e656a0809d8e1fac21/227e52e656a0809d8e1fac21.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -46597,7 +47122,7 @@
           "name": "ตอนที่ 22",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Bright-Eyes-in-the-Dark-2023-อุ่นหัวใจด้วยไฟรัก.jpg",
-          "url": "https://main.77player.xyz/newplaylist/18e15c13a3da5866b0bd3cbe/18e15c13a3da5866b0bd3cbe.m3u8",
+          "url": "https://main.77player.xyz/m3u8/18e15c13a3da5866b0bd3cbe/18e15c13a3da5866b0bd3cbe438.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -47672,7 +48197,7 @@
           "name": "ตอนที่ 1",
           "info": "ตัวเล่นสำรอง",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/11/Suburraeterna-2023-ซูเบอร์ร่า-นิรันดร์กาล.jpg",
-          "url": "https://xxx.77player.xyz/m3u8/4c3ceb78bb2b158b53a220ab/4c3ceb78bb2b158b53a220ab800.m3u8",
+          "url": "https://xxx.77player.xyz/autoplaylist/4c3ceb78bb2b158b53a220ab/4c3ceb78bb2b158b53a220ab.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
