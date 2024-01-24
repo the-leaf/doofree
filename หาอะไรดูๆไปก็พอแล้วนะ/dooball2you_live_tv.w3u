@@ -1,0 +1,332 @@
+{
+  "name": "dooball2you TV",
+  "author": "เจียว เจียว",
+  "info": "ชีวิตไม่ได้ให้เราสิ่งที่ต้องการเสมอไป แต่มันจะให้เราสิ่งที่เราจำเป็นต้องการ",
+  "image": "https://dooball2you.com/wp-content/uploads/2023/09/cropped-dooball2you.png",
+  "groups": [
+    {
+      "name": "ช่องทีวีดิจิตอล",
+      "image": "https://dooball2you.com/wp-content/uploads/2023/09/cropped-dooball2you.png",
+      "stations": [
+        {
+          "name": "ช่อง : CH3",
+          "image": "https://dooball2you.com/wp-content/uploads/2020/09/ช่อง3-2.png",
+          "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/3hd/playlist.m3u8",
+          "referer": "https://dooball2you.com/"
+        },
+        {
+          "name": "ช่อง: Ch5HD",
+          "image": "https://dooball2you.com/wp-content/uploads/2020/09/ช่อง5-3.png",
+          "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/5hd/playlist.m3u8",
+          "referer": "https://dooball2you.com/"
+        },
+        {
+          "name": "ช่อง: Ch7HD",
+          "image": "https://dooball2you.com/wp-content/uploads/2020/09/ช่อง7.png",
+          "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/7hd/playlist.m3u8",
+          "referer": "https://dooball2you.com/"
+        },
+        {
+          "name": "ช่อง: MCOT9HD",
+          "image": "https://dooball2you.com/wp-content/uploads/2020/09/ช่องmcot.png",
+          "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/mcothd/playlist.m3u8",
+          "referer": "https://dooball2you.com/"
+        },
+        {
+          "name": "ช่อง: NBT2HD",
+          "image": "https://dooball2you.com/wp-content/uploads/2020/09/ช่องnbt.png",
+          "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/nbt/playlist.m3u8",
+          "referer": "https://dooball2you.com/"
+        },
+        {
+          "name": "ช่อง : Thai PBS (ไทยพีบีเอส)",
+          "image": "https://dooball2you.com/wp-content/uploads/2020/09/ช่องtpbs.png",
+          "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/thaipbs/playlist.m3u8",
+          "referer": "https://dooball2you.com/"
+        },
+        {
+          "name": "ช่อง: Ch8",
+          "image": "https://dooball2you.com/wp-content/uploads/2020/09/ช่อง8.png",
+          "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/ch8/playlist.m3u8",
+          "referer": "https://dooball2you.com/"
+        },
+        {
+          "name": "ช่อง amarin",
+          "image": "https://dooball2you.com/wp-content/uploads/2020/09/ช่องamarin.png",
+          "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/amarin/playlist.m3u8",
+          "referer": "https://dooball2you.com/"
+        },
+        {
+          "name": "ช่อง mono29",
+          "image": "https://dooball2you.com/wp-content/uploads/2020/09/ช่องmono.png",
+          "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/mcothd/playlist.m3u8",
+          "referer": "https://dooball2you.com/"
+        },
+        {
+          "name": "ช่อง : ONE31",
+          "image": "https://dooball2you.com/wp-content/uploads/2020/09/ช่องone.png",
+          "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/one31/playlist.m3u8",
+          "referer": "https://dooball2you.com/"
+        },
+        {
+          "name": "ช่อง : pptv hd 36",
+          "image": "https://dooball2you.com/wp-content/uploads/2020/09/ช่องpptv.png",
+          "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/pptv/playlist.m3u8",
+          "referer": "https://dooball2you.com/"
+        },
+        {
+          "name": "ช่อง : GMM 25",
+          "image": "https://dooball2you.com/wp-content/uploads/2021/07/GMM.png",
+          "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/gmm25/playlist.m3u8",
+          "referer": "https://dooball2you.com/"
+        },
+        {
+          "name": "ช่อง : Thairath",
+          "image": "https://dooball2you.com/wp-content/uploads/2020/09/ช่องไทยรัฐ.png",
+          "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/thairathtv/playlist.m3u8",
+          "referer": "https://dooball2you.com/"
+        },
+        {
+          "name": "ช่อง workpoint",
+          "image": "https://dooball2you.com/wp-content/uploads/2020/09/ช่องworkpoint.png",
+          "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/workpoint/playlist.m3u8",
+          "referer": "https://dooball2you.com/"
+        },
+        {
+          "name": "ช่อง nation",
+          "image": "https://dooball2you.com/wp-content/uploads/2020/09/ช่องnation.png",
+          "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/nation/playlist.m3u8",
+          "referer": "https://dooball2you.com/"
+        },
+        {
+          "name": "ช่อง tnn16",
+          "image": "https://dooball2you.com/wp-content/uploads/2020/09/ช่องtnn.png",
+          "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tnn16/playlist.m3u8",
+          "referer": "https://dooball2you.com/"
+        },
+        {
+          "name": "ช่อง true4u",
+          "image": "https://dooball2you.com/wp-content/uploads/2020/09/ช่องtrue4u.png",
+          "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/true4u/playlist.m3u8",
+          "referer": "https://dooball2you.com/"
+        }
+      ]
+    },
+    {
+      "name": "ช่องกีฬา",
+      "image": "https://dooball2you.com/wp-content/uploads/2023/09/cropped-dooball2you.png",
+      "stations": [
+        {
+          "name": "ช่อง: True Sport HD 1",
+          "image": "https://dooball2you.com/wp-content/uploads/2020/09/ช่องtruesporthd1.png",
+          "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesporthd1/playlist.m3u8",
+          "referer": "https://dooball2you.com/"
+        },
+        {
+          "name": "ช่อง True sport hd 2",
+          "image": "https://dooball2you.com/wp-content/uploads/2020/09/ช่องtruesporthd2.png",
+          "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesporthd2/playlist.m3u8",
+          "referer": "https://dooball2you.com/"
+        },
+        {
+          "name": "ช่อง True Sport HD 3",
+          "image": "https://dooball2you.com/wp-content/uploads/2020/09/ช่องtruesporthd3.png",
+          "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesporthd3/playlist.m3u8",
+          "referer": "https://dooball2you.com/"
+        },
+        {
+          "name": "ช่อง : Truesport 5",
+          "image": "https://dooball2you.com/wp-content/uploads/2020/09/ช่องtruesport5.png",
+          "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesportsd5/playlist.m3u8",
+          "referer": "https://dooball2you.com/"
+        },
+        {
+          "name": "ช่อง : Truesport 7",
+          "image": "https://dooball2you.com/wp-content/uploads/2020/09/ช่องtruesport7.png",
+          "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesportsd7/playlist.m3u8",
+          "referer": "https://dooball2you.com/"
+        },
+        {
+          "name": "ช่อง: True Premier Football HD1 (TPF1)",
+          "image": "https://dooball2you.com/wp-content/uploads/2020/09/ช่องtpf1.png",
+          "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf1/playlist.m3u8",
+          "referer": "https://dooball2you.com/"
+        },
+        {
+          "name": "ช่อง: True Premier Football HD2 (Tpf2)",
+          "image": "https://dooball2you.com/wp-content/uploads/2020/09/ช่องtpf2.png",
+          "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf2/playlist.m3u8",
+          "referer": "https://dooball2you.com/"
+        },
+		{
+		  "name": "ช่อง: True Premier Football HD3 (TPF3)",
+		  "image": "https://dooball2you.com/wp-content/uploads/2023/09/tpf3.jpg",
+		  "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf3/playlist.m3u8",
+		  "referer": "https://dooball2you.com/"
+		},
+		{
+		  "name": "ช่อง: True Premier Football HD4",
+		  "image": "https://dooball2you.com/wp-content/uploads/2023/09/tpf4.jpg",
+		  "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf4/playlist.m3u8",
+		  "referer": "https://dooball2you.com/"
+		},
+		{
+		  "name": "ช่อง: True Premier Football HD5",
+		  "image": "https://dooball2you.com/wp-content/uploads/2023/09/tpf5.jpg",
+		  "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf5/playlist.m3u8",
+		  "referer": "https://dooball2you.com/"
+		},
+		{
+		  "name": "ช่อง: True Sport HD 1",
+		  "image": "https://dooball2you.com/wp-content/uploads/2023/09/truesport1.jpg",
+		  "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesporthd1/playlist.m3u8",
+		  "referer": "https://dooball2you.com/"
+		},
+		{
+		  "name": "ช่อง True sport hd 2",
+		  "image": "https://dooball2you.com/wp-content/uploads/2023/09/truesport2.jpg",
+		  "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesporthd2/playlist.m3u8",
+		  "referer": "https://dooball2you.com/"
+		},
+		{
+		  "name": "ช่อง True Sport HD 3",
+		  "image": "https://dooball2you.com/wp-content/uploads/2023/09/truesport3.jpg",
+		  "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesporthd3/playlist.m3u8",
+		  "referer": "https://dooball2you.com/"
+		},
+		{
+		  "name": "ช่อง : Truesport 5",
+		  "image": "https://dooball2you.com/wp-content/uploads/2023/09/truesport5.jpg",
+		  "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesportsd5/playlist.m3u8",
+		  "referer": "https://dooball2you.com/"
+		},
+		{
+		  "name": "ช่อง : Truesport 7",
+		  "image": "https://dooball2you.com/wp-content/uploads/2023/09/truesport7.jpg",
+		  "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesportsd7/playlist.m3u8",
+		  "referer": "https://dooball2you.com/"
+		},
+        {
+          "name": "ช่อง : beinsport1",
+          "image": "https://dooball2you.com/wp-content/uploads/2020/09/ช่องbein1.png",
+          "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/bein1/playlist.m3u8",
+          "referer": "https://dooball2you.com/"
+        },
+        {
+          "name": "ช่อง: bein sport 2",
+          "image": "https://dooball2you.com/wp-content/uploads/2020/09/ช่องbein2.png",
+          "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/bein2/playlist.m3u8",
+          "referer": "https://dooball2you.com/"
+        },
+        {
+          "name": "ช่อง: bein sport 3",
+          "image": "https://dooball2you.com/wp-content/uploads/2022/04/Screenshot_1.png",
+          "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/bein2/playlist.m3u8",
+          "referer": "https://dooball2you.com/"
+        },
+        {
+          "name": "ช่อง: SPOTV",
+          "image": "https://dooball2you.com/wp-content/uploads/2021/10/ช่องspotv1.png",
+          "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/spotv1/playlist.m3u8",
+          "referer": "https://dooball2you.com/"
+        },
+        {
+          "name": "ช่อง: Spotv2",
+          "image": "https://dooball2you.com/wp-content/uploads/2021/10/spotv2.png",
+          "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/spotv2/playlist.m3u8",
+          "referer": "https://dooball2you.com/"
+        },
+        {
+          "name": "ช่อง: BT Sport1",
+          "image": "https://dooball2you.com/wp-content/uploads/2020/09/ช่องbtsport1.png",
+          "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/btsport1/playlist.m3u8",
+          "referer": "https://dooball2you.com/"
+        },
+        {
+          "name": "ช่อง: BT Sport2",
+          "image": "https://dooball2you.com/wp-content/uploads/2020/09/ช่องbtsport2-1.png",
+          "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/btsport2/playlist.m3u8",
+          "referer": "https://dooball2you.com/"
+        },
+        {
+          "name": "ช่อง: BT Sport3",
+          "image": "https://dooball2you.com/wp-content/uploads/2020/09/ช่องbtsport3.png",
+          "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/btsport3/playlist.m3u8",
+          "referer": "https://dooball2you.com/"
+        },
+        {
+          "name": "ช่อง: Sport TV 1",
+          "image": "https://dooball2you.com/wp-content/uploads/2021/04/sport1.png",
+          "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/sporttv1/playlist.m3u8",
+          "referer": "https://dooball2you.com/"
+        },
+        {
+          "name": "ช่อง : Sport TV 2",
+          "image": "https://dooball2you.com/wp-content/uploads/2021/04/sport2.png",
+          "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/sporttv2/playlist.m3u8",
+          "referer": "https://dooball2you.com/"
+        },
+        {
+          "name": "ช่อง: Sport TV 4",
+          "image": "https://dooball2you.com/wp-content/uploads/2021/04/sport4.png",
+          "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/sporttv4/playlist.m3u8",
+          "referer": "https://dooball2you.com/"
+        },
+        {
+          "name": "ช่อง: Golf channel thailand",
+          "image": "https://dooball2you.com/wp-content/uploads/2021/10/golfpng.png",
+          "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/golf/playlist.m3u8",
+          "referer": "https://dooball2you.com/"
+        },
+        {
+          "name": "ช่อง: True Tennis",
+          "image": "https://dooball2you.com/wp-content/uploads/2021/10/tnnis-1.png",
+          "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truetennis/playlist.m3u8",
+          "referer": "https://dooball2you.com/"
+        },
+        {
+          "name": "ช่อง: Astro Supersport 1",
+          "image": "https://dooball2you.com/wp-content/uploads/2021/10/at1.png",
+          "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/astro1/playlist.m3u8",
+          "referer": "https://dooball2you.com/"
+        },
+        {
+          "name": "ช่อง: Astro Supersport 4",
+          "image": "https://dooball2you.com/wp-content/uploads/2021/10/at4.png",
+          "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/astro4/playlist.m3u8",
+          "referer": "https://dooball2you.com/"
+        },
+        {
+          "name": "ช่อง: DigiSport2",
+          "image": "https://dooball2you.com/wp-content/uploads/2021/10/digi2.png",
+          "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/digisport2/playlist.m3u8",
+          "referer": "https://dooball2you.com/"
+        },
+        {
+          "name": "ช่อง: DigiSport4",
+          "image": "https://dooball2you.com/wp-content/uploads/2021/10/digi4.png",
+          "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/digisport4/playlist.m3u8",
+          "referer": "https://dooball2you.com/"
+        },
+        {
+          "name": "ช่อง: Ais Play",
+          "image": "https://dooball2you.com/wp-content/uploads/2022/07/ดูบอลสด.png",
+          "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/aisplay1/playlist.m3u8",
+          "referer": "https://dooball2you.com/"
+        },
+		{
+		  "name": "ช่อง: BALLTHAI1",
+		  "image": "https://dooball2you.com/wp-content/uploads/2023/09/ballthai1.jpg",
+		  "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/aisplay2/playlist.m3u8",
+		  "referer": "https://dooball2you.com/"
+		},
+		{
+		  "name": "ช่อง: BALLTHAI2",
+		  "image": "https://dooball2you.com/wp-content/uploads/2023/09/ballthai2.jpg",
+		  "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/aisplay3/playlist.m3u8",
+		  "referer": "https://dooball2you.com/"
+		}
+      ]
+    }
+  ]
+}

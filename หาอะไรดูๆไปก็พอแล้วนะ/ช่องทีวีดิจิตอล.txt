@@ -1,0 +1,577 @@
+{
+	"name": "ช่องทีวีดิจิตอล",
+	"author": "copy",
+	"image": "https://images.droidsans.com/wp-content/uploads/2014/04/doodee-sticker.png",
+	"stations": [ 
+				{
+					"name": "           CH3 FHD",
+					"image": "https://cms.dmpcdn.com/livetv/2020/06/23/c93cf2c0-b54f-11ea-8fac-236a281cd6c5_320.png",
+					"url": "https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0003/HLS/B0003.m3u8", 
+					"referer": "https://redirector.ais-vidnt.com", 
+					"info": "Server AIS Play", 
+					"playInNatPlayer": "true"
+				},
+				{
+					"name": "            CH3 HD",
+					"image":"https://cms.dmpcdn.com/livetv/2020/06/23/c93cf2c0-b54f-11ea-8fac-236a281cd6c5_320.png",
+					"url": "https://edge6a.v2h-cdn.com/3hd/3hd.stream/playlist.m3u8", 
+					"referer": "", 
+					"info": "Server edge6a", 
+					"playInNatPlayer": "true"
+				},
+				{
+					"name": "           CH5 FHD",
+					"image":"https://www.tv5.co.th/tv5hd1-web/img/tv5hd_logo_light.png",
+					"url": "https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8", 
+					"info": "Server CH5", 
+					"playInNatPlayer": "true"
+				},
+				{
+					"name": "          CH5 FHD",
+					"image":"https://www.tv5.co.th/tv5hd1-web/img/tv5hd_logo_light.png",
+					"url": "https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0007/HLS/V0007.m3u8",  
+					"referer": "https://redirector.ais-vidnt.com", 
+					"info": "Server AIS Play", 
+					"playInNatPlayer": "true"
+				},
+				{
+					"name": "           CH7 FHD",
+					"image":"https://upload.wikimedia.org/wikipedia/commons/8/82/Ch-7-HD-Logo-crop.png", 
+					"url": "https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0018/HLS/V0018.m3u8", 
+					"referer": "https://redirector.ais-vidnt.com", 
+					"info": "Server AIS Play", 
+					"playInNatPlayer": "true"
+				},
+				{
+					"name": "            CH7 FHD",
+					"image":"https://upload.wikimedia.org/wikipedia/commons/8/82/Ch-7-HD-Logo-crop.png",
+					"url": "https://live-cdn-hwc.ch7.com/livech7hd/HD.m3u8", 
+					"info": "Server CH7", 
+					"playInNatPlayer": "true"
+				},
+				{
+					"name": "            MCOT HD",  
+					"image": "https://imgs.mcot.net/images/2020/04/1586506833486.png", 
+					"url": "https://live-org-01-cdn.mcot.net/mcothd1080p_edge/smil:mcothd1080p.smil/playlist.m3u8", 
+					"referer": "https://tv.mcot.net/", 
+					"info": "Server mcot", 
+					"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
+					"playInNatPlayer": "true"
+				},
+				{
+					"name": "           MCOT FHD",  
+					"image": "https://imgs.mcot.net/images/2020/04/1586506833486.png",  
+					"url": "https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0008/HLS/V0008.m3u8", 
+					"referer": "https://redirector.ais-vidnt.com", 
+					"info": "Server AIS Play", 
+					"playInNatPlayer": "true"
+				},
+				{
+					"name": "            MCOT HD",  
+					"image": "https://imgs.mcot.net/images/2020/04/1586506833486.png", 
+					"url": "https://edge6a.v2h-cdn.com/mcothd/mcothd.stream/playlist.m3u8", 
+					"referer": "", 
+					"info": "Server edge6a",  
+					"playInNatPlayer": "true"
+				},
+				{
+					"name": "            NBT2 HD",
+					"image": "https://cms.dmpcdn.com/livetv/2020/08/19/1ff76c00-e1f4-11ea-a0b4-232d08119930_original.png",  
+					"url": "https://cdn-edge-ott.prd.go.th/live_vlc/smil:c30f-97f7-c767-ca64-98aa/chunklist_w2046698897_b3128000.m3u8", 
+					"info": "Server NBT", 
+					"playInNatPlayer": "true"
+					},
+					{        
+					"name": "            NBT2 FHD",
+					"image": "https://cms.dmpcdn.com/livetv/2020/08/19/1ff76c00-e1f4-11ea-a0b4-232d08119930_original.png",  
+					"url": "https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0001/DASH/V0001.mpd", 
+					"referer": "https://redirector.ais-vidnt.com", 
+					"info": "Server AIS Play", 
+					"playInNatPlayer": "true"
+				},
+				{
+					"name": "       Thai TPBS FHD",
+					"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Thai_PBS_2015.svg/1024px-Thai_PBS_2015.svg.png",    
+					"url": "https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8",
+					"info": "Server TPBS", 
+					"playInNatPlayer": "true"
+				},
+				{
+					"name": "       Thai TPBS FHD",
+					"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Thai_PBS_2015.svg/1024px-Thai_PBS_2015.svg.png",  
+					"url": "https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0014/DASH/V0014.mpd", 
+					"referer": "https://redirector.ais-vidnt.com", 
+					"info": "Server AIS Play", 
+					"playInNatPlayer": "true"
+				},
+				{
+					"name": "          TNN16 HD ",  
+					"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R2_0053.png",
+					"url":"https://www.tnnthailand.com/live/", 
+					"referer": "https://www.tnnthailand.com/live/", 
+					"userAgent": "ExoPlayerDemo/4.0.02019 (Linux;Android 12) ExoPlayerLib/1.5.13", 
+					"playInNatPlayer": "true"
+				},
+				{
+					"name": "           TNN16 ",  
+					"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R2_0053.png",
+					"url": "https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0053/DASH/V0053.mpd", 
+					"referer": "https://redirector.ais-vidnt.com", 
+					"info": "Server AIS Play", 
+					"playInNatPlayer": "true"
+				},
+				{
+					"name": "           TNN16 ",  
+					"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R2_0053.png",
+					"url": "https://edge6a.v2h-cdn.com/tnn24/tnn24.stream/playlist.m3u8", 
+					"referer": "", 
+					"info": "Server edge6a",  
+					"playInNatPlayer": "true"
+				},
+				{
+					"name": "        Nation TV HD", "image": "https://static.wikia.nocookie.net/logopedia/images/f/f9/Nation_TV_22.png",  
+					"url": "https://www.dailymotion.com/embed/video/x6eoldf?autoplay=1", 
+					"info": "Server dailymotion(เลือกดู)",
+					"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+					"userAgent": "exoplayer_video", 
+					"playInNatPlayer": "true"
+				},
+				{
+					"name": "        Nation TV ", "image": "https://static.wikia.nocookie.net/logopedia/images/f/f9/Nation_TV_22.png",  
+					"url": "https://edge6a.v2h-cdn.com/nation/nation.stream/playlist.m3u8", 
+					"referer": "", 
+					"info": "Server edge6a", 
+					"playInNatPlayer": "true"
+				},
+				{
+					"name": "     Workpoint HD",  
+					"image": "https://static.wikia.nocookie.net/logopedia/images/8/8e/Workpoint-logo.png",  
+					"url": "http://xemtruyenhinh.xyz/kenh/workpoint.php", 
+					"info": "Server dailymotion(เลือกดู)", 
+					"userAgent": "ExoPlayerDemo/4.0.02019 (Linux;Android 12) ExoPlayerLib/1.5.13", "embed": "true"
+				},
+				{
+					"name": "     Workpoint TV",  
+					"image": "https://static.wikia.nocookie.net/logopedia/images/8/8e/Workpoint-logo.png",  
+					"url": "https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0015/HLS/V0015.m3u8", 
+					"referer": "https://redirector.ais-vidnt.com", 
+					"info": "Server AIS Play", 
+					"playInNatPlayer": "true"
+				},
+				{
+					"name": "     Workpoint TV",  
+					"image": "https://static.wikia.nocookie.net/logopedia/images/8/8e/Workpoint-logo.png",  
+					"url": "https://edge6a.v2h-cdn.com/workpoint/workpoint.stream/playlist.m3u8", 
+					"referer": "", 
+					"info": "Server edge6a",  
+					"playInNatPlayer": "true"
+				},
+				{
+					"name": "         TRUE4U HD", "image": "https://static.wikia.nocookie.net/logopedia/images/f/ff/True4u1.png", 
+					"url":"https://true4u.com/live/", 
+					"referer": "https://true4u.com/live/", 
+					"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
+					"playInNatPlayer": "true"
+				},
+				{
+					"name": "         TRUE4U SD", "image": "https://static.wikia.nocookie.net/logopedia/images/f/ff/True4u1.png", 
+					"url": "https://edge6a.v2h-cdn.com/true4u/true4u.stream/playlist.m3u8", 
+					"referer": "", 
+					"info": "Server edge6a", 
+					"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
+					"playInNatPlayer": "true"
+				},
+				{
+					"name": "     GMM Channel HD",
+					"image": "https://assets.oned.net/3/logo_GMM25.png",
+					"url" :  "https://bcovlive-a.akamaihd.net/fb7ac9cc4e1140238e3077ffd29337fe/ap-southeast-1/6415628290001/playlist.m3u8", 
+					"referer": "https://bcovlive-a.akamaihd.net", 
+					"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+					"playInNatPlayer": "true"
+				},
+				{
+					"name": "        GMM Channel",
+					"image": "https://assets.oned.net/3/logo_GMM25.png",
+					"url" :  "https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0019/HLS/B0019.m3u8", 
+					"referer": "https://redirector.ais-vidnt.com", 
+					"info": "Server AIS Play", 
+					"playInNatPlayer": "true"
+				},
+				{
+					"name": "        GMM Channel",
+					"image": "https://assets.oned.net/3/logo_GMM25.png",
+					"url":"https://edge6a.v2h-cdn.com/gmm25/gmm25.stream/playlist.m3u8", 
+					"referer": "", 
+					"info": "Server edge6a",
+					"playInNatPlayer": "true"
+				},
+				{
+					"name": "         MONO29 TH", 
+					"image": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png",
+					"url": "https://edge4-bkk.3bb.co.th:9443/Stream_HLSMONO29_1080P/mono29hls_1080TH.stream/playlist.m3u8", 
+					"referer": "https://edge4-bkk.3bb.co.th:9443", 
+					"playInNatPlayer": "true"
+				},
+				{
+					"name": "         MONO29 EN", 
+					"image": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png",
+					"url": "https://edge4-bkk.3bb.co.th:9443/Stream_HLSMONO29_1080P/mono29hls_1080EN.stream/playlist.m3u8",
+					"referer": "https://mono29.com", 
+					"playInNatPlayer": "true"
+				},
+				{
+					"name": "             ONE FHD", 
+					"image": "https://assets.oned.net/3/logo_one31.png",
+					"url": "https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0012/DASH/B0012.mpd",
+					"referer": "https://redirector.ais-vidnt.com", 
+					"info": "Server AIS Play", 
+					"playInNatPlayer": "true"
+				},
+				{
+					"name": "             ONE HD", 
+					"image": "https://assets.oned.net/3/logo_one31.png",
+					"url": "https://bcovlive-a.akamaihd.net/e11d0db446fe41fe9be61157033f9325/ap-southeast-1/6415628290001/playlist.m3u8", 
+					"info": "Server ONE HD",
+					"referer": "https://bcovlive-a.akamaihd.net", 
+					"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+					"playInNatPlayer": "true"
+				},
+				{
+					"name": "              ONE HD", 
+					"image": "https://assets.oned.net/3/logo_one31.png", 
+					"url": "https://edge6a.v2h-cdn.com/onehd/onehd.stream/playlist.m3u8", 
+					"referer": "", 
+					"info": "Server edge6a",  
+					"playInNatPlayer": "true"
+				},
+				{
+					"name": "  Thairath TV FHD",
+					"image": "https://www.thairath.co.th/static/img/thairathTV/logo.png",
+					"url": "https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0013/DASH/V0013.mpd", 
+					"referer": "https://redirector.ais-vidnt.com", 
+					"info": "Server AIS Play", 
+					"playInNatPlayer": "true"
+				},
+				{
+					"name": "   Thairath TV  HD",
+					"image": "https://www.thairath.co.th/static/img/thairathTV/logo.png",
+					"url": "https://streaming-web.thairath.co.th/hls/playlist.m3u8", 
+					"referer": "https://www.thairath.co.th/tv/live", 
+					"info": "Server thairath",  
+					"playInNatPlayer": "true"
+				},
+				{
+					"name": "  AMARIN TV  FHD",
+					"image": "https://upload.wikimedia.org/wikipedia/th/thumb/2/25/Amarin_TV_HD34.png/150px-Amarin_TV_HD34.png",
+					"url": "https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0017/DASH/V0017.mpd", 
+					"referer": "https://redirector.ais-vidnt.com", 
+					"info": "Server AIS Play", 
+					"playInNatPlayer": "true"
+					},
+					{ 
+					"name": "   AMARIN TV  HD",
+					"image": "https://upload.wikimedia.org/wikipedia/th/thumb/2/25/Amarin_TV_HD34.png/150px-Amarin_TV_HD34.png",
+					"url": "https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chamarin/index.m3u8", 
+					"referer": "", 
+					"info": "Server CableTV", 
+					"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
+					"playInNatPlayer": "true"
+				},
+				{
+					"name": "           PPTV FHD",
+					"image": "https://static.wikia.nocookie.net/logopedia/images/8/84/Logo-pptvhd36-2019.svg/revision/latest/scale-to-width-down/250?cb=20190807043559",
+					"url": "https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0022/DASH/V0022.mpd", 
+					"referer": "https://redirector.ais-vidnt.com", 
+					"info": "Server AIS Play", 
+					"playInNatPlayer": "true"
+				},
+				{
+					"name": "            PPTV HD",
+					"image": "https://static.wikia.nocookie.net/logopedia/images/8/84/Logo-pptvhd36-2019.svg/revision/latest/scale-to-width-down/250?cb=20190807043559", 
+					"url": "https://edge6a.v2h-cdn.com/pptv/pptv.stream/playlist.m3u8", 
+					"referer": "", 
+					"info": "Server edge6a",  
+					"playInNatPlayer": "true"
+				},
+				{
+					"name": "           CH8 HD",
+					"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Ch_8_2016.svg/1200px-Ch_8_2016.svg.png",
+					"url": "https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8", 
+					"info": "Server pRSmedia",
+					"playInNatPlayer": "true"
+				},
+				{
+					"name": "            CH8 SD",
+					"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Ch_8_2016.svg/1200px-Ch_8_2016.svg.png",
+					"url": "https://edge6a.v2h-cdn.com/ch8/ch8.stream/playlist.m3u8", 
+					"referer": "", 
+					"info": "Server edge6a",  
+					"playInNatPlayer": "true"
+					},
+					{        
+					"name": "   JKN 18 SD ais",
+					"image": "https://cms.dmpcdn.com/livetv/2021/06/15/3e4e0540-cdb4-11eb-9a22-7958179a38a7_320.png",
+					"url": "https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0010/HLS/V0010.m3u8", 
+					"referer": "https://redirector.ais-vidnt.com", 
+					"playInNatPlayer": "true"
+				},
+				{
+					"name": "        JKN 18 SD",
+					"image": "https://cms.dmpcdn.com/livetv/2021/06/15/3e4e0540-cdb4-11eb-9a22-7958179a38a7_320.png",
+					"url": "https://edge6a.v2h-cdn.com/jkn18/jkn18.stream/playlist.m3u8", 
+					"referer": "", 
+					"info": "Server edge6a",  
+					"playInNatPlayer": "true"
+				},
+				{
+					"name": "      T Sports 7 HD",  
+					"image": "https://www.tsports7.com/logo.png",
+					"url": "https://www.tsports7.com/live", 
+					"referer": "https://www.tsports7.com/live", 
+					"info": "Server tsports7",  
+					"playInNatPlayer": "true"
+				},
+				{
+					"name": "      T Sports 7 ",  
+					"image": "https://www.tsports7.com/logo.png",
+					"url" : "https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0129/HLS/V0129.m3u8", 
+					"referer": "https://redirector.ais-vidnt.com", 
+					"info": "Server AIS Play", 
+					"playInNatPlayer": "true"
+				},
+				{
+					"name": "      T Sports 7 ",  
+					"image": "https://www.tsports7.com/logo.png",
+					"url" : "https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtsport/index.m3u8", 
+					"referer": "", 
+					"info": "Server goprimetime", 
+					"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
+					"playInNatPlayer": "true"
+				},
+				{
+					"name": "        NBT Wolrd HD",
+					"image": "https://static.wikia.nocookie.net/logopedia/images/7/7d/Nbtworld.png/revision/latest?cb=20200719133144",  
+					"url": "https://thainews.prd.go.th/lv/live/ch1_L_L.sdp/playlist.m3u8", 
+					"info": "Server NBT", 
+					"playInNatPlayer": "true"
+				},
+				{
+					"name": "            NEW1",
+					"image": "https://news1live.com/images/news1-logo.jpg",
+					"url": "https://server1.streamssl.com/stream/news1_hi.m3u8", 
+					"playInNatPlayer": "true"
+				},
+				{
+					"name": "            NEW1",
+					"image": "https://news1live.com/images/news1-logo.jpg",
+					"url": "http://news1.live14.com/stream/news1_hi.m3u8", 
+					"playInNatPlayer": "true"
+				},
+				{
+					"name": "             TPTV",
+					"image": "https://www.tpchannel.org/img/logo.png",
+					"url": "https://cdn-live.tpchannel.org/v1/0180e10a4a7809df73070d7d8760/0180e10adac40b8ed59433d5f3ce/main.m3u8", 
+					"playInNatPlayer": "true"
+				},
+				{
+					"name": "            TPTV",
+					"image": "https://www.tpchannel.org/img/logo.png",
+					"url": "https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0048/HLS/V0048.m3u8", 
+					"playInNatPlayer": "true"
+				},
+				{
+					"name": "         VIPA FHD",
+					"image": "https://d198sf0nbhx18q.cloudfront.net/web/images/logo/logo.png",
+					"url": "https://thaipbs-ophctt.cdn.byteark.com/0db95d655989436dbd571dcb8f70d98f/ap-southeast-1/6075037809001/playlist.m3u8",
+					"referer": "https://vipa.me/th/watch/live-event"
+				}, 
+				{
+					"name": "         ALTV4 FHD",
+					"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/ALTV_Logo.png/150px-ALTV_Logo.png",
+					"url": "https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8", 
+					"referer": "https://www.thaipbs.or.th/"
+				}, 
+				{
+					"name": "  Voice TV FHD",
+					"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/VoiceTV.png/120px-VoiceTV.png",             
+					"url": "https://player.twitch.tv/?channel=voicetv&parent=www.voicetv.co.th&parent=voicetv.co.th",
+					"playInNatPlayer": "true" 
+				},
+				{
+					"name": "       TOP News", 
+					"image": "https://images.topnews.co.th/2021/04/cropped-topnews-logo.png",          
+					"url":"https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0033/HLS/V0033.m3u8", 
+					"referer"="https://redirector.ais-vidnt.com",  
+					"info": "Server aisplay", 
+					"playInNatPlayer": "true"
+				}, 
+				{
+					"name": "         ฟ้าวันใหม่", 
+					"image": "https://www.thai-tai.tv/images/blusky-logo-lg.png",          
+					"url":"https://live.x2.co.th/live/thai_sdgni0kx2v7zcr3f.m3u8", 
+					"referer": "https://www.thai-tai.tv/", 
+					"playInNatPlayer":	"true"
+				},
+				{
+					"name":"         Police TV",
+					"image":"https://www.policetv.tv/wp-content/uploads/2019/10/cropped-LOGO-POLICE-2019_512.png",
+					"url":"https://cdn-th-vip.livestreaming.in.th/policetv/policetv/playlist.m3u8", "desktop":	"true"
+				},
+				{
+					name:"                ถิ่นใต้",
+					image:"http://sun9-83.userapi.com/s/v1/ig2/lL76bdFZnckqZX24C1mmyxMBAqz9jIo1TwWN5N4C4mWWG49dmgEA9ab2mgsfgqIG-tzfjejsfnkb_7ncQmAKBlOm.jpg?size=200x200&quality=96&crop=353,0,962,963&ava=1",
+					url:"https://www.inwiptv.com/player_demo.php?channel=61235", referer:"https://www.inwiptv.com/"
+				}, 
+				{
+					name:"      MV GO SPORT",
+					image:"https://media-mvtv-app.imgix.net/uploads/channel/110_x_ZthGxK85dq3pbS9uv4knjiOf1ylwgrWI.png",
+					url:"https://psiiptv-b.sky-cdn.com/ttd24-playlist/index.m3u8", referer:"", 
+					"playInNatPlayer": "true"
+				},
+				{
+					name:"             GOLIVE",
+					image:"https://thaitvstream.com/streaming/gochannel/gochannel.png",
+					url:"https://live3.thaitvstream.com/play/gochannel/index.m3u8", referer:"", 
+					"playInNatPlayer": "true"
+				},
+				{
+					"name": "Fresh News TV FHD",
+					"image": "http://image.freshnewsasia.com/banner/web/logo_fron_web_2.jpg",              
+					"url": "http://167.99.65.12:1935/live/ngrp:myStream_all/chunklist.m3u8",
+					"playInNatPlayer": "true"
+				},
+				{
+					"name": "SEATV រំហើយ Channel",
+					"image": "http://3.bp.blogspot.com/-_65_MKL23Kc/VkdI8VUAyCI/AAAAAAAAAfY/NC59f6wpbMo/w1200-h630-p-k-no-nu/sea_tv_education.png",  
+					"url": "http://seatv.netlinkbroadcaster.com/hls/test.m3u8 ", referer:"http://seatv.netlinkbroadcaster.com" , 
+					"playInNatPlayer": "true"
+				},
+				{
+					"name": "   TV5 Cambodia",
+					"image": "https://static.wikia.nocookie.net/logopedia/images/2/2b/TV5_Digital_Logo.png/revision/latest/scale-to-width-down/284?cb=20220212084317",   
+					"url": "http://203.176.130.123:8989/live/tv5_480k.stream/playlist.m3u8", 
+					"playInNatPlayer": "true"
+				},
+				{
+					"name": "         Khmer TV",
+					"image": "https://image.roku.com/developer_channels/prod/4e97d4cefe757d13ce4631150e2ca64918085916b23930c31838a7c2db266ef8.png",   
+					"url": "https://livefta.malimarcdn.com/ftaedge00/khmertv2020.stream/chunklist.m3u8", 
+					"playInNatPlayer": "true"
+				},
+				{
+					"name": "                TVK",
+					"image": "https://static.wikia.nocookie.net/logopedia/images/7/7c/TV_Kampuchea.jpg/revision/latest?cb=20170317174601",              
+					"url": "http://203.176.130.123:8989/live/tvk_480k.stream/playlist.m3u8", 
+					"playInNatPlayer": "true"
+				},
+				{
+					"name": "              TV3Cam",
+					"image": "https://1.bp.blogspot.com/-2IMS257efMc/XllMwxEopyI/AAAAAAAAJ-E/Z5rKuWkBPeMCIiR1OPMpcB_fXFkT8ItbACLcBGAsYHQ/s1600/tv3.png",   
+					"url": "https://edge2z.v2h-cdn.com/tv3Cam/tv3Cam.stream/chunklist_w1163378101.m3u8?_=1", 
+					"playInNatPlayer": "true"
+				},
+				{
+					"name": "       BTV News",
+					"image": "https://btv.com.kh/image/logo.png",   
+					"url": "https://livefta.malimarcdn.com/tvkedge/btv.stream/chunklist.m3u8", 
+					"playInNatPlayer": "true"
+				},
+				{
+					"name": "       Bayon TV",
+					"image": "https://4.bp.blogspot.com/-3STE6jDYbUw/Wz3qNqazEVI/AAAAAAAAChE/d1j3NpURutEn10Hgol61fgU-zC7WUS_cwCLcBGAs/s1600/1%2BBAYON.png",   
+					"url": "https://livefta.malimarcdn.com/tvkedge/bayonhd.stream/chunklist.m3u8", 
+					"playInNatPlayer": "true"
+				},
+				{
+					"name": "        Apsara TV",
+					"image": "https://static.wikia.nocookie.net/logopedia/images/2/2b/Apsara_tv.png/revision/latest/scale-to-width-down/200?cb=20191209090040",   
+					"url": "https://live.ams.com.kh/app/stream/playlist.m3u8", 
+					"playInNatPlayer": "true"
+				},
+				{
+					name:"LNTV 1",
+					image:"https://yt3.googleusercontent.com/ytc/AOPolaSfF14KirvCs4hvuqXsDBCV4fZM6yO1FYwDrBOm6Q=s176-c-k-c0x00ffffff-no-rj",
+					url:"https://ctrl.laotv.la/live/LNTV1/index.m3u8",
+					"userAgent":"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+					"playInNatPlayer": "true""
+				}, 
+				{
+					
+					name:"LNTV 3",
+					image:"https://img.24freetv.com/upload/lntv-3.jpg",
+					url:"https://ctrl.laotv.la/live/LNTV3/index.m3u8",
+					"userAgent":"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+					"playInNatPlayer": "true""
+				}, 
+				{
+					
+					name:"Lao PSTV",
+					image:"https://yt3.googleusercontent.com/ytc/AOPolaSLQuIelWXDgD67Ot-EATjyeC8HwjULZdWoo2jp=s176-c-k-c0x00ffffff-no-rj",
+					url:"https://ctrl.laotv.la/live/PSTV/index.m3u8",
+					"userAgent":"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+					"playInNatPlayer": "true""
+				}, 
+				{
+					
+					name:"LAO STAR",
+					image:"https://yt3.googleusercontent.com/GH9swxiZLiK4Ixe5D_dhCKZyTks3v_PlZq7CDuJFirtjnSxMK2Luka6yAC8DP4KUUy2NN5Tulw=s176-c-k-c0x00ffffff-no-rj",
+					url:"https://ctrl.laotv.la/live/LaoStar/index.m3u8",
+					"userAgent":"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+					"playInNatPlayer": "true""
+				}, 
+				{
+					
+					name:"VTE 9",
+					image:"https://drive.google.com/uc?id=1kPMBFib3V1hjuo8j4wRCIOxxr8cJMnBr",
+					url:"https://ctrl.laotv.la/live/VTE9/index.m3u8",
+					"userAgent":"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+					"playInNatPlayer": "true"
+				}, 
+				{
+					name:"Lao ESTV",
+					image:"https://img.24freetv.com/upload/lao-estv.jpg",
+					url:"https://ctrl.laotv.la/live/LaoESTV/index.m3u8",
+					"userAgent":"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+					"playInNatPlayer": "true"
+				}, 
+				{
+					name:"MV Lao",
+					image:"https://yt3.googleusercontent.com/ytc/APkrFKbptQHnQN1kwcrnSBvNaiEUxVXaoymlviIqOdy6=s900-c-k-c0x00ffffff-no-rj",
+					url:"https://n-edge-1-th.v2h-cdn.com/mvlao/mvlao/playlist.m3u8",
+					"userAgent":"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+					"playInNatPlayer": "true"
+				},
+				{
+					"name": "LaoStar TV",
+					"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Lao_Star_Tv.png/640px-Lao_Star_Tv.png",              
+					"url": "https://ctrl.laotv.la/live/LaoStar/index.m3u8", 
+					"playInNatPlayer": "true"
+				},
+				{
+					"name": "Lao Champa3 TV",
+					"image": "https://aetlive.s3-us-west-2.amazonaws.com/assets/img/2018/03/03231638/newLaoChampa3.jpg",              
+					"url": "https://livefta.malimarcdn.com/ftaedge00/laochampa3.stream/chunklist.m3u8", 
+					"playInNatPlayer": "true"
+				},
+				{
+					"name": "Oh meaung lao",
+					"image": "https://sv1.picz.in.th/images/2021/11/17/60aDkR.jpg",              
+					"url": "https://livefta.malimarcdn.com/ftaedge00/ohmuanglao.stream/playlist.m3u8", 
+					"playInNatPlayer": "true"
+				},
+				{
+					"name": "           PPTV FHD",
+					"image": "https://static.wikia.nocookie.net/logopedia/images/8/84/Logo-pptvhd36-2019.svg/revision/latest/scale-to-width-down/250?cb=20190807043559",
+					"url": "https://tv.trueid.net/embed/pptv-hd?autoplay=yes&nopageview=yes", "isHost": "true", "embed": "true"
+				},
+				{
+					"name": "     Workpoint TV",  
+					"image": "https://static.wikia.nocookie.net/logopedia/images/8/8e/Workpoint-logo.png",  
+					"url": "https://edge6a.v2h-cdn.com/workpoint/workpoint.stream/playlist.m3u8", 
+					"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+				}
+			  ]
+			}
+		  ]
+		}
+
