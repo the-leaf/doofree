@@ -1,9 +1,29 @@
 {
  "name": "ละคร",
- "author": "เจียว เจียว อัพวันที่ 24 มกราคม 2567",
+ "author": "เจียว เจียว อัพวันที่ 25 มกราคม 2567",
  "info": "Watchlakorn ที่สุดของคนรักละคร",
  "image": "https://cdn.watchlakorn.in/images/video_logo.png",
  "groups": [
+  {
+   "name": "เรือนทาส [ยังไม่จบ]",
+   "image": "https://cdn.watchlakorn.in/storage/images/av-1706112706.jpg",
+   "stations": [
+    {
+     "name": "เรือนทาส  ตอนที่ 1",
+     "info": "วันที่ 24 มกราคม 2567",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1706112706.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/7e01e776bd42cbf518864ca5b3cfcddc/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "เรือนทาส  ตอนที่ 2",
+     "info": "วันที่ 25 มกราคม 2567",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1706112706.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/eb244e595bb5d05a15722cdf0f1ad978/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    }
+   ]
+  },
   {
    "name": "ปล้นเหนือเมฆ [ยังไม่จบ]",
    "image": "https://cdn.watchlakorn.in/storage/images/av-1706016285.jpg",
@@ -20,6 +40,13 @@
      "info": "วันที่ 24 มกราคม 2567",
      "image": "https://cdn.watchlakorn.in/storage/images/av-1706016285.jpg",
      "url": "https://www.watchlakorn.in/egdeny/be3d634f9e8e47dadd2f7d2d2d149d58/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ปล้นเหนือเมฆ  ตอนที่ 3",
+     "info": "วันที่ 25 มกราคม 2567",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1706016285.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/e59f91d44e3bcf505e6430d213589de1/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
     }
    ]
@@ -87,6 +114,13 @@
      "info": "วันที่ 24 มกราคม 2567",
      "image": "https://cdn.watchlakorn.in/storage/images/av-1705902175.jpg",
      "url": "https://www.watchlakorn.in/egdeny/7c3f629c2204ea43b8fab2d549bb02a1/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "รักท่วมทุ่ง  ตอนที่ 4",
+     "info": "วันที่ 25 มกราคม 2567",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1705902175.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/4e51e52c3765e5066d519721c44c31ea/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
     }
    ]
@@ -232,6 +266,13 @@
      "image": "https://cdn.watchlakorn.in/storage/images/av-1704721231.jpg",
      "url": "https://www.watchlakorn.in/egdeny/5125882caa15fae0bbf3bd148d3fd789/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ลิเกหมอลำ  ตอนที่ 14",
+     "info": "วันที่ 25 มกราคม 2567",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1704721231.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/9e8fadb7378cb0dd6c85091053c4bc69/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
     }
    ]
   },
@@ -314,6 +355,13 @@
      "info": "วันที่ 24 มกราคม 2567",
      "image": "https://cdn.watchlakorn.in/storage/images/av-1704721180.jpg",
      "url": "https://www.watchlakorn.in/egdeny/c0703a22bbe904dd8d83ebe0565a2c21/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "วิญญาณแพศยา  ตอนที่ 12",
+     "info": "วันที่ 25 มกราคม 2567",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1704721180.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/723cb753e963647c29cfaad192cd4f6e/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
     }
    ]
@@ -1099,6 +1147,13 @@
      "info": "วันที่ 17 มกราคม 2567",
      "image": "https://cdn.watchlakorn.in/storage/images/av-1700700693.jpg",
      "url": "https://www.watchlakorn.in/egdeny/8a86538507bcce83dd27eb186321840a/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "7 วันก่อนวาเลนไทน์ แสงสว่าง  ตอนที่ 10",
+     "info": "วันที่ 24 มกราคม 2567",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1700700693.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/7abad68136605f011e3abe05f6f6736a/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
     }
    ]
