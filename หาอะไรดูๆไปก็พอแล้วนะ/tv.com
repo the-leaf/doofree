@@ -7,6 +7,12 @@
 	{
 		"name": "ช่องทีวีดิจิตอล",
 		"image": "https://images.droidsans.com/wp-content/uploads/2014/04/doodee-sticker.png",
+		"url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/th.m3u",
+		"import":"false"
+	},
+	{
+		"name": "ช่องทีวีดิจิตอล",
+		"image": "https://images.droidsans.com/wp-content/uploads/2014/04/doodee-sticker.png",
 		"url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/ช่องทีวีดิจิตอล.txt",
 		"import":"false"
 	},
