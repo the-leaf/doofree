@@ -1,9 +1,22 @@
 {
  "name": "ละคร",
- "author": "เจียว เจียว อัพวันที่ 26 มกราคม 2567",
+ "author": "เจียว เจียว อัพวันที่ 28 มกราคม 2567",
  "info": "Watchlakorn ที่สุดของคนรักละคร",
  "image": "https://cdn.watchlakorn.in/images/video_logo.png",
  "groups": [
+  {
+   "name": "มนต์รักลูกทุ่ง๒๕๖๗ [ยังไม่จบ]",
+   "image": "https://cdn.watchlakorn.in/storage/images/av-1706315663.jpg",
+   "stations": [
+    {
+     "name": "มนต์รักลูกทุ่ง ๒๕๖๗  ตอนที่ 1",
+     "info": "วันที่ 26 มกราคม 2567",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1706315663.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/7757e6d09caea8d678feffb10f197cfb/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    }
+   ]
+  },
   {
    "name": "ในรอยทราย [ยังไม่จบ]",
    "image": "https://cdn.watchlakorn.in/storage/images/av-1706198535.jpg",
@@ -472,6 +485,13 @@
      "image": "https://cdn.watchlakorn.in/storage/images/av-1704558397.jpg",
      "url": "https://www.watchlakorn.in/egdeny/e0b5b809f58b5b5e9f1643e28396f383/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "นางทาสหัวทอง  ตอนที่ 7",
+     "info": "วันที่ 27 มกราคม 2567",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1704558397.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/0dc6940b5884d363d0259ce3d2210cf0/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
     }
    ]
   },
@@ -547,6 +567,13 @@
      "info": "วันที่ 26 มกราคม 2567",
      "image": "https://cdn.watchlakorn.in/storage/images/av-1704467884.jpg",
      "url": "https://www.watchlakorn.in/egdeny/24348118dca1c2705a5de324c4e06243/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "หมอตลอดกาล  ตอนที่ 11",
+     "info": "วันที่ 27 มกราคม 2567",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1704467884.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/ef1b5b66aa0b01a403629e4ee296a1ba/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
     }
    ]
@@ -712,6 +739,13 @@
      "info": "วันที่ 20 มกราคม 2567",
      "image": "https://cdn.watchlakorn.in/storage/images/av-1702136251.jpg",
      "url": "https://www.watchlakorn.in/egdeny/6310dfedbac89c6450451e51a5987887/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "30 ยังซิง  ตอนที่ 7",
+     "info": "วันที่ 27 มกราคม 2567",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1702136251.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/d92f393c2fec4f14a98f5de847de7100/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
     }
    ]
@@ -1036,6 +1070,13 @@
      "info": "วันที่ 20 มกราคม 2567",
      "image": "https://cdn.watchlakorn.in/storage/images/av-1700963733.jpg",
      "url": "https://www.watchlakorn.in/egdeny/9d47d8465f10202e65be7464d16887af/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ลางสังหรณ์  ตอนที่ 10",
+     "info": "วันที่ 27 มกราคม 2567",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1700963733.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/3e7668d08aa3f5ea2711334e4be391f9/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
     }
    ]
@@ -1410,6 +1451,13 @@
      "image": "https://cdn.watchlakorn.in/storage/images/av-1700320717.jpg",
      "url": "https://www.watchlakorn.in/egdeny/98334dcf2c42b103060afc37d43367c7/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ศิราณีที่รัก วังวนชู้ EP.1 ตอนที่ 13",
+     "info": "วันที่ 27 มกราคม 2567",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1700320717.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/563e682d3be8164e2756fa4bfaf9218d/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
     }
    ]
   },
@@ -1485,6 +1533,13 @@
      "info": "วันที่ 19 มกราคม 2567",
      "image": "https://cdn.watchlakorn.in/storage/images/av-1700238133.jpg",
      "url": "https://www.watchlakorn.in/egdeny/8b474145fb166d25c87db511445e908c/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "Pit Babe The Series  ตอนที่ 11",
+     "info": "วันที่ 26 มกราคม 2567",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1700238133.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/e7e5050a244086a1a81dca92ae22eb54/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
     }
    ]
@@ -1935,6 +1990,13 @@
      "info": "วันที่ 19 มกราคม 2567",
      "image": "https://cdn.watchlakorn.in/storage/images/av-1699632286.jpg",
      "url": "https://www.watchlakorn.in/egdeny/91a8c81bf8a0b159b01acba310d479ab/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ภาพนายไม่เคยลืม  ตอนที่ 12",
+     "info": "วันที่ 26 มกราคม 2567",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1699632286.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/4d69f8bf7a18adf0d3b8ca2691ce50a2/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
     }
    ]
@@ -44854,6 +44916,13 @@
      "info": "วันที่ 20 มกราคม2567",
      "image": "https://cdn.watchlakorn.in/storage/images/av-1515515403.jpg",
      "url": "https://www.watchlakorn.in/egdeny/90149a48136495d80fb98b0621264798/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "สุภาพบุรุษสุดซอย ฝ้าก็รั่ว พี่ก็รั่ว เฌอหัวจะปวด",
+     "info": "วันที่ 27 มกราคม2567",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1515515403.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/72bb2b0e0d2debad11ad9cf1bd7d42b9/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
     }
    ]
