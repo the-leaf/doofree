@@ -1,6 +1,6 @@
 {
  "name": "ละคร-ONAIR",
- "author": "เจียว เจียว อัพ วันที่ 30 มกราคม 2567",
+ "author": "เจียว เจียว อัพ วันที่ 31 มกราคม 2567",
  "info": "Watchlakorn.in",
  "image": "https://cdn.watchlakorn.in/images/video_logo.png",
  "groups": [
@@ -1015,6 +1015,41 @@
      "info": "วันที่ 30 พฤศจิกายน 2566",
      "image": "https://cdn.watchlakorn.in/storage/images/av-1697031176.jpg",
      "url": "https://www.watchlakorn.in/egdeny/782fc378421905dff555d9eaaff8e593/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    }
+   ]
+  },
+  {
+   "name": "ไทม์ผ่านเวลา [ยังไม่จบ]",
+   "info": "Watchlakorn.in",
+   "image": "https://cdn.watchlakorn.in/storage/images/av-1704843480.jpg",
+   "stations": [
+    {
+     "name": "ไทม์ผ่านเวลา  ตอนที่ 1",
+     "info": "วันที่ 9 มกราคม 2567",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1704843480.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/7cb0dbe1ccb05fc98e6ccf9e24f899f3/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ไทม์ผ่านเวลา  ตอนที่ 2",
+     "info": "วันที่ 16 มกราคม 2567",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1704843480.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/57a1197e2ac3487975086bc4a3b05c04/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ไทม์ผ่านเวลา  ตอนที่ 3",
+     "info": "วันที่ 23 มกราคม 2567",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1704843480.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/d6b34385da6aabd73a87ce80629cd1af/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ไทม์ผ่านเวลา  ตอนที่ 4",
+     "info": "วันที่ 30 มกราคม 2567",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1704843480.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/7eb4aabcbd035ca647b5c8d1b8e0a34e/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
     }
    ]
@@ -3423,34 +3458,6 @@
      "info": "วันที่ 24 มกราคม 2567",
      "image": "https://cdn.watchlakorn.in/storage/images/av-1700700693.jpg",
      "url": "https://www.watchlakorn.in/egdeny/7abad68136605f011e3abe05f6f6736a/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    }
-   ]
-  },
-  {
-   "name": "ไทม์ผ่านเวลา [ยังไม่จบ]",
-   "info": "Watchlakorn.in",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1704843480.jpg",
-   "stations": [
-    {
-     "name": "ไทม์ผ่านเวลา  ตอนที่ 1",
-     "info": "วันที่ 9 มกราคม 2567",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1704843480.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/7cb0dbe1ccb05fc98e6ccf9e24f899f3/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "ไทม์ผ่านเวลา  ตอนที่ 2",
-     "info": "วันที่ 16 มกราคม 2567",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1704843480.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/57a1197e2ac3487975086bc4a3b05c04/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "ไทม์ผ่านเวลา  ตอนที่ 3",
-     "info": "วันที่ 23 มกราคม 2567",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1704843480.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/d6b34385da6aabd73a87ce80629cd1af/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
     }
    ]
