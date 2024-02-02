@@ -1,61 +1,54 @@
 {
  "name": "ซีรี่ย์ใหม่ 2024",
- "author": "เจียว เจียว อัพวันที่ 31 มกราคม 2567",
+ "author": "เจียว เจียว อัพวันที่ 02 กุมภาพันธ์ 2567",
  "info": "ความสำเร็จไม่ใช่จุดสิ้นสุด ความล้มเหลวไม่ใช่เรื่องร้ายแรง ความกล้าหาญที่จะทำต่อไปต่างหากที่สำคัญ",
  "image": "https://www.seriesday.com/wp-content/uploads/2023/02/seriesday-logo.png",
  "groups": [
   {
-   "name": "Queen of Divorce (2024) ราชินีหย่าร้าง",
-   "info": "EP 1",
-   "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Queen-of-Divorce-2024-187x269.jpg",
+   "name": "Pentor (2024) เป็นต่อ",
+   "info": "EP 5",
+   "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Pentor-2024-187x269.jpg",
    "stations": [
     {
      "name": "ตอนที่ 1",
-     "info": "ซับไทย",
-     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Queen-of-Divorce-2024-187x269.jpg",
-     "url": "https://xxx.77player.xyz/m3u8/4b0e64153d129cb65d4e5b9f/4b0e64153d129cb65d4e5b9f800.m3u8",
-     "referer": "https://www.seriesday.com/"
-    }
-   ]
-  },
-  {
-   "name": "Kimi ga Kokoro wo Kuretakara (2024) เพราะเธอมอบหัวใจให้มา",
-   "info": "EP 4",
-   "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Kimi-ga-Kokoro-wo-Kuretakara-2024-เพราะเธอมอบหัวใจให้มา-187x269.jpg",
-   "stations": [
-    {
-     "name": "ตอนที่ 1",
-     "info": "ซับไทย",
-     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Kimi-ga-Kokoro-wo-Kuretakara-2024-เพราะเธอมอบหัวใจให้มา-187x269.jpg",
-     "url": "https://main.77player.xyz/m3u8/30304b5a1c6b685dea50294b/30304b5a1c6b685dea50294b438.m3u8",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Pentor-2024-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/0ab8f1a6be8cc902ae85577d/0ab8f1a6be8cc902ae85577d438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
      "name": "ตอนที่ 2",
-     "info": "ซับไทย",
-     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Kimi-ga-Kokoro-wo-Kuretakara-2024-เพราะเธอมอบหัวใจให้มา-187x269.jpg",
-     "url": "https://main.77player.xyz/m3u8/3866821cb445d27e5b1b090b/3866821cb445d27e5b1b090b438.m3u8",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Pentor-2024-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/4671f9370884af3253c6ec64/4671f9370884af3253c6ec64438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
      "name": "ตอนที่ 3",
-     "info": "ซับไทย",
-     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Kimi-ga-Kokoro-wo-Kuretakara-2024-เพราะเธอมอบหัวใจให้มา-187x269.jpg",
-     "url": "https://xxx.77player.xyz/m3u8/d13f11b1f52036049acaa3a1/d13f11b1f52036049acaa3a1800.m3u8",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Pentor-2024-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/c22e559366ea5cc641be90b9/c22e559366ea5cc641be90b9438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
      "name": "ตอนที่ 4",
-     "info": "ซับไทย",
-     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Kimi-ga-Kokoro-wo-Kuretakara-2024-เพราะเธอมอบหัวใจให้มา-187x269.jpg",
-     "url": "https://xxx.77player.xyz/m3u8/37a1636d0e6d3fdfa5e4acd6/37a1636d0e6d3fdfa5e4acd6800.m3u8",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Pentor-2024-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/97fd5250e98e84b91f67e812/97fd5250e98e84b91f67e812438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 5",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Pentor-2024-187x269.jpg",
+     "url": "https://xxx.77player.xyz/m3u8/4692b3ed5d4b3ac7101f7a7b/4692b3ed5d4b3ac7101f7a7b800.m3u8",
      "referer": "https://www.seriesday.com/"
     }
    ]
   },
   {
    "name": "Our Interpreter (2024) วุ่นรักนักแปล",
-   "info": "EP 26",
+   "info": "EP 28",
    "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Our-Interpreter-2024-วุ่นรักนักแปล-187x269.jpg",
    "stations": [
     {
@@ -174,7 +167,7 @@
      "name": "ตอนที่ 17",
      "info": "ซับไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Our-Interpreter-2024-วุ่นรักนักแปล-187x269.jpg",
-     "url": "https://main.77player.xyz/m3u8/0755bd0c86fe82b62b8357a5/0755bd0c86fe82b62b8357a5438.m3u8",
+     "url": "https://main.77player.xyz/newplaylist/0755bd0c86fe82b62b8357a5/0755bd0c86fe82b62b8357a5.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -230,21 +223,56 @@
      "name": "ตอนที่ 25",
      "info": "ซับไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Our-Interpreter-2024-วุ่นรักนักแปล-187x269.jpg",
-     "url": "https://xxx.77player.xyz/m3u8/e55ae2ef951e388d99a4cb7c/e55ae2ef951e388d99a4cb7c800.m3u8",
+     "url": "https://main.77player.xyz/m3u8/c0688e26fafd218a0806442b/c0688e26fafd218a0806442b438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
      "name": "ตอนที่ 26",
      "info": "ซับไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Our-Interpreter-2024-วุ่นรักนักแปล-187x269.jpg",
-     "url": "https://xxx.77player.xyz/m3u8/41606ec6b08bd3ab8cd579a2/41606ec6b08bd3ab8cd579a2800.m3u8",
+     "url": "https://main.77player.xyz/m3u8/e8498d8777f5a82302120a41/e8498d8777f5a82302120a41438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 27",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Our-Interpreter-2024-วุ่นรักนักแปล-187x269.jpg",
+     "url": "https://xxx.77player.xyz/m3u8/64a8a23c32a232b7c76cd3c3/64a8a23c32a232b7c76cd3c3800.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 28",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Our-Interpreter-2024-วุ่นรักนักแปล-187x269.jpg",
+     "url": "https://xxx.77player.xyz/m3u8/e53e824a0a1a1687895ae7d2/e53e824a0a1a1687895ae7d2800.m3u8",
+     "referer": "https://www.seriesday.com/"
+    }
+   ]
+  },
+  {
+   "name": "Queen of Divorce (2024) ราชินีหย่าร้าง",
+   "info": "EP 2",
+   "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Queen-of-Divorce-2024-187x269.jpg",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Queen-of-Divorce-2024-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/95afef08a24133afc1fad6d0/95afef08a24133afc1fad6d0438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Queen-of-Divorce-2024-187x269.jpg",
+     "url": "https://xxx.77player.xyz/m3u8/3f562765114a7eccd7a11360/3f562765114a7eccd7a11360800.m3u8",
      "referer": "https://www.seriesday.com/"
     }
    ]
   },
   {
    "name": "Love Endures (2024) รักไม่เคยจางไปจากใจ",
-   "info": "EP 5",
+   "info": "EP 7",
    "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Love-Endures-2024-รักไม่เคยจางไปจากใจ-187x269.jpg",
    "stations": [
     {
@@ -272,70 +300,126 @@
      "name": "ตอนที่ 4",
      "info": "ซับไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Love-Endures-2024-รักไม่เคยจางไปจากใจ-187x269.jpg",
-     "url": "https://xxx.77player.xyz/m3u8/b829b4481920a22f491453cf/b829b4481920a22f491453cf800.m3u8",
+     "url": "https://main.77player.xyz/m3u8/8abd063a1888521c9777523d/8abd063a1888521c9777523d438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
      "name": "ตอนที่ 5",
      "info": "ซับไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Love-Endures-2024-รักไม่เคยจางไปจากใจ-187x269.jpg",
-     "url": "https://xxx.77player.xyz/m3u8/400c5ce15508f1109f7e5f6e/400c5ce15508f1109f7e5f6e800.m3u8",
+     "url": "https://main.77player.xyz/m3u8/682f69757ce456162d644437/682f69757ce456162d644437438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Love-Endures-2024-รักไม่เคยจางไปจากใจ-187x269.jpg",
+     "url": "https://xxx.77player.xyz/m3u8/fabce273004340fb99fd3e47/fabce273004340fb99fd3e47800.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 7",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Love-Endures-2024-รักไม่เคยจางไปจากใจ-187x269.jpg",
+     "url": "https://xxx.77player.xyz/m3u8/a94dae562a3598892524771f/a94dae562a3598892524771f800.m3u8",
      "referer": "https://www.seriesday.com/"
     }
    ]
   },
   {
-   "name": "Intern in My Heart (2024) เด็กฝึกหน้าใส เติมหัวใจนายหญิง",
-   "info": "EP 5",
-   "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Intern-in-My-Heart-2024-เด็กฝึกหน้าใส-เติมหัวใจนายหญิง-187x269.jpg",
+   "name": "My Special Girl (2024) เธอพิเศษใส่ไข่",
+   "info": "EP 4",
+   "image": "https://www.seriesday.com/wp-content/uploads/2024/02/My-Special-Girl-2024-เธอพิเศษใส่ไข่-187x269.jpg",
    "stations": [
     {
      "name": "ตอนที่ 1",
-     "info": "พากย์ไทย",
-     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Intern-in-My-Heart-2024-เด็กฝึกหน้าใส-เติมหัวใจนายหญิง-187x269.jpg",
-     "url": "https://main.77player.xyz/m3u8/11e3c66719ac6ccc54b0ca59/11e3c66719ac6ccc54b0ca59438.m3u8",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2024/02/My-Special-Girl-2024-เธอพิเศษใส่ไข่-187x269.jpg",
+     "url": "https://xxx.77player.xyz/m3u8/3ab63d895428c375f81f32d0/3ab63d895428c375f81f32d0800.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
      "name": "ตอนที่ 2",
-     "info": "พากย์ไทย",
-     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Intern-in-My-Heart-2024-เด็กฝึกหน้าใส-เติมหัวใจนายหญิง-187x269.jpg",
-     "url": "https://main.77player.xyz/m3u8/9d5b4e7c87547bb60a2e5557/9d5b4e7c87547bb60a2e5557438.m3u8",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2024/02/My-Special-Girl-2024-เธอพิเศษใส่ไข่-187x269.jpg",
+     "url": "https://xxx.77player.xyz/m3u8/75bdef41dedd3411ad485f5d/75bdef41dedd3411ad485f5d800.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
      "name": "ตอนที่ 3",
-     "info": "พากย์ไทย",
-     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Intern-in-My-Heart-2024-เด็กฝึกหน้าใส-เติมหัวใจนายหญิง-187x269.jpg",
-     "url": "https://main.77player.xyz/m3u8/8677c22f2932831a00120bb9/8677c22f2932831a00120bb9438.m3u8",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2024/02/My-Special-Girl-2024-เธอพิเศษใส่ไข่-187x269.jpg",
+     "url": "https://xxx.77player.xyz/m3u8/d9143dcea0accc642f772994/d9143dcea0accc642f772994800.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
      "name": "ตอนที่ 4",
-     "info": "พากย์ไทย",
-     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Intern-in-My-Heart-2024-เด็กฝึกหน้าใส-เติมหัวใจนายหญิง-187x269.jpg",
-     "url": "https://main.77player.xyz/m3u8/8124d97a109d0d86cec53e23/8124d97a109d0d86cec53e23438.m3u8",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2024/02/My-Special-Girl-2024-เธอพิเศษใส่ไข่-187x269.jpg",
+     "url": "https://xxx.77player.xyz/m3u8/02ca2249bcf4ca5a502973b2/02ca2249bcf4ca5a502973b2800.m3u8",
+     "referer": "https://www.seriesday.com/"
+    }
+   ]
+  },
+  {
+   "name": "LTNS (2024) Long Time No Sex",
+   "info": "จบแล้ว",
+   "image": "https://www.seriesday.com/wp-content/uploads/2024/01/LTNS-2024-187x269.jpg",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/LTNS-2024-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/75f47f3d3b40f23d144e6b01/75f47f3d3b40f23d144e6b01438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/LTNS-2024-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/cda38a0b9dba5c5fa05e164a/cda38a0b9dba5c5fa05e164a438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 3",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/LTNS-2024-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/4ebe450cb28c018402ffc10e/4ebe450cb28c018402ffc10e438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/LTNS-2024-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/a78f3f7951ba24237bcebf0b/a78f3f7951ba24237bcebf0b438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
      "name": "ตอนที่ 5",
-     "info": "พากย์ไทย",
-     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Intern-in-My-Heart-2024-เด็กฝึกหน้าใส-เติมหัวใจนายหญิง-187x269.jpg",
-     "url": "https://xxx.77player.xyz/m3u8/a8e426dba3a4dc6bb7373ef0/a8e426dba3a4dc6bb7373ef0800.m3u8",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/LTNS-2024-187x269.jpg",
+     "url": "https://xxx.77player.xyz/m3u8/79e628cc6a55072e34ca7442/79e628cc6a55072e34ca7442800.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/LTNS-2024-187x269.jpg",
+     "url": "https://xxx.77player.xyz/m3u8/0e7c1733b64a776f9bd6739e/0e7c1733b64a776f9bd6739e800.m3u8",
      "referer": "https://www.seriesday.com/"
     }
    ]
   },
   {
    "name": "Fighting for Love (2024) สตรีกล้าท้าสงครามรัก",
-   "info": "EP 6",
+   "info": "EP 8",
    "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Fighting-for-Love-2024-สตรีกล้าท้าสงครามรัก-187x269.jpg",
    "stations": [
     {
      "name": "ตอนที่ 1",
      "info": "ซับไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Fighting-for-Love-2024-สตรีกล้าท้าสงครามรัก-187x269.jpg",
-     "url": "https://xxx.77player.xyz/m3u8/de9c4374fb8c00ac75e355e2/de9c4374fb8c00ac75e355e2800.m3u8",
+     "url": "https://main.77player.xyz/m3u8/5176f0c0bfb08a68e84f782a/5176f0c0bfb08a68e84f782a438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -349,84 +433,49 @@
      "name": "ตอนที่ 3",
      "info": "ซับไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Fighting-for-Love-2024-สตรีกล้าท้าสงครามรัก-187x269.jpg",
-     "url": "https://xxx.77player.xyz/m3u8/71590b5be626e720fa0f573e/71590b5be626e720fa0f573e800.m3u8",
+     "url": "https://main.77player.xyz/m3u8/57c1d8ef1983bdb566a4f623/57c1d8ef1983bdb566a4f623438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
      "name": "ตอนที่ 4",
      "info": "ซับไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Fighting-for-Love-2024-สตรีกล้าท้าสงครามรัก-187x269.jpg",
-     "url": "https://xxx.77player.xyz/m3u8/94cd9ed0f05b2b8f4c75bed4/94cd9ed0f05b2b8f4c75bed4800.m3u8",
+     "url": "https://main.77player.xyz/m3u8/48f9770efaee79b474f70f47/48f9770efaee79b474f70f47438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
      "name": "ตอนที่ 5",
      "info": "ซับไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Fighting-for-Love-2024-สตรีกล้าท้าสงครามรัก-187x269.jpg",
-     "url": "https://xxx.77player.xyz/m3u8/6d0778edeae9a3675d81b5dc/6d0778edeae9a3675d81b5dc800.m3u8",
+     "url": "https://main.77player.xyz/m3u8/0bf57ae581c612b940e4f666/0bf57ae581c612b940e4f666438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
      "name": "ตอนที่ 6",
      "info": "ซับไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Fighting-for-Love-2024-สตรีกล้าท้าสงครามรัก-187x269.jpg",
-     "url": "https://xxx.77player.xyz/m3u8/3e45bf23672eedeae8b2dbd4/3e45bf23672eedeae8b2dbd4800.m3u8",
-     "referer": "https://www.seriesday.com/"
-    }
-   ]
-  },
-  {
-   "name": "Love for Loves Sake (2024) รักเพื่อรักไม่กั๊กหัวใจ",
-   "info": "EP 6",
-   "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Love-for-Loves-Sake-2024-187x269.jpg",
-   "stations": [
-    {
-     "name": "ตอนที่ 1",
-     "info": "ซับไทย",
-     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Love-for-Loves-Sake-2024-187x269.jpg",
-     "url": "https://main.77player.xyz/m3u8/29f51c3e14801e5c5c097178/29f51c3e14801e5c5c097178438.m3u8",
+     "url": "https://main.77player.xyz/m3u8/efdf85d2a0fc803aec369574/efdf85d2a0fc803aec369574438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
-     "name": "ตอนที่ 2",
+     "name": "ตอนที่ 7",
      "info": "ซับไทย",
-     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Love-for-Loves-Sake-2024-187x269.jpg",
-     "url": "https://main.77player.xyz/m3u8/1bcf4cddabc08fb46180fec3/1bcf4cddabc08fb46180fec3438.m3u8",
+     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Fighting-for-Love-2024-สตรีกล้าท้าสงครามรัก-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/be7acb2adece6a06ed3eb9c5/be7acb2adece6a06ed3eb9c5438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
-     "name": "ตอนที่ 3",
+     "name": "ตอนที่ 8",
      "info": "ซับไทย",
-     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Love-for-Loves-Sake-2024-187x269.jpg",
-     "url": "https://main.77player.xyz/m3u8/c3882620f4b28df85d19af1f/c3882620f4b28df85d19af1f438.m3u8",
-     "referer": "https://www.seriesday.com/"
-    },
-    {
-     "name": "ตอนที่ 4",
-     "info": "ซับไทย",
-     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Love-for-Loves-Sake-2024-187x269.jpg",
-     "url": "https://main.77player.xyz/m3u8/eed57181607b6dd75564e0c3/eed57181607b6dd75564e0c3438.m3u8",
-     "referer": "https://www.seriesday.com/"
-    },
-    {
-     "name": "ตอนที่ 5",
-     "info": "ซับไทย",
-     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Love-for-Loves-Sake-2024-187x269.jpg",
-     "url": "https://xxx.77player.xyz/m3u8/29a077d86350578c3629ae13/29a077d86350578c3629ae13800.m3u8",
-     "referer": "https://www.seriesday.com/"
-    },
-    {
-     "name": "ตอนที่ 6",
-     "info": "ซับไทย",
-     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Love-for-Loves-Sake-2024-187x269.jpg",
-     "url": "https://main.77player.xyz/m3u8/b757519b6fb30f8a476330a1/b757519b6fb30f8a476330a1438.m3u8",
+     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Fighting-for-Love-2024-สตรีกล้าท้าสงครามรัก-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/f5c6ebba67be063555a70d96/f5c6ebba67be063555a70d96438.m3u8",
      "referer": "https://www.seriesday.com/"
     }
    ]
   },
   {
    "name": "My Boss (2024) กับดักรัก บอสตัวร้าย",
-   "info": "EP 24",
+   "info": "EP 25",
    "image": "https://www.seriesday.com/wp-content/uploads/2024/01/My-Boss-2024-กับดักรัก-บอสตัวร้าย-187x269.jpg",
    "stations": [
     {
@@ -764,12 +813,26 @@
      "image": "https://www.seriesday.com/wp-content/uploads/2024/01/My-Boss-2024-กับดักรัก-บอสตัวร้าย-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/9f37e07ab402cd133be2a3b7/9f37e07ab402cd133be2a3b7438.m3u8",
      "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 25",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/My-Boss-2024-กับดักรัก-บอสตัวร้าย-187x269.jpg",
+     "url": "https://xxx.77player.xyz/m3u8/009673fbbe038fac88bf8e38/009673fbbe038fac88bf8e38800.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 25",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/My-Boss-2024-กับดักรัก-บอสตัวร้าย-187x269.jpg",
+     "url": "https://xxx.77player.xyz/m3u8/009673fbbe038fac88bf8e38/009673fbbe038fac88bf8e38800.m3u8",
+     "referer": "https://www.seriesday.com/"
     }
    ]
   },
   {
    "name": "Sword and Fairy 4 (2024) เซียนกระบี่พิชิตมาร 4",
-   "info": "EP 34",
+   "info": "จบแล้ว",
    "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Sword-and-Fairy-4-2024-เซียนกระบี่พิชิตมาร-4-187x269.jpg",
    "stations": [
     {
@@ -909,7 +972,7 @@
      "name": "ตอนที่ 10",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Sword-and-Fairy-4-2024-เซียนกระบี่พิชิตมาร-4-187x269.jpg",
-     "url": "https://xxx.77player.xyz/m3u8/0aaf26fb488a3f5b86ae0b1f/0aaf26fb488a3f5b86ae0b1f800.m3u8",
+     "url": "https://main.77player.xyz/m3u8/1429c97642a1d87a30e248bb/1429c97642a1d87a30e248bb438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -923,7 +986,7 @@
      "name": "ตอนที่ 11",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Sword-and-Fairy-4-2024-เซียนกระบี่พิชิตมาร-4-187x269.jpg",
-     "url": "https://main.77player.xyz/m3u8/3857295725e8f5e384754d44/3857295725e8f5e384754d44438.m3u8",
+     "url": "https://xxx.77player.xyz/m3u8/8f121f8efcbbc9df29ca7698/8f121f8efcbbc9df29ca7698800.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -1224,161 +1287,63 @@
      "name": "ตอนที่ 33",
      "info": "ซับไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Sword-and-Fairy-4-2024-เซียนกระบี่พิชิตมาร-4-187x269.jpg",
-     "url": "https://xxx.77player.xyz/m3u8/2d8c78cac60849f17536e293/2d8c78cac60849f17536e293800.m3u8",
+     "url": "https://main.77player.xyz/m3u8/96f2b99add036f6259ac31c9/96f2b99add036f6259ac31c9438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
      "name": "ตอนที่ 33",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Sword-and-Fairy-4-2024-เซียนกระบี่พิชิตมาร-4-187x269.jpg",
-     "url": "https://xxx.77player.xyz/m3u8/2d8c78cac60849f17536e293/2d8c78cac60849f17536e293800.m3u8",
+     "url": "https://main.77player.xyz/m3u8/96f2b99add036f6259ac31c9/96f2b99add036f6259ac31c9438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
      "name": "ตอนที่ 34",
      "info": "ซับไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Sword-and-Fairy-4-2024-เซียนกระบี่พิชิตมาร-4-187x269.jpg",
-     "url": "https://xxx.77player.xyz/m3u8/22ae94d214a60f2db4b2d106/22ae94d214a60f2db4b2d106800.m3u8",
+     "url": "https://main.77player.xyz/m3u8/6995043aa814fa10c7602be7/6995043aa814fa10c7602be7438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
      "name": "ตอนที่ 34",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Sword-and-Fairy-4-2024-เซียนกระบี่พิชิตมาร-4-187x269.jpg",
-     "url": "https://xxx.77player.xyz/m3u8/22ae94d214a60f2db4b2d106/22ae94d214a60f2db4b2d106800.m3u8",
+     "url": "https://main.77player.xyz/m3u8/6995043aa814fa10c7602be7/6995043aa814fa10c7602be7438.m3u8",
      "referer": "https://www.seriesday.com/"
-    }
-   ]
-  },
-  {
-   "name": "Time The Series Uncut Version (2024) ไทม์ ผ่าน เวลา",
-   "info": "EP 4",
-   "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Time-The-Series-Uncut-2024-187x269.jpg",
-   "stations": [
+    },
     {
-     "name": "ตอนที่ 1",
+     "name": "ตอนที่ 35",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Sword-and-Fairy-4-2024-เซียนกระบี่พิชิตมาร-4-187x269.jpg",
+     "url": "https://xxx.77player.xyz/m3u8/80b1fac7360d2389f39660d2/80b1fac7360d2389f39660d2800.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 35",
      "info": "พากย์ไทย",
-     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Time-The-Series-Uncut-2024-187x269.jpg",
-     "url": "https://main.77player.xyz/m3u8/58c7d18cab1b25ee60dc380d/58c7d18cab1b25ee60dc380d438.m3u8",
+     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Sword-and-Fairy-4-2024-เซียนกระบี่พิชิตมาร-4-187x269.jpg",
+     "url": "https://xxx.77player.xyz/m3u8/80b1fac7360d2389f39660d2/80b1fac7360d2389f39660d2800.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
-     "name": "ตอนที่ 2",
+     "name": "ตอนที่ 36",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Sword-and-Fairy-4-2024-เซียนกระบี่พิชิตมาร-4-187x269.jpg",
+     "url": "https://xxx.77player.xyz/m3u8/6c696bfa820bdf942d5f9d85/6c696bfa820bdf942d5f9d85800.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 36",
      "info": "พากย์ไทย",
-     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Time-The-Series-Uncut-2024-187x269.jpg",
-     "url": "https://main.77player.xyz/m3u8/a805acc5ada5809ae64c0755/a805acc5ada5809ae64c0755438.m3u8",
-     "referer": "https://www.seriesday.com/"
-    },
-    {
-     "name": "ตอนที่ 3",
-     "info": "พากย์ไทย",
-     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Time-The-Series-Uncut-2024-187x269.jpg",
-     "url": "https://main.77player.xyz/m3u8/487ed1da53149dd4467201dc/487ed1da53149dd4467201dc438.m3u8",
-     "referer": "https://www.seriesday.com/"
-    },
-    {
-     "name": "ตอนที่ 4",
-     "info": "พากย์ไทย",
-     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Time-The-Series-Uncut-2024-187x269.jpg",
-     "url": "https://xxx.77player.xyz/m3u8/a2be8371927384694f9dae80/a2be8371927384694f9dae80800.m3u8",
-     "referer": "https://www.seriesday.com/"
-    }
-   ]
-  },
-  {
-   "name": "Criminal Record (2024)",
-   "info": "EP 5",
-   "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Criminal-Record-2024-187x269.jpg",
-   "stations": [
-    {
-     "name": "ตอนที่ 1",
-     "info": "ซับไทย",
-     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Criminal-Record-2024-187x269.jpg",
-     "url": "https://main.77player.xyz/m3u8/8fa9b83b4bfe59d383de10fe/8fa9b83b4bfe59d383de10fe438.m3u8",
-     "referer": "https://www.seriesday.com/"
-    },
-    {
-     "name": "ตอนที่ 2",
-     "info": "ซับไทย",
-     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Criminal-Record-2024-187x269.jpg",
-     "url": "https://main.77player.xyz/m3u8/6f917836fa7bc77fa8c3be75/6f917836fa7bc77fa8c3be75438.m3u8",
-     "referer": "https://www.seriesday.com/"
-    },
-    {
-     "name": "ตอนที่ 3",
-     "info": "ซับไทย",
-     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Criminal-Record-2024-187x269.jpg",
-     "url": "https://main.77player.xyz/m3u8/3c132cd012c93fce4a53bb0e/3c132cd012c93fce4a53bb0e438.m3u8",
-     "referer": "https://www.seriesday.com/"
-    },
-    {
-     "name": "ตอนที่ 4",
-     "info": "ซับไทย",
-     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Criminal-Record-2024-187x269.jpg",
-     "url": "https://main.77player.xyz/m3u8/a91a45923786bb4a99b1a549/a91a45923786bb4a99b1a549438.m3u8",
-     "referer": "https://www.seriesday.com/"
-    },
-    {
-     "name": "ตอนที่ 5",
-     "info": "ซับไทย",
-     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Criminal-Record-2024-187x269.jpg",
-     "url": "https://xxx.77player.xyz/m3u8/344e12a6d77af8e9801055ab/344e12a6d77af8e9801055ab800.m3u8",
-     "referer": "https://www.seriesday.com/"
-    }
-   ]
-  },
-  {
-   "name": "A Shop for Killers (2024)",
-   "info": "EP 6",
-   "image": "https://www.seriesday.com/wp-content/uploads/2024/01/A-Shop-for-Killers-2024-187x269.jpg",
-   "stations": [
-    {
-     "name": "ตอนที่ 1",
-     "info": "ซับไทย",
-     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/A-Shop-for-Killers-2024-187x269.jpg",
-     "url": "https://main.77player.xyz/m3u8/daf934aea043cde47b330aab/daf934aea043cde47b330aab438.m3u8",
-     "referer": "https://www.seriesday.com/"
-    },
-    {
-     "name": "ตอนที่ 2",
-     "info": "ซับไทย",
-     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/A-Shop-for-Killers-2024-187x269.jpg",
-     "url": "https://main.77player.xyz/m3u8/e2ec2562fb47b4fa719ffeab/e2ec2562fb47b4fa719ffeab438.m3u8",
-     "referer": "https://www.seriesday.com/"
-    },
-    {
-     "name": "ตอนที่ 3",
-     "info": "ซับไทย",
-     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/A-Shop-for-Killers-2024-187x269.jpg",
-     "url": "https://main.77player.xyz/m3u8/b382988c9e559ca30558a0f5/b382988c9e559ca30558a0f5438.m3u8",
-     "referer": "https://www.seriesday.com/"
-    },
-    {
-     "name": "ตอนที่ 4",
-     "info": "ซับไทย",
-     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/A-Shop-for-Killers-2024-187x269.jpg",
-     "url": "https://main.77player.xyz/m3u8/ba23bf169cc5923f10dac1fb/ba23bf169cc5923f10dac1fb438.m3u8",
-     "referer": "https://www.seriesday.com/"
-    },
-    {
-     "name": "ตอนที่ 5",
-     "info": "ซับไทย",
-     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/A-Shop-for-Killers-2024-187x269.jpg",
-     "url": "https://xxx.77player.xyz/m3u8/d4a3f1cdbe561dc3ed15e0a8/d4a3f1cdbe561dc3ed15e0a8800.m3u8",
-     "referer": "https://www.seriesday.com/"
-    },
-    {
-     "name": "ตอนที่ 6",
-     "info": "ซับไทย",
-     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/A-Shop-for-Killers-2024-187x269.jpg",
-     "url": "https://xxx.77player.xyz/m3u8/3935e700bca33bc7334cbe91/3935e700bca33bc7334cbe91800.m3u8",
+     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Sword-and-Fairy-4-2024-เซียนกระบี่พิชิตมาร-4-187x269.jpg",
+     "url": "https://xxx.77player.xyz/m3u8/6c696bfa820bdf942d5f9d85/6c696bfa820bdf942d5f9d85800.m3u8",
      "referer": "https://www.seriesday.com/"
     }
    ]
   },
   {
    "name": "Different Princess (2024) ฮวาชิงเกอ",
-   "info": "EP 30",
+   "info": "EP 32",
    "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Different-Princess-2024-ฮวาชิงเกอ-187x269.jpg",
    "stations": [
     {
@@ -1553,7 +1518,7 @@
      "name": "ตอนที่ 25",
      "info": "ซับไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Different-Princess-2024-ฮวาชิงเกอ-187x269.jpg",
-     "url": "https://main.77player.xyz/m3u8/594628fcd1bfd7df435e133b/594628fcd1bfd7df435e133b438.m3u8",
+     "url": "https://main.77player.xyz/newplaylist/Failed to connect to MySQL - Cannot assign requested address/Failed to connect to MySQL - Cannot assign requested address.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -1581,196 +1546,98 @@
      "name": "ตอนที่ 29",
      "info": "ซับไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Different-Princess-2024-ฮวาชิงเกอ-187x269.jpg",
-     "url": "https://xxx.77player.xyz/m3u8/c45d1372a62f97a8366a6cd1/c45d1372a62f97a8366a6cd1800.m3u8",
+     "url": "https://main.77player.xyz/m3u8/99c89f549716162c1da8174a/99c89f549716162c1da8174a438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
      "name": "ตอนที่ 30",
      "info": "ซับไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Different-Princess-2024-ฮวาชิงเกอ-187x269.jpg",
-     "url": "https://xxx.77player.xyz/m3u8/382ada0de498bc52a167bed2/382ada0de498bc52a167bed2800.m3u8",
+     "url": "https://main.77player.xyz/m3u8/8d21c652303d44e0afd4637b/8d21c652303d44e0afd4637b438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 31",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Different-Princess-2024-ฮวาชิงเกอ-187x269.jpg",
+     "url": "https://xxx.77player.xyz/m3u8/b678392a852839b8b3546e9e/b678392a852839b8b3546e9e800.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 32",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Different-Princess-2024-ฮวาชิงเกอ-187x269.jpg",
+     "url": "https://xxx.77player.xyz/m3u8/cab626cf8125a444817f768f/cab626cf8125a444817f768f800.m3u8",
      "referer": "https://www.seriesday.com/"
     }
    ]
   },
   {
-   "name": "The Happy Seven in Chang’an (2024) อลวนเมืองฉางเล่อ",
-   "info": "EP 5",
-   "image": "https://www.seriesday.com/wp-content/uploads/2024/01/The-Happy-Seven-in-Changan-2024-อลวนเมืองฉางเล่อ-187x269.jpg",
+   "name": "Love for Loves Sake (2024) รักเพื่อรักไม่กั๊กหัวใจ",
+   "info": "จบแล้ว",
+   "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Love-for-Loves-Sake-2024-187x269.jpg",
    "stations": [
     {
      "name": "ตอนที่ 1",
      "info": "ซับไทย",
-     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/The-Happy-Seven-in-Changan-2024-อลวนเมืองฉางเล่อ-187x269.jpg",
-     "url": "https://xxx.77player.xyz/m3u8/4e6d702eb1aa655f9282108c/4e6d702eb1aa655f9282108c800.m3u8",
+     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Love-for-Loves-Sake-2024-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/29f51c3e14801e5c5c097178/29f51c3e14801e5c5c097178438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
      "name": "ตอนที่ 2",
      "info": "ซับไทย",
-     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/The-Happy-Seven-in-Changan-2024-อลวนเมืองฉางเล่อ-187x269.jpg",
-     "url": "https://xxx.77player.xyz/m3u8/402c2ca7ffc6b5a226a97358/402c2ca7ffc6b5a226a97358800.m3u8",
+     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Love-for-Loves-Sake-2024-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/1bcf4cddabc08fb46180fec3/1bcf4cddabc08fb46180fec3438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
      "name": "ตอนที่ 3",
      "info": "ซับไทย",
-     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/The-Happy-Seven-in-Changan-2024-อลวนเมืองฉางเล่อ-187x269.jpg",
-     "url": "https://xxx.77player.xyz/m3u8/da897ffcf91044d4ff05ea3d/da897ffcf91044d4ff05ea3d800.m3u8",
+     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Love-for-Loves-Sake-2024-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/c3882620f4b28df85d19af1f/c3882620f4b28df85d19af1f438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
      "name": "ตอนที่ 4",
      "info": "ซับไทย",
-     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/The-Happy-Seven-in-Changan-2024-อลวนเมืองฉางเล่อ-187x269.jpg",
-     "url": "https://xxx.77player.xyz/m3u8/670188826c695e8ec2294952/670188826c695e8ec2294952800.m3u8",
+     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Love-for-Loves-Sake-2024-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/eed57181607b6dd75564e0c3/eed57181607b6dd75564e0c3438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
      "name": "ตอนที่ 5",
      "info": "ซับไทย",
-     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/The-Happy-Seven-in-Changan-2024-อลวนเมืองฉางเล่อ-187x269.jpg",
-     "url": "https://xxx.77player.xyz/m3u8/74ac4347f06f538373061a5d/74ac4347f06f538373061a5d800.m3u8",
-     "referer": "https://www.seriesday.com/"
-    }
-   ]
-  },
-  {
-   "name": "The Little Red Matchmaker (2024) แม่สื่อฟ้าประทาน",
-   "info": "EP 18",
-   "image": "https://www.seriesday.com/wp-content/uploads/2024/01/The-Little-Red-Matchmaker-2024-แม่สื่อฟ้าประทาน-187x269.jpg",
-   "stations": [
-    {
-     "name": "ตอนที่ 1",
-     "info": "ซับไทย",
-     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/The-Little-Red-Matchmaker-2024-แม่สื่อฟ้าประทาน-187x269.jpg",
-     "url": "https://main.77player.xyz/m3u8/bcc0b20cedb9aefe9c7808d4/bcc0b20cedb9aefe9c7808d4438.m3u8",
-     "referer": "https://www.seriesday.com/"
-    },
-    {
-     "name": "ตอนที่ 2",
-     "info": "ซับไทย",
-     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/The-Little-Red-Matchmaker-2024-แม่สื่อฟ้าประทาน-187x269.jpg",
-     "url": "https://main.77player.xyz/m3u8/4dc408611809f183f74ccab0/4dc408611809f183f74ccab0438.m3u8",
-     "referer": "https://www.seriesday.com/"
-    },
-    {
-     "name": "ตอนที่ 3",
-     "info": "ซับไทย",
-     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/The-Little-Red-Matchmaker-2024-แม่สื่อฟ้าประทาน-187x269.jpg",
-     "url": "https://main.77player.xyz/m3u8/74f8c36cc3f282061deac2b4/74f8c36cc3f282061deac2b4438.m3u8",
-     "referer": "https://www.seriesday.com/"
-    },
-    {
-     "name": "ตอนที่ 4",
-     "info": "ซับไทย",
-     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/The-Little-Red-Matchmaker-2024-แม่สื่อฟ้าประทาน-187x269.jpg",
-     "url": "https://main.77player.xyz/m3u8/1708efe37c470d545611dcb5/1708efe37c470d545611dcb5438.m3u8",
-     "referer": "https://www.seriesday.com/"
-    },
-    {
-     "name": "ตอนที่ 5",
-     "info": "ซับไทย",
-     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/The-Little-Red-Matchmaker-2024-แม่สื่อฟ้าประทาน-187x269.jpg",
-     "url": "https://main.77player.xyz/m3u8/b2d0e0c384d7a33b75e5493b/b2d0e0c384d7a33b75e5493b438.m3u8",
+     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Love-for-Loves-Sake-2024-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/5b08d4c3300b13f30836d9c4/5b08d4c3300b13f30836d9c4438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
      "name": "ตอนที่ 6",
      "info": "ซับไทย",
-     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/The-Little-Red-Matchmaker-2024-แม่สื่อฟ้าประทาน-187x269.jpg",
-     "url": "https://main.77player.xyz/m3u8/bc47346c573169eaf9bbf2a4/bc47346c573169eaf9bbf2a4438.m3u8",
+     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Love-for-Loves-Sake-2024-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/b757519b6fb30f8a476330a1/b757519b6fb30f8a476330a1438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
      "name": "ตอนที่ 7",
      "info": "ซับไทย",
-     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/The-Little-Red-Matchmaker-2024-แม่สื่อฟ้าประทาน-187x269.jpg",
-     "url": "https://main.77player.xyz/m3u8/e66f0ed2ae3ced6533e1056c/e66f0ed2ae3ced6533e1056c438.m3u8",
+     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Love-for-Loves-Sake-2024-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/a94a0a71644c04bfdc5d04ff/a94a0a71644c04bfdc5d04ff438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
      "name": "ตอนที่ 8",
      "info": "ซับไทย",
-     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/The-Little-Red-Matchmaker-2024-แม่สื่อฟ้าประทาน-187x269.jpg",
-     "url": "https://main.77player.xyz/m3u8/49849df93812f06e9b958765/49849df93812f06e9b958765438.m3u8",
-     "referer": "https://www.seriesday.com/"
-    },
-    {
-     "name": "ตอนที่ 9",
-     "info": "ซับไทย",
-     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/The-Little-Red-Matchmaker-2024-แม่สื่อฟ้าประทาน-187x269.jpg",
-     "url": "https://main.77player.xyz/m3u8/2ce7cd777f953bfcdafc7a3d/2ce7cd777f953bfcdafc7a3d438.m3u8",
-     "referer": "https://www.seriesday.com/"
-    },
-    {
-     "name": "ตอนที่ 10",
-     "info": "ซับไทย",
-     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/The-Little-Red-Matchmaker-2024-แม่สื่อฟ้าประทาน-187x269.jpg",
-     "url": "https://main.77player.xyz/m3u8/adab647e20bc4fb778a34e93/adab647e20bc4fb778a34e93438.m3u8",
-     "referer": "https://www.seriesday.com/"
-    },
-    {
-     "name": "ตอนที่ 11",
-     "info": "ซับไทย",
-     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/The-Little-Red-Matchmaker-2024-แม่สื่อฟ้าประทาน-187x269.jpg",
-     "url": "https://main.77player.xyz/m3u8/2de0b684e81eb46a177413c0/2de0b684e81eb46a177413c0438.m3u8",
-     "referer": "https://www.seriesday.com/"
-    },
-    {
-     "name": "ตอนที่ 12",
-     "info": "ซับไทย",
-     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/The-Little-Red-Matchmaker-2024-แม่สื่อฟ้าประทาน-187x269.jpg",
-     "url": "https://main.77player.xyz/m3u8/c1952cbf8c946e68c18a83ad/c1952cbf8c946e68c18a83ad438.m3u8",
-     "referer": "https://www.seriesday.com/"
-    },
-    {
-     "name": "ตอนที่ 13",
-     "info": "ซับไทย",
-     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/The-Little-Red-Matchmaker-2024-แม่สื่อฟ้าประทาน-187x269.jpg",
-     "url": "https://main.77player.xyz/m3u8/e0d1121315d5840ba4a4ca34/e0d1121315d5840ba4a4ca34438.m3u8",
-     "referer": "https://www.seriesday.com/"
-    },
-    {
-     "name": "ตอนที่ 14",
-     "info": "ซับไทย",
-     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/The-Little-Red-Matchmaker-2024-แม่สื่อฟ้าประทาน-187x269.jpg",
-     "url": "https://main.77player.xyz/m3u8/112849150457c45398f9352c/112849150457c45398f9352c438.m3u8",
-     "referer": "https://www.seriesday.com/"
-    },
-    {
-     "name": "ตอนที่ 15",
-     "info": "ซับไทย",
-     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/The-Little-Red-Matchmaker-2024-แม่สื่อฟ้าประทาน-187x269.jpg",
-     "url": "https://main.77player.xyz/m3u8/4d45f46c8ba0b25d5eb2abd0/4d45f46c8ba0b25d5eb2abd0438.m3u8",
-     "referer": "https://www.seriesday.com/"
-    },
-    {
-     "name": "ตอนที่ 16",
-     "info": "ซับไทย",
-     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/The-Little-Red-Matchmaker-2024-แม่สื่อฟ้าประทาน-187x269.jpg",
-     "url": "https://main.77player.xyz/m3u8/0181212d219ab80ccabd762c/0181212d219ab80ccabd762c438.m3u8",
-     "referer": "https://www.seriesday.com/"
-    },
-    {
-     "name": "ตอนที่ 17",
-     "info": "ซับไทย",
-     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/The-Little-Red-Matchmaker-2024-แม่สื่อฟ้าประทาน-187x269.jpg",
-     "url": "https://xxx.77player.xyz/m3u8/f06bd8768da609529a6c4566/f06bd8768da609529a6c4566800.m3u8",
-     "referer": "https://www.seriesday.com/"
-    },
-    {
-     "name": "ตอนที่ 18",
-     "info": "ซับไทย",
-     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/The-Little-Red-Matchmaker-2024-แม่สื่อฟ้าประทาน-187x269.jpg",
-     "url": "https://xxx.77player.xyz/m3u8/450dfe8521b496c2863ff3b1/450dfe8521b496c2863ff3b1800.m3u8",
+     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Love-for-Loves-Sake-2024-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/4287b88c6b5ab0e668b290aa/4287b88c6b5ab0e668b290aa438.m3u8",
      "referer": "https://www.seriesday.com/"
     }
    ]
   },
   {
    "name": "Sweet Trap (2024) สูตรลับรักรสหวาน",
-   "info": "EP 7",
+   "info": "EP 8",
    "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Sweet-Trap-2024-สูตรลับรักรสหวาน-187x269.jpg",
    "stations": [
     {
@@ -1819,14 +1686,161 @@
      "name": "ตอนที่ 7",
      "info": "ซับไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Sweet-Trap-2024-สูตรลับรักรสหวาน-187x269.jpg",
-     "url": "https://xxx.77player.xyz/m3u8/a39a67bbafc36a5b8f075232/a39a67bbafc36a5b8f075232800.m3u8",
+     "url": "https://main.77player.xyz/m3u8/32e32c9dfdc9d3b7e60a216e/32e32c9dfdc9d3b7e60a216e438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 8",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Sweet-Trap-2024-สูตรลับรักรสหวาน-187x269.jpg",
+     "url": "https://xxx.77player.xyz/m3u8/5aa94170a2a0b8fdae6f3854/5aa94170a2a0b8fdae6f3854800.m3u8",
+     "referer": "https://www.seriesday.com/"
+    }
+   ]
+  },
+  {
+   "name": "Attacking Lady (2024) เลดี้ยอดนักสู้",
+   "info": "EP 12",
+   "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Attacking-Lady-2024-เลดี้ยอดนักสู้-187x269.jpg",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Attacking-Lady-2024-เลดี้ยอดนักสู้-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/9967b612035a35520f28605d/9967b612035a35520f28605d438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Attacking-Lady-2024-เลดี้ยอดนักสู้-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/9c300f2706c81d633b4b32e5/9c300f2706c81d633b4b32e5438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 3",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Attacking-Lady-2024-เลดี้ยอดนักสู้-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/fc6d23eb954dd99f11790efb/fc6d23eb954dd99f11790efb438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Attacking-Lady-2024-เลดี้ยอดนักสู้-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/66144f57f358ab3fb5b59f00/66144f57f358ab3fb5b59f00438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 5",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Attacking-Lady-2024-เลดี้ยอดนักสู้-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/571b66646d7bcf8266e3bbd4/571b66646d7bcf8266e3bbd4438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Attacking-Lady-2024-เลดี้ยอดนักสู้-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/afb37d9d045c76078b4fa8af/afb37d9d045c76078b4fa8af438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 7",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Attacking-Lady-2024-เลดี้ยอดนักสู้-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/43c60e0a694bd94a6c53f2cd/43c60e0a694bd94a6c53f2cd438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 8",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Attacking-Lady-2024-เลดี้ยอดนักสู้-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/11fa5eb8f837cf22aaad72d7/11fa5eb8f837cf22aaad72d7438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 9",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Attacking-Lady-2024-เลดี้ยอดนักสู้-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/a3874b8eca9cbc6ba88496da/a3874b8eca9cbc6ba88496da438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 10",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Attacking-Lady-2024-เลดี้ยอดนักสู้-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/34a6182a94179c40090227b1/34a6182a94179c40090227b1438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 11",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Attacking-Lady-2024-เลดี้ยอดนักสู้-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/9a728fa3f98df2c871a0a2dc/9a728fa3f98df2c871a0a2dc438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 12",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Attacking-Lady-2024-เลดี้ยอดนักสู้-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/5df25da943e66ea6739dd1f3/5df25da943e66ea6739dd1f3438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    }
+   ]
+  },
+  {
+   "name": "The Happy Seven in Chang’an (2024) อลวนเมืองฉางเล่อ",
+   "info": "EP 6",
+   "image": "https://www.seriesday.com/wp-content/uploads/2024/01/The-Happy-Seven-in-Changan-2024-อลวนเมืองฉางเล่อ-187x269.jpg",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/The-Happy-Seven-in-Changan-2024-อลวนเมืองฉางเล่อ-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/870230bc5bd140032046e69a/870230bc5bd140032046e69a438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/The-Happy-Seven-in-Changan-2024-อลวนเมืองฉางเล่อ-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/21bafc1129b1f11109ecf50f/21bafc1129b1f11109ecf50f438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 3",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/The-Happy-Seven-in-Changan-2024-อลวนเมืองฉางเล่อ-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/d247cda69f5eb2d8fb6d2b9b/d247cda69f5eb2d8fb6d2b9b438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/The-Happy-Seven-in-Changan-2024-อลวนเมืองฉางเล่อ-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/b4227d207f6c38506eed90c2/b4227d207f6c38506eed90c2438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 5",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/The-Happy-Seven-in-Changan-2024-อลวนเมืองฉางเล่อ-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/698e4f2c938e9d63e20b67cb/698e4f2c938e9d63e20b67cb438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/The-Happy-Seven-in-Changan-2024-อลวนเมืองฉางเล่อ-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/8d8d322525aaf8429603c3f6/8d8d322525aaf8429603c3f6438.m3u8",
      "referer": "https://www.seriesday.com/"
     }
    ]
   },
   {
    "name": "Indulgence (2024) ย้อมรัก",
-   "info": "EP 20",
+   "info": "EP 22",
    "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Indulgence-2024-ย้อมรัก-187x269.jpg",
    "stations": [
     {
@@ -1959,14 +1973,399 @@
      "name": "ตอนที่ 19",
      "info": "ซับไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Indulgence-2024-ย้อมรัก-187x269.jpg",
-     "url": "https://xxx.77player.xyz/m3u8/c1a19e7e54c2cabe2c90f56d/c1a19e7e54c2cabe2c90f56d800.m3u8",
+     "url": "https://main.77player.xyz/m3u8/9ce79cd456b3e44ef16362ea/9ce79cd456b3e44ef16362ea438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
      "name": "ตอนที่ 20",
      "info": "ซับไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Indulgence-2024-ย้อมรัก-187x269.jpg",
-     "url": "https://xxx.77player.xyz/m3u8/8c86ca6577c235190932f551/8c86ca6577c235190932f551800.m3u8",
+     "url": "https://main.77player.xyz/m3u8/166e29ff5e7f5851f4dc36c1/166e29ff5e7f5851f4dc36c1438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 21",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Indulgence-2024-ย้อมรัก-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/c2972705f4d813fa3e950f37/c2972705f4d813fa3e950f37438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 22",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Indulgence-2024-ย้อมรัก-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/e9d8a2db85e41f6f36378aa8/e9d8a2db85e41f6f36378aa8438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    }
+   ]
+  },
+  {
+   "name": "Kesenai Watashi (2024) ลบ ฉัน ไม่เลือน",
+   "info": "EP 4",
+   "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Kesenai-Watashi-2024-ลบ-ฉัน-ไม่เลือน-187x269.jpg",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Kesenai-Watashi-2024-ลบ-ฉัน-ไม่เลือน-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/f91d41509f456c8afabc28be/f91d41509f456c8afabc28be438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Kesenai-Watashi-2024-ลบ-ฉัน-ไม่เลือน-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/bd267809924a4ec4630bc893/bd267809924a4ec4630bc893438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 3",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Kesenai-Watashi-2024-ลบ-ฉัน-ไม่เลือน-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/41e8c59b9a287ef10b456945/41e8c59b9a287ef10b456945438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Kesenai-Watashi-2024-ลบ-ฉัน-ไม่เลือน-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/1c13ee7eea379e0f0bfffc48/1c13ee7eea379e0f0bfffc48438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    }
+   ]
+  },
+  {
+   "name": "Kimi ga Kokoro wo Kuretakara (2024) เพราะเธอมอบหัวใจให้มา",
+   "info": "EP 4",
+   "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Kimi-ga-Kokoro-wo-Kuretakara-2024-เพราะเธอมอบหัวใจให้มา-187x269.jpg",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Kimi-ga-Kokoro-wo-Kuretakara-2024-เพราะเธอมอบหัวใจให้มา-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/30304b5a1c6b685dea50294b/30304b5a1c6b685dea50294b438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Kimi-ga-Kokoro-wo-Kuretakara-2024-เพราะเธอมอบหัวใจให้มา-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/3866821cb445d27e5b1b090b/3866821cb445d27e5b1b090b438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 3",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Kimi-ga-Kokoro-wo-Kuretakara-2024-เพราะเธอมอบหัวใจให้มา-187x269.jpg",
+     "url": "https://xxx.77player.xyz/m3u8/d13f11b1f52036049acaa3a1/d13f11b1f52036049acaa3a1800.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Kimi-ga-Kokoro-wo-Kuretakara-2024-เพราะเธอมอบหัวใจให้มา-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/34442164aae19d946703e358/34442164aae19d946703e358438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    }
+   ]
+  },
+  {
+   "name": "Intern in My Heart (2024) เด็กฝึกหน้าใส เติมหัวใจนายหญิง",
+   "info": "EP 5",
+   "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Intern-in-My-Heart-2024-เด็กฝึกหน้าใส-เติมหัวใจนายหญิง-187x269.jpg",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Intern-in-My-Heart-2024-เด็กฝึกหน้าใส-เติมหัวใจนายหญิง-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/11e3c66719ac6ccc54b0ca59/11e3c66719ac6ccc54b0ca59438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Intern-in-My-Heart-2024-เด็กฝึกหน้าใส-เติมหัวใจนายหญิง-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/9d5b4e7c87547bb60a2e5557/9d5b4e7c87547bb60a2e5557438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 3",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Intern-in-My-Heart-2024-เด็กฝึกหน้าใส-เติมหัวใจนายหญิง-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/8677c22f2932831a00120bb9/8677c22f2932831a00120bb9438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Intern-in-My-Heart-2024-เด็กฝึกหน้าใส-เติมหัวใจนายหญิง-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/8124d97a109d0d86cec53e23/8124d97a109d0d86cec53e23438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 5",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Intern-in-My-Heart-2024-เด็กฝึกหน้าใส-เติมหัวใจนายหญิง-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/6f7a74d2285219bd8ac1237e/6f7a74d2285219bd8ac1237e438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    }
+   ]
+  },
+  {
+   "name": "Time The Series Uncut Version (2024) ไทม์ ผ่าน เวลา",
+   "info": "EP 4",
+   "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Time-The-Series-Uncut-2024-187x269.jpg",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Time-The-Series-Uncut-2024-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/58c7d18cab1b25ee60dc380d/58c7d18cab1b25ee60dc380d438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Time-The-Series-Uncut-2024-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/a805acc5ada5809ae64c0755/a805acc5ada5809ae64c0755438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 3",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Time-The-Series-Uncut-2024-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/487ed1da53149dd4467201dc/487ed1da53149dd4467201dc438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Time-The-Series-Uncut-2024-187x269.jpg",
+     "url": "https://xxx.77player.xyz/m3u8/a2be8371927384694f9dae80/a2be8371927384694f9dae80800.m3u8",
+     "referer": "https://www.seriesday.com/"
+    }
+   ]
+  },
+  {
+   "name": "Criminal Record (2024)",
+   "info": "EP 5",
+   "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Criminal-Record-2024-187x269.jpg",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Criminal-Record-2024-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/8fa9b83b4bfe59d383de10fe/8fa9b83b4bfe59d383de10fe438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Criminal-Record-2024-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/6f917836fa7bc77fa8c3be75/6f917836fa7bc77fa8c3be75438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 3",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Criminal-Record-2024-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/3c132cd012c93fce4a53bb0e/3c132cd012c93fce4a53bb0e438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Criminal-Record-2024-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/a91a45923786bb4a99b1a549/a91a45923786bb4a99b1a549438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 5",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Criminal-Record-2024-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/2284c79346bf08102ed93d75/2284c79346bf08102ed93d75438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    }
+   ]
+  },
+  {
+   "name": "A Shop for Killers (2024)",
+   "info": "EP 6",
+   "image": "https://www.seriesday.com/wp-content/uploads/2024/01/A-Shop-for-Killers-2024-187x269.jpg",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/A-Shop-for-Killers-2024-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/daf934aea043cde47b330aab/daf934aea043cde47b330aab438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/A-Shop-for-Killers-2024-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/e2ec2562fb47b4fa719ffeab/e2ec2562fb47b4fa719ffeab438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 3",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/A-Shop-for-Killers-2024-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/b382988c9e559ca30558a0f5/b382988c9e559ca30558a0f5438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/A-Shop-for-Killers-2024-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/ba23bf169cc5923f10dac1fb/ba23bf169cc5923f10dac1fb438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 5",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/A-Shop-for-Killers-2024-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/5cf366800360e198f66eeb39/5cf366800360e198f66eeb39438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/A-Shop-for-Killers-2024-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/a887d3af057ed9c0d99c83c5/a887d3af057ed9c0d99c83c5438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    }
+   ]
+  },
+  {
+   "name": "The Little Red Matchmaker (2024) แม่สื่อฟ้าประทาน",
+   "info": "EP 18",
+   "image": "https://www.seriesday.com/wp-content/uploads/2024/01/The-Little-Red-Matchmaker-2024-แม่สื่อฟ้าประทาน-187x269.jpg",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/The-Little-Red-Matchmaker-2024-แม่สื่อฟ้าประทาน-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/bcc0b20cedb9aefe9c7808d4/bcc0b20cedb9aefe9c7808d4438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/The-Little-Red-Matchmaker-2024-แม่สื่อฟ้าประทาน-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/4dc408611809f183f74ccab0/4dc408611809f183f74ccab0438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 3",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/The-Little-Red-Matchmaker-2024-แม่สื่อฟ้าประทาน-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/74f8c36cc3f282061deac2b4/74f8c36cc3f282061deac2b4438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/The-Little-Red-Matchmaker-2024-แม่สื่อฟ้าประทาน-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/1708efe37c470d545611dcb5/1708efe37c470d545611dcb5438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 5",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/The-Little-Red-Matchmaker-2024-แม่สื่อฟ้าประทาน-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/b2d0e0c384d7a33b75e5493b/b2d0e0c384d7a33b75e5493b438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/The-Little-Red-Matchmaker-2024-แม่สื่อฟ้าประทาน-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/bc47346c573169eaf9bbf2a4/bc47346c573169eaf9bbf2a4438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 7",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/The-Little-Red-Matchmaker-2024-แม่สื่อฟ้าประทาน-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/e66f0ed2ae3ced6533e1056c/e66f0ed2ae3ced6533e1056c438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 8",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/The-Little-Red-Matchmaker-2024-แม่สื่อฟ้าประทาน-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/49849df93812f06e9b958765/49849df93812f06e9b958765438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 9",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/The-Little-Red-Matchmaker-2024-แม่สื่อฟ้าประทาน-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/2ce7cd777f953bfcdafc7a3d/2ce7cd777f953bfcdafc7a3d438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 10",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/The-Little-Red-Matchmaker-2024-แม่สื่อฟ้าประทาน-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/adab647e20bc4fb778a34e93/adab647e20bc4fb778a34e93438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 11",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/The-Little-Red-Matchmaker-2024-แม่สื่อฟ้าประทาน-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/2de0b684e81eb46a177413c0/2de0b684e81eb46a177413c0438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 12",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/The-Little-Red-Matchmaker-2024-แม่สื่อฟ้าประทาน-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/c1952cbf8c946e68c18a83ad/c1952cbf8c946e68c18a83ad438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 13",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/The-Little-Red-Matchmaker-2024-แม่สื่อฟ้าประทาน-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/e0d1121315d5840ba4a4ca34/e0d1121315d5840ba4a4ca34438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 14",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/The-Little-Red-Matchmaker-2024-แม่สื่อฟ้าประทาน-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/112849150457c45398f9352c/112849150457c45398f9352c438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 15",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/The-Little-Red-Matchmaker-2024-แม่สื่อฟ้าประทาน-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/4d45f46c8ba0b25d5eb2abd0/4d45f46c8ba0b25d5eb2abd0438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 16",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/The-Little-Red-Matchmaker-2024-แม่สื่อฟ้าประทาน-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/0181212d219ab80ccabd762c/0181212d219ab80ccabd762c438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 17",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/The-Little-Red-Matchmaker-2024-แม่สื่อฟ้าประทาน-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/743d1d8c3aba41b808b42caa/743d1d8c3aba41b808b42caa438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 18",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/The-Little-Red-Matchmaker-2024-แม่สื่อฟ้าประทาน-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/0760616ec23b1df78eeb8f92/0760616ec23b1df78eeb8f92438.m3u8",
      "referer": "https://www.seriesday.com/"
     }
    ]
@@ -2225,7 +2624,7 @@
      "name": "ตอนที่ 21",
      "info": "ซับไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Sword-and-Fairy-2024-เซียนกระบี่เปิดผนึกพิชิตชะตา-187x269.jpg",
-     "url": "https://xxx.77player.xyz/autoplaylist/7464ac10c48f3eec834fe79e/7464ac10c48f3eec834fe79e.m3u8",
+     "url": "https://xxx.77player.xyz/m3u8/7464ac10c48f3eec834fe79e/7464ac10c48f3eec834fe79e800.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -3057,146 +3456,6 @@
    ]
   },
   {
-   "name": "Flex X Cop (2024)",
-   "info": "EP 2",
-   "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Flex-X-Cop-2024-187x269.jpg",
-   "stations": [
-    {
-     "name": "ตอนที่ 1",
-     "info": "ซับไทย",
-     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Flex-X-Cop-2024-187x269.jpg",
-     "url": "https://main.77player.xyz/m3u8/5ede19df210534f66cddbe35/5ede19df210534f66cddbe35438.m3u8",
-     "referer": "https://www.seriesday.com/"
-    },
-    {
-     "name": "ตอนที่ 2",
-     "info": "ซับไทย",
-     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Flex-X-Cop-2024-187x269.jpg",
-     "url": "https://main.77player.xyz/m3u8/3afe46f22c8d376d708aebd2/3afe46f22c8d376d708aebd2438.m3u8",
-     "referer": "https://www.seriesday.com/"
-    }
-   ]
-  },
-  {
-   "name": "Start-Up (2024) สตาร์ทอัพ",
-   "info": "EP 6",
-   "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Start-Up-2024-สตาร์ทอัพ-187x269.jpg",
-   "stations": [
-    {
-     "name": "ตอนที่ 1",
-     "info": "พากย์ไทย",
-     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Start-Up-2024-สตาร์ทอัพ-187x269.jpg",
-     "url": "https://main.77player.xyz/m3u8/1f2908d8f731e5682cd62e84/1f2908d8f731e5682cd62e84438.m3u8",
-     "referer": "https://www.seriesday.com/"
-    },
-    {
-     "name": "ตอนที่ 2",
-     "info": "พากย์ไทย",
-     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Start-Up-2024-สตาร์ทอัพ-187x269.jpg",
-     "url": "https://main.77player.xyz/m3u8/a89f4910fd04ece8f895bf9c/a89f4910fd04ece8f895bf9c438.m3u8",
-     "referer": "https://www.seriesday.com/"
-    },
-    {
-     "name": "ตอนที่ 3",
-     "info": "พากย์ไทย",
-     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Start-Up-2024-สตาร์ทอัพ-187x269.jpg",
-     "url": "https://main.77player.xyz/m3u8/540ba886fa9e62f4b528ba1b/540ba886fa9e62f4b528ba1b438.m3u8",
-     "referer": "https://www.seriesday.com/"
-    },
-    {
-     "name": "ตอนที่ 4",
-     "info": "พากย์ไทย",
-     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Start-Up-2024-สตาร์ทอัพ-187x269.jpg",
-     "url": "https://main.77player.xyz/m3u8/5d7e60f307b5ff930f6ecb81/5d7e60f307b5ff930f6ecb81438.m3u8",
-     "referer": "https://www.seriesday.com/"
-    },
-    {
-     "name": "ตอนที่ 5",
-     "info": "พากย์ไทย",
-     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Start-Up-2024-สตาร์ทอัพ-187x269.jpg",
-     "url": "https://main.77player.xyz/m3u8/1f662ed974b239f1865117cc/1f662ed974b239f1865117cc438.m3u8",
-     "referer": "https://www.seriesday.com/"
-    },
-    {
-     "name": "ตอนที่ 6",
-     "info": "พากย์ไทย",
-     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Start-Up-2024-สตาร์ทอัพ-187x269.jpg",
-     "url": "https://main.77player.xyz/m3u8/bdd78ea85372a9c04f59dc7e/bdd78ea85372a9c04f59dc7e438.m3u8",
-     "referer": "https://www.seriesday.com/"
-    }
-   ]
-  },
-  {
-   "name": "Konkatsu 1000 Bon Knock (2024) ภารกิจลุ้นรักฉบับกุ๊กกู๋",
-   "info": "EP 2",
-   "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Konkatsu-1000-Bon-Knock-2024-ภารกิจลุ้นรักฉบับกุ๊กกู๋-187x269.jpg",
-   "stations": [
-    {
-     "name": "ตอนที่ 1",
-     "info": "ซับไทย",
-     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Konkatsu-1000-Bon-Knock-2024-ภารกิจลุ้นรักฉบับกุ๊กกู๋-187x269.jpg",
-     "url": "https://main.77player.xyz/m3u8/c68fd7ebc8fb9854bec7ac81/c68fd7ebc8fb9854bec7ac81438.m3u8",
-     "referer": "https://www.seriesday.com/"
-    },
-    {
-     "name": "ตอนที่ 2",
-     "info": "ซับไทย",
-     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Konkatsu-1000-Bon-Knock-2024-ภารกิจลุ้นรักฉบับกุ๊กกู๋-187x269.jpg",
-     "url": "https://main.77player.xyz/m3u8/24722d5fd2d2eb7159821fe7/24722d5fd2d2eb7159821fe7438.m3u8",
-     "referer": "https://www.seriesday.com/"
-    }
-   ]
-  },
-  {
-   "name": "Masters of the Air (2024)",
-   "info": "EP 2",
-   "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Masters-of-the-Air-2024-1-187x269.jpg",
-   "stations": [
-    {
-     "name": "ตอนที่ 1",
-     "info": "ซับไทย",
-     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Masters-of-the-Air-2024-1-187x269.jpg",
-     "url": "https://main.77player.xyz/m3u8/6f789bd0490056c8d031e194/6f789bd0490056c8d031e194438.m3u8",
-     "referer": "https://www.seriesday.com/"
-    },
-    {
-     "name": "ตอนที่ 2",
-     "info": "ซับไทย",
-     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Masters-of-the-Air-2024-1-187x269.jpg",
-     "url": "https://main.77player.xyz/m3u8/0430486637fdec7721327f35/0430486637fdec7721327f35438.m3u8",
-     "referer": "https://www.seriesday.com/"
-    }
-   ]
-  },
-  {
-   "name": "Although I Love You and You (2024) ถึงแม้ใจฉันรักเธอ แล้วใจเธอ",
-   "info": "EP 3",
-   "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Although-I-Love-You-and-You-2024-187x269.jpg",
-   "stations": [
-    {
-     "name": "ตอนที่ 1",
-     "info": "ซับไทย",
-     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Although-I-Love-You-and-You-2024-187x269.jpg",
-     "url": "https://main.77player.xyz/m3u8/ee1eebf7548b186594f4bf09/ee1eebf7548b186594f4bf09438.m3u8",
-     "referer": "https://www.seriesday.com/"
-    },
-    {
-     "name": "ตอนที่ 2",
-     "info": "ซับไทย",
-     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Although-I-Love-You-and-You-2024-187x269.jpg",
-     "url": "https://main.77player.xyz/m3u8/d2832b21d916bbb42fca8555/d2832b21d916bbb42fca8555438.m3u8",
-     "referer": "https://www.seriesday.com/"
-    },
-    {
-     "name": "ตอนที่ 3",
-     "info": "ซับไทย",
-     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Although-I-Love-You-and-You-2024-187x269.jpg",
-     "url": "https://main.77player.xyz/m3u8/0f9d1de2102a0035b99e438f/0f9d1de2102a0035b99e438f438.m3u8",
-     "referer": "https://www.seriesday.com/"
-    }
-   ]
-  },
-  {
    "name": "Time The Series Uncut Version (2024) ไทม์ ผ่าน เวลา",
    "info": "EP 3",
    "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Time-The-Series-Uncut-2024-187x269.jpg",
@@ -3255,6 +3514,13 @@
      "info": "ซับไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Kesenai-Watashi-2024-ลบ-ฉัน-ไม่เลือน-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/41e8c59b9a287ef10b456945/41e8c59b9a287ef10b456945438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Kesenai-Watashi-2024-ลบ-ฉัน-ไม่เลือน-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/1c13ee7eea379e0f0bfffc48/1c13ee7eea379e0f0bfffc48438.m3u8",
      "referer": "https://www.seriesday.com/"
     }
    ]
@@ -3569,7 +3835,7 @@
      "name": "ตอนที่ 28",
      "info": "ซับไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Youll-Never-Walk-Alone-2023-ข้ามขอบฟ้ามารักเธอ-187x269.jpg",
-     "url": "https://main.77player.xyz/newplaylist/58f934e2223dd8cc124ca27c/58f934e2223dd8cc124ca27c.m3u8",
+     "url": "https://main.77player.xyz/m3u8/58f934e2223dd8cc124ca27c/58f934e2223dd8cc124ca27c438.m3u8",
      "referer": "https://www.seriesday.com/"
     }
    ]
@@ -3751,7 +4017,7 @@
      "name": "ตอนที่ 25",
      "info": "ซับไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2024/01/All-of-Her-2024-หนึ่งเดียวคือเธอ-187x269.jpg",
-     "url": "https://main.77player.xyz/m3u8/b396ce55ee7b644134a403ad/b396ce55ee7b644134a403ad438.m3u8",
+     "url": "https://main.77player.xyz/newplaylist/b396ce55ee7b644134a403ad/b396ce55ee7b644134a403ad.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
