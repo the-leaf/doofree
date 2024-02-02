@@ -1,6 +1,6 @@
 {
  "name": "ละคร-ONAIR",
- "author": "เจียว เจียว อัพ วันที่ 01 กุมภาพันธ์ 2567",
+ "author": "เจียว เจียว อัพ วันที่ 02 กุมภาพันธ์ 2567",
  "info": "Watchlakorn.in",
  "image": "https://cdn.watchlakorn.in/images/video_logo.png",
  "groups": [
@@ -1015,6 +1015,83 @@
      "info": "วันที่ 30 พฤศจิกายน 2566",
      "image": "https://cdn.watchlakorn.in/storage/images/av-1697031176.jpg",
      "url": "https://www.watchlakorn.in/egdeny/782fc378421905dff555d9eaaff8e593/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    }
+   ]
+  },
+  {
+   "name": "ยอมเป็นของฮิม [ยังไม่จบ]",
+   "info": "Watchlakorn.in",
+   "image": "https://cdn.watchlakorn.in/storage/images/av-1701390939.jpg",
+   "stations": [
+    {
+     "name": "ยอมเป็นของฮิม  ตอนที่ 1",
+     "info": "วันที่ 30 พฤศจิกายน 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1701390939.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/9431f5ff7986ffaa8d50b92f555b73f7/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ยอมเป็นของฮิม  ตอนที่ 2",
+     "info": "วันที่ 7 ธันวาคม 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1701390939.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/0aa8ba75b317c2f71e84b0d45c82f7ff/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ยอมเป็นของฮิม  ตอนที่ 3",
+     "info": "วันที่ 14 ธันวาคม 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1701390939.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/fdad2d9bd11e67ec07dc2a316abb1f37/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ยอมเป็นของฮิม  ตอนที่ 4",
+     "info": "วันที่ 21 ธันวาคม 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1701390939.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/18d01f630ef065cc834e372938d5cd35/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ยอมเป็นของฮิม  ตอนที่ 5",
+     "info": "วันที่ 28 ธันวาคม 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1701390939.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/ab63469d92a3096ab441eb3b29c254d2/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ยอมเป็นของฮิม  ตอนที่ 6",
+     "info": "วันที่ 4 มกราคม 2567",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1701390939.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/8db805511f5f253cbee59e138df56428/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ยอมเป็นของฮิม  ตอนที่ 7",
+     "info": "วันที่ 11 มกราคม 2567",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1701390939.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/f9070e18717978efe94f06a990fbf684/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ยอมเป็นของฮิม  ตอนที่ 8",
+     "info": "วันที่ 18 มกราคม 2567",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1701390939.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/029139fa5f351ba59955ae6bca21be2b/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ยอมเป็นของฮิม  ตอนที่ 9",
+     "info": "วันที่ 25 มกราคม 2567",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1701390939.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/21975e06ca01fc836682d1110a5c58cb/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ยอมเป็นของฮิม  ตอนที่ 10",
+     "info": "วันที่ 1 กุมภาพันธ์ 2567",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1701390939.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/3d8be52805c6a8dc2f14cde5bab6fd27/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
     }
    ]
@@ -3479,76 +3556,6 @@
      "info": "วันที่ 26 มกราคม 2567",
      "image": "https://cdn.watchlakorn.in/storage/images/av-1699632286.jpg",
      "url": "https://www.watchlakorn.in/egdeny/4d69f8bf7a18adf0d3b8ca2691ce50a2/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    }
-   ]
-  },
-  {
-   "name": "ยอมเป็นของฮิม [ยังไม่จบ]",
-   "info": "Watchlakorn.in",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1701390939.jpg",
-   "stations": [
-    {
-     "name": "ยอมเป็นของฮิม  ตอนที่ 1",
-     "info": "วันที่ 30 พฤศจิกายน 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1701390939.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/9431f5ff7986ffaa8d50b92f555b73f7/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "ยอมเป็นของฮิม  ตอนที่ 2",
-     "info": "วันที่ 7 ธันวาคม 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1701390939.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/0aa8ba75b317c2f71e84b0d45c82f7ff/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "ยอมเป็นของฮิม  ตอนที่ 3",
-     "info": "วันที่ 14 ธันวาคม 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1701390939.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/fdad2d9bd11e67ec07dc2a316abb1f37/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "ยอมเป็นของฮิม  ตอนที่ 4",
-     "info": "วันที่ 21 ธันวาคม 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1701390939.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/18d01f630ef065cc834e372938d5cd35/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "ยอมเป็นของฮิม  ตอนที่ 5",
-     "info": "วันที่ 28 ธันวาคม 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1701390939.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/ab63469d92a3096ab441eb3b29c254d2/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "ยอมเป็นของฮิม  ตอนที่ 6",
-     "info": "วันที่ 4 มกราคม 2567",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1701390939.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/8db805511f5f253cbee59e138df56428/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "ยอมเป็นของฮิม  ตอนที่ 7",
-     "info": "วันที่ 11 มกราคม 2567",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1701390939.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/f9070e18717978efe94f06a990fbf684/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "ยอมเป็นของฮิม  ตอนที่ 8",
-     "info": "วันที่ 18 มกราคม 2567",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1701390939.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/029139fa5f351ba59955ae6bca21be2b/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "ยอมเป็นของฮิม  ตอนที่ 9",
-     "info": "วันที่ 25 มกราคม 2567",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1701390939.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/21975e06ca01fc836682d1110a5c58cb/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
     }
    ]
