@@ -1,9 +1,29 @@
 {
   "name": "หนังใหม่ 2024",
-  "author": "เจียว เจียว อัพวันที่ 01 กุมภาพันธ์ 2567",
+  "author": "เจียว เจียว อัพวันที่ 03 กุมภาพันธ์ 2567",
   "info": "เฉพาะเมื่อเราให้ความสุขโดยไม่ลังเลหรือคิดจะได้กำไรเราสามารถรู้ได้อย่างแท้จริงว่าความรักหมายถึงอะไร😊",
   "image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
   "groups": [
+    {
+      "name": "The Land of Women (2024) ในแดนราชินี",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/02/The-Land-of-Women-2024-ในแดนราชินี-300x450.jpg",
+      "stations": [
+        {
+          "name": "The Land of Women (2024) ในแดนราชินี",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/02/The-Land-of-Women-2024-ในแดนราชินี-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/a159c25dd4a581feb34de954/a159c25dd4a581feb34de954438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "The Land of Women (2024) ในแดนราชินี",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/02/The-Land-of-Women-2024-ในแดนราชินี-300x450.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/a11d99eda902276ce10c5d9f/a11d99eda902276ce10c5d9f800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
     {
       "name": "E-Sarn Tootsie Part 2 (2024) อีสานตุ๊ดซี่ ภาค 2",
       "image": "https://www.123-hd.com/wp-content/uploads/2024/02/E-Sarn-Tootsie-Part-2-2024-อีสานตุ๊ดซี่-ภาค-2-300x450.jpg",
@@ -505,26 +525,6 @@
           "info": "ตัวเล่นสำรอง",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Lift-2024-ปล้นเหนือเมฆ-300x450.jpg",
           "url": "https://xxx.77player.xyz/m3u8/6edd2bac95f1fa172e6eca4e/6edd2bac95f1fa172e6eca4e800.m3u8",
-          "referer": "https://www.123-hd.com/"
-        }
-      ]
-    },
-    {
-      "name": "One More Shot (2024)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/01/One-More-Shot-2024-300x450.jpg",
-      "stations": [
-        {
-          "name": "One More Shot (2024)",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/One-More-Shot-2024-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/f5b0b09c07276629a1eedc32/f5b0b09c07276629a1eedc32438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "One More Shot (2024)",
-          "info": "ตัวเล่นสำรอง",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/One-More-Shot-2024-300x450.jpg",
-          "url": "https://xxx.77player.xyz/m3u8/d2d9455f662ae23f23a8fc7e/d2d9455f662ae23f23a8fc7e800.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
