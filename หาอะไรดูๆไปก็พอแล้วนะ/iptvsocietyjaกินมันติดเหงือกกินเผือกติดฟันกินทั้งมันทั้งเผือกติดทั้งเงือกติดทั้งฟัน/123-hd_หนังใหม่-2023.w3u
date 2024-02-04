@@ -1,9 +1,22 @@
 {
   "name": "หนังใหม่ 2023",
-  "author": "เจียว เจียว อัพวันที่ 03 กุมภาพันธ์ 2567",
+  "author": "เจียว เจียว อัพวันที่ 04 กุมภาพันธ์ 2567",
   "info": "เฉพาะเมื่อเราให้ความสุขโดยไม่ลังเลหรือคิดจะได้กำไรเราสามารถรู้ได้อย่างแท้จริงว่าความรักหมายถึงอะไร😊",
   "image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
   "groups": [
+    {
+      "name": "Children of the Corn (2023)",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Children-of-the-Corn-2023-300x450.jpg",
+      "stations": [
+        {
+          "name": "Children of the Corn (2023)",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Children-of-the-Corn-2023-300x450.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/df158bb728792aaef4749872/df158bb728792aaef4749872800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
     {
       "name": "In the Land of Saints and Sinners (2023)",
       "image": "https://www.123-hd.com/wp-content/uploads/2024/02/In-the-Land-of-Saints-and-Sinners-2023-300x450.jpg",
@@ -521,21 +534,41 @@
       ]
     },
     {
-      "name": "My Big Fat Greek Wedding 3 (2023) รวมญาติงานแต่งตระกูลจี้วายป่วง 3",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/01/My-Big-Fat-Greek-Wedding-3-2023-รวมญาติงานแต่งตระกูลจี้วายป่วง-3-300x450.jpg",
+      "name": "The Holdovers (2023)",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/01/The-Holdovers-2023-300x450.jpg",
       "stations": [
         {
-          "name": "My Big Fat Greek Wedding 3 (2023) รวมญาติงานแต่งตระกูลจี้วายป่วง 3",
+          "name": "The Holdovers (2023)",
           "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/My-Big-Fat-Greek-Wedding-3-2023-รวมญาติงานแต่งตระกูลจี้วายป่วง-3-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/651e8ff029c369bd52fd0384/651e8ff029c369bd52fd0384438.m3u8",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/The-Holdovers-2023-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/f02be1c19a09977735bf34cd/f02be1c19a09977735bf34cd438.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
-          "name": "My Big Fat Greek Wedding 3 (2023) รวมญาติงานแต่งตระกูลจี้วายป่วง 3",
+          "name": "The Holdovers (2023)",
           "info": "ตัวเล่นสำรอง",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/My-Big-Fat-Greek-Wedding-3-2023-รวมญาติงานแต่งตระกูลจี้วายป่วง-3-300x450.jpg",
-          "url": "https://xxx.77player.xyz/m3u8/8996ce254c869196804af427/8996ce254c869196804af427800.m3u8",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/The-Holdovers-2023-300x450.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/db76965bf7b0f117e35bc629/db76965bf7b0f117e35bc629800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "Postman (2023) ไปรษณีย์ 4 โลก",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Postman-2023-ไปรษณีย์-4-โลก-300x450.jpg",
+      "stations": [
+        {
+          "name": "Postman (2023) ไปรษณีย์ 4 โลก",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Postman-2023-ไปรษณีย์-4-โลก-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/27db5e6ea57d0eef8d9c094f/27db5e6ea57d0eef8d9c094f438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Postman (2023) ไปรษณีย์ 4 โลก",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Postman-2023-ไปรษณีย์-4-โลก-300x450.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/e87c5a4caf1a576565351701/e87c5a4caf1a576565351701800.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -1637,26 +1670,6 @@
       ]
     },
     {
-      "name": "A Vampire in the Family (2023) ญาติผมเป็นแวมไพร์",
-      "image": "https://www.123-hd.com/wp-content/uploads/2023/12/A-Vampire-in-the-Family-2023-ญาติผมเป็นแวมไพร์-300x450.jpg",
-      "stations": [
-        {
-          "name": "A Vampire in the Family (2023) ญาติผมเป็นแวมไพร์",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/A-Vampire-in-the-Family-2023-ญาติผมเป็นแวมไพร์-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/a0a575d728ec9a291729c373/a0a575d728ec9a291729c373438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "A Vampire in the Family (2023) ญาติผมเป็นแวมไพร์",
-          "info": "ตัวเล่นสำรอง",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/A-Vampire-in-the-Family-2023-ญาติผมเป็นแวมไพร์-300x450.jpg",
-          "url": "https://xxx.77player.xyz/m3u8/82d7580dcf379d2f85850ee7/82d7580dcf379d2f85850ee7800.m3u8",
-          "referer": "https://www.123-hd.com/"
-        }
-      ]
-    },
-    {
       "name": "Anatomy of a Fall (2023) เขาบอกว่าเธอฆ่า",
       "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Anatomy-of-a-Fall-2023-เขาบอกว่าเธอฆ่า-300x450.jpg",
       "stations": [
@@ -1665,26 +1678,6 @@
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Anatomy-of-a-Fall-2023-เขาบอกว่าเธอฆ่า-300x450.jpg",
           "url": "https://main.77player.xyz/m3u8/14ed62af8f1136120ad09df2/14ed62af8f1136120ad09df2438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "Anatomy of a Fall (2023) เขาบอกว่าเธอฆ่า",
-          "info": "ตัวเล่นสำรอง",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Anatomy-of-a-Fall-2023-เขาบอกว่าเธอฆ่า-300x450.jpg",
-          "url": "https://xxx.77player.xyz/m3u8/15640b046733f86450a66e13/15640b046733f86450a66e13800.m3u8",
-          "referer": "https://www.123-hd.com/"
-        }
-      ]
-    },
-    {
-      "name": "Anatomy of a Fall (2023) เขาบอกว่าเธอฆ่า",
-      "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Anatomy-of-a-Fall-2023-เขาบอกว่าเธอฆ่า-300x450.jpg",
-      "stations": [
-        {
-          "name": "Anatomy of a Fall (2023) เขาบอกว่าเธอฆ่า",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Anatomy-of-a-Fall-2023-เขาบอกว่าเธอฆ่า-300x450.jpg",
-          "url": "https://main.77player.xyz/newplaylist/14ed62af8f1136120ad09df2/14ed62af8f1136120ad09df2.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -2029,7 +2022,7 @@
           "name": "See You Again (2023) ขอเจอเธออีกสักครั้ง",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/12/See-You-Again-2023-ขอเจอเธออีกสักครั้ง-300x450.jpg",
-          "url": "https://main.77player.xyz/newplaylist/553143f8ec3eea6bc57de1aa/553143f8ec3eea6bc57de1aa.m3u8",
+          "url": "https://main.77player.xyz/m3u8/553143f8ec3eea6bc57de1aa/553143f8ec3eea6bc57de1aa438.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -2270,28 +2263,14 @@
       ]
     },
     {
-      "name": "Trolls Band Together (2023) โทรลล์ส 3",
-      "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Trolls-Band-Together-2023-โทรลล์ส-3-300x450.jpg",
+      "name": "Family (2023)",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Family-2023-300x450.jpg",
       "stations": [
         {
-          "name": "Trolls Band Together (2023) โทรลล์ส 3",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Trolls-Band-Together-2023-โทรลล์ส-3-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/8b4b9b61ac3379e7f1317f7b/8b4b9b61ac3379e7f1317f7b438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "Trolls Band Together (2023) โทรลล์ส 3",
+          "name": "Family (2023)",
           "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Trolls-Band-Together-2023-โทรลล์ส-3-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/b637410e93f515ce7ab31091/b637410e93f515ce7ab31091438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "Trolls Band Together (2023) โทรลล์ส 3",
-          "info": "ตัวเล่นสำรอง",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Trolls-Band-Together-2023-โทรลล์ส-3-300x450.jpg",
-          "url": "https://xxx.77player.xyz/m3u8/51a5800be740e5921b1b7d5d/51a5800be740e5921b1b7d5d800.m3u8",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Family-2023-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/51f0228d44ed2f1bfd15e4fe/51f0228d44ed2f1bfd15e4fe438.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -3103,7 +3082,7 @@
           "name": "Dr.Qin (2023) หมอฉินนิติเวชสืบคดี",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/11/Dr.Qin-2023-หมอฉินนิติเวชสืบคดี-300x450.jpg",
-          "url": "https://main.77player.xyz/newplaylist/f89c714edf9881b808d28306/f89c714edf9881b808d28306.m3u8",
+          "url": "https://main.77player.xyz/m3u8/f89c714edf9881b808d28306/f89c714edf9881b808d28306438.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -3457,7 +3436,7 @@
           "name": "One and Only (2023) สเต็ปกล้าท้าฝัน",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/11/One-and-Only-2023-สเต็ปกล้าท้าฝัน-300x450.jpg",
-          "url": "https://main.77player.xyz/newplaylist/ba83164ea87b2e94887dad97/ba83164ea87b2e94887dad97.m3u8",
+          "url": "https://main.77player.xyz/m3u8/ba83164ea87b2e94887dad97/ba83164ea87b2e94887dad97438.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -3605,7 +3584,7 @@
           "name": "Americanish (2023) เธอ ฉัน ฝันอเมริกา",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/11/Americanish-2023-เธอ-ฉัน-ฝันอเมริกา-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/098a5ff9e109e3d1d55b287e/098a5ff9e109e3d1d55b287e438.m3u8",
+          "url": "https://main.77player.xyz/newplaylist/098a5ff9e109e3d1d55b287e/098a5ff9e109e3d1d55b287e.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -4672,7 +4651,7 @@
           "name": "Wingwomen (2023) ร่วมด้วยช่วยกัน...ปล้น",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/11/Wingwomen-2023-ร่วมด้วยช่วยกัน...ปล้น-300x450.jpg",
-          "url": "https://main.77player.xyz/newplaylist/950ee555102e7c3c076adce2/950ee555102e7c3c076adce2.m3u8",
+          "url": "https://main.77player.xyz/m3u8/950ee555102e7c3c076adce2/950ee555102e7c3c076adce2438.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -5669,7 +5648,7 @@
           "name": "The Expendables ภาค 2",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Expend4bles-2023-โคตรคนทีมมหากาฬ-4-300x450.jpg",
-          "url": "https://main.77player.xyz/newplaylist/eb6d8f9685a2410e109511d3/eb6d8f9685a2410e109511d3.m3u8",
+          "url": "https://main.77player.xyz/m3u8/eb6d8f9685a2410e109511d3/eb6d8f9685a2410e109511d3438.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -6256,54 +6235,6 @@
       ]
     },
     {
-      "name": "The Nun 2 (2023) เดอะ นัน 2",
-      "image": "https://www.123-hd.com/wp-content/uploads/2023/09/The-Nun-2-2023-เดอะ-นัน-2-1-300x450.jpg",
-      "stations": [
-        {
-          "name": "The Nun ภาค 1",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/09/The-Nun-2-2023-เดอะ-นัน-2-1-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/33e93477335e56275597252a/33e93477335e56275597252a438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "The Nun ภาค 1",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/09/The-Nun-2-2023-เดอะ-นัน-2-1-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/ff80e054bf24de2ac23d440d/ff80e054bf24de2ac23d440d438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "The Nun ภาค 2",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/09/The-Nun-2-2023-เดอะ-นัน-2-1-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/ef2b7ccebe9d784016b0b752/ef2b7ccebe9d784016b0b752438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "The Nun ภาค 2",
-          "info": "ตัวเล่นสำรอง",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/09/The-Nun-2-2023-เดอะ-นัน-2-1-300x450.jpg",
-          "url": "https://xxx.77player.xyz/m3u8/8af013dd77bf7b8780ceeb13/8af013dd77bf7b8780ceeb13800.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "The Nun ภาค 2",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/09/The-Nun-2-2023-เดอะ-นัน-2-1-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/aa9dc525555674acaab206e0/aa9dc525555674acaab206e0438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "The Nun ภาค 2",
-          "info": "ตัวเล่นสำรอง",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/09/The-Nun-2-2023-เดอะ-นัน-2-1-300x450.jpg",
-          "url": "https://xxx.77player.xyz/m3u8/7f78ee3973acf092bf7cd9b4/7f78ee3973acf092bf7cd9b4800.m3u8",
-          "referer": "https://www.123-hd.com/"
-        }
-      ]
-    },
-    {
       "name": "Teenage Mutant Ninja Turtles Mutant Mayhem (2023) เต่านินจา โกลาหลกลายพันธุ์",
       "image": "https://www.123-hd.com/wp-content/uploads/2023/08/Teenage-Mutant-Ninja-Turtles-Mutant-Mayhem-2023-เต่านินจา-โกลาหลกลายพันธุ์-1-300x450.jpg",
       "stations": [
@@ -6742,7 +6673,7 @@
           "name": "House of Spies (2023) เฮาส์ ออฟ สปาย",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/10/House-of-Spies-2023-เฮาส์-ออฟ-สปาย-300x450.jpg",
-          "url": "https://main.77player.xyz/newplaylist/331837c6d4dcaa6bf09e4a7e/331837c6d4dcaa6bf09e4a7e.m3u8",
+          "url": "https://main.77player.xyz/m3u8/331837c6d4dcaa6bf09e4a7e/331837c6d4dcaa6bf09e4a7e438.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -6892,6 +6823,26 @@
           "info": "ตัวเล่นสำรอง",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/08/Blue-Beetle-2023-บลู-บีเทิล-1-300x450.jpg",
           "url": "https://xxx.77player.xyz/m3u8/5a2b321b671460b0cb7db424/5a2b321b671460b0cb7db424800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "Project CC (2023)",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/10/Project-CC-2023-300x450.jpg",
+      "stations": [
+        {
+          "name": "Project CC (2023)",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/10/Project-CC-2023-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/2d0ca795b9796dea1ada4cbb/2d0ca795b9796dea1ada4cbb438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Project CC (2023)",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/10/Project-CC-2023-300x450.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/3498ab0e46e9db06a09b1eef/3498ab0e46e9db06a09b1eef800.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -7104,7 +7055,7 @@
           "name": "Nowhere (2023)",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Nowhere-2023-300x450.jpg",
-          "url": "https://main.77player.xyz/newplaylist/b67f2a16c4c3b672dd6a88a6/b67f2a16c4c3b672dd6a88a6.m3u8",
+          "url": "https://main.77player.xyz/m3u8/b67f2a16c4c3b672dd6a88a6/b67f2a16c4c3b672dd6a88a6438.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -7455,6 +7406,26 @@
       ]
     },
     {
+      "name": "Forgotten Love (2023) รักที่ถูกลืม",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Forgotten-love-2023-รักที่ถูกลืม-300x450.jpg",
+      "stations": [
+        {
+          "name": "Forgotten Love (2023) รักที่ถูกลืม",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Forgotten-love-2023-รักที่ถูกลืม-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/8968e19b18c801de2570fc19/8968e19b18c801de2570fc19438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Forgotten Love (2023) รักที่ถูกลืม",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Forgotten-love-2023-รักที่ถูกลืม-300x450.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/3affe892cb8cefccdd07907d/3affe892cb8cefccdd07907d800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
       "name": "The Wonderful Story of Henry Sugar (2023) เรื่องเล่าหรรษาของเฮนรี่ ซูการ์",
       "image": "https://www.123-hd.com/wp-content/uploads/2023/09/The-Wonderful-Story-Of-Henry-Sugar-2023-เรื่องเล่าหรรษาของเฮนรี่-ซูการ์-300x450.jpg",
       "stations": [
@@ -7707,7 +7678,7 @@
           "name": "ZIEN-LANG Best Friends Forever (2023) เซียนหรั่ง เดอะมูฟวี่",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/09/ZIEN-LANG-Best-Friends-Forever-2023-เซียนหรั่ง-เดอะมูฟวี่-1-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/56bc00384787530383851625/56bc00384787530383851625438.m3u8",
+          "url": "https://main.77player.xyz/newplaylist/56bc00384787530383851625/56bc00384787530383851625.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -8078,40 +8049,6 @@
           "info": "ตัวเล่นสำรอง",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/06/Elemental-2023-เมืองอลวนธาตุอลเวง-300x450.jpg",
           "url": "https://xxx.77player.xyz/m3u8/1f9966f5d2256179358411e8/1f9966f5d2256179358411e8800.m3u8",
-          "referer": "https://www.123-hd.com/"
-        }
-      ]
-    },
-    {
-      "name": "Freestyle (2023) ฟรีสไตล์",
-      "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Freestyle-2023-ฟรีสไตล์-300x450.jpg",
-      "stations": [
-        {
-          "name": "Freestyle (2023) ฟรีสไตล์",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Freestyle-2023-ฟรีสไตล์-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/b508f8656e3ceb06a770adc2/b508f8656e3ceb06a770adc2438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "Freestyle (2023) ฟรีสไตล์",
-          "info": "ตัวเล่นสำรอง",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Freestyle-2023-ฟรีสไตล์-300x450.jpg",
-          "url": "https://xxx.77player.xyz/m3u8/98db89279d50b60eb9bd4bbd/98db89279d50b60eb9bd4bbd800.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "Freestyle (2023) ฟรีสไตล์",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Freestyle-2023-ฟรีสไตล์-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/78bb9b869f57965f74e7c4de/78bb9b869f57965f74e7c4de438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "Freestyle (2023) ฟรีสไตล์",
-          "info": "ตัวเล่นสำรอง",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Freestyle-2023-ฟรีสไตล์-300x450.jpg",
-          "url": "https://xxx.77player.xyz/m3u8/56717982fe0971c0f43c190f/56717982fe0971c0f43c190f800.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -8779,33 +8716,6 @@
       ]
     },
     {
-      "name": "Simulant (2023)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2023/05/Simulant-2023-300x450.jpg",
-      "stations": [
-        {
-          "name": "Simulant (2023)",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/05/Simulant-2023-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/2f76af8da98dc120735628c9/2f76af8da98dc120735628c9438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "Simulant (2023)",
-          "info": "ตัวเล่นสำรอง",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/05/Simulant-2023-300x450.jpg",
-          "url": "https://xxx.77player.xyz/m3u8/be63082831d9619b9c5f5700/be63082831d9619b9c5f5700800.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "Simulant (2023)",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/05/Simulant-2023-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/0938513b09115e2939a07e5e/0938513b09115e2939a07e5e438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        }
-      ]
-    },
-    {
       "name": "Cobweb (2023) ก๊อก ก๊อก.. เคาะเรียกผี",
       "image": "https://www.123-hd.com/wp-content/uploads/2023/08/Cobweb-2023-ก๊อก-ก๊อก..-เคาะเรียกผี-300x450.jpg",
       "stations": [
@@ -9013,7 +8923,7 @@
           "name": "Insidious ภาค 4",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/08/Insidious-The-Red-Door-2023-วิญญาณตามติด-ประตูผีผ่าน-300x450.jpg",
-          "url": "https://main.77player.xyz/newplaylist/bb984c29471984e661f589a9/bb984c29471984e661f589a9.m3u8",
+          "url": "https://main.77player.xyz/m3u8/bb984c29471984e661f589a9/bb984c29471984e661f589a9438.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -9212,6 +9122,13 @@
           "image": "https://www.123-hd.com/wp-content/uploads/2023/08/Ambush-2023-ภารกิจฝ่าวงล้อมสงครามเวียดนาม-300x450.jpg",
           "url": "https://main.77player.xyz/m3u8/589b3bb29646c915c78d5784/589b3bb29646c915c78d5784438.m3u8",
           "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Ambush (2023) ภารกิจฝ่าวงล้อมสงครามเวียดนาม",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/Ambush-2023-ภารกิจฝ่าวงล้อมสงครามเวียดนาม-300x450.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/a9f106923520c88b95b2fd30/a9f106923520c88b95b2fd30800.m3u8",
+          "referer": "https://www.123-hd.com/"
         }
       ]
     },
@@ -9310,7 +9227,7 @@
           "name": "Hidden Blade (2023) โค่นคมพยัคฆ์",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/04/Hidden-Blade-2023-โค่นคมพยัคฆ์-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/7119e4fb206ce6b0d34b507d/7119e4fb206ce6b0d34b507d438.m3u8",
+          "url": "https://main.77player.xyz/newplaylist/7119e4fb206ce6b0d34b507d/7119e4fb206ce6b0d34b507d.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -9534,6 +9451,26 @@
           "info": "ตัวเล่นสำรอง",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/08/Eye-of-the-Storm-2023-300x450.jpg",
           "url": "https://xxx.77player.xyz/m3u8/f4e17478cd7a09854b8e4f40/f4e17478cd7a09854b8e4f40800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "A Life Too Short The Isabella Nardoni Case (2023) อิซาเบลล่า ชีวิตช่างสั้นเกินไป",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/08/A-Life-Too-Short-The-Isabella-Nardoni-Case-2023-อิซาเบลล่า-ชีวิตช่างสั้นเกินไป-300x450.jpg",
+      "stations": [
+        {
+          "name": "A Life Too Short The Isabella Nardoni Case (2023) อิซาเบลล่า ชีวิตช่างสั้นเกินไป",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/A-Life-Too-Short-The-Isabella-Nardoni-Case-2023-อิซาเบลล่า-ชีวิตช่างสั้นเกินไป-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/d9fd41d8843abbe86d73f2b0/d9fd41d8843abbe86d73f2b0438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "A Life Too Short The Isabella Nardoni Case (2023) อิซาเบลล่า ชีวิตช่างสั้นเกินไป",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/A-Life-Too-Short-The-Isabella-Nardoni-Case-2023-อิซาเบลล่า-ชีวิตช่างสั้นเกินไป-300x450.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/d47fd2a213a5c41e675bdd19/d47fd2a213a5c41e675bdd19800.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -10486,7 +10423,7 @@
           "name": "Transformers ภาค 1",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/06/Transformers-Rise-of-the-Beasts-2023-ทรานส์ฟอร์เมอร์ส-กำเนิดจักรกลอสูร-300x450.jpg",
-          "url": "https://main.77player.xyz/newplaylist/6ea5fac9572a2e52db9ab6ac/6ea5fac9572a2e52db9ab6ac.m3u8",
+          "url": "https://main.77player.xyz/m3u8/6ea5fac9572a2e52db9ab6ac/6ea5fac9572a2e52db9ab6ac438.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -10507,7 +10444,7 @@
           "name": "Transformers ภาค 3",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/06/Transformers-Rise-of-the-Beasts-2023-ทรานส์ฟอร์เมอร์ส-กำเนิดจักรกลอสูร-300x450.jpg",
-          "url": "https://main.77player.xyz/newplaylist/bfd60e3ee9c05c3301ad2648/bfd60e3ee9c05c3301ad2648.m3u8",
+          "url": "https://main.77player.xyz/m3u8/bfd60e3ee9c05c3301ad2648/bfd60e3ee9c05c3301ad2648438.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -11135,7 +11072,7 @@
           "name": "The Flash (2023) เดอะ แฟลช",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/06/The-Flash-2023-เดอะ-แฟลช-300x450.jpg",
-          "url": "https://main.77player.xyz/newplaylist/a86492c1920de1ba448ce509/a86492c1920de1ba448ce509.m3u8",
+          "url": "https://main.77player.xyz/m3u8/a86492c1920de1ba448ce509/a86492c1920de1ba448ce509438.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -13493,6 +13430,26 @@
       ]
     },
     {
+      "name": "Love Again (2023) รักอีกครั้งที่ปลายสาย",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/05/Love-Again-2023-รักอีกครั้งที่ปลายสาย-300x450.jpg",
+      "stations": [
+        {
+          "name": "Love Again (2023) รักอีกครั้งที่ปลายสาย",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/05/Love-Again-2023-รักอีกครั้งที่ปลายสาย-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/9d2d5fbe0af6c2b1cfa13f81/9d2d5fbe0af6c2b1cfa13f81438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Love Again (2023) รักอีกครั้งที่ปลายสาย",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/05/Love-Again-2023-รักอีกครั้งที่ปลายสาย-300x450.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/4b777a7988e666354d51bc2a/4b777a7988e666354d51bc2a800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
       "name": "Hard Feelings (2023) วัยพลุ่งพล่าน",
       "image": "https://www.123-hd.com/wp-content/uploads/2023/05/Hard-Feelings-2023-วัยพลุ่งพล่าน-300x450.jpg",
       "stations": [
@@ -14002,19 +13959,6 @@
       ]
     },
     {
-      "name": "Kelab Rojak (2023)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2023/05/Kelab-Rojak-2023-300x450.jpg",
-      "stations": [
-        {
-          "name": "Kelab Rojak (2023)",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/05/Kelab-Rojak-2023-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/d65dab2b9be9dac55bfb5695/d65dab2b9be9dac55bfb5695438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        }
-      ]
-    },
-    {
       "name": "Fanfik (2023)",
       "image": "https://www.123-hd.com/wp-content/uploads/2023/05/Fanfik-2023-แฟนฟิค-300x450.jpg",
       "stations": [
@@ -14129,7 +14073,7 @@
           "name": "Gunfight at Rio Bravo (2023)",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/05/Gunfight-at-Rio-Bravo-2023-300x450.jpg",
-          "url": "https://main.77player.xyz/newplaylist/979e35394ff7190f9637f04f/979e35394ff7190f9637f04f.m3u8",
+          "url": "https://main.77player.xyz/m3u8/979e35394ff7190f9637f04f/979e35394ff7190f9637f04f438.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -14182,7 +14126,7 @@
           "name": "The Legend & Butterfly (2023)",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/05/The-Legend-Butterfly-2023-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/acc32fd010178fff2317b858/acc32fd010178fff2317b858438.m3u8",
+          "url": "https://main.77player.xyz/newplaylist/acc32fd010178fff2317b858/acc32fd010178fff2317b858.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -14420,6 +14364,26 @@
       ]
     },
     {
+      "name": "Pathu Thala (2023) ปาธุ ทาลา",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/05/Pathu-Thala-2023-ปาธุ-ทาลา-300x450.jpg",
+      "stations": [
+        {
+          "name": "Pathu Thala (2023) ปาธุ ทาลา",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/05/Pathu-Thala-2023-ปาธุ-ทาลา-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/26b22e1bcdcd8715327bf89d/26b22e1bcdcd8715327bf89d438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Pathu Thala (2023) ปาธุ ทาลา",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/05/Pathu-Thala-2023-ปาธุ-ทาลา-300x450.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/f2ad4aedad424a133d23afe3/f2ad4aedad424a133d23afe3800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
       "name": "Tu Jhoothi Main Makkaar (2023)",
       "image": "https://www.123-hd.com/wp-content/uploads/2023/05/Tu-Jhoothi-Main-Makkaar-2023-300x450.jpg",
       "stations": [
@@ -14560,7 +14524,7 @@
           "name": "AKA (2023) เจ้าหน้าที่เงา",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/04/AKA-2023-เจ้าหน้าที่เงา-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/c27e5ac0ba3d0fd11394c8c3/c27e5ac0ba3d0fd11394c8c3438.m3u8",
+          "url": "https://main.77player.xyz/newplaylist/c27e5ac0ba3d0fd11394c8c3/c27e5ac0ba3d0fd11394c8c3.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -14659,7 +14623,7 @@
           "name": "Longest Third Date (2023) เดตสาม ยาวที่สุด",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/04/Longest-Third-Date-2023-เดตสาม-ยาวที่สุด-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/95c399ff776d27973d01d57c/95c399ff776d27973d01d57c438.m3u8",
+          "url": "https://main.77player.xyz/newplaylist/95c399ff776d27973d01d57c/95c399ff776d27973d01d57c.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -14731,7 +14695,7 @@
           "name": "My Apologies (2023)",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/04/My-Apologies-2023-300x450.jpg",
-          "url": "https://main.77player.xyz/newplaylist/be77ceeb9dbf04dcd39a140c/be77ceeb9dbf04dcd39a140c.m3u8",
+          "url": "https://main.77player.xyz/m3u8/be77ceeb9dbf04dcd39a140c/be77ceeb9dbf04dcd39a140c438.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -15184,6 +15148,52 @@
       ]
     },
     {
+      "name": "Bad Ass Maid (2023) 5 แม่บ้านถล่มมาเฟีย",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/04/Bad-Ass-Maid-2023-5-แม่บ้านถล่มมาเฟีย-300x450.jpg",
+      "stations": [
+        {
+          "name": "Bad Ass Maid (2023) 5 แม่บ้านถล่มมาเฟีย",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/04/Bad-Ass-Maid-2023-5-แม่บ้านถล่มมาเฟีย-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/ab5fbe508fcd9345090263c1/ab5fbe508fcd9345090263c1438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "Mummies (2023) มัมมี่ส์",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/03/Mummies-2023-มัมมี่ส์-300x450.png",
+      "stations": [
+        {
+          "name": "Mummies (2023) มัมมี่ส์",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/03/Mummies-2023-มัมมี่ส์-300x450.png",
+          "url": "https://main.77player.xyz/m3u8/f2149f4b954a5c99d5f3405b/f2149f4b954a5c99d5f3405b438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Mummies (2023) มัมมี่ส์",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/03/Mummies-2023-มัมมี่ส์-300x450.png",
+          "url": "https://main.77player.xyz/m3u8/c65d32b1f9209a8c36902946/c65d32b1f9209a8c36902946438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "Liaozhai Painting Wall (2023) กำแพงภาพปีศาจ",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/03/Liaozhai-Painting-Wall-2023-กำแพงภาพปีศาจ-300x450.png",
+      "stations": [
+        {
+          "name": "Liaozhai Painting Wall (2023) กำแพงภาพปีศาจ",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/03/Liaozhai-Painting-Wall-2023-กำแพงภาพปีศาจ-300x450.png",
+          "url": "https://main.77player.xyz/m3u8/423313dcd62912b71109280b/423313dcd62912b71109280b438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
       "name": "Murder Mystery 2 (2023) ปริศนาฮันนีมูนอลวน 2",
       "image": "https://www.123-hd.com/wp-content/uploads/2023/03/Murder-Mystery-2-2023-ปริศนาฮันนีมูนอลวน-2-300x450.png",
       "stations": [
@@ -15329,7 +15339,7 @@
           "name": "Furies (2023) ผู้หญิงแค้นนรก",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/03/Furies-2023-ผู้หญิงแค้นนรก-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/6558f17c3f0d034c5a12b015/6558f17c3f0d034c5a12b015438.m3u8",
+          "url": "https://main.77player.xyz/newplaylist/6558f17c3f0d034c5a12b015/6558f17c3f0d034c5a12b015.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -15460,72 +15470,6 @@
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/03/Noise-2023-300x450.png",
           "url": "https://main.77player.xyz/m3u8/68c47246e36a10213500344e/68c47246e36a10213500344e438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        }
-      ]
-    },
-    {
-      "name": "Caught Out (2023) คดีความ คอรัปชั่น คริกเกต",
-      "image": "https://www.123-hd.com/wp-content/uploads/2023/03/Caught-Out-2023-คดีความ-คอรัปชั่น-คริกเกต-300x450.png",
-      "stations": [
-        {
-          "name": "Caught Out (2023) คดีความ คอรัปชั่น คริกเกต",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/03/Caught-Out-2023-คดีความ-คอรัปชั่น-คริกเกต-300x450.png",
-          "url": "https://main.77player.xyz/m3u8/0e34c0e8e503e65882e653ec/0e34c0e8e503e65882e653ec438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        }
-      ]
-    },
-    {
-      "name": "The Magician's Elephant (2023) มนตร์คาถากับช้างวิเศษ",
-      "image": "https://www.123-hd.com/wp-content/uploads/2023/03/The-Magicians-Elephant-2023-มนตร์คาถากับช้างวิเศษ-300x450.jpg",
-      "stations": [
-        {
-          "name": "The Magician's Elephant (2023) มนตร์คาถากับช้างวิเศษ",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/03/The-Magicians-Elephant-2023-มนตร์คาถากับช้างวิเศษ-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/c316499109a6d1d9712d2b6e/c316499109a6d1d9712d2b6e438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "The Magician's Elephant (2023) มนตร์คาถากับช้างวิเศษ",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/03/The-Magicians-Elephant-2023-มนตร์คาถากับช้างวิเศษ-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/a6b93839800fe2c575d18059/a6b93839800fe2c575d18059438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        }
-      ]
-    },
-    {
-      "name": "In His Shadow (2023) ราชาเงา",
-      "image": "https://www.123-hd.com/wp-content/uploads/2023/03/In-His-Shadow-2023-ราชาเงา-300x450.png",
-      "stations": [
-        {
-          "name": "In His Shadow (2023) ราชาเงา",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/03/In-His-Shadow-2023-ราชาเงา-300x450.png",
-          "url": "https://main.77player.xyz/m3u8/c716a9a3af4af7087aeda0ce/c716a9a3af4af7087aeda0ce438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "In His Shadow (2023) ราชาเงา",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/03/In-His-Shadow-2023-ราชาเงา-300x450.png",
-          "url": "https://main.77player.xyz/m3u8/e23d464180016ada5ed993e3/e23d464180016ada5ed993e3438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        }
-      ]
-    },
-    {
-      "name": "Still Time (2023) อย่ารอให้เวลาติดปีก",
-      "image": "https://www.123-hd.com/wp-content/uploads/2023/03/Still-Time-2023-อย่ารอให้เวลาติดปีก-300x450.png",
-      "stations": [
-        {
-          "name": "Still Time (2023) อย่ารอให้เวลาติดปีก",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/03/Still-Time-2023-อย่ารอให้เวลาติดปีก-300x450.png",
-          "url": "https://main.77player.xyz/m3u8/ebcd2c2ad795a8cda9c6b913/ebcd2c2ad795a8cda9c6b913438.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -15826,7 +15770,7 @@
           "name": "Love At Frist Kiss (2023) รักแรกจูบ",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/03/Love-At-Frist-Kiss-2023-รักแรกจูบ-300x450.png",
-          "url": "https://main.77player.xyz/m3u8/7d82c646f5b64e7f83ed23ae/7d82c646f5b64e7f83ed23ae438.m3u8",
+          "url": "https://main.77player.xyz/newplaylist/7d82c646f5b64e7f83ed23ae/7d82c646f5b64e7f83ed23ae.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
