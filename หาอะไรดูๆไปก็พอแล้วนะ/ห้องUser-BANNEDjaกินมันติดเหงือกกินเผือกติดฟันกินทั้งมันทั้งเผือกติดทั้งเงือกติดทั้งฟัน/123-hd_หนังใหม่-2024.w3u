@@ -1,9 +1,48 @@
 {
   "name": "หนังใหม่ 2024",
-  "author": "เจียว เจียว อัพวันที่ 12 กุมภาพันธ์ 2567",
+  "author": "เจียว เจียว อัพวันที่ 13 กุมภาพันธ์ 2567",
   "info": "เฉพาะเมื่อเราให้ความสุขโดยไม่ลังเลหรือคิดจะได้กำไรเราสามารถรู้ได้อย่างแท้จริงว่าความรักหมายถึงอะไร😊",
   "image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
   "groups": [
+    {
+      "name": "Star Abyss (2024) ห้วงเหวอวกาศ",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Star-Abyss-2024-ห้วงเหวอวกาศ-300x450.jpg",
+      "stations": [
+        {
+          "name": "Star Abyss (2024) ห้วงเหวอวกาศ",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Star-Abyss-2024-ห้วงเหวอวกาศ-300x450.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/63c893db2bb67b26265b80ee/63c893db2bb67b26265b80ee800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "ClearMind (2024)",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/02/ClearMind-2024-300x450.jpg",
+      "stations": [
+        {
+          "name": "ClearMind (2024)",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/02/ClearMind-2024-300x450.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/f00a94e43de918459a256919/f00a94e43de918459a256919800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "The Tiger's Apprentice (2024)",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/02/The-Tigers-Apprentice-2024-300x450.jpg",
+      "stations": [
+        {
+          "name": "The Tiger's Apprentice (2024)",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/02/The-Tigers-Apprentice-2024-300x450.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/bbfcbee48e526f2484f2ea9c/bbfcbee48e526f2484f2ea9c800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
     {
       "name": "BHAKSHAK (2024) เปิดหน้ากากความจริง",
       "image": "https://www.123-hd.com/wp-content/uploads/2024/02/BHAKSHAK-2024-เปิดหน้ากากความจริง-300x450.jpg",
@@ -415,66 +454,6 @@
           "info": "ตัวเล่นสำรอง",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Badland-Hunters-2024-นักล่ากลางนรก-300x450.jpg",
           "url": "https://xxx.77player.xyz/m3u8/2595cdce3265f72427534b72/2595cdce3265f72427534b72800.m3u8",
-          "referer": "https://www.123-hd.com/"
-        }
-      ]
-    },
-    {
-      "name": "Trunk Locked In (2024) ขังตายท้ายรถ",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Trunk-Locked-In-2024-ขังตายท้ายรถ-300x450.jpg",
-      "stations": [
-        {
-          "name": "Trunk Locked In (2024) ขังตายท้ายรถ",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Trunk-Locked-In-2024-ขังตายท้ายรถ-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/8481e467108548d9bc3ecf4d/8481e467108548d9bc3ecf4d438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "Trunk Locked In (2024) ขังตายท้ายรถ",
-          "info": "ตัวเล่นสำรอง",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Trunk-Locked-In-2024-ขังตายท้ายรถ-300x450.jpg",
-          "url": "https://xxx.77player.xyz/m3u8/3516ef862c27fb2861e922c2/3516ef862c27fb2861e922c2800.m3u8",
-          "referer": "https://www.123-hd.com/"
-        }
-      ]
-    },
-    {
-      "name": "Night Swim (2024) ค่ำคืนอย่าแหวกว่าย",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Night-Swim-2024-ค่ำคืนอย่าแหวกว่าย-300x450.jpg",
-      "stations": [
-        {
-          "name": "Night Swim (2024) ค่ำคืนอย่าแหวกว่าย",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Night-Swim-2024-ค่ำคืนอย่าแหวกว่าย-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/05373b9411f9d9c5868d3c8e/05373b9411f9d9c5868d3c8e438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "Night Swim (2024) ค่ำคืนอย่าแหวกว่าย",
-          "info": "ตัวเล่นสำรอง",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Night-Swim-2024-ค่ำคืนอย่าแหวกว่าย-300x450.jpg",
-          "url": "https://xxx.77player.xyz/m3u8/c08ed25a9d8f03124ba536bd/c08ed25a9d8f03124ba536bd800.m3u8",
-          "referer": "https://www.123-hd.com/"
-        }
-      ]
-    },
-    {
-      "name": "Desperado (2024) อาชญากรระห่ำ",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Desperado-2024-อาชญากรระห่ำ-300x450.jpg",
-      "stations": [
-        {
-          "name": "Desperado (2024) อาชญากรระห่ำ",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Desperado-2024-อาชญากรระห่ำ-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/9acbc398850982da7771aae9/9acbc398850982da7771aae9438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "Desperado (2024) อาชญากรระห่ำ",
-          "info": "ตัวเล่นสำรอง",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Desperado-2024-อาชญากรระห่ำ-300x450.jpg",
-          "url": "https://xxx.77player.xyz/m3u8/86a0b4760996fac4aa249ad9/86a0b4760996fac4aa249ad9800.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
