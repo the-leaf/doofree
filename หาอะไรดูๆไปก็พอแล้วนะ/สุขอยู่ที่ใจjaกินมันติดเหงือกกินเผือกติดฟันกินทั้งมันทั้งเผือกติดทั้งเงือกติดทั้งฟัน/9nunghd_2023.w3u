@@ -1,9 +1,198 @@
 {
  "name": "2023",
- "author": "เจียว เจียว อัพวันที่ 12 กุมภาพันธ์ 2567",
+ "author": "เจียว เจียว อัพวันที่ 15 กุมภาพันธ์ 2567",
  "info": "ความสำเร็จไม่ใช่จุดสิ้นสุด ความล้มเหลวไม่ใช่เรื่องร้ายแรง ความกล้าหาญที่จะทำต่อไปต่างหากที่สำคัญ",
  "image": "https://www.9nunghd.com/wp-content/themes/9nunghd/img/logo-9nung-2023.png",
  "groups": [
+  {
+   "name": "Strange Way of Life (2023)",
+   "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "Strange Way of Life (2023)",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
+     "url": "https://play.kakjeawplay.xyz/761b3cf4-4b75-4e09-bf93-373bc705f624/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Strange Way of Life (2023)",
+     "info": "ตัวเล่นสำรอง ซับไทย",
+     "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
+     "url": "https://streamhls.com/view/13cd3396-d80e-5588-af22-53e91bbf360f.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "A Soweto Love Story (2024) ความรักสไตล์โซเวโต",
+   "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "A Soweto Love Story (2024) ความรักสไตล์โซเวโต",
+     "info": "ตัวเล่นสำรอง ซับไทย",
+     "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
+     "url": "https://streamhls.com/view/8d9e7011-8db3-544b-aeed-60c2c44e74e1.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Anyone But You (2023) เกลียดนัก รักซะเลย",
+   "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "Anyone But You (2023) เกลียดนัก รักซะเลย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
+     "url": "https://play.kakjeawplay.xyz/3df69148-737b-4317-ab65-5abec38bc04d/_",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "The Invisible Guest (2023) คดีโหดกลลวง",
+   "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "The Invisible Guest (2023) คดีโหดกลลวง",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
+     "url": "https://play.kakjeawplay.xyz/b3cdb3bc-1305-4ae6-98a7-63ee8826abac/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "The Invisible Guest (2023) คดีโหดกลลวง",
+     "info": "ตัวเล่นสำรอง ซับไทย",
+     "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
+     "url": "https://streamhls.com/view/42db8411-c799-5cf9-a7da-65829752aa02.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "The Canterville Ghost (2023) เดอะ แคนเทอร์วิลล์ โกสท์",
+   "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "The Canterville Ghost (2023) เดอะ แคนเทอร์วิลล์ โกสท์",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
+     "url": "https://play.kakjeawplay.xyz/24813f90-d4a1-441c-9b29-36324a2a4948/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "The Canterville Ghost (2023) เดอะ แคนเทอร์วิลล์ โกสท์",
+     "info": "ตัวเล่นสำรอง ซับไทย",
+     "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
+     "url": "https://streamhls.com/view/bda0985f-5f2a-5637-8b03-783465059848.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Birthright Outlaw (2023) กำเนิดคนนอกกฎหมาย",
+   "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "Birthright Outlaw (2023) กำเนิดคนนอกกฎหมาย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
+     "url": "https://play.kakjeawplay.xyz/0fb0755d-e19e-4aed-810d-fff5d5fd6140/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Birthright Outlaw (2023) กำเนิดคนนอกกฎหมาย",
+     "info": "ตัวเล่นสำรอง ซับไทย",
+     "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
+     "url": "https://streamhls.com/view/44b57954-277f-5f67-aff1-2ad0c93eae4d.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "The Thousand Faces of Dunshu 2 (2023) ผู้พิทักษ์หมัดเทวดา 2",
+   "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "The Thousand Faces of Dunshu 2 (2023) ผู้พิทักษ์หมัดเทวดา 2",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
+     "url": "https://play.kakjeawplay.xyz/75c6b50d-80bb-412d-8176-d6aad232c045/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "The Thousand Faces of Dunshu 2 (2023) ผู้พิทักษ์หมัดเทวดา 2",
+     "info": "ตัวเล่นสำรอง ซับไทย",
+     "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
+     "url": "https://streamhls.com/view/9c9114e0-536b-5dc6-aea2-bd1a17d72113.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Ride On (2023) ควบสู้ฟัด",
+   "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
+   "info": "พากย์ไทย+ซับไทย",
+   "stations": [
+    {
+     "name": "Ride On (2023) ควบสู้ฟัด",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
+     "url": "https://play.kakjeawplay.xyz/c507998e-6165-42a4-bbd2-c24c686a46ff/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Ride On (2023) ควบสู้ฟัด",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
+     "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
+     "url": "https://streamhls.com/view/5538fa99-987c-57e3-8484-c918153ce129.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Ride On (2023) ควบสู้ฟัด",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
+     "url": "https://play.kakjeawplay.xyz/dc9d89bb-8dcc-4a5b-9937-d4f1de9b2998/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Ride On (2023) ควบสู้ฟัด",
+     "info": "ตัวเล่นสำรอง ซับไทย",
+     "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
+     "url": "https://streamhls.com/view/e46f5a3f-e5ba-5142-817f-97f67bd8683a.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Salaar (2023) ซาลาร์ ภาพบุรุษเถื่อน",
+   "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "Salaar (2023) ซาลาร์ ภาพบุรุษเถื่อน",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
+     "url": "https://play.kakjeawplay.xyz/0a5ed1f7-0202-4bf0-a1c3-44e1e804aa09/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Salaar (2023) ซาลาร์ ภาพบุรุษเถื่อน",
+     "info": "ตัวเล่นสำรอง ซับไทย",
+     "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
+     "url": "https://streamhls.com/view/11cbe653-c896-5eb0-b4cf-43d090289384.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
   {
    "name": "LEGO Jurassic Park: The Unofficial Retelling (2023)",
    "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
@@ -418,27 +607,6 @@
    ]
   },
   {
-   "name": "Birthright Outlaw (2023) กำเนิดคนนอกกฎหมาย",
-   "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
-   "info": "ซับไทย",
-   "stations": [
-    {
-     "name": "Birthright Outlaw (2023) กำเนิดคนนอกกฎหมาย",
-     "info": "ตัวเล่นหลัก ซับไทย",
-     "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
-     "url": "https://play.kakjeawplay.xyz/3ae2ff4b-03b2-4012-883b-b20021e49126/_",
-     "referer": "https://www.9nunghd.com/"
-    },
-    {
-     "name": "Birthright Outlaw (2023) กำเนิดคนนอกกฎหมาย",
-     "info": "ตัวเล่นสำรอง ซับไทย",
-     "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
-     "url": "https://streamhls.com/view/bf8e59c8-738c-5e39-8a44-358ed542acbc.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    }
-   ]
-  },
-  {
    "name": "In the Land of Saints and Sinners (2023)",
    "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
    "info": "ซับไทย",
@@ -728,6 +896,20 @@
      "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
      "url": "https://streamhls.com/view/04e9744e-602a-59cd-a7c4-96ffe36f439e.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Next Goal Wins (2023) หนึ่งประตูสู่ฝัน",
+   "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "Next Goal Wins (2023) หนึ่งประตูสู่ฝัน",
+     "info": "ตัวเล่นสำรอง ซับไทย",
+     "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
+     "url": "https://streamhls.com/view/a9d4c94c-f1fd-5896-8cff-7a82e1c3536f.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -1449,41 +1631,6 @@
      "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
      "url": "https://streamhls.com/view/27faf754-d00d-5315-8c88-6104e8ec07bc.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    }
-   ]
-  },
-  {
-   "name": "Gridman Universe (2023) กริดแมนยูนิเวิร์ส",
-   "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
-   "info": "พากย์ไทย+ซับไทย",
-   "stations": [
-    {
-     "name": "Gridman Universe (2023) กริดแมนยูนิเวิร์ส",
-     "info": "ตัวเล่นหลัก พากย์ไทย",
-     "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
-     "url": "https://play.kakjeawplay.xyz/220b09ac-ba6e-4c7d-afa4-8ad66c3f3cb5/_",
-     "referer": "https://www.9nunghd.com/"
-    },
-    {
-     "name": "Gridman Universe (2023) กริดแมนยูนิเวิร์ส",
-     "info": "ตัวเล่นสำรอง พากย์ไทย",
-     "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
-     "url": "https://streamhls.com/view/253134c5-f26b-51d9-9e0c-105d9e001806.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    },
-    {
-     "name": "Gridman Universe (2023) กริดแมนยูนิเวิร์ส",
-     "info": "ตัวเล่นหลัก ซับไทย",
-     "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
-     "url": "https://play.kakjeawplay.xyz/bd87fdfb-e7b0-45b8-af53-71f1adbfb372/_",
-     "referer": "https://www.9nunghd.com/"
-    },
-    {
-     "name": "Gridman Universe (2023) กริดแมนยูนิเวิร์ส",
-     "info": "ตัวเล่นสำรอง ซับไทย",
-     "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
-     "url": "https://streamhls.com/view/3c3a57e7-1523-57da-9a34-368065931a66.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -5598,6 +5745,27 @@
    ]
   },
   {
+   "name": "King Kong vs Giant Serpent (2023) คิงคอง ปะทะ งูยักษ์",
+   "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "King Kong vs Giant Serpent (2023) คิงคอง ปะทะ งูยักษ์",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
+     "url": "https://play.kakjeawplay.xyz/6aa888d9-51f6-40c3-b3c8-edf908cf5210/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "King Kong vs Giant Serpent (2023) คิงคอง ปะทะ งูยักษ์",
+     "info": "ตัวเล่นสำรอง ซับไทย",
+     "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
+     "url": "https://streamhls.com/view/cfc0e133-2de9-5f18-89aa-a97315df4356.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
    "name": "Analog Squad (2023) ทีมรักนักหลอก",
    "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
    "info": "พากย์ไทย",
@@ -6931,22 +7099,7 @@
    "name": "A Thousand and One (2023) หนึ่งพันหนึ่ง",
    "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
    "info": "ซับไทย",
-   "stations": [
-    {
-     "name": "A Thousand and One (2023) หนึ่งพันหนึ่ง",
-     "info": "ตัวเล่นหลัก ซับไทย",
-     "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
-     "url": "https://play.kakjeawplay.xyz/8b40bd2f-e624-4c35-80a1-1be884be7117/_",
-     "referer": "https://www.9nunghd.com/"
-    },
-    {
-     "name": "A Thousand and One (2023) หนึ่งพันหนึ่ง",
-     "info": "ตัวเล่นสำรอง ซับไทย",
-     "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
-     "url": "https://streamhls.com/view/b7fd50a9-08ea-5351-a654-6ebdab382bc8.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    }
-   ]
+   "stations": []
   },
   {
    "name": "Freelance (2023) จ็อบระห่ำ คนถึกระทึกโลก",
@@ -8120,41 +8273,6 @@
      "info": "ตัวเล่นสำรอง พากย์ไทย",
      "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
      "url": "https://streamhls.com/view/6490e226-a04b-55de-a022-72446a3eee6b.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    }
-   ]
-  },
-  {
-   "name": "Oppenheimer (2023) ออพเพนไฮเมอร์",
-   "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
-   "info": "พากย์ไทย+ซับไทย",
-   "stations": [
-    {
-     "name": "Oppenheimer (2023) ออพเพนไฮเมอร์",
-     "info": "ตัวเล่นหลัก พากย์ไทย",
-     "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
-     "url": "https://play.kakjeawplay.xyz/ff024ffd-43c7-4dc2-b49e-c652bdc62b75/_",
-     "referer": "https://www.9nunghd.com/"
-    },
-    {
-     "name": "Oppenheimer (2023) ออพเพนไฮเมอร์",
-     "info": "ตัวเล่นสำรอง พากย์ไทย",
-     "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
-     "url": "https://streamhls.com/view/5adea805-8b4c-5465-943e-fd8b92653850.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    },
-    {
-     "name": "Oppenheimer (2023) ออพเพนไฮเมอร์",
-     "info": "ตัวเล่นหลัก ซับไทย",
-     "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
-     "url": "https://play.kakjeawplay.xyz/9b641220-0216-42ff-944a-37ef9f876789/_",
-     "referer": "https://www.9nunghd.com/"
-    },
-    {
-     "name": "Oppenheimer (2023) ออพเพนไฮเมอร์",
-     "info": "ตัวเล่นสำรอง ซับไทย",
-     "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
-     "url": "https://streamhls.com/view/cd7cb9dd-374f-55ff-9a02-f7f5f6e31b37.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -10577,6 +10695,41 @@
      "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
      "url": "https://streamhls.com/view/2cf8e6b9-063e-591b-ac46-430d8ba395b6.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Wingwomen (2023) ร่วมด้วยช่วยกัน…ปล้น",
+   "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
+   "info": "พากย์ไทย+ซับไทย",
+   "stations": [
+    {
+     "name": "Wingwomen (2023) ร่วมด้วยช่วยกัน…ปล้น",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
+     "url": "https://play.kakjeawplay.xyz/7a9eda37-61d8-4e6f-8085-daf5c1f63e3c/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Wingwomen (2023) ร่วมด้วยช่วยกัน…ปล้น",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
+     "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
+     "url": "https://streamhls.com/view/e34d929a-8928-5e38-bcaa-369520c12fb4.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Wingwomen (2023) ร่วมด้วยช่วยกัน…ปล้น",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
+     "url": "https://play.kakjeawplay.xyz/3347122d-b03e-483d-8c82-440bf594d5b5/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Wingwomen (2023) ร่วมด้วยช่วยกัน…ปล้น",
+     "info": "ตัวเล่นสำรอง ซับไทย",
+     "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
+     "url": "https://streamhls.com/view/4faab071-727c-562c-bf66-e125bd294968.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -16860,6 +17013,27 @@
    ]
   },
   {
+   "name": "Rosa Peral’s Tapes (2023) บันทึกจากปากโรซ่า เปรัล",
+   "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "Rosa Peral’s Tapes (2023) บันทึกจากปากโรซ่า เปรัล",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
+     "url": "https://play.kakjeawplay.xyz/50b86f9d-ea01-454c-bd7d-0666811013ce/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Rosa Peral’s Tapes (2023) บันทึกจากปากโรซ่า เปรัล",
+     "info": "ตัวเล่นสำรอง ซับไทย",
+     "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
+     "url": "https://streamhls.com/view/f461f784-8ae1-5ce1-ba6c-0e4690768df7.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
    "name": "Sitting In Bars With Cake (2023) สูตรเค้กสื่อรัก",
    "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
    "info": "ซับไทย",
@@ -17499,27 +17673,6 @@
      "info": "ตัวเล่นสำรอง พากย์ไทย",
      "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
      "url": "https://streamhls.com/view/b02cd836-731b-52bc-a9fb-0018993a3bbc.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    }
-   ]
-  },
-  {
-   "name": "Ride On (2023) ควบสู้ฟัด",
-   "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
-   "info": "พากย์ไทย(C)",
-   "stations": [
-    {
-     "name": "Ride On (2023) ควบสู้ฟัด",
-     "info": "ตัวเล่นหลัก พากย์ไทย",
-     "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
-     "url": "https://play.kakjeawplay.xyz/c507998e-6165-42a4-bbd2-c24c686a46ff/_",
-     "referer": "https://www.9nunghd.com/"
-    },
-    {
-     "name": "Ride On (2023) ควบสู้ฟัด",
-     "info": "ตัวเล่นสำรอง พากย์ไทย",
-     "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
-     "url": "https://streamhls.com/view/5538fa99-987c-57e3-8484-c918153ce129.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -19548,27 +19701,6 @@
    ]
   },
   {
-   "name": "Sun Moon (2023) ดวงอาทิตย์ พระจันทร์",
-   "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
-   "info": "ซับไทย",
-   "stations": [
-    {
-     "name": "Sun Moon (2023) ดวงอาทิตย์ พระจันทร์",
-     "info": "ตัวเล่นหลัก ซับไทย",
-     "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
-     "url": "https://play.kakjeawplay.xyz/3f39a4c4-4a77-46b3-a0eb-80a218440cdf/_",
-     "referer": "https://www.9nunghd.com/"
-    },
-    {
-     "name": "Sun Moon (2023) ดวงอาทิตย์ พระจันทร์",
-     "info": "ตัวเล่นสำรอง ซับไทย",
-     "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
-     "url": "https://streamhls.com/view/6aeaa14a-d5a9-5873-a378-512b97d84e47.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    }
-   ]
-  },
-  {
    "name": "Veeran (2023) วีรัน ฮีโร่สายฟ้าทมิฬ",
    "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
    "info": "ซับไทย",
@@ -20047,27 +20179,6 @@
      "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
      "url": "https://streamhls.com/view/282a59d7-3761-5550-83ec-078715f618ec.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    }
-   ]
-  },
-  {
-   "name": "Mercy (2023) เมอร์ซี่",
-   "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
-   "info": "ซับไทย",
-   "stations": [
-    {
-     "name": "Mercy (2023) เมอร์ซี่",
-     "info": "ตัวเล่นหลัก ซับไทย",
-     "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
-     "url": "https://play.kakjeawplay.xyz/499df487-a3c7-42de-a033-822574084681/_",
-     "referer": "https://www.9nunghd.com/"
-    },
-    {
-     "name": "Mercy (2023) เมอร์ซี่",
-     "info": "ตัวเล่นสำรอง ซับไทย",
-     "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
-     "url": "https://streamhls.com/view/77b9098a-22b9-5ff9-9153-f42c735d3f45.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -24499,6 +24610,27 @@
      "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
      "url": "https://streamhls.com/view/a7a5c12c-0cb3-512f-b7b6-44876b992f2a.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Medellin (2023) ข้าคือลูกเจ้าพ่อ (มั้ง)",
+   "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "Medellin (2023) ข้าคือลูกเจ้าพ่อ (มั้ง)",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
+     "url": "https://play.kakjeawplay.xyz/2521bb6e-224b-40a6-890a-505b5bb03523/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Medellin (2023) ข้าคือลูกเจ้าพ่อ (มั้ง)",
+     "info": "ตัวเล่นสำรอง ซับไทย",
+     "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
+     "url": "https://streamhls.com/view/1321e200-84a2-5a54-916f-1f6590cb5880.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -38546,27 +38678,6 @@
    ]
   },
   {
-   "name": "10 Days Of A Good Man (2023) 10 วันของคนดี",
-   "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
-   "info": "ซับไทย",
-   "stations": [
-    {
-     "name": "10 Days Of A Good Man (2023) 10 วันของคนดี",
-     "info": "ตัวเล่นหลัก ซับไทย",
-     "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
-     "url": "https://play.kakjeawplay.xyz/217d2556-4b8c-4e6c-8f13-1991ff28c739/_",
-     "referer": "https://www.9nunghd.com/"
-    },
-    {
-     "name": "10 Days Of A Good Man (2023) 10 วันของคนดี",
-     "info": "ตัวเล่นสำรอง ซับไทย",
-     "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
-     "url": "https://streamhls.com/view/fd847d72-554f-5cb0-a5e6-b83dc162d88e.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    }
-   ]
-  },
-  {
    "name": "Dragon Hunting Soul Suppressing Coffin (2023) โลงลับดับวิญญาณ",
    "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
    "info": "ซับไทย",
@@ -39346,27 +39457,6 @@
      "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
      "url": "https://streamhls.com/view/33955ffc-da48-53c8-a5d9-7cb49bd9ae8b.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    }
-   ]
-  },
-  {
-   "name": "The Thousand Faces of Dunshu 2 (2023) ผู้พิทักษ์หมัดเทวดา 2",
-   "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
-   "info": "ซับไทย",
-   "stations": [
-    {
-     "name": "The Thousand Faces of Dunshu 2 (2023) ผู้พิทักษ์หมัดเทวดา 2",
-     "info": "ตัวเล่นหลัก ซับไทย",
-     "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
-     "url": "https://play.kakjeawplay.xyz/8534b450-8fac-46e0-a430-b7d4dcbd11a9/_",
-     "referer": "https://www.9nunghd.com/"
-    },
-    {
-     "name": "The Thousand Faces of Dunshu 2 (2023) ผู้พิทักษ์หมัดเทวดา 2",
-     "info": "ตัวเล่นสำรอง ซับไทย",
-     "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
-     "url": "https://streamhls.com/view/7217a82b-c467-58fd-a1e2-8400389e4df9.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]

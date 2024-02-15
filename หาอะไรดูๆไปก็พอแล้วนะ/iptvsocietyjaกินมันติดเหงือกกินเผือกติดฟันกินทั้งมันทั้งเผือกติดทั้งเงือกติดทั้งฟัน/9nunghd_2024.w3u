@@ -1,9 +1,296 @@
 {
  "name": "2024",
- "author": "เจียว เจียว อัพวันที่ 12 กุมภาพันธ์ 2567",
+ "author": "เจียว เจียว อัพวันที่ 15 กุมภาพันธ์ 2567",
  "info": "ความสำเร็จไม่ใช่จุดสิ้นสุด ความล้มเหลวไม่ใช่เรื่องร้ายแรง ความกล้าหาญที่จะทำต่อไปต่างหากที่สำคัญ",
  "image": "https://www.9nunghd.com/wp-content/themes/9nunghd/img/logo-9nung-2023.png",
  "groups": [
+  {
+   "name": "The Heartbreak Agency (2024) คลินิกบำบัดไข้ใจ",
+   "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
+   "info": "พากย์ไทย+ซับไทย",
+   "stations": [
+    {
+     "name": "The Heartbreak Agency (2024) คลินิกบำบัดไข้ใจ",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
+     "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
+     "url": "https://streamhls.com/view/de048480-1d6a-58ff-bc25-c2a135e47d18.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Players (2024) เลิกเล่นมาเริ่มรัก",
+   "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
+   "info": "พากย์ไทย+ซับไทย",
+   "stations": [
+    {
+     "name": "Players (2024) เลิกเล่นมาเริ่มรัก",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
+     "url": "https://play.kakjeawplay.xyz/10cc8a08-e474-4cda-a84a-db40a110050a/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Players (2024) เลิกเล่นมาเริ่มรัก",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
+     "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
+     "url": "https://streamhls.com/view/83b2d419-1877-5b09-941b-2f04c787354d.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Players (2024) เลิกเล่นมาเริ่มรัก",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
+     "url": "https://play.kakjeawplay.xyz/60275311-a9ab-479b-8dca-9b12ccbfd749/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Players (2024) เลิกเล่นมาเริ่มรัก",
+     "info": "ตัวเล่นสำรอง ซับไทย",
+     "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
+     "url": "https://streamhls.com/view/997c41dd-46fe-5d89-8c71-03d7a927d9b5.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Mermaid (2024) ตำนานรักเงือกมนุษย์",
+   "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "Mermaid (2024) ตำนานรักเงือกมนุษย์",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
+     "url": "https://play.kakjeawplay.xyz/e074994e-7e11-4409-b1f3-9a6bde7bf0b5/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Mermaid (2024) ตำนานรักเงือกมนุษย์",
+     "info": "ตัวเล่นสำรอง ซับไทย",
+     "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
+     "url": "https://streamhls.com/view/a43769a8-c100-57f7-bdb0-d1a23c5aebd3.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Master Qianhe (2024) นักพรตเชียนเฮ่อ",
+   "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "Master Qianhe (2024) นักพรตเชียนเฮ่อ",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
+     "url": "https://play.kakjeawplay.xyz/197e8414-7e9b-4740-b47c-6a0431e775d5/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Master Qianhe (2024) นักพรตเชียนเฮ่อ",
+     "info": "ตัวเล่นสำรอง ซับไทย",
+     "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
+     "url": "https://streamhls.com/view/cf8cd9ba-ec3d-50db-b83d-358788c20419.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "SnowStorm (2024) วิกฤตพายุหิมะ",
+   "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "SnowStorm (2024) วิกฤตพายุหิมะ",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
+     "url": "https://play.kakjeawplay.xyz/3d858ade-1e5d-43ae-81e9-5936320bf90b/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "SnowStorm (2024) วิกฤตพายุหิมะ",
+     "info": "ตัวเล่นสำรอง ซับไทย",
+     "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
+     "url": "https://streamhls.com/view/1334529e-23e7-53b0-a6b4-4af96005c08a.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Star Abyss (2024) ห้วงเหวอวกาศ",
+   "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "Star Abyss (2024) ห้วงเหวอวกาศ",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
+     "url": "https://play.kakjeawplay.xyz/e297652a-f21d-484e-88c1-e633dd349ad4/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Star Abyss (2024) ห้วงเหวอวกาศ",
+     "info": "ตัวเล่นสำรอง ซับไทย",
+     "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
+     "url": "https://streamhls.com/view/22cc22ba-751b-5a98-b96b-0c67764447ef.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "The God Lei Zhenzi (2024) เทพเหลยเจิ้นจื่อ",
+   "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "The God Lei Zhenzi (2024) เทพเหลยเจิ้นจื่อ",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
+     "url": "https://play.kakjeawplay.xyz/a2cc17a9-0bc0-455d-b689-2d32438868a3/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "The God Lei Zhenzi (2024) เทพเหลยเจิ้นจื่อ",
+     "info": "ตัวเล่นสำรอง ซับไทย",
+     "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
+     "url": "https://streamhls.com/view/fea61f4e-97bf-52c7-beb0-0403d61930b8.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "The Tiger’s Apprentice (2024)",
+   "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "The Tiger’s Apprentice (2024)",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
+     "url": "https://play.kakjeawplay.xyz/4a105f65-e11f-4cfc-8ee9-847795cc39a7/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "The Tiger’s Apprentice (2024)",
+     "info": "ตัวเล่นสำรอง ซับไทย",
+     "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
+     "url": "https://streamhls.com/view/bebc48d0-d1d4-5034-a474-ad225de60cfb.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "ClearMind (2024)",
+   "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "ClearMind (2024)",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
+     "url": "https://play.kakjeawplay.xyz/c6db68b9-d7be-49ea-a9c1-7ac80ff865c2/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "ClearMind (2024)",
+     "info": "ตัวเล่นสำรอง ซับไทย",
+     "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
+     "url": "https://streamhls.com/view/5033b48f-283f-54df-8630-b102bb9f1786.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Bhakshak (2024) เปิดหน้ากากความจริง",
+   "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "Bhakshak (2024) เปิดหน้ากากความจริง",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
+     "url": "https://play.kakjeawplay.xyz/157825b6-121a-4d40-af0f-0bd1b5920293/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Bhakshak (2024) เปิดหน้ากากความจริง",
+     "info": "ตัวเล่นสำรอง ซับไทย",
+     "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
+     "url": "https://streamhls.com/view/9fe180ec-757f-5713-9e3b-b3db0b51793a.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Five Blind Dates (2024) ห้าเดทวุ่น ลุ้นพบรัก",
+   "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
+   "info": "พากย์ไทย+ซับไทย",
+   "stations": [
+    {
+     "name": "Five Blind Dates (2024) ห้าเดทวุ่น ลุ้นพบรัก",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
+     "url": "https://play.kakjeawplay.xyz/71f1e241-5930-4861-8b60-b57aaf0881e5/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Five Blind Dates (2024) ห้าเดทวุ่น ลุ้นพบรัก",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
+     "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
+     "url": "https://streamhls.com/view/bdb63942-e175-5398-8118-e5f15b41bda2.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Five Blind Dates (2024) ห้าเดทวุ่น ลุ้นพบรัก",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
+     "url": "https://play.kakjeawplay.xyz/b98e7c27-ee5e-4337-851e-98beb98d25ef/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Five Blind Dates (2024) ห้าเดทวุ่น ลุ้นพบรัก",
+     "info": "ตัวเล่นสำรอง ซับไทย",
+     "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
+     "url": "https://streamhls.com/view/34639882-c7d1-58b2-a3fe-3ae7216578ae.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Kill Me If You Dare (2024) ถ้ากล้า ก็ฆ่าเลย",
+   "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
+   "info": "พากย์ไทย+ซับไทย",
+   "stations": [
+    {
+     "name": "Kill Me If You Dare (2024) ถ้ากล้า ก็ฆ่าเลย",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
+     "url": "https://play.kakjeawplay.xyz/40728363-ed57-4861-9d63-b88fd9d72acd/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Kill Me If You Dare (2024) ถ้ากล้า ก็ฆ่าเลย",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
+     "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
+     "url": "https://streamhls.com/view/7d9ffef8-7ccd-5adb-ad46-936d8e8b4ffe.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Kill Me If You Dare (2024) ถ้ากล้า ก็ฆ่าเลย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
+     "url": "https://play.kakjeawplay.xyz/730119f8-44bc-4b72-a70b-709d356adf02/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Kill Me If You Dare (2024) ถ้ากล้า ก็ฆ่าเลย",
+     "info": "ตัวเล่นสำรอง ซับไทย",
+     "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
+     "url": "https://streamhls.com/view/f6c9e25f-91c8-5725-939c-a0884338dba8.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
   {
    "name": "Lover, Stalker, Killer (2024) คนรัก สตอล์กเกอร์ ฆาตกร",
    "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
@@ -203,6 +490,20 @@
      "info": "ซับไทย",
      "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
      "url": "https://sgcdnseriesn.xyz/view/0cdb07f2-73aa-5067-a833-1960a6306134.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 12",
+     "info": "พากย์ไทย",
+     "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/d8c93787-5b7f-5362-a0d5-d65438fe199f.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 12",
+     "info": "ซับไทย",
+     "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/d8c93787-5b7f-5362-a0d5-d65438fe199f.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
