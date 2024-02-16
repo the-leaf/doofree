@@ -1,9 +1,44 @@
 {
  "name": "2023",
- "author": "เจียว เจียว อัพวันที่ 15 กุมภาพันธ์ 2567",
+ "author": "เจียว เจียว อัพวันที่ 16 กุมภาพันธ์ 2567",
  "info": "ความสำเร็จไม่ใช่จุดสิ้นสุด ความล้มเหลวไม่ใช่เรื่องร้ายแรง ความกล้าหาญที่จะทำต่อไปต่างหากที่สำคัญ",
  "image": "https://www.9nunghd.com/wp-content/themes/9nunghd/img/logo-9nung-2023.png",
  "groups": [
+  {
+   "name": "Gran Turismo (2023) GT แกร่งทะลุไมล์",
+   "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
+   "info": "พากย์ไทย+ซับไทย",
+   "stations": [
+    {
+     "name": "Gran Turismo (2023) GT แกร่งทะลุไมล์",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
+     "url": "https://play.kakjeawplay.xyz/b6f34f01-3a5f-4e14-9fc1-ea760c4953f0/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Gran Turismo (2023) GT แกร่งทะลุไมล์",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
+     "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
+     "url": "https://streamhls.com/view/e6206d8c-5fa4-58c7-93cd-4ef3f35632de.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Gran Turismo (2023) GT แกร่งทะลุไมล์",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
+     "url": "https://play.kakjeawplay.xyz/fc058050-8d5a-424b-9f0d-914936d2ef89/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Gran Turismo (2023) GT แกร่งทะลุไมล์",
+     "info": "ตัวเล่นสำรอง ซับไทย",
+     "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
+     "url": "https://streamhls.com/view/fa4e3763-5b23-538c-b001-9ace124f007d.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
   {
    "name": "Strange Way of Life (2023)",
    "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
@@ -32,6 +67,13 @@
    "stations": [
     {
      "name": "A Soweto Love Story (2024) ความรักสไตล์โซเวโต",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
+     "url": "https://play.kakjeawplay.xyz/911e1655-72c9-4f0d-8ab3-1fe898dbb141/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "A Soweto Love Story (2024) ความรักสไตล์โซเวโต",
      "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
      "url": "https://streamhls.com/view/8d9e7011-8db3-544b-aeed-60c2c44e74e1.m3u8",
@@ -49,6 +91,13 @@
      "info": "ตัวเล่นหลัก ซับไทย",
      "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
      "url": "https://play.kakjeawplay.xyz/3df69148-737b-4317-ab65-5abec38bc04d/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Anyone But You (2023) เกลียดนัก รักซะเลย",
+     "info": "ตัวเล่นสำรอง ซับไทย",
+     "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
+     "url": "https://streamhls.com/view/85c48b15-1a2f-5f7b-92c4-424aa6366305.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -7099,7 +7148,22 @@
    "name": "A Thousand and One (2023) หนึ่งพันหนึ่ง",
    "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
    "info": "ซับไทย",
-   "stations": []
+   "stations": [
+    {
+     "name": "A Thousand and One (2023) หนึ่งพันหนึ่ง",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
+     "url": "https://play.kakjeawplay.xyz/8b40bd2f-e624-4c35-80a1-1be884be7117/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "A Thousand and One (2023) หนึ่งพันหนึ่ง",
+     "info": "ตัวเล่นสำรอง ซับไทย",
+     "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
+     "url": "https://streamhls.com/view/b7fd50a9-08ea-5351-a654-6ebdab382bc8.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
   },
   {
    "name": "Freelance (2023) จ็อบระห่ำ คนถึกระทึกโลก",
@@ -13401,41 +13465,6 @@
    ]
   },
   {
-   "name": "Gran Turismo (2023) GT แกร่งทะลุไมล์",
-   "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
-   "info": "พากย์ไทย+ซับไทย",
-   "stations": [
-    {
-     "name": "Gran Turismo (2023) GT แกร่งทะลุไมล์",
-     "info": "ตัวเล่นหลัก พากย์ไทย",
-     "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
-     "url": "https://play.kakjeawplay.xyz/b6f34f01-3a5f-4e14-9fc1-ea760c4953f0/_",
-     "referer": "https://www.9nunghd.com/"
-    },
-    {
-     "name": "Gran Turismo (2023) GT แกร่งทะลุไมล์",
-     "info": "ตัวเล่นสำรอง พากย์ไทย",
-     "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
-     "url": "https://streamhls.com/view/e6206d8c-5fa4-58c7-93cd-4ef3f35632de.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    },
-    {
-     "name": "Gran Turismo (2023) GT แกร่งทะลุไมล์",
-     "info": "ตัวเล่นหลัก ซับไทย",
-     "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
-     "url": "https://play.kakjeawplay.xyz/fc058050-8d5a-424b-9f0d-914936d2ef89/_",
-     "referer": "https://www.9nunghd.com/"
-    },
-    {
-     "name": "Gran Turismo (2023) GT แกร่งทะลุไมล์",
-     "info": "ตัวเล่นสำรอง ซับไทย",
-     "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
-     "url": "https://streamhls.com/view/fa4e3763-5b23-538c-b001-9ace124f007d.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    }
-   ]
-  },
-  {
    "name": "Fengshen The Fall of King Zhou (2023) เฟิงเสิน การล่มสลายของกษัตริย์โจว",
    "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
    "info": "ซับไทย",
@@ -19701,6 +19730,27 @@
    ]
   },
   {
+   "name": "Sun Moon (2023) ดวงอาทิตย์ พระจันทร์",
+   "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "Sun Moon (2023) ดวงอาทิตย์ พระจันทร์",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
+     "url": "https://play.kakjeawplay.xyz/3f39a4c4-4a77-46b3-a0eb-80a218440cdf/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Sun Moon (2023) ดวงอาทิตย์ พระจันทร์",
+     "info": "ตัวเล่นสำรอง ซับไทย",
+     "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
+     "url": "https://streamhls.com/view/6aeaa14a-d5a9-5873-a378-512b97d84e47.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
    "name": "Veeran (2023) วีรัน ฮีโร่สายฟ้าทมิฬ",
    "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
    "info": "ซับไทย",
@@ -20179,6 +20229,27 @@
      "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
      "url": "https://streamhls.com/view/282a59d7-3761-5550-83ec-078715f618ec.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Mercy (2023) เมอร์ซี่",
+   "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "Mercy (2023) เมอร์ซี่",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
+     "url": "https://play.kakjeawplay.xyz/499df487-a3c7-42de-a033-822574084681/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Mercy (2023) เมอร์ซี่",
+     "info": "ตัวเล่นสำรอง ซับไทย",
+     "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
+     "url": "https://streamhls.com/view/77b9098a-22b9-5ff9-9153-f42c735d3f45.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -38673,6 +38744,27 @@
      "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
      "url": "https://streamhls.com/view/7ad7756f-f855-567c-a2fc-cb7e8ec2f0b9.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "10 Days Of A Good Man (2023) 10 วันของคนดี",
+   "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "10 Days Of A Good Man (2023) 10 วันของคนดี",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
+     "url": "https://play.kakjeawplay.xyz/217d2556-4b8c-4e6c-8f13-1991ff28c739/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "10 Days Of A Good Man (2023) 10 วันของคนดี",
+     "info": "ตัวเล่นสำรอง ซับไทย",
+     "image": "https://t4.ftcdn.net/jpg/04/73/25/49/360_F_473254957_bxG9yf4ly7OBO5I0O5KABlN930GwaMQz.jpg",
+     "url": "https://streamhls.com/view/fd847d72-554f-5cb0-a5e6-b83dc162d88e.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
