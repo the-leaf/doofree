@@ -1,9 +1,22 @@
 {
  "name": "ละคร",
- "author": "เจียว เจียว อัพวันที่ 15 กุมภาพันธ์ 2567",
+ "author": "เจียว เจียว อัพวันที่ 16 กุมภาพันธ์ 2567",
  "info": "Watchlakorn ที่สุดของคนรักละคร",
  "image": "https://cdn.watchlakorn.in/images/video_logo.png",
  "groups": [
+  {
+   "name": "อายุมั่นขวัญยืน",
+   "image": "https://cdn.watchlakorn.in/storage/images/av-1707955627.jpg",
+   "stations": [
+    {
+     "name": "อายุมั่นขวัญยืน  ตอนที่ 1",
+     "info": "วันที่ 14 กุมภาพันธ์ 2567",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1707955627.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/1192a1db3e0ac505c48b5426c93ab329/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    }
+   ]
+  },
   {
    "name": "รถรางเที่ยวสุดท้าย",
    "image": "https://cdn.watchlakorn.in/storage/images/av-1707580928.jpg",
@@ -158,6 +171,13 @@
      "image": "https://cdn.watchlakorn.in/storage/images/av-1706198535.jpg",
      "url": "https://www.watchlakorn.in/egdeny/5b865a3e46ef21a8798022125f5a7a5a/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ในรอยทราย  ตอนที่ 13",
+     "info": "วันที่ 15 กุมภาพันธ์ 2567",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1706198535.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/29b7926bc9a191a3cb340462a362fb61/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
     }
    ]
   },
@@ -212,6 +232,13 @@
      "info": "วันที่ 14 กุมภาพันธ์ 2567",
      "image": "https://cdn.watchlakorn.in/storage/images/av-1706112706.jpg",
      "url": "https://www.watchlakorn.in/egdeny/d4fb31712976001cb623ea0ddfbd386a/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "เรือนทาส  ตอนที่ 8",
+     "info": "วันที่ 15 กุมภาพันธ์ 2567",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1706112706.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/4c13f8a9fced89e606de0b93167ff339/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
     }
    ]
@@ -337,6 +364,13 @@
      "info": "วันที่ 14 กุมภาพันธ์ 2567",
      "image": "https://cdn.watchlakorn.in/storage/images/av-1706016285.jpg",
      "url": "https://www.watchlakorn.in/egdeny/97cc78b2f0a342ce24a0766012921aaf/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ปล้นเหนือเมฆ  ตอนที่ 18",
+     "info": "วันที่ 15 กุมภาพันธ์ 2567",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1706016285.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/a77becbdb777d6ee97ba3ad65ab51c98/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
     }
    ]
@@ -593,6 +627,13 @@
      "info": "วันที่ 14 กุมภาพันธ์ 2567",
      "image": "https://cdn.watchlakorn.in/storage/images/av-1705902175.jpg",
      "url": "https://www.watchlakorn.in/egdeny/06802e1a5c9bbbff7a35e43ecf51a7e1/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "รักท่วมทุ่ง  ตอนที่ 19",
+     "info": "วันที่ 15 กุมภาพันธ์ 2567",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1705902175.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/4bd68b4f39f290de91d5491967ff2982/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
     }
    ]
@@ -906,6 +947,13 @@
      "image": "https://cdn.watchlakorn.in/storage/images/av-1704721231.jpg",
      "url": "https://www.watchlakorn.in/egdeny/bffd9496d1503d3b524c7613caee6396/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ลิเกหมอลำ  ตอนที่ 29",
+     "info": "วันที่ 15 กุมภาพันธ์ 2567",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1704721231.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/6c0036c22290e6bbb11b93cd08f1a878/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
     }
    ]
   },
@@ -1072,6 +1120,13 @@
      "info": "วันที่ 14 กุมภาพันธ์ 2567",
      "image": "https://cdn.watchlakorn.in/storage/images/av-1704721180.jpg",
      "url": "https://www.watchlakorn.in/egdeny/a427c417b72be8895b182fbe689eb0d7/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "วิญญาณแพศยา  ตอนที่ 24",
+     "info": "วันที่ 15 กุมภาพันธ์ 2567",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1704721180.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/819f24dbfbf478d59c879b2ae468420b/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
     }
    ]

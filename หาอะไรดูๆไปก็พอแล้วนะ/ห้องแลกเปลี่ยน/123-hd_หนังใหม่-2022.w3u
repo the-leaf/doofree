@@ -1,9 +1,22 @@
 {
   "name": "หนังใหม่ 2022",
-  "author": "เจียว เจียว อัพวันที่ 12 กุมภาพันธ์ 2567",
+  "author": "เจียว เจียว อัพวันที่ 16 กุมภาพันธ์ 2567",
   "info": "เฉพาะเมื่อเราให้ความสุขโดยไม่ลังเลหรือคิดจะได้กำไรเราสามารถรู้ได้อย่างแท้จริงว่าความรักหมายถึงอะไร😊",
   "image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
   "groups": [
+    {
+      "name": "[18+]Stars at Noon (2022)",
+      "image": "https://www.123-hd.com/wp-content/uploads/2022/10/Stars-at-Noon-2022-300x450.png",
+      "stations": [
+        {
+          "name": "[18+]Stars at Noon (2022)",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2022/10/Stars-at-Noon-2022-300x450.png",
+          "url": "https://main.77player.xyz/m3u8/fb2a0b40274813d21bb76f21/fb2a0b40274813d21bb76f21438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
     {
       "name": "Don't Look at the Demon (2022) ฝรั่งเซ่นผี",
       "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Dont-Look-at-the-Demon-2022-ฝรั่งเซ่นผี-300x450.jpg",
@@ -633,21 +646,35 @@
       ]
     },
     {
-      "name": "Christmas Land (2015)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Christmas-Land-2015-300x450.jpg",
+      "name": "Phases of the Moon (2022) เกิดกี่ครั้งก็ยังเป็นเธอ",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Phases-of-the-Moon-2022-เกิดกี่ครั้งก็ยังเป็นเธอ-300x450.jpg",
       "stations": [
         {
-          "name": "Christmas Land (2015)",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Christmas-Land-2015-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/5a8679c0ccae8c564f775a66/5a8679c0ccae8c564f775a66438.m3u8",
+          "name": "Phases of the Moon (2022) เกิดกี่ครั้งก็ยังเป็นเธอ",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Phases-of-the-Moon-2022-เกิดกี่ครั้งก็ยังเป็นเธอ-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/5afac2e32164c5639ecfe558/5afac2e32164c5639ecfe558438.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
-          "name": "Christmas Land (2015)",
+          "name": "Phases of the Moon (2022) เกิดกี่ครั้งก็ยังเป็นเธอ",
           "info": "ตัวเล่นสำรอง",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Christmas-Land-2015-300x450.jpg",
-          "url": "https://xxx.77player.xyz/m3u8/8dc971981ee7775e14417ff5/8dc971981ee7775e14417ff5800.m3u8",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Phases-of-the-Moon-2022-เกิดกี่ครั้งก็ยังเป็นเธอ-300x450.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/a477914b55040079c74e4d69/a477914b55040079c74e4d69800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Phases of the Moon (2022) เกิดกี่ครั้งก็ยังเป็นเธอ",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Phases-of-the-Moon-2022-เกิดกี่ครั้งก็ยังเป็นเธอ-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/9031b133fea4dd785a85a5b5/9031b133fea4dd785a85a5b5438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Phases of the Moon (2022) เกิดกี่ครั้งก็ยังเป็นเธอ",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Phases-of-the-Moon-2022-เกิดกี่ครั้งก็ยังเป็นเธอ-300x450.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/8a67df543d90d3ad0bcb650c/8a67df543d90d3ad0bcb650c800.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -1596,7 +1623,7 @@
           "name": "Summit Fever (2022)",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/07/Summit-Fever-2022-300x450.jpg",
-          "url": "https://main.77player.xyz/newplaylist/6ad817ba46e8ce96d5014184/6ad817ba46e8ce96d5014184.m3u8",
+          "url": "https://main.77player.xyz/m3u8/6ad817ba46e8ce96d5014184/6ad817ba46e8ce96d5014184438.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -2347,7 +2374,7 @@
           "name": "Close (2022) รักแรก วันนั้น",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/06/Close-2022-รักแรก-วันนั้น-300x450.jpg",
-          "url": "https://main.77player.xyz/newplaylist/936c7396b18ea72970ff6f01/936c7396b18ea72970ff6f01.m3u8",
+          "url": "https://main.77player.xyz/m3u8/936c7396b18ea72970ff6f01/936c7396b18ea72970ff6f01438.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -2476,6 +2503,26 @@
           "info": "ตัวเล่นสำรอง",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/06/Mad-Heidi-2022-300x450.jpg",
           "url": "https://xxx.77player.xyz/m3u8/71b94923d8b89dee7a290368/71b94923d8b89dee7a290368800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "Shattered (2022)",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/06/Shattered-2022-300x450.jpg",
+      "stations": [
+        {
+          "name": "Shattered (2022)",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/06/Shattered-2022-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/abca8884b0a6311775978b91/abca8884b0a6311775978b91438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Shattered (2022)",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/06/Shattered-2022-300x450.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/23092a04a2b50019187f4304/23092a04a2b50019187f4304800.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -2643,7 +2690,7 @@
           "name": "Avatar 2 The Way of Water",
           "info": "ตัวเล่นสำรอง",
           "image": "https://www.123-hd.com/wp-content/uploads/2022/12/Avatar-The-Way-of-Water-2022-วิถีแห่งสายน้ำ-300x450.png",
-          "url": "https://xxx.77player.xyz/m3u8/a62a3a1ae5aa4a88b1cb91f7/a62a3a1ae5aa4a88b1cb91f7800.m3u8",
+          "url": "https://xxx.77player.xyz/autoplaylist/a62a3a1ae5aa4a88b1cb91f7/a62a3a1ae5aa4a88b1cb91f7.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -2958,39 +3005,6 @@
           "info": "ตัวเล่นสำรอง",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/05/Love-Lizzo-2022-300x450.jpg",
           "url": "https://xxx.77player.xyz/m3u8/8b1ecf34cac14efa446fd042/8b1ecf34cac14efa446fd042800.m3u8",
-          "referer": "https://www.123-hd.com/"
-        }
-      ]
-    },
-    {
-      "name": "Brian and Charles (2022)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2022/09/Brian-and-Charles-2022-300x450.png",
-      "stations": [
-        {
-          "name": "Brian and Charles (2022)",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2022/09/Brian-and-Charles-2022-300x450.png",
-          "url": "https://main.77player.xyz/m3u8/a9df3f10844c3ed4410dd83a/a9df3f10844c3ed4410dd83a438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "Brian and Charles (2022)",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2022/09/Brian-and-Charles-2022-300x450.png",
-          "url": "https://xxx.77player.xyz/ioshls/4738992d70d3ed3e8f5fe07fe51bd111/4738992d70d3ed3e8f5fe07fe51bd111.m3u8",
-          "referer": "https://www.123-hd.com/"
-        }
-      ]
-    },
-    {
-      "name": "Revenge Girl (2022) สวยมรณะ",
-      "image": "https://www.123-hd.com/wp-content/uploads/2022/06/Revenge-Girl-2022-สวยมรณะ-300x450.png",
-      "stations": [
-        {
-          "name": "Revenge Girl (2022) สวยมรณะ",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2022/06/Revenge-Girl-2022-สวยมรณะ-300x450.png",
-          "url": "https://xxx.77player.xyz/ioshls/b3977d42a13fed82a6ab77c339c54d29/b3977d42a13fed82a6ab77c339c54d29.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -5490,6 +5504,26 @@
       ]
     },
     {
+      "name": "Hunt (2022) ล่าคน ปลอมคน",
+      "image": "https://www.123-hd.com/wp-content/uploads/2022/10/Hunt-2022-ล่าคน-ปลอมคน-300x450.png",
+      "stations": [
+        {
+          "name": "Hunt (2022) ล่าคน ปลอมคน",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2022/10/Hunt-2022-ล่าคน-ปลอมคน-300x450.png",
+          "url": "https://main.77player.xyz/m3u8/7c1bccd158d23f0f91cb3e9c/7c1bccd158d23f0f91cb3e9c438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Hunt (2022) ล่าคน ปลอมคน",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2022/10/Hunt-2022-ล่าคน-ปลอมคน-300x450.png",
+          "url": "https://main.77player.xyz/m3u8/6df7e916999774410de1cf7a/6df7e916999774410de1cf7a438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
       "name": "Mili (2022) มิลี่",
       "image": "https://www.123-hd.com/wp-content/uploads/2023/01/Mili-2022-มิลี่-300x450.png",
       "stations": [
@@ -5831,21 +5865,21 @@
       ]
     },
     {
-      "name": "Matilda the Musical (2022) มาทิลด้า เดอะ มิวสิคัล",
-      "image": "https://www.123-hd.com/wp-content/uploads/2022/12/Matilda-the-Musical-2022-มาทิลด้า-เดอะ-มิวสิคัล-300x450.png",
+      "name": "Strange World (2022) ลุยโลกลึกลับ",
+      "image": "https://www.123-hd.com/wp-content/uploads/2022/12/Strange-World-2022-ลุยโลกลึกลับ-300x450.png",
       "stations": [
         {
-          "name": "Matilda the Musical (2022) มาทิลด้า เดอะ มิวสิคัล",
+          "name": "Strange World (2022) ลุยโลกลึกลับ",
           "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2022/12/Matilda-the-Musical-2022-มาทิลด้า-เดอะ-มิวสิคัล-300x450.png",
-          "url": "https://main.77player.xyz/m3u8/8cb54b81d16922568451ecff/8cb54b81d16922568451ecff438.m3u8",
+          "image": "https://www.123-hd.com/wp-content/uploads/2022/12/Strange-World-2022-ลุยโลกลึกลับ-300x450.png",
+          "url": "https://main.77player.xyz/m3u8/70dde8c821b9e88493c5f118/70dde8c821b9e88493c5f118438.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
-          "name": "Matilda the Musical (2022) มาทิลด้า เดอะ มิวสิคัล",
+          "name": "Strange World (2022) ลุยโลกลึกลับ",
           "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2022/12/Matilda-the-Musical-2022-มาทิลด้า-เดอะ-มิวสิคัล-300x450.png",
-          "url": "https://main.77player.xyz/m3u8/0eef7d4081fd6a01298419dd/0eef7d4081fd6a01298419dd438.m3u8",
+          "image": "https://www.123-hd.com/wp-content/uploads/2022/12/Strange-World-2022-ลุยโลกลึกลับ-300x450.png",
+          "url": "https://main.77player.xyz/m3u8/28c67055a8ae3f32cf90d9e4/28c67055a8ae3f32cf90d9e4438.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -5858,7 +5892,7 @@
           "name": "The Ultimate Oppa (2022)",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2022/12/The-Ultimate-Oppa-2022-300x450.png",
-          "url": "https://main.77player.xyz/newplaylist/bbbb77446c71c5d47276209a/bbbb77446c71c5d47276209a.m3u8",
+          "url": "https://main.77player.xyz/m3u8/bbbb77446c71c5d47276209a/bbbb77446c71c5d47276209a438.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -6198,19 +6232,6 @@
       ]
     },
     {
-      "name": "Dangerous Game The Legacy Murders (2022)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2022/12/Dangerous-Game-The-Legacy-Murders-2022-300x450.png",
-      "stations": [
-        {
-          "name": "Dangerous Game The Legacy Murders (2022)",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2022/12/Dangerous-Game-The-Legacy-Murders-2022-300x450.png",
-          "url": "https://main.77player.xyz/m3u8/f2994fcd8123b96eb9710456/f2994fcd8123b96eb9710456438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        }
-      ]
-    },
-    {
       "name": "Doctor G (2022) ดอกเตอร์ จี",
       "image": "https://www.123-hd.com/wp-content/uploads/2022/12/Doctor-G-2022-ดอกเตอร์-จี-300x450.png",
       "stations": [
@@ -6526,6 +6547,32 @@
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2022/12/Just-Love-and-a-Thousand-Songs-2022-300x450.png",
           "url": "https://main.77player.xyz/m3u8/f42d8fbe3a60e9d4517d1651/f42d8fbe3a60e9d4517d1651438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "Just Love and a Thousand Songs (2022)",
+      "image": "https://www.123-hd.com/wp-content/uploads/2022/12/Just-Love-and-a-Thousand-Songs-2022-300x450.png",
+      "stations": [
+        {
+          "name": "Just Love and a Thousand Songs (2022)",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2022/12/Just-Love-and-a-Thousand-Songs-2022-300x450.png",
+          "url": "https://main.77player.xyz/m3u8/f42d8fbe3a60e9d4517d1651/f42d8fbe3a60e9d4517d1651438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "Christmas in Paradise (2022)",
+      "image": "https://www.123-hd.com/wp-content/uploads/2022/12/Christmas-in-Paradise-2022-300x450.png",
+      "stations": [
+        {
+          "name": "Christmas in Paradise (2022)",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2022/12/Christmas-in-Paradise-2022-300x450.png",
+          "url": "https://main.77player.xyz/m3u8/d848826670cc3df1e16fbb92/d848826670cc3df1e16fbb92438.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -7404,7 +7451,7 @@
           "name": "The Last Dolphin King (2022) ราชาโลมาคนสุดท้าย",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2022/11/The-Last-Dolphin-King-2022-ราชาโลมาคนสุดท้าย-300x450.png",
-          "url": "https://main.77player.xyz/m3u8/d702e45c11a339d0bd7b8ed4/d702e45c11a339d0bd7b8ed4438.m3u8",
+          "url": "https://main.77player.xyz/newplaylist/d702e45c11a339d0bd7b8ed4/d702e45c11a339d0bd7b8ed4.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -7803,7 +7850,7 @@
           "name": "Slumberland (2022) สลัมเบอร์แลนด์",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2022/11/Slumberland-2022-สลัมเบอร์แลนด์-300x450.png",
-          "url": "https://main.77player.xyz/newplaylist/251e7ec4cacf545cb6dab8ae/251e7ec4cacf545cb6dab8ae.m3u8",
+          "url": "https://main.77player.xyz/m3u8/251e7ec4cacf545cb6dab8ae/251e7ec4cacf545cb6dab8ae438.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -7922,19 +7969,6 @@
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2022/11/Easter-Sunday-2022-300x450.png",
           "url": "https://main.77player.xyz/m3u8/e3f2fae32e1b5b593de8161b/e3f2fae32e1b5b593de8161b438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        }
-      ]
-    },
-    {
-      "name": "42 Segundos (2022)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2022/11/42-Segundos-2022-300x450.png",
-      "stations": [
-        {
-          "name": "42 Segundos (2022)",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2022/11/42-Segundos-2022-300x450.png",
-          "url": "https://main.77player.xyz/m3u8/d13a7e9f09a2233ca2f218fe/d13a7e9f09a2233ca2f218fe438.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -8418,7 +8452,7 @@
           "name": "The Claus Family 1",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2022/11/The-Claus-Family-2-2022-คริสต์มาสตระกูลคลอส-2-300x450.png",
-          "url": "https://xxx.77player.xyz/ioshls/c961bac82024b3af78e5e574cd93b3bf/c961bac82024b3af78e5e574cd93b3bf.m3u8",
+          "url": "https://xxx.77player.xyz/autoplaylist/c63b2bc0062ade3b359875432aa48088/c63b2bc0062ade3b359875432aa48088.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -8615,6 +8649,19 @@
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2022/11/On-the-Line-2022-300x450.png",
           "url": "https://main.77player.xyz/m3u8/febe23af25ad874cd20e0a1a/febe23af25ad874cd20e0a1a438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "I'm Totally Fine (2022)",
+      "image": "https://www.123-hd.com/wp-content/uploads/2022/11/Im-Totally-Fine-2022-300x450.png",
+      "stations": [
+        {
+          "name": "I'm Totally Fine (2022)",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2022/11/Im-Totally-Fine-2022-300x450.png",
+          "url": "https://main.77player.xyz/m3u8/8863fbcb22013433ebdadeda/8863fbcb22013433ebdadeda438.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -8953,26 +9000,6 @@
       ]
     },
     {
-      "name": "The Takeover (2022) เดอะ เทค โอเวอร์",
-      "image": "https://www.123-hd.com/wp-content/uploads/2022/11/The-Takeover-2022-เดอะ-เทค-โอเวอร์-300x450.png",
-      "stations": [
-        {
-          "name": "The Takeover (2022) เดอะ เทค โอเวอร์",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2022/11/The-Takeover-2022-เดอะ-เทค-โอเวอร์-300x450.png",
-          "url": "https://main.77player.xyz/m3u8/31e08e3a1ecc6ec9b87d5bb8/31e08e3a1ecc6ec9b87d5bb8438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "The Takeover (2022) เดอะ เทค โอเวอร์",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2022/11/The-Takeover-2022-เดอะ-เทค-โอเวอร์-300x450.png",
-          "url": "https://main.77player.xyz/m3u8/6ca780e24a2558ea4865f223/6ca780e24a2558ea4865f223438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        }
-      ]
-    },
-    {
       "name": "Feed Me (2022)",
       "image": "https://www.123-hd.com/wp-content/uploads/2022/10/Feed-Me-2022-300x450.png",
       "stations": [
@@ -8981,19 +9008,6 @@
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2022/10/Feed-Me-2022-300x450.png",
           "url": "https://main.77player.xyz/m3u8/4fb7da068c3e32c8404bf674/4fb7da068c3e32c8404bf674438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        }
-      ]
-    },
-    {
-      "name": "[18+]Stars at Noon (2022)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2022/10/Stars-at-Noon-2022-300x450.png",
-      "stations": [
-        {
-          "name": "[18+]Stars at Noon (2022)",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2022/10/Stars-at-Noon-2022-300x450.png",
-          "url": "https://main.77player.xyz/m3u8/fb2a0b40274813d21bb76f21/fb2a0b40274813d21bb76f21438.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -9309,6 +9323,26 @@
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2022/10/The-Good-Nurse-2022-300x450.png",
           "url": "https://main.77player.xyz/m3u8/00f7cf1d0e0c49ff4ffef375/00f7cf1d0e0c49ff4ffef375438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "Robbing Mussolini (2022) ปล้นมุสโสลินี",
+      "image": "https://www.123-hd.com/wp-content/uploads/2022/10/Robbing-Mussolini-2022-ปล้นมุสโสลินี-300x450.png",
+      "stations": [
+        {
+          "name": "Robbing Mussolini (2022) ปล้นมุสโสลินี",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2022/10/Robbing-Mussolini-2022-ปล้นมุสโสลินี-300x450.png",
+          "url": "https://main.77player.xyz/m3u8/58d006364a813cd328a1df6b/58d006364a813cd328a1df6b438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Robbing Mussolini (2022) ปล้นมุสโสลินี",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2022/10/Robbing-Mussolini-2022-ปล้นมุสโสลินี-300x450.png",
+          "url": "https://main.77player.xyz/m3u8/2277dd54979c4aa905526bb1/2277dd54979c4aa905526bb1438.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -10788,7 +10822,7 @@
           "name": "After Yang (2022) อาฟเตอร์ หยาง",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2022/09/After-Yang-2022-อาฟเตอร์-หยาง-300x450.png",
-          "url": "https://main.77player.xyz/newplaylist/b3033aeae264b9967b7701a5/b3033aeae264b9967b7701a5.m3u8",
+          "url": "https://main.77player.xyz/m3u8/b3033aeae264b9967b7701a5/b3033aeae264b9967b7701a5438.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -10853,7 +10887,7 @@
           "name": "Into the Deep The Submarine Murder Case (2020) ดำดิ่งสู่ห้วงมรณะ",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2022/09/Into-the-Deep-The-Submarine-Murder-Case-2022-300x450.png",
-          "url": "https://main.77player.xyz/newplaylist/b7fdce2ad2d5628f27bb13c2/b7fdce2ad2d5628f27bb13c2.m3u8",
+          "url": "https://main.77player.xyz/m3u8/b7fdce2ad2d5628f27bb13c2/b7fdce2ad2d5628f27bb13c2438.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -10879,7 +10913,7 @@
           "name": "Rainbow (2022) สายรุ้ง",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2022/09/Rainbow-2022-สายรุ้ง-300x450.png",
-          "url": "https://main.77player.xyz/m3u8/498d15490ff138e1769b9b71/498d15490ff138e1769b9b71438.m3u8",
+          "url": "https://main.77player.xyz/newplaylist/498d15490ff138e1769b9b71/498d15490ff138e1769b9b71.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -10945,7 +10979,7 @@
           "name": "The Twin (2022)",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2022/09/The-Twin-2022-300x450.png",
-          "url": "https://main.77player.xyz/m3u8/2209d9b1a714610d840488f4/2209d9b1a714610d840488f4438.m3u8",
+          "url": "https://main.77player.xyz/newplaylist/2209d9b1a714610d840488f4/2209d9b1a714610d840488f4.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -11083,7 +11117,7 @@
           "name": "A Trip to Infinity (2022) การเดินทางสู่อินฟินิตี้",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2022/09/A-Trip-to-Infinity-2022-การเดินทางสู่อินฟินิตี้-300x450.png",
-          "url": "https://main.77player.xyz/m3u8/fa54335f15e2a5d5b39b44f2/fa54335f15e2a5d5b39b44f2438.m3u8",
+          "url": "https://main.77player.xyz/newplaylist/fa54335f15e2a5d5b39b44f2/fa54335f15e2a5d5b39b44f2.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -15711,7 +15745,7 @@
           "name": "Emergency (2022)",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2022/05/Emergency-2022-300x450.png",
-          "url": "https://main.77player.xyz/newplaylist/69d76d616abd24ae3b5b7693/69d76d616abd24ae3b5b7693.m3u8",
+          "url": "https://main.77player.xyz/m3u8/69d76d616abd24ae3b5b7693/69d76d616abd24ae3b5b7693438.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -17758,7 +17792,7 @@
           "name": "Texas Chainsaw 3",
           "info": "ตัวเล่นสำรอง",
           "image": "https://www.123-hd.com/wp-content/uploads/2022/02/Texas-Chainsaw-Massacre-2022-สิงหาสับ-300x450.png",
-          "url": "https://xxx.77player.xyz/autoplaylist/1aa8a44f563b31e9b2fd5c67/1aa8a44f563b31e9b2fd5c67.m3u8",
+          "url": "https://xxx.77player.xyz/m3u8/1aa8a44f563b31e9b2fd5c67/1aa8a44f563b31e9b2fd5c67800.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
