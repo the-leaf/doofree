@@ -1,9 +1,29 @@
 {
  "name": "2024",
- "author": "เจียว เจียว อัพวันที่ 16 กุมภาพันธ์ 2567",
+ "author": "เจียว เจียว อัพวันที่ 18 กุมภาพันธ์ 2567",
  "info": "ชีวิตไม่ได้ให้เราสิ่งที่ต้องการเสมอไป แต่มันจะให้เราสิ่งที่เราจำเป็นต้องการ",
  "image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
  "groups": [
+  {
+   "name": "Madame Web (2024) มาดามเว็บ",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Madame-Web.jpg",
+   "stations": [
+    {
+     "name": "Madame Web (2024) มาดามเว็บ",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Madame-Web.jpg",
+     "url": "https://play.kakjeawplay.xyz/a738a309-b49e-4735-bbe7-c2e71b3a7eea/_",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Madame Web (2024) มาดามเว็บ",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Madame-Web.jpg",
+     "url": "https://streamhls.com/view/4efd72d3-a8fc-5560-9b89-104dae95c28b.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    }
+   ]
+  },
   {
    "name": "Ready, Set, Love เกมชนคนโสด (2024)",
    "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Ready-Set-Love.jpg",
