@@ -1,9 +1,22 @@
 {
  "name": "ละคร",
- "author": "เจียว เจียว อัพวันที่ 18 กุมภาพันธ์ 2567",
+ "author": "เจียว เจียว อัพวันที่ 19 กุมภาพันธ์ 2567",
  "info": "Watchlakorn ที่สุดของคนรักละคร",
  "image": "https://cdn.watchlakorn.in/images/video_logo.png",
  "groups": [
+  {
+   "name": "ปลื้มคนโปรด",
+   "image": "https://cdn.watchlakorn.in/storage/images/av-1708213070.jpg",
+   "stations": [
+    {
+     "name": "ปลื้มคนโปรด  ตอนที่ 1",
+     "info": "วันที่ 17 กุมภาพันธ์ 2567",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1708213070.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/4b23671fea5b36b632125bf66813c85f/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    }
+   ]
+  },
   {
    "name": "อายุมั่นขวัญยืน",
    "image": "https://cdn.watchlakorn.in/storage/images/av-1707955627.jpg",
@@ -47,6 +60,13 @@
      "info": "วันที่ 17 กุมภาพันธ์ 2567",
      "image": "https://cdn.watchlakorn.in/storage/images/av-1707580928.jpg",
      "url": "https://www.watchlakorn.in/egdeny/6efe37e9c58abfcc02d6a16e50653e85/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "รถรางเที่ยวสุดท้าย  ตอนที่ 5",
+     "info": "วันที่ 18 กุมภาพันธ์ 2567",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1707580928.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/b9a51060d8b7c767a51b3d2fdb7375a2/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
     }
    ]
@@ -1225,6 +1245,13 @@
      "image": "https://cdn.watchlakorn.in/storage/images/av-1704616986.jpg",
      "url": "https://www.watchlakorn.in/egdeny/90f7d4902eb087796ec6cae5129d97a4/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "โซน 7 เขตพิศวง สาบสูญ",
+     "info": "วันที่ 18 กุมภาพันธ์2567",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1704616986.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/d3e0a9da293c2b8decb2b6a4e1572a1c/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
     }
    ]
   },
@@ -1321,6 +1348,13 @@
      "info": "วันที่ 17 กุมภาพันธ์ 2567",
      "image": "https://cdn.watchlakorn.in/storage/images/av-1704558397.jpg",
      "url": "https://www.watchlakorn.in/egdeny/8894f79f6dddbeac78dc671bfb39e053/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "นางทาสหัวทอง  ตอนที่ 14",
+     "info": "วันที่ 18 กุมภาพันธ์ 2567",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1704558397.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/200b26d2adb1f06f38aba6661af246ae/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
     }
    ]
@@ -1501,6 +1535,13 @@
      "info": "วันที่ 10 กุมภาพันธ์ 2567",
      "image": "https://cdn.watchlakorn.in/storage/images/av-1703375947.jpg",
      "url": "https://www.watchlakorn.in/egdeny/aa25286168b78bbee61c6b772aadbc01/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "เพื่อน ตาย DFF  ตอนที่ 9",
+     "info": "วันที่ 17 กุมภาพันธ์ 2567",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1703375947.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/1db0429343e4a099dade1ae83755b869/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
     }
    ]
@@ -2372,6 +2413,13 @@
      "info": "วันที่ 11 กุมภาพันธ์ 2567",
      "image": "https://cdn.watchlakorn.in/storage/images/av-1700406841.jpg",
      "url": "https://www.watchlakorn.in/egdeny/88e7bb8852da80544a9be0cdf77030ef/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "อาหารเป็นยังไงครับหมอ  ตอนที่ 13",
+     "info": "วันที่ 18 กุมภาพันธ์ 2567",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1700406841.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/b9300bc21b453ef3c119068b6ac6b0c9/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
     }
    ]
