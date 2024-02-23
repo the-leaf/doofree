@@ -1,6 +1,6 @@
 {
  "name": "ละคร-ONAIR",
- "author": "เจียว เจียว อัพ วันที่ 22 กุมภาพันธ์ 2567",
+ "author": "เจียว เจียว อัพ วันที่ 23 กุมภาพันธ์ 2567",
  "info": "Watchlakorn.in",
  "image": "https://cdn.watchlakorn.in/images/video_logo.png",
  "groups": [
@@ -1020,6 +1020,97 @@
    ]
   },
   {
+   "name": "คู่พระคู่นาง [ยังไม่จบ]",
+   "info": "Watchlakorn.in",
+   "image": "https://cdn.watchlakorn.in/storage/images/av-1708644273.jpg",
+   "stations": [
+    {
+     "name": "คู่พระคู่นาง  ตอนที่ 1",
+     "info": "วันที่ 22 กุมภาพันธ์ 2567",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1708644273.jpg",
+     "url": "https://www.watchlakorn.in/egde/2afce9245f8da75e143e8648248907a6/NDkxNg==/MQ==/ZGF0YTE1LzIyLTAyLTIwMjQvS2h1cGhyYWtodW5hbmctRGlzYzEtMjItRmViLTIwMjRfSEQubXA0/index-v1-a1.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    }
+   ]
+  },
+  {
+   "name": "เรือนทาส [ยังไม่จบ]",
+   "info": "Watchlakorn.in",
+   "image": "https://cdn.watchlakorn.in/storage/images/av-1706112706.jpg",
+   "stations": [
+    {
+     "name": "เรือนทาส  ตอนที่ 1",
+     "info": "วันที่ 24 มกราคม 2567",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1706112706.jpg",
+     "url": "https://www.watchlakorn.in/egde/7e01e776bd42cbf518864ca5b3cfcddc/NDkwMQ==/MQ==/ZGF0YTE1LzI0LTAxLTIwMjQvTXlzdGVyeW9mdGhlU3Bpcml0LURpc2MxLTI0LUphbi0yMDI0X0hELm1wNA==/index-v1-a1.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "เรือนทาส  ตอนที่ 2",
+     "info": "วันที่ 25 มกราคม 2567",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1706112706.jpg",
+     "url": "https://www.watchlakorn.in/egde/eb244e595bb5d05a15722cdf0f1ad978/NDkwMQ==/Mg==/ZGF0YTE1LzI1LTAxLTIwMjQvTXlzdGVyeW9mdGhlU3Bpcml0LURpc2MyLTI1LUphbi0yMDI0X0hELm1wNA==/index-v1-a1.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "เรือนทาส  ตอนที่ 3",
+     "info": "วันที่ 31 มกราคม 2567",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1706112706.jpg",
+     "url": "https://www.watchlakorn.in/egde/7950c814f46e1284c3dc3bc98a6245d0/NDkwMQ==/Mw==/ZGF0YTE1LzMxLTAxLTIwMjQvTXlzdGVyeW9mdGhlU3Bpcml0LURpc2MzLTMxLUphbi0yMDI0X0hELm1wNA==/index-v1-a1.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "เรือนทาส  ตอนที่ 4",
+     "info": "วันที่ 1 กุมภาพันธ์ 2567",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1706112706.jpg",
+     "url": "https://www.watchlakorn.in/egde/acdba8980473ae13d6357e3461c53ad5/NDkwMQ==/NA==/ZGF0YTE1LzAxLTAyLTIwMjQvTXlzdGVyeW9mdGhlU3Bpcml0LURpc2M0LTEtRmViLTIwMjRfSEQubXA0/index-v1-a1.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "เรือนทาส  ตอนที่ 5",
+     "info": "วันที่ 7 กุมภาพันธ์ 2567",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1706112706.jpg",
+     "url": "https://www.watchlakorn.in/egde/8731eefbe2a9099043e68737c272c6c6/NDkwMQ==/NQ==/ZGF0YTE1LzA3LTAyLTIwMjQvTXlzdGVyeW9mdGhlU3Bpcml0LURpc2M1LTctRmViLTIwMjRfSEQubXA0/index-v1-a1.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "เรือนทาส  ตอนที่ 6",
+     "info": "วันที่ 8 กุมภาพันธ์ 2567",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1706112706.jpg",
+     "url": "https://www.watchlakorn.in/egde/c92b6e4d9d7f72d487eaba177ffa948f/NDkwMQ==/Ng==/ZGF0YTE1LzA4LTAyLTIwMjQvTXlzdGVyeW9mdGhlU3Bpcml0LURpc2M2LTgtRmViLTIwMjRfSEQubXA0/index-v1-a1.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "เรือนทาส  ตอนที่ 7",
+     "info": "วันที่ 14 กุมภาพันธ์ 2567",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1706112706.jpg",
+     "url": "https://www.watchlakorn.in/egde/d4fb31712976001cb623ea0ddfbd386a/NDkwMQ==/Nw==/ZGF0YTE1LzE0LTAyLTIwMjQvTXlzdGVyeW9mdGhlU3Bpcml0LURpc2M3LTE0LUZlYi0yMDI0X0hELm1wNA==/index-v1-a1.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "เรือนทาส  ตอนที่ 8",
+     "info": "วันที่ 15 กุมภาพันธ์ 2567",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1706112706.jpg",
+     "url": "https://www.watchlakorn.in/egde/4c13f8a9fced89e606de0b93167ff339/NDkwMQ==/OA==/ZGF0YTE1LzE1LTAyLTIwMjQvTXlzdGVyeW9mdGhlU3Bpcml0LURpc2M4LTgtRmViLTIwMjRfSEQubXA0/index-v1-a1.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "เรือนทาส  ตอนที่ 9",
+     "info": "วันที่ 21 กุมภาพันธ์ 2567",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1706112706.jpg",
+     "url": "https://www.watchlakorn.in/egde/74b68209391f70908f94ced609577520/NDkwMQ==/OQ==/ZGF0YTE1LzIxLTAyLTIwMjQvTXlzdGVyeW9mdGhlU3Bpcml0LURpc2M5LTIxLUZlYi0yMDI0X0hELm1wNA==/index-v1-a1.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "เรือนทาส  ตอนที่ 10",
+     "info": "วันที่ 22 กุมภาพันธ์ 2567",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1706112706.jpg",
+     "url": "https://www.watchlakorn.in/egde/563a67285b746408949979ace7fa99dc/NDkwMQ==/MTA=/ZGF0YTE1LzIyLTAyLTIwMjQvTXlzdGVyeW9mdGhlU3Bpcml0LURpc2MxMC0yMi1GZWItMjAyNF9IRC5tcDQ=/index-v1-a1.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    }
+   ]
+  },
+  {
    "name": "ในรอยทราย [ยังไม่จบ]",
    "info": "Watchlakorn.in",
    "image": "https://cdn.watchlakorn.in/storage/images/av-1706198535.jpg",
@@ -1134,6 +1225,13 @@
      "info": "วันที่ 21 กุมภาพันธ์ 2567",
      "image": "https://cdn.watchlakorn.in/storage/images/av-1706198535.jpg",
      "url": "https://www.watchlakorn.in/egde/087a699dc298a29b79681980e355d334/NDkwMg==/MTY=/ZGF0YTE1LzIxLTAyLTIwMjQvVHdpc3RvZkZhdGUtRGlzYzE2LTIxLUZlYi0yMDI0X0hELm1wNA==/index-v1-a1.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ในรอยทราย  ตอนที่ 17",
+     "info": "วันที่ 22 กุมภาพันธ์ 2567",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1706198535.jpg",
+     "url": "https://www.watchlakorn.in/egde/853f8e13e741ea11c955c25e30841959/NDkwMg==/MTc=/ZGF0YTE1LzIyLTAyLTIwMjQvVHdpc3RvZkZhdGUtRGlzYzE3LTIyLUZlYi0yMDI0X0hELm1wNA==/index-v1-a1.m3u8",
      "referer": "https://www.watchlakorn.in/"
     }
    ]
@@ -1373,11 +1471,18 @@
      "image": "https://cdn.watchlakorn.in/storage/images/av-1704721231.jpg",
      "url": "https://www.watchlakorn.in/egde/722e5dcc0b0fafcb59e88e03a89e4486/MTg0NA==/MzM=/ZGF0YTE1LzIxLTAyLTIwMjQvTGlLZU1vTGFtLURpc2MzMy0yMS1GZWItMjAyNF9IRC5tcDQ=/index-v1-a1.m3u8",
      "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ลิเกหมอลำ  ตอนที่ 34",
+     "info": "วันที่ 22 กุมภาพันธ์ 2567",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1704721231.jpg",
+     "url": "https://www.watchlakorn.in/egde/ee9142bc7773b3a197e6a4428010c95b/MTg0NA==/MzQ=/ZGF0YTE1LzIyLTAyLTIwMjQvTGlLZU1vTGFtLURpc2MzNC0yMi1GZWItMjAyNF9IRC5tcDQ=/index-v1-a1.m3u8",
+     "referer": "https://www.watchlakorn.in/"
     }
    ]
   },
   {
-   "name": "รักท่วมทุ่ง [ยังไม่จบ]",
+   "name": "รักท่วมทุ่ง [จบแล้ว]",
    "info": "Watchlakorn.in",
    "image": "https://cdn.watchlakorn.in/storage/images/av-1705902175.jpg",
    "stations": [
@@ -1541,6 +1646,13 @@
      "image": "https://cdn.watchlakorn.in/storage/images/av-1705902175.jpg",
      "url": "https://www.watchlakorn.in/egde/3c1c552d355545f9c27025f1940d3a49/NDg5Nw==/MjM=/ZGF0YTE1LzIxLTAyLTIwMjQvUnVrVHVhbVRvb25nLURpc2MyMy0yMS1GZWItMjAyNF9IRC5tcDQ=/index-v1-a1.m3u8",
      "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "รักท่วมทุ่งตอนจบ  ตอนที่ 24",
+     "info": "วันที่ 22 กุมภาพันธ์ 2567",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1705902175.jpg",
+     "url": "https://www.watchlakorn.in/egde/2b881ff54b5ca6435bfeec1e7e505fbc/NDg5Nw==/MjQ=/ZGF0YTE1LzIyLTAyLTIwMjQvUnVrVHVhbVRvb25nLURpc2MyNC0yMi1GZWItMjAyNF9IRC5tcDQ=/index-v1-a1.m3u8",
+     "referer": "https://www.watchlakorn.in/"
     }
    ]
   },
@@ -1701,6 +1813,13 @@
      "info": "วันที่ 21 กุมภาพันธ์ 2567",
      "image": "https://cdn.watchlakorn.in/storage/images/av-1706016285.jpg",
      "url": "https://www.watchlakorn.in/egde/879d7cfc752a3fbb9a439b1a46436a01/NDkwMA==/MjI=/ZGF0YTE1LzIxLTAyLTIwMjQvVGhlQ2hlYXRpbmdIZWlzdC1EaXNjMjItMjEtRmViLTIwMjRfSEQubXA0/index-v1-a1.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ปล้นเหนือเมฆ  ตอนที่ 23",
+     "info": "วันที่ 22 กุมภาพันธ์ 2567",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1706016285.jpg",
+     "url": "https://www.watchlakorn.in/egde/0f40b084c012e0d7c8d75d38ad6dd488/NDkwMA==/MjM=/ZGF0YTE1LzIyLTAyLTIwMjQvVGhlQ2hlYXRpbmdIZWlzdC1EaXNjMjMtMjItRmViLTIwMjRfSEQubXA0/index-v1-a1.m3u8",
      "referer": "https://www.watchlakorn.in/"
     }
    ]
@@ -1897,6 +2016,34 @@
      "info": "วันที่ 21 กุมภาพันธ์ 2567",
      "image": "https://cdn.watchlakorn.in/storage/images/av-1704721180.jpg",
      "url": "https://www.watchlakorn.in/egde/4d5e9a189a2259a38efed298bf44d235/NDg4OA==/Mjc=/ZGF0YTE1LzIxLTAyLTIwMjQvV2lueWFuUGFldHNheWEtRGlzYzI3LTIxLUZlYi0yMDI0X0hELm1wNA==/index-v1-a1.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "วิญญาณแพศยา  ตอนที่ 28",
+     "info": "วันที่ 22 กุมภาพันธ์ 2567",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1704721180.jpg",
+     "url": "https://www.watchlakorn.in/egde/ba6cad8723618c1cf591862d847c69c5/NDg4OA==/Mjg=/ZGF0YTE1LzIyLTAyLTIwMjQvV2lueWFuUGFldHNheWEtRGlzYzI4LTIyLUZlYi0yMDI0X0hELm1wNA==/index-v1-a1.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    }
+   ]
+  },
+  {
+   "name": "อายุมั่นขวัญยืน [ยังไม่จบ]",
+   "info": "Watchlakorn.in",
+   "image": "https://cdn.watchlakorn.in/storage/images/av-1707955627.jpg",
+   "stations": [
+    {
+     "name": "อายุมั่นขวัญยืน  ตอนที่ 1",
+     "info": "วันที่ 14 กุมภาพันธ์ 2567",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1707955627.jpg",
+     "url": "https://www.watchlakorn.in/egde/1192a1db3e0ac505c48b5426c93ab329/NDkxMg==/MQ==/ZGF0YTE1LzE0LTAyLTIwMjQvMTAwMFllYXJzT2xkLURpc2MxLTE0LUZlYi0yMDI0X0hELm1wNA==/index-v1-a1.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "อายุมั่นขวัญยืน  ตอนที่ 2",
+     "info": "วันที่ 21 กุมภาพันธ์ 2567",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1707955627.jpg",
+     "url": "https://www.watchlakorn.in/egde/af7d7d058e31bcac813da8c189b7844b/NDkxMg==/Mg==/ZGF0YTE1LzIxLTAyLTIwMjQvMTAwMFllYXJzT2xkLURpc2MyLTIxLUZlYi0yMDI0X0hELm1wNA==/index-v1-a1.m3u8",
      "referer": "https://www.watchlakorn.in/"
     }
    ]
@@ -3465,83 +3612,6 @@
      "info": "วันที่ 16 กุมภาพันธ์ 2567",
      "image": "https://cdn.watchlakorn.in/storage/images/av-1706315663.jpg",
      "url": "https://www.watchlakorn.in/egde/1aafb442067fa3a92afd306329be343b/NDkwMw==/NA==/ZGF0YTE1LzE2LTAyLTIwMjQvTW9uUmFrTHVrdGh1bmcyNTY3LURpc2M0LTE2LUZlYi0yMDI0X0hELm1wNA==/index-v1-a1.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    }
-   ]
-  },
-  {
-   "name": "เรือนทาส [ยังไม่จบ]",
-   "info": "Watchlakorn.in",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1706112706.jpg",
-   "stations": [
-    {
-     "name": "เรือนทาส  ตอนที่ 1",
-     "info": "วันที่ 24 มกราคม 2567",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1706112706.jpg",
-     "url": "https://www.watchlakorn.in/egde/7e01e776bd42cbf518864ca5b3cfcddc/NDkwMQ==/MQ==/ZGF0YTE1LzI0LTAxLTIwMjQvTXlzdGVyeW9mdGhlU3Bpcml0LURpc2MxLTI0LUphbi0yMDI0X0hELm1wNA==/index-v1-a1.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "เรือนทาส  ตอนที่ 2",
-     "info": "วันที่ 25 มกราคม 2567",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1706112706.jpg",
-     "url": "https://www.watchlakorn.in/egde/eb244e595bb5d05a15722cdf0f1ad978/NDkwMQ==/Mg==/ZGF0YTE1LzI1LTAxLTIwMjQvTXlzdGVyeW9mdGhlU3Bpcml0LURpc2MyLTI1LUphbi0yMDI0X0hELm1wNA==/index-v1-a1.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "เรือนทาส  ตอนที่ 3",
-     "info": "วันที่ 31 มกราคม 2567",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1706112706.jpg",
-     "url": "https://www.watchlakorn.in/egde/7950c814f46e1284c3dc3bc98a6245d0/NDkwMQ==/Mw==/ZGF0YTE1LzMxLTAxLTIwMjQvTXlzdGVyeW9mdGhlU3Bpcml0LURpc2MzLTMxLUphbi0yMDI0X0hELm1wNA==/index-v1-a1.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "เรือนทาส  ตอนที่ 4",
-     "info": "วันที่ 1 กุมภาพันธ์ 2567",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1706112706.jpg",
-     "url": "https://www.watchlakorn.in/egde/acdba8980473ae13d6357e3461c53ad5/NDkwMQ==/NA==/ZGF0YTE1LzAxLTAyLTIwMjQvTXlzdGVyeW9mdGhlU3Bpcml0LURpc2M0LTEtRmViLTIwMjRfSEQubXA0/index-v1-a1.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "เรือนทาส  ตอนที่ 5",
-     "info": "วันที่ 7 กุมภาพันธ์ 2567",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1706112706.jpg",
-     "url": "https://www.watchlakorn.in/egde/8731eefbe2a9099043e68737c272c6c6/NDkwMQ==/NQ==/ZGF0YTE1LzA3LTAyLTIwMjQvTXlzdGVyeW9mdGhlU3Bpcml0LURpc2M1LTctRmViLTIwMjRfSEQubXA0/index-v1-a1.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "เรือนทาส  ตอนที่ 6",
-     "info": "วันที่ 8 กุมภาพันธ์ 2567",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1706112706.jpg",
-     "url": "https://www.watchlakorn.in/egde/c92b6e4d9d7f72d487eaba177ffa948f/NDkwMQ==/Ng==/ZGF0YTE1LzA4LTAyLTIwMjQvTXlzdGVyeW9mdGhlU3Bpcml0LURpc2M2LTgtRmViLTIwMjRfSEQubXA0/index-v1-a1.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "เรือนทาส  ตอนที่ 7",
-     "info": "วันที่ 14 กุมภาพันธ์ 2567",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1706112706.jpg",
-     "url": "https://www.watchlakorn.in/egde/d4fb31712976001cb623ea0ddfbd386a/NDkwMQ==/Nw==/ZGF0YTE1LzE0LTAyLTIwMjQvTXlzdGVyeW9mdGhlU3Bpcml0LURpc2M3LTE0LUZlYi0yMDI0X0hELm1wNA==/index-v1-a1.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "เรือนทาส  ตอนที่ 8",
-     "info": "วันที่ 15 กุมภาพันธ์ 2567",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1706112706.jpg",
-     "url": "https://www.watchlakorn.in/egde/4c13f8a9fced89e606de0b93167ff339/NDkwMQ==/OA==/ZGF0YTE1LzE1LTAyLTIwMjQvTXlzdGVyeW9mdGhlU3Bpcml0LURpc2M4LTgtRmViLTIwMjRfSEQubXA0/index-v1-a1.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    }
-   ]
-  },
-  {
-   "name": "อายุมั่นขวัญยืน [ยังไม่จบ]",
-   "info": "Watchlakorn.in",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1707955627.jpg",
-   "stations": [
-    {
-     "name": "อายุมั่นขวัญยืน  ตอนที่ 1",
-     "info": "วันที่ 14 กุมภาพันธ์ 2567",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1707955627.jpg",
-     "url": "https://www.watchlakorn.in/egde/1192a1db3e0ac505c48b5426c93ab329/NDkxMg==/MQ==/ZGF0YTE1LzE0LTAyLTIwMjQvMTAwMFllYXJzT2xkLURpc2MxLTE0LUZlYi0yMDI0X0hELm1wNA==/index-v1-a1.m3u8",
      "referer": "https://www.watchlakorn.in/"
     }
    ]
@@ -5656,69 +5726,6 @@
      "info": "วันที่ 31 ธันวาคม 2566",
      "image": "https://cdn.watchlakorn.in/storage/images/av-1693656371.jpg",
      "url": "https://www.watchlakorn.in/egde/502d7a14891f3dc8eedaa37b15d3c291/NDgyNA==/MzU=/ZGF0YTE0LzMxLTEyLTIwMjMvUGhpcGhvcE1hdGNodXJhdC0zMS1EZWMtMjAyM19IRC5tcDQ=/index-v1-a1.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    }
-   ]
-  },
-  {
-   "name": "เส้นทางรักพิชิตดวงดาว [ยังไม่จบ]",
-   "info": "Watchlakorn.in",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1699747502.jpg",
-   "stations": [
-    {
-     "name": "เส้นทางรักพิชิตดวงดาว  ตอนที่ 1",
-     "info": "วันที่ 11 พฤศจิกายน 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1699747502.jpg",
-     "url": "https://www.watchlakorn.in/egde/e4a43e87f2f8a4f2e406a235595c4123/MTgyOQ==/MQ==/ZGF0YTE0LzExLTExLTIwMjMvQmV5b25kVGhlU3Rhci1EaXNjMS0xMS1Ob3YtMjAyM19IRC5tcDQ=/index-v1-a1.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "เส้นทางรักพิชิตดวงดาว  ตอนที่ 2",
-     "info": "วันที่ 18 พฤศจิกายน 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1699747502.jpg",
-     "url": "https://www.watchlakorn.in/egde/c9a9e650260342dbf872d8b10e069081/MTgyOQ==/Mg==/ZGF0YTE0LzE4LTExLTIwMjMvQmV5b25kVGhlU3Rhci1EaXNjMi0xOC1Ob3YtMjAyM19IRC5tcDQ=/index-v1-a1.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "เส้นทางรักพิชิตดวงดาว  ตอนที่ 3",
-     "info": "วันที่ 25 พฤศจิกายน 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1699747502.jpg",
-     "url": "https://www.watchlakorn.in/egde/29ccdbd828978b96597c1aa41c478689/MTgyOQ==/Mw==/ZGF0YTE0LzI1LTExLTIwMjMvQmV5b25kVGhlU3Rhci1EaXNjMy0yNS1Ob3YtMjAyM19IRC5tcDQ=/index-v1-a1.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "เส้นทางรักพิชิตดวงดาว  ตอนที่ 4",
-     "info": "วันที่ 2 ธันวาคม 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1699747502.jpg",
-     "url": "https://www.watchlakorn.in/egde/d598cecf758ee3cd6c9bf6cbd6ba625d/MTgyOQ==/NA==/ZGF0YTE0LzAyLTEyLTIwMjMvQmV5b25kVGhlU3Rhci1EaXNjNC0yLURlYy0yMDIzX0hELm1wNA==/index-v1-a1.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "เส้นทางรักพิชิตดวงดาว  ตอนที่ 5",
-     "info": "วันที่ 9 ธันวาคม 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1699747502.jpg",
-     "url": "https://www.watchlakorn.in/egde/1fd8be47066564ebffdc9eafba6a5f94/MTgyOQ==/NQ==/ZGF0YTE0LzA5LTEyLTIwMjMvQmV5b25kVGhlU3Rhci1EaXNjNS05LURlYy0yMDIzX0hELm1wNA==/index-v1-a1.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "เส้นทางรักพิชิตดวงดาว  ตอนที่ 6",
-     "info": "วันที่ 16 ธันวาคม 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1699747502.jpg",
-     "url": "https://www.watchlakorn.in/egde/3a081145ce437de775c1ba64759c0555/MTgyOQ==/Ng==/ZGF0YTE0LzE2LTEyLTIwMjMvQmV5b25kVGhlU3Rhci1EaXNjNi0xNi1EZWMtMjAyM19IRC5tcDQ=/index-v1-a1.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "เส้นทางรักพิชิตดวงดาว  ตอนที่ 7",
-     "info": "วันที่ 23 ธันวาคม 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1699747502.jpg",
-     "url": "https://www.watchlakorn.in/egde/abd090ecb1c633ff93b1edafc984ff40/MTgyOQ==/Nw==/ZGF0YTE0LzIzLTEyLTIwMjMvQmV5b25kVGhlU3Rhci1EaXNjNy0yMy1EZWMtMjAyM19IRC5tcDQ=/index-v1-a1.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "เส้นทางรักพิชิตดวงดาว  ตอนที่ 8",
-     "info": "วันที่ 30 ธันวาคม 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1699747502.jpg",
-     "url": "https://www.watchlakorn.in/egde/0a97e66c950fbba0213ccb60142d9dd8/MTgyOQ==/OA==/ZGF0YTE0LzMwLTEyLTIwMjMvQmV5b25kVGhlU3Rhci1EaXNjOC0zMC1EZWMtMjAyM19IRC5tcDQ=/index-v1-a1.m3u8",
      "referer": "https://www.watchlakorn.in/"
     }
    ]
