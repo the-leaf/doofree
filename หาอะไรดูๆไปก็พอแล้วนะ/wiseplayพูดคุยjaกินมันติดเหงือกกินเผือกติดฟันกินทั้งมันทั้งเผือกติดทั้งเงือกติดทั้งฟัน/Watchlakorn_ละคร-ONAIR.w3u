@@ -1,6 +1,6 @@
 {
  "name": "ละคร-ONAIR",
- "author": "เจียว เจียว อัพ วันที่ 23 กุมภาพันธ์ 2567",
+ "author": "เจียว เจียว อัพ วันที่ 24 กุมภาพันธ์ 2567",
  "info": "Watchlakorn.in",
  "image": "https://cdn.watchlakorn.in/images/video_logo.png",
  "groups": [
@@ -1015,6 +1015,83 @@
      "info": "วันที่ 30 พฤศจิกายน 2566",
      "image": "https://cdn.watchlakorn.in/storage/images/av-1697031176.jpg",
      "url": "https://www.watchlakorn.in/egde/782fc378421905dff555d9eaaff8e593/MTc0Mg==/MTY=/ZGF0YTE0LzMwLTExLTIwMjMvVklQLURpc2MxNi0zMC1Ob3YtMjAyM19IRC5tcDQ=/index-v1-a1.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    }
+   ]
+  },
+  {
+   "name": "เฟื่องนคร [ยังไม่จบ]",
+   "info": "Watchlakorn.in",
+   "image": "https://cdn.watchlakorn.in/storage/images/av-1706910428.jpg",
+   "stations": [
+    {
+     "name": "เฟื่องนคร  ตอนที่ 1",
+     "info": "วันที่ 2 กุมภาพันธ์ 2567",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1706910428.jpg",
+     "url": "https://www.watchlakorn.in/egde/14476cb2646123b247bd21d8f6d13b24/NDkwNg==/MQ==/ZGF0YTE1LzAyLTAyLTIwMjQvQ2l0eW9mU3RhcnN0aGVTZXJpZXMtRGlzYzEtMi1GZWItMjAyNF9IRC5tcDQ=/index-v1-a1.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "เฟื่องนคร  ตอนที่ 2",
+     "info": "วันที่ 9 กุมภาพันธ์ 2567",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1706910428.jpg",
+     "url": "https://www.watchlakorn.in/egde/37a2013748fdebc1331dd15ffa380110/NDkwNg==/Mg==/ZGF0YTE1LzA5LTAyLTIwMjQvQ2l0eW9mU3RhcnN0aGVTZXJpZXMtRGlzYzItOS1GZWItMjAyNF9IRC5tcDQ=/index-v1-a1.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "เฟื่องนคร  ตอนที่ 3",
+     "info": "วันที่ 16 กุมภาพันธ์ 2567",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1706910428.jpg",
+     "url": "https://www.watchlakorn.in/egde/0567eb5b030e8ce3910ccc12e0ae3ca6/NDkwNg==/Mw==/ZGF0YTE1LzE2LTAyLTIwMjQvQ2l0eW9mU3RhcnN0aGVTZXJpZXMtRGlzYzMtMTYtRmViLTIwMjRfSEQubXA0/index-v1-a1.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "เฟื่องนคร  ตอนที่ 4",
+     "info": "วันที่ 23 กุมภาพันธ์ 2567",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1706910428.jpg",
+     "url": "https://www.watchlakorn.in/egde/17cdb646f3097e0a4454ebd7bc645e5c/NDkwNg==/NA==/ZGF0YTE1LzIzLTAyLTIwMjQvQ2l0eW9mU3RhcnN0aGVTZXJpZXMtRGlzYzQtMjMtRmViLTIwMjRfSEQubXA0/index-v1-a1.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    }
+   ]
+  },
+  {
+   "name": "มนต์รักลูกทุ่ง ๒๕๖๗ [ยังไม่จบ]",
+   "info": "Watchlakorn.in",
+   "image": "https://cdn.watchlakorn.in/storage/images/av-1706315663.jpg",
+   "stations": [
+    {
+     "name": "มนต์รักลูกทุ่ง ๒๕๖๗  ตอนที่ 1",
+     "info": "วันที่ 26 มกราคม 2567",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1706315663.jpg",
+     "url": "https://www.watchlakorn.in/egde/7757e6d09caea8d678feffb10f197cfb/NDkwMw==/MQ==/ZGF0YTE1LzI2LTAxLTIwMjQvTW9uUmFrTHVrdGh1bmcyNTY3LURpc2MxLTI2LUphbi0yMDI0X0hELm1wNA==/index-v1-a1.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "มนต์รักลูกทุ่ง ๒๕๖๗  ตอนที่ 2",
+     "info": "วันที่ 2 กุมภาพันธ์ 2567",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1706315663.jpg",
+     "url": "https://www.watchlakorn.in/egde/2d119f5ac16fe836efb2d93c718ec240/NDkwMw==/Mg==/ZGF0YTE1LzAyLTAyLTIwMjQvTW9uUmFrTHVrdGh1bmcyNTY3LURpc2MyLTItRmViLTIwMjRfSEQubXA0/index-v1-a1.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "มนต์รักลูกทุ่ง ๒๕๖๗  ตอนที่ 3",
+     "info": "วันที่ 9 กุมภาพันธ์ 2567",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1706315663.jpg",
+     "url": "https://www.watchlakorn.in/egde/735e25b4dae87a0d70a1395f1518e7cf/NDkwMw==/Mw==/ZGF0YTE1LzA5LTAyLTIwMjQvTW9uUmFrTHVrdGh1bmcyNTY3LURpc2MzLTktRmViLTIwMjRfSEQubXA0/index-v1-a1.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "มนต์รักลูกทุ่ง ๒๕๖๗  ตอนที่ 4",
+     "info": "วันที่ 16 กุมภาพันธ์ 2567",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1706315663.jpg",
+     "url": "https://www.watchlakorn.in/egde/1aafb442067fa3a92afd306329be343b/NDkwMw==/NA==/ZGF0YTE1LzE2LTAyLTIwMjQvTW9uUmFrTHVrdGh1bmcyNTY3LURpc2M0LTE2LUZlYi0yMDI0X0hELm1wNA==/index-v1-a1.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "มนต์รักลูกทุ่ง ๒๕๖๗  ตอนที่ 5",
+     "info": "วันที่ 23 กุมภาพันธ์ 2567",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1706315663.jpg",
+     "url": "https://www.watchlakorn.in/egde/0600f3ebd2192aff9d18b518cc8a91d8/NDkwMw==/NQ==/ZGF0YTE1LzIzLTAyLTIwMjQvTW9uUmFrTHVrdGh1bmcyNTY3LURpc2M1LTIzLUZlYi0yMDI0X0hELm1wNA==/index-v1-a1.m3u8",
      "referer": "https://www.watchlakorn.in/"
     }
    ]
