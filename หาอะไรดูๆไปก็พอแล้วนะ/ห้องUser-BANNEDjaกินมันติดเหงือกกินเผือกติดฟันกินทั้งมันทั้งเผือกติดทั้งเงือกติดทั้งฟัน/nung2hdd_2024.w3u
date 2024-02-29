@@ -1,18 +1,273 @@
 {
  "name": "2024",
- "author": "เจียว เจียว อัพวันที่ 29 กุมภาพันธ์ 2567",
+ "author": "เจียว เจียว อัพวันที่ 01 มีนาคม 2567",
  "info": "ชีวิตไม่ได้ให้เราสิ่งที่ต้องการเสมอไป แต่มันจะให้เราสิ่งที่เราจำเป็นต้องการ",
  "image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
  "groups": [
+  {
+   "name": "Detective Dee and the Phantom of Waning Moon (2024) ตี๋เหรินเจี๋ยปีศาจแห่งจันทร์",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2023/02/Detective-Dee-and-the-Phantom-of-Waning-Moon-2024.png",
+   "stations": [
+    {
+     "name": "Detective Dee and the Phantom of Waning Moon (2024) ตี๋เหรินเจี๋ยปีศาจแห่งจันทร์",
+     "info": "ตัวเล่นสำรอง ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/02/Detective-Dee-and-the-Phantom-of-Waning-Moon-2024.png",
+     "url": "https://streamhls.com/view/e238f407-bcea-5ceb-aee8-066d4cfe9216.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Detective Dee and the Phantom of Waning Moon (2024) ตี๋เหรินเจี๋ยปีศาจแห่งจันทร์",
+     "info": "ตัวเล่นสำรอง ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/02/Detective-Dee-and-the-Phantom-of-Waning-Moon-2024.png",
+     "url": "https://streamhls.com/view/e238f407-bcea-5ceb-aee8-066d4cfe9216.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    }
+   ]
+  },
+  {
+   "name": "The Parades (2024) เดอะ พาเหรด",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2023/02/The-Parades.png",
+   "stations": [
+    {
+     "name": "The Parades (2024) เดอะ พาเหรด",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/02/The-Parades.png",
+     "url": "https://play.kakjeawplay.xyz/cd501ddd-95ee-442d-9daa-00db71026c44/_",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "The Parades (2024) เดอะ พาเหรด",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/02/The-Parades.png",
+     "url": "https://streamhls.com/view/6c3758bc-5407-5250-8318-dd3b671256d3.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "The Parades (2024) เดอะ พาเหรด",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/02/The-Parades.png",
+     "url": "https://play.kakjeawplay.xyz/6065f1ed-66db-4959-b798-01e6822071f7/_",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "The Parades (2024) เดอะ พาเหรด",
+     "info": "ตัวเล่นสำรอง ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/02/The-Parades.png",
+     "url": "https://streamhls.com/view/b969778e-67b6-54fe-9e20-3326a953a9c8.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Snoopy Presents: Welcome Home, Franklin (2024)",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Snoopy-Presents.png",
+   "stations": [
+    {
+     "name": "Snoopy Presents: It’s the Small Things, Charlie Brown (2022) พากย์ไทย",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2022/08/Charlie-Brown-2022-200x300.jpg",
+     "url": "https://play.kakjeawplay.xyz/46ad1a30-ba38-42fd-8259-1bb54065de96/_",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Snoopy Presents: It’s the Small Things, Charlie Brown (2022) พากย์ไทย",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2022/08/Charlie-Brown-2022-200x300.jpg",
+     "url": "https://streamhls.com/view/32ed8865-951d-5c18-92c3-148c6ca56eae.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Snoopy Presents: It’s the Small Things, Charlie Brown (2022) พากย์ไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2022/08/Charlie-Brown-2022-200x300.jpg",
+     "url": "https://play.kakjeawplay.xyz/32dd0b12-84f1-4bb2-8572-53ca89236a2e/_",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Snoopy Presents: It’s the Small Things, Charlie Brown (2022) พากย์ไทย",
+     "info": "ตัวเล่นสำรอง ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2022/08/Charlie-Brown-2022-200x300.jpg",
+     "url": "https://streamhls.com/view/fe1c4417-78be-5add-8760-699316a8bdf9.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Snoopy Presents: To Mom (and Dad), with Love (2022) พากย์ไทย",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2022/05/Snoopy-Presents-To-Mom-and-Dad-with-Love-2022-200x300.jpg",
+     "url": "https://play.kakjeawplay.xyz/fcd80db2-35f4-41dc-a9e2-58648adb4acb/_",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Snoopy Presents: To Mom (and Dad), with Love (2022) พากย์ไทย",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2022/05/Snoopy-Presents-To-Mom-and-Dad-with-Love-2022-200x300.jpg",
+     "url": "https://streamhls.com/view/fe942884-e16e-52ea-95b3-41fa44c4e4be.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Snoopy Presents: To Mom (and Dad), with Love (2022) พากย์ไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2022/05/Snoopy-Presents-To-Mom-and-Dad-with-Love-2022-200x300.jpg",
+     "url": "https://play.kakjeawplay.xyz/6eee275f-c5ba-4d59-bc4d-f6d16d486f4b/_",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Snoopy Presents: To Mom (and Dad), with Love (2022) พากย์ไทย",
+     "info": "ตัวเล่นสำรอง ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2022/05/Snoopy-Presents-To-Mom-and-Dad-with-Love-2022-200x300.jpg",
+     "url": "https://streamhls.com/view/a9d676a6-1f12-59fb-b1e3-f5853208ca9f.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Snoopy Presents: Lucy’s School (2022) พากย์ไทย",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2022/08/Snoopy-Presents-Lucys-School-2022-200x300.jpg",
+     "url": "https://play.kakjeawplay.xyz/5ec36510-06c3-43c3-a4af-c28cbb5869d5/_",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Snoopy Presents: Lucy’s School (2022) พากย์ไทย",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2022/08/Snoopy-Presents-Lucys-School-2022-200x300.jpg",
+     "url": "https://streamhls.com/view/0e2e3783-892b-5c59-bfb4-490b3b3e8764.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Snoopy Presents: Lucy’s School (2022) พากย์ไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2022/08/Snoopy-Presents-Lucys-School-2022-200x300.jpg",
+     "url": "https://play.kakjeawplay.xyz/5a57a222-be9e-461c-8ce9-6f8a51dc85f5/_",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Snoopy Presents: Lucy’s School (2022) พากย์ไทย",
+     "info": "ตัวเล่นสำรอง ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2022/08/Snoopy-Presents-Lucys-School-2022-200x300.jpg",
+     "url": "https://streamhls.com/view/9b48510a-9bcc-5274-b2f3-093396f26580.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Snoopy Presents For Auld Lang Syne (2021)",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2021/12/p0ONYt2cw0vPEnZIoOHq1Ki7Ifm.jpg",
+     "url": "https://play.kakjeawplay.xyz/79e02844-61bb-4570-bf67-c63c27145948/_",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Snoopy Presents For Auld Lang Syne (2021)",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2021/12/p0ONYt2cw0vPEnZIoOHq1Ki7Ifm.jpg",
+     "url": "https://streamhls.com/view/61b75b64-02c6-5b01-ba90-6d3b4bbfa2d5.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Snoopy Presents For Auld Lang Syne (2021)",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2021/12/p0ONYt2cw0vPEnZIoOHq1Ki7Ifm.jpg",
+     "url": "https://play.kakjeawplay.xyz/1caa8d0b-724d-4102-acd9-2ca794bc70b1/_",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Snoopy Presents For Auld Lang Syne (2021)",
+     "info": "ตัวเล่นสำรอง ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2021/12/p0ONYt2cw0vPEnZIoOHq1Ki7Ifm.jpg",
+     "url": "https://streamhls.com/view/183f6444-da4f-5f90-bfa9-4a3822debc87.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Snoopy Presents: Welcome Home, Franklin (2024)",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Snoopy-Presents.png",
+     "url": "https://play.kakjeawplay.xyz/5d280057-3993-4842-8eea-401f56ae6bae/_",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Snoopy Presents: Welcome Home, Franklin (2024)",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Snoopy-Presents.png",
+     "url": "https://streamhls.com/view/e9dc6cd0-dc41-5fa0-8ae2-b5346872aa9f.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Snoopy Presents: Welcome Home, Franklin (2024)",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Snoopy-Presents.png",
+     "url": "https://play.kakjeawplay.xyz/83a43b38-4185-434f-89ff-021db65e9252/_",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Snoopy Presents: Welcome Home, Franklin (2024)",
+     "info": "ตัวเล่นสำรอง ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Snoopy-Presents.png",
+     "url": "https://streamhls.com/view/619644c6-c687-5b93-8138-57b560ac08e6.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Code 8 Part II (2024) ล่าคนโคตรพลัง ภาค 2",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Code-8-pt2.png",
+   "stations": [
+    {
+     "name": "Code 8 (2019) ล่าคนโคตรพลัง",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2020/02/mz3pXqYkajrHFl1RbuXJZ1GzSsu.jpg",
+     "url": "https://play.kakjeawplay.xyz/6acd2d4c-e732-42a9-a3fb-0cf8d8ae45f3/_",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Code 8 (2019) ล่าคนโคตรพลัง",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2020/02/mz3pXqYkajrHFl1RbuXJZ1GzSsu.jpg",
+     "url": "https://streamhls.com/view/b6181476-3d52-5c3b-b8b1-c9f7b172d2d3.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Code 8 (2019) ล่าคนโคตรพลัง",
+     "info": "ตัวเล่นสำรอง ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2020/02/mz3pXqYkajrHFl1RbuXJZ1GzSsu.jpg",
+     "url": "https://streamhls.com/view/baec9fb6-0fd1-5c21-b785-eb781fe32ed0.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Code 8 Part II (2024) ล่าคนโคตรพลัง ภาค 2",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Code-8-pt2.png",
+     "url": "https://play.kakjeawplay.xyz/e2dc7f9c-4a90-4169-8db5-d5ba9c0936aa/_",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Code 8 Part II (2024) ล่าคนโคตรพลัง ภาค 2",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Code-8-pt2.png",
+     "url": "https://streamhls.com/view/03beb140-09fe-5f2b-b1b0-a81f2011ef22.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Code 8 Part II (2024) ล่าคนโคตรพลัง ภาค 2",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Code-8-pt2.png",
+     "url": "https://play.kakjeawplay.xyz/702b462b-5205-4918-b5bf-54f3410565cb/_",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Code 8 Part II (2024) ล่าคนโคตรพลัง ภาค 2",
+     "info": "ตัวเล่นสำรอง ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Code-8-pt2.png",
+     "url": "https://streamhls.com/view/b408fc05-c4e8-55e2-a91d-d8fa11338832.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    }
+   ]
+  },
   {
    "name": "The Greatest Love Story Never Told (2024)",
    "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/The-Greatest-Love-Story-Never-Told.png",
    "stations": [
     {
      "name": "The Greatest Love Story Never Told (2024)",
-     "info": "ตัวเล่นสำรอง ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/The-Greatest-Love-Story-Never-Told.png",
-     "url": "https://streamhls.com/view/fe4a3b67-dd03-5afc-88a4-dbe4daad6890.m3u8",
+     "url": "https://play.kakjeawplay.xyz/678b15ba-e81d-4d20-9148-b00b7315e107/_",
      "referer": "https://www.nung2hdd.com/"
     },
     {
@@ -30,9 +285,9 @@
    "stations": [
     {
      "name": "Red Right Hand (2024)",
-     "info": "ตัวเล่นสำรอง ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Red-Right-Hand.png",
-     "url": "https://streamhls.com/view/737db5b0-d0d4-5a64-8fb2-e0e09448488b.m3u8",
+     "url": "https://play.kakjeawplay.xyz/db57c9e8-de43-4e31-a958-697d813b11f4/_",
      "referer": "https://www.nung2hdd.com/"
     },
     {
@@ -50,9 +305,9 @@
    "stations": [
     {
      "name": "Sword E Flag (2024) บันทึกดาบโบราณ",
-     "info": "ตัวเล่นสำรอง ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Sword-E-Flag-2024.png",
-     "url": "https://streamhls.com/view/121d9389-b7f8-5caf-97b2-8c675961b5c5.m3u8",
+     "url": "https://play.kakjeawplay.xyz/e3efe3ff-aa35-4145-81e7-ebc69f567987/_",
      "referer": "https://www.nung2hdd.com/"
     },
     {
@@ -70,9 +325,9 @@
    "stations": [
     {
      "name": "Wolf Hiding (2024) แก๊งโฉด โคตรระห่ำ",
-     "info": "ตัวเล่นสำรอง ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Wolf-Hiding-2023.png",
-     "url": "https://streamhls.com/view/d05af8d0-e2f8-5567-8cdc-5325429091f6.m3u8",
+     "url": "https://play.kakjeawplay.xyz/a63c161d-d418-4995-bc19-4a5baea6691d/_",
      "referer": "https://www.nung2hdd.com/"
     },
     {
@@ -80,40 +335,6 @@
      "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Wolf-Hiding-2023.png",
      "url": "https://streamhls.com/view/d05af8d0-e2f8-5567-8cdc-5325429091f6.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    }
-   ]
-  },
-  {
-   "name": "Code 8 Part II (2024) ล่าคนโคตรพลัง ภาค 2",
-   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Code-8-pt2.png",
-   "stations": [
-    {
-     "name": "Code 8 Part II (2024) ล่าคนโคตรพลัง ภาค 2",
-     "info": "ตัวเล่นสำรอง พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Code-8-pt2.png",
-     "url": "https://streamhls.com/view/03beb140-09fe-5f2b-b1b0-a81f2011ef22.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "Code 8 Part II (2024) ล่าคนโคตรพลัง ภาค 2",
-     "info": "ตัวเล่นสำรอง พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Code-8-pt2.png",
-     "url": "https://streamhls.com/view/03beb140-09fe-5f2b-b1b0-a81f2011ef22.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "Code 8 Part II (2024) ล่าคนโคตรพลัง ภาค 2",
-     "info": "ตัวเล่นสำรอง ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Code-8-pt2.png",
-     "url": "https://streamhls.com/view/b408fc05-c4e8-55e2-a91d-d8fa11338832.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "Code 8 Part II (2024) ล่าคนโคตรพลัง ภาค 2",
-     "info": "ตัวเล่นสำรอง ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Code-8-pt2.png",
-     "url": "https://streamhls.com/view/b408fc05-c4e8-55e2-a91d-d8fa11338832.m3u8",
      "referer": "https://www.nung2hdd.com/"
     }
    ]
@@ -1990,138 +2211,6 @@
    ]
   },
   {
-   "name": "Snoopy Presents: Welcome Home, Franklin (2024)",
-   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Snoopy-Presents.png",
-   "stations": [
-    {
-     "name": "Snoopy Presents: It’s the Small Things, Charlie Brown (2022) พากย์ไทย",
-     "info": "ตัวเล่นหลัก พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2022/08/Charlie-Brown-2022-200x300.jpg",
-     "url": "https://play.kakjeawplay.xyz/46ad1a30-ba38-42fd-8259-1bb54065de96/_",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "Snoopy Presents: It’s the Small Things, Charlie Brown (2022) พากย์ไทย",
-     "info": "ตัวเล่นสำรอง พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2022/08/Charlie-Brown-2022-200x300.jpg",
-     "url": "https://streamhls.com/view/32ed8865-951d-5c18-92c3-148c6ca56eae.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "Snoopy Presents: It’s the Small Things, Charlie Brown (2022) พากย์ไทย",
-     "info": "ตัวเล่นหลัก ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2022/08/Charlie-Brown-2022-200x300.jpg",
-     "url": "https://play.kakjeawplay.xyz/32dd0b12-84f1-4bb2-8572-53ca89236a2e/_",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "Snoopy Presents: It’s the Small Things, Charlie Brown (2022) พากย์ไทย",
-     "info": "ตัวเล่นสำรอง ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2022/08/Charlie-Brown-2022-200x300.jpg",
-     "url": "https://streamhls.com/view/fe1c4417-78be-5add-8760-699316a8bdf9.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "Snoopy Presents: To Mom (and Dad), with Love (2022) พากย์ไทย",
-     "info": "ตัวเล่นหลัก พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2022/05/Snoopy-Presents-To-Mom-and-Dad-with-Love-2022-200x300.jpg",
-     "url": "https://play.kakjeawplay.xyz/fcd80db2-35f4-41dc-a9e2-58648adb4acb/_",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "Snoopy Presents: To Mom (and Dad), with Love (2022) พากย์ไทย",
-     "info": "ตัวเล่นสำรอง พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2022/05/Snoopy-Presents-To-Mom-and-Dad-with-Love-2022-200x300.jpg",
-     "url": "https://streamhls.com/view/fe942884-e16e-52ea-95b3-41fa44c4e4be.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "Snoopy Presents: To Mom (and Dad), with Love (2022) พากย์ไทย",
-     "info": "ตัวเล่นหลัก ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2022/05/Snoopy-Presents-To-Mom-and-Dad-with-Love-2022-200x300.jpg",
-     "url": "https://play.kakjeawplay.xyz/6eee275f-c5ba-4d59-bc4d-f6d16d486f4b/_",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "Snoopy Presents: To Mom (and Dad), with Love (2022) พากย์ไทย",
-     "info": "ตัวเล่นสำรอง ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2022/05/Snoopy-Presents-To-Mom-and-Dad-with-Love-2022-200x300.jpg",
-     "url": "https://streamhls.com/view/a9d676a6-1f12-59fb-b1e3-f5853208ca9f.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "Snoopy Presents: Lucy’s School (2022) พากย์ไทย",
-     "info": "ตัวเล่นหลัก พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2022/08/Snoopy-Presents-Lucys-School-2022-200x300.jpg",
-     "url": "https://play.kakjeawplay.xyz/5ec36510-06c3-43c3-a4af-c28cbb5869d5/_",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "Snoopy Presents: Lucy’s School (2022) พากย์ไทย",
-     "info": "ตัวเล่นสำรอง พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2022/08/Snoopy-Presents-Lucys-School-2022-200x300.jpg",
-     "url": "https://streamhls.com/view/0e2e3783-892b-5c59-bfb4-490b3b3e8764.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "Snoopy Presents: Lucy’s School (2022) พากย์ไทย",
-     "info": "ตัวเล่นหลัก ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2022/08/Snoopy-Presents-Lucys-School-2022-200x300.jpg",
-     "url": "https://play.kakjeawplay.xyz/5a57a222-be9e-461c-8ce9-6f8a51dc85f5/_",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "Snoopy Presents: Lucy’s School (2022) พากย์ไทย",
-     "info": "ตัวเล่นสำรอง ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2022/08/Snoopy-Presents-Lucys-School-2022-200x300.jpg",
-     "url": "https://streamhls.com/view/9b48510a-9bcc-5274-b2f3-093396f26580.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "Snoopy Presents For Auld Lang Syne (2021)",
-     "info": "ตัวเล่นหลัก พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2021/12/p0ONYt2cw0vPEnZIoOHq1Ki7Ifm.jpg",
-     "url": "https://play.kakjeawplay.xyz/79e02844-61bb-4570-bf67-c63c27145948/_",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "Snoopy Presents For Auld Lang Syne (2021)",
-     "info": "ตัวเล่นสำรอง พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2021/12/p0ONYt2cw0vPEnZIoOHq1Ki7Ifm.jpg",
-     "url": "https://streamhls.com/view/61b75b64-02c6-5b01-ba90-6d3b4bbfa2d5.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "Snoopy Presents For Auld Lang Syne (2021)",
-     "info": "ตัวเล่นหลัก ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2021/12/p0ONYt2cw0vPEnZIoOHq1Ki7Ifm.jpg",
-     "url": "https://play.kakjeawplay.xyz/1caa8d0b-724d-4102-acd9-2ca794bc70b1/_",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "Snoopy Presents For Auld Lang Syne (2021)",
-     "info": "ตัวเล่นสำรอง ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2021/12/p0ONYt2cw0vPEnZIoOHq1Ki7Ifm.jpg",
-     "url": "https://streamhls.com/view/183f6444-da4f-5f90-bfa9-4a3822debc87.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "Snoopy Presents: Welcome Home, Franklin (2024)",
-     "info": "ตัวเล่นหลัก ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Snoopy-Presents.png",
-     "url": "https://play.kakjeawplay.xyz/83a43b38-4185-434f-89ff-021db65e9252/_",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "Snoopy Presents: Welcome Home, Franklin (2024)",
-     "info": "ตัวเล่นสำรอง ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Snoopy-Presents.png",
-     "url": "https://streamhls.com/view/619644c6-c687-5b93-8138-57b560ac08e6.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    }
-   ]
-  },
-  {
    "name": "Double Blind (2024)",
    "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Double-Blind-2024.png",
    "stations": [
@@ -2167,9 +2256,9 @@
    "stations": [
     {
      "name": "The Longcheng Mystery Case (2024) ความลับเมืองหลงเฉิง",
-     "info": "ตัวเล่นสำรอง ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/The-Longcheng-Mystery-Case-2024.png",
-     "url": "https://streamhls.com/view/eabadae7-f7d0-59a4-8517-652df95cef81.m3u8",
+     "url": "https://play.kakjeawplay.xyz/a8f456a9-d178-4d48-8994-9ca83175a6c5/_",
      "referer": "https://www.nung2hdd.com/"
     },
     {
