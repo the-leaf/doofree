@@ -1,9 +1,135 @@
 {
   "name": "ซีรี่ย์ใหม่ 2024",
-  "author": "เจียว เจียว อัพวันที่ 01 มีนาคม 2567",
+  "author": "เจียว เจียว อัพวันที่ 02 มีนาคม 2567",
   "info": "เฉพาะเมื่อเราให้ความสุขโดยไม่ลังเลหรือคิดจะได้กำไรเราสามารถรู้ได้อย่างแท้จริงว่าความรักหมายถึงอะไร😊",
   "image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
   "groups": [
+    {
+      "name": "Wonderful World (2024)",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/03/Wonderful-World-300x450.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/03/Wonderful-World-300x450.jpg",
+          "url": "https://main.77player.xyz/newplaylist/7ebc1bfb5a9bd1be26869c64/7ebc1bfb5a9bd1be26869c64.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "City of Stars (2024) เฟื่องนคร",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/02/City-of-Stars-2024-เฟื่องนคร-300x450.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/02/City-of-Stars-2024-เฟื่องนคร-300x450.jpg",
+          "url": "https://main.77player.xyz/newplaylist/86eff1410cba36dfbf6e54ee/86eff1410cba36dfbf6e54ee.m3u8"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/02/City-of-Stars-2024-เฟื่องนคร-300x450.jpg",
+          "url": "https://main.77player.xyz/newplaylist/9a75872e9838f0d2263d3b64/9a75872e9838f0d2263d3b64.m3u8"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/02/City-of-Stars-2024-เฟื่องนคร-300x450.jpg",
+          "url": "https://xxx.77player.xyz/autoplaylist/2b3dc23a1945283cf11dfeb5/2b3dc23a1945283cf11dfeb5.m3u8"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/02/City-of-Stars-2024-เฟื่องนคร-300x450.jpg",
+          "url": "https://main.77player.xyz/newplaylist/f8b68461dbc9e1d004ba6624/f8b68461dbc9e1d004ba6624.m3u8"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/02/City-of-Stars-2024-เฟื่องนคร-300x450.jpg",
+          "url": "https://xxx.77player.xyz/autoplaylist/eb3ca1764184a49c4e2c2076/eb3ca1764184a49c4e2c2076.m3u8"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/02/City-of-Stars-2024-เฟื่องนคร-300x450.jpg",
+          "url": "https://main.77player.xyz/newplaylist/06ee6149f67bd2959af8a3ee/06ee6149f67bd2959af8a3ee.m3u8"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/02/City-of-Stars-2024-เฟื่องนคร-300x450.jpg",
+          "url": "https://xxx.77player.xyz/autoplaylist/16d2ec1df49231c84359eb81/16d2ec1df49231c84359eb81.m3u8"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/02/City-of-Stars-2024-เฟื่องนคร-300x450.jpg",
+          "url": "https://main.77player.xyz/newplaylist/445e77df39e2d5c60f0c7eba/445e77df39e2d5c60f0c7eba.m3u8"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/02/City-of-Stars-2024-เฟื่องนคร-300x450.jpg",
+          "url": "https://xxx.77player.xyz/autoplaylist/7755ede7f4d6d85dbc34ba9b/7755ede7f4d6d85dbc34ba9b.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "Anti-Reset (2024) ล็อคหัวใจไม่ให้รีเซ็ต",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Anti-Reset-300x450.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Anti-Reset-300x450.jpg",
+          "url": "https://main.77player.xyz/newplaylist/f85e90bda21524d3baa5683b/f85e90bda21524d3baa5683b.m3u8"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Anti-Reset-300x450.jpg",
+          "url": "https://main.77player.xyz/newplaylist/9ea45611899a4bc67d7dfb7f/9ea45611899a4bc67d7dfb7f.m3u8"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Anti-Reset-300x450.jpg",
+          "url": "https://main.77player.xyz/newplaylist/70c6fbe34e9b0e5d1466d136/70c6fbe34e9b0e5d1466d136.m3u8"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "ซับไทย ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Anti-Reset-300x450.jpg",
+          "url": "https://xxx.77player.xyz/autoplaylist/c55d0644e9a83155fd6efd7d/c55d0644e9a83155fd6efd7d.m3u8"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Anti-Reset-300x450.jpg",
+          "url": "https://main.77player.xyz/newplaylist/2d5cfd2e7ab85daeb16304c9/2d5cfd2e7ab85daeb16304c9.m3u8"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "ซับไทย ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Anti-Reset-300x450.jpg",
+          "url": "https://xxx.77player.xyz/autoplaylist/cc77dd75ba16d694c0a6bf40/cc77dd75ba16d694c0a6bf40.m3u8"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Anti-Reset-300x450.jpg",
+          "url": "https://main.77player.xyz/newplaylist/a61c6bb6eeee37fd6fe6c328/a61c6bb6eeee37fd6fe6c328.m3u8"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Anti-Reset-300x450.jpg",
+          "url": "https://main.77player.xyz/newplaylist/e4a8be6df30b1882b1849515/e4a8be6df30b1882b1849515.m3u8"
+        }
+      ]
+    },
     {
       "name": "Flex X Cop (2024)",
       "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Flex-X-Cop-300x450.jpg",
@@ -4123,228 +4249,6 @@
           "info": "พากย์ไทย ตัวเล่นสำรอง",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/02/1000-Years-Old-2024-อายุมั่นขวัญยืน-300x450.jpg",
           "url": "https://xxx.77player.xyz/autoplaylist/66567c18e4d04070943ae7f5/66567c18e4d04070943ae7f5.m3u8"
-        }
-      ]
-    },
-    {
-      "name": "Kimi ga Kokoro wo Kuretakara (2024) เพราะเธอมอบหัวใจให้มา",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Kimi-ga-Kokoro-wo-Kuretakara-2024-เพราะเธอมอบหัวใจให้มา-300x450.jpg",
-      "stations": [
-        {
-          "name": "ตอนที่ 1",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Kimi-ga-Kokoro-wo-Kuretakara-2024-เพราะเธอมอบหัวใจให้มา-300x450.jpg",
-          "url": "https://main.77player.xyz/newplaylist/30304b5a1c6b685dea50294b/30304b5a1c6b685dea50294b.m3u8"
-        },
-        {
-          "name": "ตอนที่ 2",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Kimi-ga-Kokoro-wo-Kuretakara-2024-เพราะเธอมอบหัวใจให้มา-300x450.jpg",
-          "url": "https://main.77player.xyz/newplaylist/3866821cb445d27e5b1b090b/3866821cb445d27e5b1b090b.m3u8"
-        },
-        {
-          "name": "ตอนที่ 3",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Kimi-ga-Kokoro-wo-Kuretakara-2024-เพราะเธอมอบหัวใจให้มา-300x450.jpg",
-          "url": "https://main.77player.xyz/newplaylist/2d502bad80a2c4093e8432c8/2d502bad80a2c4093e8432c8.m3u8"
-        },
-        {
-          "name": "ตอนที่ 4",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Kimi-ga-Kokoro-wo-Kuretakara-2024-เพราะเธอมอบหัวใจให้มา-300x450.jpg",
-          "url": "https://main.77player.xyz/newplaylist/34442164aae19d946703e358/34442164aae19d946703e358.m3u8"
-        },
-        {
-          "name": "ตอนที่ 5",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Kimi-ga-Kokoro-wo-Kuretakara-2024-เพราะเธอมอบหัวใจให้มา-300x450.jpg",
-          "url": "https://main.77player.xyz/newplaylist/2d61f95e86b96ca431c497be/2d61f95e86b96ca431c497be.m3u8"
-        },
-        {
-          "name": "ตอนที่ 5",
-          "info": "ซับไทย ตัวเล่นสำรอง",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Kimi-ga-Kokoro-wo-Kuretakara-2024-เพราะเธอมอบหัวใจให้มา-300x450.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/eb80ca2ef9557261ae677c55/eb80ca2ef9557261ae677c55.m3u8"
-        },
-        {
-          "name": "ตอนที่ 6",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Kimi-ga-Kokoro-wo-Kuretakara-2024-เพราะเธอมอบหัวใจให้มา-300x450.jpg",
-          "url": "https://main.77player.xyz/newplaylist/21ac95f16a18bbfc3643d6f2/21ac95f16a18bbfc3643d6f2.m3u8"
-        },
-        {
-          "name": "ตอนที่ 6",
-          "info": "ซับไทย ตัวเล่นสำรอง",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Kimi-ga-Kokoro-wo-Kuretakara-2024-เพราะเธอมอบหัวใจให้มา-300x450.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/f69e8d3223883fafd8fc3ed3/f69e8d3223883fafd8fc3ed3.m3u8"
-        },
-        {
-          "name": "ตอนที่ 7",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Kimi-ga-Kokoro-wo-Kuretakara-2024-เพราะเธอมอบหัวใจให้มา-300x450.jpg",
-          "url": "https://main.77player.xyz/newplaylist/7b581d39253c76392971e8d9/7b581d39253c76392971e8d9.m3u8"
-        },
-        {
-          "name": "ตอนที่ 7",
-          "info": "ซับไทย ตัวเล่นสำรอง",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Kimi-ga-Kokoro-wo-Kuretakara-2024-เพราะเธอมอบหัวใจให้มา-300x450.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/ec41038f7323ec35ed2bba10/ec41038f7323ec35ed2bba10.m3u8"
-        },
-        {
-          "name": "ตอนที่ 8",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Kimi-ga-Kokoro-wo-Kuretakara-2024-เพราะเธอมอบหัวใจให้มา-300x450.jpg",
-          "url": "https://main.77player.xyz/newplaylist/4a807ee6621ee6e0b7182d5f/4a807ee6621ee6e0b7182d5f.m3u8"
-        },
-        {
-          "name": "ตอนที่ 8",
-          "info": "ซับไทย ตัวเล่นสำรอง",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Kimi-ga-Kokoro-wo-Kuretakara-2024-เพราะเธอมอบหัวใจให้มา-300x450.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/d6e517407893c2c7135638a7/d6e517407893c2c7135638a7.m3u8"
-        }
-      ]
-    },
-    {
-      "name": "Intern in My Heart (2024) เด็กฝึกหน้าใส เติมหัวใจนายหญิง",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Intern-in-My-Heart-2024-เด็กฝึกหน้าใส-เติมหัวใจนายหญิง-300x450.jpg",
-      "stations": [
-        {
-          "name": "ตอนที่ 1",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Intern-in-My-Heart-2024-เด็กฝึกหน้าใส-เติมหัวใจนายหญิง-300x450.jpg",
-          "url": "https://main.77player.xyz/newplaylist/11e3c66719ac6ccc54b0ca59/11e3c66719ac6ccc54b0ca59.m3u8"
-        },
-        {
-          "name": "ตอนที่ 2",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Intern-in-My-Heart-2024-เด็กฝึกหน้าใส-เติมหัวใจนายหญิง-300x450.jpg",
-          "url": "https://main.77player.xyz/newplaylist/9d5b4e7c87547bb60a2e5557/9d5b4e7c87547bb60a2e5557.m3u8"
-        },
-        {
-          "name": "ตอนที่ 3",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Intern-in-My-Heart-2024-เด็กฝึกหน้าใส-เติมหัวใจนายหญิง-300x450.jpg",
-          "url": "https://main.77player.xyz/newplaylist/8677c22f2932831a00120bb9/8677c22f2932831a00120bb9.m3u8"
-        },
-        {
-          "name": "ตอนที่ 4",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Intern-in-My-Heart-2024-เด็กฝึกหน้าใส-เติมหัวใจนายหญิง-300x450.jpg",
-          "url": "https://main.77player.xyz/newplaylist/8124d97a109d0d86cec53e23/8124d97a109d0d86cec53e23.m3u8"
-        },
-        {
-          "name": "ตอนที่ 5",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Intern-in-My-Heart-2024-เด็กฝึกหน้าใส-เติมหัวใจนายหญิง-300x450.jpg",
-          "url": "https://main.77player.xyz/newplaylist/6f7a74d2285219bd8ac1237e/6f7a74d2285219bd8ac1237e.m3u8"
-        },
-        {
-          "name": "ตอนที่ 6",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Intern-in-My-Heart-2024-เด็กฝึกหน้าใส-เติมหัวใจนายหญิง-300x450.jpg",
-          "url": "https://main.77player.xyz/newplaylist/7eac2c4f9b52dc6be898b86f/7eac2c4f9b52dc6be898b86f.m3u8"
-        },
-        {
-          "name": "ตอนที่ 6",
-          "info": "พากย์ไทย ตัวเล่นสำรอง",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Intern-in-My-Heart-2024-เด็กฝึกหน้าใส-เติมหัวใจนายหญิง-300x450.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/6925d8f4d41ca3275349a01e/6925d8f4d41ca3275349a01e.m3u8"
-        },
-        {
-          "name": "ตอนที่ 7",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Intern-in-My-Heart-2024-เด็กฝึกหน้าใส-เติมหัวใจนายหญิง-300x450.jpg",
-          "url": "https://main.77player.xyz/newplaylist/3f2794d961c716443d83a923/3f2794d961c716443d83a923.m3u8"
-        },
-        {
-          "name": "ตอนที่ 7",
-          "info": "พากย์ไทย ตัวเล่นสำรอง",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Intern-in-My-Heart-2024-เด็กฝึกหน้าใส-เติมหัวใจนายหญิง-300x450.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/c9c97c6b8cb45e0e92a1bd2e/c9c97c6b8cb45e0e92a1bd2e.m3u8"
-        },
-        {
-          "name": "ตอนที่ 8",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Intern-in-My-Heart-2024-เด็กฝึกหน้าใส-เติมหัวใจนายหญิง-300x450.jpg",
-          "url": "https://main.77player.xyz/newplaylist/53bbc6505ea5477f6585e7a3/53bbc6505ea5477f6585e7a3.m3u8"
-        },
-        {
-          "name": "ตอนที่ 8",
-          "info": "พากย์ไทย ตัวเล่นสำรอง",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Intern-in-My-Heart-2024-เด็กฝึกหน้าใส-เติมหัวใจนายหญิง-300x450.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/ee4eed79fe65eb44590079b0/ee4eed79fe65eb44590079b0.m3u8"
-        },
-        {
-          "name": "ตอนที่ 9",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Intern-in-My-Heart-2024-เด็กฝึกหน้าใส-เติมหัวใจนายหญิง-300x450.jpg",
-          "url": "https://main.77player.xyz/newplaylist/67b23547b763480440f1f94b/67b23547b763480440f1f94b.m3u8"
-        },
-        {
-          "name": "ตอนที่ 9",
-          "info": "พากย์ไทย ตัวเล่นสำรอง",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Intern-in-My-Heart-2024-เด็กฝึกหน้าใส-เติมหัวใจนายหญิง-300x450.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/0113e86b96364db40049f160/0113e86b96364db40049f160.m3u8"
-        }
-      ]
-    },
-    {
-      "name": "Konkatsu 1000 Bon Knock (2024) ภารกิจลุ้นรักฉบับกุ๊กกู๋",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Konkatsu-1000-Bon-Knock-2024-ภารกิจลุ้นรักฉบับกุ๊กกู๋.jpg",
-      "stations": [
-        {
-          "name": "ตอนที่ 1",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Konkatsu-1000-Bon-Knock-2024-ภารกิจลุ้นรักฉบับกุ๊กกู๋.jpg",
-          "url": "https://main.77player.xyz/newplaylist/c68fd7ebc8fb9854bec7ac81/c68fd7ebc8fb9854bec7ac81.m3u8"
-        },
-        {
-          "name": "ตอนที่ 2",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Konkatsu-1000-Bon-Knock-2024-ภารกิจลุ้นรักฉบับกุ๊กกู๋.jpg",
-          "url": "https://main.77player.xyz/newplaylist/24722d5fd2d2eb7159821fe7/24722d5fd2d2eb7159821fe7.m3u8"
-        },
-        {
-          "name": "ตอนที่ 3",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Konkatsu-1000-Bon-Knock-2024-ภารกิจลุ้นรักฉบับกุ๊กกู๋.jpg",
-          "url": "https://main.77player.xyz/newplaylist/89f1830e071cb498efbf5511/89f1830e071cb498efbf5511.m3u8"
-        },
-        {
-          "name": "ตอนที่ 4",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Konkatsu-1000-Bon-Knock-2024-ภารกิจลุ้นรักฉบับกุ๊กกู๋.jpg",
-          "url": "https://main.77player.xyz/newplaylist/423bfb159775ab26438ef735/423bfb159775ab26438ef735.m3u8"
-        },
-        {
-          "name": "ตอนที่ 4",
-          "info": "ซับไทย ตัวเล่นสำรอง",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Konkatsu-1000-Bon-Knock-2024-ภารกิจลุ้นรักฉบับกุ๊กกู๋.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/2f78cfb376dc7c8e08f26642/2f78cfb376dc7c8e08f26642.m3u8"
-        },
-        {
-          "name": "ตอนที่ 5",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Konkatsu-1000-Bon-Knock-2024-ภารกิจลุ้นรักฉบับกุ๊กกู๋.jpg",
-          "url": "https://main.77player.xyz/newplaylist/5317f39e00c70682f2798802/5317f39e00c70682f2798802.m3u8"
-        },
-        {
-          "name": "ตอนที่ 5",
-          "info": "ซับไทย ตัวเล่นสำรอง",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Konkatsu-1000-Bon-Knock-2024-ภารกิจลุ้นรักฉบับกุ๊กกู๋.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/7e2b5c5101ffd1e5e2d098c6/7e2b5c5101ffd1e5e2d098c6.m3u8"
-        },
-        {
-          "name": "ตอนที่ 6",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Konkatsu-1000-Bon-Knock-2024-ภารกิจลุ้นรักฉบับกุ๊กกู๋.jpg",
-          "url": "https://main.77player.xyz/newplaylist/f4b5379c60cd90e53b1f91bc/f4b5379c60cd90e53b1f91bc.m3u8"
-        },
-        {
-          "name": "ตอนที่ 6",
-          "info": "ซับไทย ตัวเล่นสำรอง",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Konkatsu-1000-Bon-Knock-2024-ภารกิจลุ้นรักฉบับกุ๊กกู๋.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/99ea5b6e8f8c2e4da14dbe97/99ea5b6e8f8c2e4da14dbe97.m3u8"
         }
       ]
     },
@@ -8581,6 +8485,12 @@
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Anti-Reset-300x450.jpg",
           "url": "https://main.77player.xyz/newplaylist/a61c6bb6eeee37fd6fe6c328/a61c6bb6eeee37fd6fe6c328.m3u8"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Anti-Reset-300x450.jpg",
+          "url": "https://main.77player.xyz/newplaylist/e4a8be6df30b1882b1849515/e4a8be6df30b1882b1849515.m3u8"
         }
       ]
     },
@@ -8629,6 +8539,18 @@
           "info": "พากย์ไทย ตัวเล่นสำรอง",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/02/City-of-Stars-2024-เฟื่องนคร-300x450.jpg",
           "url": "https://xxx.77player.xyz/autoplaylist/16d2ec1df49231c84359eb81/16d2ec1df49231c84359eb81.m3u8"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/02/City-of-Stars-2024-เฟื่องนคร-300x450.jpg",
+          "url": "https://main.77player.xyz/newplaylist/445e77df39e2d5c60f0c7eba/445e77df39e2d5c60f0c7eba.m3u8"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/02/City-of-Stars-2024-เฟื่องนคร-300x450.jpg",
+          "url": "https://xxx.77player.xyz/autoplaylist/7755ede7f4d6d85dbc34ba9b/7755ede7f4d6d85dbc34ba9b.m3u8"
         }
       ]
     },
