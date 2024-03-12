@@ -1,10 +1,30 @@
 {
  "name": "ละคร",
- "author": "เจียว เจียว อัพวันที่ 10 มีนาคม 2567",
+ "author": "เจียว เจียว อัพวันที่ 12 มีนาคม 2567",
  "info": "Watchlakorn ที่สุดของคนรักละคร",
  "image": "https://cdn.watchlakorn.in/images/video_logo.png",
  "url": "https://br14.short.gy/Watchlakorn_ละคร",
  "groups": [
+  {
+   "name": "สองทระนง [ยังไม่จบ]",
+   "image": "https://cdn.watchlakorn.in/storage/images/av-1710203151.jpg",
+   "stations": [
+    {
+     "name": "สองทระนง  ตอนที่ 1",
+     "info": "วันที่ 11 มีนาคม 2567",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1710203151.jpg",
+     "url": "https://www.watchlakorn.in/egde/5ec972c1490781fd9c9093672c55d434/NDkyNw==/MQ==/ZGF0YTE1LzExLTAzLTIwMjQvU29uZ1Rob1JhTm9uZy1EaXNjMS0xMS1NYXItMjAyNF9IRC5tcDQ=/index-v1-a1.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "สองทระนง  ตอนที่ 2",
+     "info": "วันที่ 12 มีนาคม 2567",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1710203151.jpg",
+     "url": "https://www.watchlakorn.in/egde/f91202e205db8a8a8833173cd684b9c4/NDkyNw==/Mg==/ZGF0YTE1LzEyLTAzLTIwMjQvU29uZ1Rob1JhTm9uZy1EaXNjMi0xMi1NYXItMjAyNF9IRC5tcDQ=/index-v1-a1.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    }
+   ]
+  },
   {
    "name": "มหัศจรรย์รักดอกซากุระ [ยังไม่จบ]",
    "image": "https://cdn.watchlakorn.in/storage/images/av-1710064907.jpg",
@@ -150,6 +170,20 @@
      "image": "https://cdn.watchlakorn.in/storage/images/av-1709133740.jpg",
      "url": "https://www.watchlakorn.in/egde/b45793d57079634cab0ed120a394aeb7/NDkxOA==/OA==/ZGF0YTE1LzA4LTAzLTIwMjQvUGh1TGFuZ2thLURpc2M4LTgtTWFyLTIwMjRfSEQubXA0/index-v1-a1.m3u8",
      "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ภูลังกา  ตอนที่ 9",
+     "info": "วันที่ 11 มีนาคม 2567",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1709133740.jpg",
+     "url": "https://www.watchlakorn.in/egde/4b7e189591ab8460b5479a5f10852f37/NDkxOA==/OQ==/ZGF0YTE1LzExLTAzLTIwMjQvUGh1TGFuZ2thLURpc2M5LTExLU1hci0yMDI0X0hELm1wNA==/index-v1-a1.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ภูลังกา  ตอนที่ 10",
+     "info": "วันที่ 12 มีนาคม 2567",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1709133740.jpg",
+     "url": "https://www.watchlakorn.in/egde/035eabd06374cc696ccffbbc9562028b/NDkxOA==/MTA=/ZGF0YTE1LzEyLTAzLTIwMjQvUGh1TGFuZ2thLURpc2MxMC0xMi1NYXItMjAyNF9IRC5tcDQ=/index-v1-a1.m3u8",
+     "referer": "https://www.watchlakorn.in/"
     }
    ]
   },
@@ -233,6 +267,20 @@
      "image": "https://cdn.watchlakorn.in/storage/images/av-1708699062.jpg",
      "url": "https://www.watchlakorn.in/egde/815c5cde7c37a97ca0482f5194dd14c3/NDkxNw==/MTE=/ZGF0YTE1LzA4LTAzLTIwMjQvU3Vydml2aW5nQmVhdXR5LURpc2MxMS04LU1hci0yMDI0X0hELm1wNA==/index-v1-a1.m3u8",
      "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "เว้าวอนรัก  ตอนที่ 12",
+     "info": "วันที่ 11 มีนาคม 2567",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1708699062.jpg",
+     "url": "https://www.watchlakorn.in/egde/6e0ccdd5cc1daff0d0340bd654956360/NDkxNw==/MTI=/ZGF0YTE1LzExLTAzLTIwMjQvU3Vydml2aW5nQmVhdXR5LURpc2MxMi0xMS1NYXItMjAyNF9IRC5tcDQ=/index-v1-a1.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "เว้าวอนรัก  ตอนที่ 13",
+     "info": "วันที่ 12 มีนาคม 2567",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1708699062.jpg",
+     "url": "https://www.watchlakorn.in/egde/c529eb828beff17560ca98dba34b1ddf/NDkxNw==/MTM=/ZGF0YTE1LzEyLTAzLTIwMjQvU3Vydml2aW5nQmVhdXR5LURpc2MxMi0xMi1NYXItMjAyNF9IRC5tcDQ=/index-v1-a1.m3u8",
+     "referer": "https://www.watchlakorn.in/"
     }
    ]
   },
@@ -301,6 +349,13 @@
      "image": "https://cdn.watchlakorn.in/storage/images/av-1708387352.jpg",
      "url": "https://www.watchlakorn.in/egde/9e00aa1a8518bb11e22829e9f2131ced/NDkxNQ==/Mw==/ZGF0YTE1LzA0LTAzLTIwMjQvVG9iZWNvbnRpbnVlZC1EaXNjMy00LU1hci0yMDI0X0hELm1wNA==/index-v1-a1.m3u8",
      "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "คุณได้ไปต่อ  ตอนที่ 4",
+     "info": "วันที่ 11 มีนาคม 2567",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1708387352.jpg",
+     "url": "https://www.watchlakorn.in/egde/43a1cdba86e13616dc946ed714759b03/NDkxNQ==/NA==/ZGF0YTE1LzExLTAzLTIwMjQvVG9iZWNvbnRpbnVlZC1EaXNjNC0xMS1NYXItMjAyNF9IRC5tcDQ=/index-v1-a1.m3u8",
+     "referer": "https://www.watchlakorn.in/"
     }
    ]
   },
@@ -348,6 +403,20 @@
      "info": "วันที่ 5 มีนาคม 2567",
      "image": "https://cdn.watchlakorn.in/storage/images/av-1708354373.jpg",
      "url": "https://www.watchlakorn.in/egde/a7cd2654f9e7afa77977ee7c0d91c9fb/NDkxNA==/Ng==/ZGF0YTE1LzA1LTAzLTIwMjQvQmVhdXR5TmV3YmllLURpc2M2LTUtTWFyLTIwMjRfSEQubXA0/index-v1-a1.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "หัวใจไม่มีปลอม  ตอนที่ 7",
+     "info": "วันที่ 11 มีนาคม 2567",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1708354373.jpg",
+     "url": "https://www.watchlakorn.in/egde/d372a77233599a77859cdcf5f3648ced/NDkxNA==/Nw==/ZGF0YTE1LzExLTAzLTIwMjQvQmVhdXR5TmV3YmllLURpc2M3LTExLU1hci0yMDI0X0hELm1wNA==/index-v1-a1.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "หัวใจไม่มีปลอม  ตอนที่ 8",
+     "info": "วันที่ 12 มีนาคม 2567",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1708354373.jpg",
+     "url": "https://www.watchlakorn.in/egde/f02e501ed8d0e523e75acaf603d04860/NDkxNA==/OA==/ZGF0YTE1LzEyLTAzLTIwMjQvQmVhdXR5TmV3YmllLURpc2M4LTEyLU1hci0yMDI0X0hELm1wNA==/index-v1-a1.m3u8",
      "referer": "https://www.watchlakorn.in/"
     }
    ]
@@ -790,6 +859,20 @@
      "info": "วันที่ 7 มีนาคม 2567",
      "image": "https://cdn.watchlakorn.in/storage/images/av-1706198535.jpg",
      "url": "https://www.watchlakorn.in/egde/377c9f4ae86d522ad841f1ff3e125347/NDkwMg==/MjU=/ZGF0YTE1LzA3LTAzLTIwMjQvVHdpc3RvZkZhdGUtRGlzYzI1LTctTWFyLTIwMjRfSEQubXA0/index-v1-a1.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ในรอยทราย  ตอนที่ 26",
+     "info": "วันที่ 11 มีนาคม 2567",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1706198535.jpg",
+     "url": "https://www.watchlakorn.in/egde/e5f8719c114a272f3f0fcac813e3e53d/NDkwMg==/MjY=/ZGF0YTE1LzExLTAzLTIwMjQvVHdpc3RvZkZhdGUtRGlzYzI2LTExLU1hci0yMDI0X0hELm1wNA==/index-v1-a1.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ในรอยทราย  ตอนที่ 27",
+     "info": "วันที่ 12 มีนาคม 2567",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1706198535.jpg",
+     "url": "https://www.watchlakorn.in/egde/eaf62ec9036582d63c36c7fbcf868f2b/NDkwMg==/Mjc=/ZGF0YTE1LzEyLTAzLTIwMjQvVHdpc3RvZkZhdGUtRGlzYzI3LTEyLU1hci0yMDI0X0hELm1wNA==/index-v1-a1.m3u8",
      "referer": "https://www.watchlakorn.in/"
     }
    ]
@@ -1243,6 +1326,20 @@
      "image": "https://cdn.watchlakorn.in/storage/images/av-1705930456.jpg",
      "url": "https://www.watchlakorn.in/egde/897639ec2799f1d1624877eeb4d04041/NDg5OQ==/MTQ=/ZGF0YTE1LzA1LTAzLTIwMjQvUmlza0x1c3RMb3ZlLURpc2MxNC01LU1hci0yMDI0X0hELm1wNA==/index-v1-a1.m3u8",
      "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ฟางเล่นไฟ  ตอนที่ 15",
+     "info": "วันที่ 11 มีนาคม 2567",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1705930456.jpg",
+     "url": "https://www.watchlakorn.in/egde/673aedd1df9ad16531d82dc4eced31ff/NDg5OQ==/MTU=/ZGF0YTE1LzExLTAzLTIwMjQvUmlza0x1c3RMb3ZlLURpc2MxNS0xMS1NYXItMjAyNF9IRC5tcDQ=/index-v1-a1.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ฟางเล่นไฟ  ตอนที่ 16",
+     "info": "วันที่ 12 มีนาคม 2567",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1705930456.jpg",
+     "url": "https://www.watchlakorn.in/egde/454b49898eab5e1bab00dcbb78735d47/NDg5OQ==/MTY=/ZGF0YTE1LzEyLTAzLTIwMjQvUmlza0x1c3RMb3ZlLURpc2MxNi0xMi1NYXItMjAyNF9IRC5tcDQ=/index-v1-a1.m3u8",
+     "referer": "https://www.watchlakorn.in/"
     }
    ]
   },
@@ -1346,6 +1443,13 @@
      "info": "วันที่ 5 มีนาคม 2567",
      "image": "https://cdn.watchlakorn.in/storage/images/av-1705902809.jpg",
      "url": "https://www.watchlakorn.in/egde/305d09a7ffb16bd0a319b951a5b9c5a5/NDg5OA==/MTQ=/ZGF0YTE1LzA1LTAzLTIwMjQvV2ltYW5TaVRob25nLURpc2MxNC01LU1hci0yMDI0X0hELm1wNA==/index-v1-a1.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "วิมานสีทอง  ตอนที่ 15",
+     "info": "วันที่ 11 มีนาคม 2567",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1705902809.jpg",
+     "url": "https://www.watchlakorn.in/egde/2f9cc67c6a0eae73258ec0ccafc2d8e9/NDg5OA==/MTU=/ZGF0YTE1LzExLTAzLTIwMjQvV2ltYW5TaVRob25nLURpc2MxNS0xMS1NYXItMjAyNF9IRC5tcDQ=/index-v1-a1.m3u8",
      "referer": "https://www.watchlakorn.in/"
     }
    ]
@@ -1624,6 +1728,20 @@
      "info": "วันที่ 5 มีนาคม 2567",
      "image": "https://cdn.watchlakorn.in/storage/images/av-1705902420.webp",
      "url": "https://www.watchlakorn.in/egde/ca8139522db727e5adac04925db366f6/NDg5Ng==/MTQ=/ZGF0YTE1LzA1LTAzLTIwMjQvVGhlSW52aW5jaWJsZS1EaXNjMTQtNS1NYXItMjAyNF9IRC5tcDQ=/index-v1-a1.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "มือปราบมหาอุตม์  ตอนที่ 15",
+     "info": "วันที่ 11 มีนาคม 2567",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1705902420.webp",
+     "url": "https://www.watchlakorn.in/egde/fbf1fa9ef7c774d70fb3199e2fc99e39/NDg5Ng==/MTU=/ZGF0YTE1LzExLTAzLTIwMjQvVGhlSW52aW5jaWJsZS1EaXNjMTUtMTEtTWFyLTIwMjRfSEQubXA0/index-v1-a1.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "มือปราบมหาอุตม์  ตอนที่ 16",
+     "info": "วันที่ 12 มีนาคม 2567",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1705902420.webp",
+     "url": "https://www.watchlakorn.in/egde/ff32f7a8d3749686b6957fa10465ab47/NDg5Ng==/MTY=/ZGF0YTE1LzEyLTAzLTIwMjQvVGhlSW52aW5jaWJsZS1EaXNjMTYtMTItTWFyLTIwMjRfSEQubXA0/index-v1-a1.m3u8",
      "referer": "https://www.watchlakorn.in/"
     }
    ]
@@ -1963,7 +2081,7 @@
    ]
   },
   {
-   "name": "วิญญาณแพศยา [ยังไม่จบ]",
+   "name": "วิญญาณแพศยา [จบแล้ว]",
    "image": "https://cdn.watchlakorn.in/storage/images/av-1704721180.jpg",
    "stations": [
     {
@@ -2216,6 +2334,20 @@
      "info": "วันที่ 7 มีนาคม 2567",
      "image": "https://cdn.watchlakorn.in/storage/images/av-1704721180.jpg",
      "url": "https://www.watchlakorn.in/egde/c61a9c93a51602569d5f7f2e446b427c/NDg4OA==/MzY=/ZGF0YTE1LzA3LTAzLTIwMjQvV2lueWFuUGFldHNheWEtRGlzYzM2LTctTWFyLTIwMjRfSEQubXA0/index-v1-a1.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "วิญญาณแพศยา  ตอนที่ 37",
+     "info": "วันที่ 11 มีนาคม 2567",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1704721180.jpg",
+     "url": "https://www.watchlakorn.in/egde/e0ac9ebc1b9bb085659d0652984a6cf6/NDg4OA==/Mzc=/ZGF0YTE1LzExLTAzLTIwMjQvV2lueWFuUGFldHNheWEtRGlzYzM3LTExLU1hci0yMDI0X0hELm1wNA==/index-v1-a1.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "วิญญาณแพศยาตอนจบ  ตอนที่ 38",
+     "info": "วันที่ 12 มีนาคม 2567",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1704721180.jpg",
+     "url": "https://www.watchlakorn.in/egde/8e83887c07c7d8c44fc42c99927d9e4a/NDg4OA==/Mzg=/ZGF0YTE1LzEyLTAzLTIwMjQvV2lueWFuUGFldHNheWEtRGlzYzM4LTEyLU1hci0yMDI0X0hELm1wNA==/index-v1-a1.m3u8",
      "referer": "https://www.watchlakorn.in/"
     }
    ]
@@ -15156,6 +15288,13 @@
      "info": "วันที่ 20 มิถุนายน 2566",
      "image": "https://cdn.watchlakorn.in/storage/images/av-1684166708.jpg",
      "url": "https://www.watchlakorn.in/egde/1cb99110bfb99074ab3f6a4c9d5dac33/NDc1Nw==/MTE=/ZGF0YTE0LzIwLTA2LTIwMjMvTXJ2ZWxsb3NMb3ZlLURpc2MxMS0yMC1KdW4tMjAyM19IRC5tcDQ=/index-v1-a1.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ฤทัยบดี  ตอนที่ 12",
+     "info": "วันที่ 26 มิถุนายน 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1684166708.jpg",
+     "url": "https://www.watchlakorn.in/egde/714c1c7aa0aff87f3d649215ceb4d2d7/NDc1Nw==/MTI=/ZGF0YTE0LzI2LTA2LTIwMjMvTXJ2ZWxsb3NMb3ZlLURpc2MxMi0yNi1KdW4tMjAyM19IRC5tcDQ=/index-v1-a1.m3u8",
      "referer": "https://www.watchlakorn.in/"
     },
     {
