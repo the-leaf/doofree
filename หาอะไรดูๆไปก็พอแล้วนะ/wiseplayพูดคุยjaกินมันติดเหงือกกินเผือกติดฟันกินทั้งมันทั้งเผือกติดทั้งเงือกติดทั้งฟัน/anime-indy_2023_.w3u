@@ -1,9 +1,381 @@
 {
  "name": "อนิเมะ2023",
- "author": "เจียว เจียว อัพวันที่ 16 มีนาคม 2567",
+ "author": "เจียว เจียว อัพวันที่ 18 มีนาคม 2567",
  "info": "ความสำเร็จไม่ใช่จุดสิ้นสุด ความล้มเหลวไม่ใช่เรื่องร้ายแรง ความกล้าหาญที่จะทำต่อไปต่างหากที่สำคัญ",
  "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/03/cropped-151564.png?w=350&ssl=1",
  "groups": [
+  {
+   "name": "Ojou to Banken-kun องครักษ์พิทักษ์หวานใจ ตอนที่ 1-8 พากย์ไทย",
+   "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/03/Ojou-to-Banken-kun.jpg",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "info": "พากย์ไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/03/Ojou-to-Banken-kun.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/K5o7cK4bj0/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "พากย์ไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/03/Ojou-to-Banken-kun.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/EIJfpns3wB/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 3",
+     "info": "พากย์ไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/03/Ojou-to-Banken-kun.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/RXPbiuEkOh/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "พากย์ไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/03/Ojou-to-Banken-kun.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/kGPQ8QEPzg/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 5",
+     "info": "พากย์ไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/03/Ojou-to-Banken-kun.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/JjEe5yWds9/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "พากย์ไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/03/Ojou-to-Banken-kun.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/BydhOUX25b/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 7",
+     "info": "พากย์ไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/03/Ojou-to-Banken-kun.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/4mFRLaLWh/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 8",
+     "info": "พากย์ไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/03/Ojou-to-Banken-kun.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/f7ZZV99GF/video.mp4/playlist.m3u8"
+    }
+   ]
+  },
+  {
+   "name": "Legend of Xianwu ตำนานเซียนอู่ ตอนที่ 1-52 ซับไทย",
+   "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/04/Legend-of-Xianwu-1.jpg",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "info": "ซับไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/04/Legend-of-Xianwu-1.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/BUoH96BIPB/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "ซับไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/04/Legend-of-Xianwu-1.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/f8xE8mkhjZ/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 3",
+     "info": "ซับไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/04/Legend-of-Xianwu-1.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/YE6XU0BwuH/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "ซับไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/04/Legend-of-Xianwu-1.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/yc72GjqKCS/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 5",
+     "info": "ซับไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/04/Legend-of-Xianwu-1.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/hJ5HJArWn/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "ซับไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/04/Legend-of-Xianwu-1.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/j9E0grd65J/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 7",
+     "info": "ซับไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/04/Legend-of-Xianwu-1.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/GJmGhFoR4P/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 8",
+     "info": "ซับไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/04/Legend-of-Xianwu-1.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/YlNqx9bCjx/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 9",
+     "info": "ซับไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/04/Legend-of-Xianwu-1.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/L4dlMHx48/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 10",
+     "info": "ซับไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/04/Legend-of-Xianwu-1.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/NzHm4mxecx/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 11",
+     "info": "ซับไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/04/Legend-of-Xianwu-1.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/GhF2A8yhP9/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 12",
+     "info": "ซับไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/04/Legend-of-Xianwu-1.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/ZM4AUDSiQs/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 13",
+     "info": "ซับไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/04/Legend-of-Xianwu-1.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/ucHVb41w0v/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 14",
+     "info": "ซับไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/04/Legend-of-Xianwu-1.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/4QxxBHLqpm/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 15",
+     "info": "ซับไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/04/Legend-of-Xianwu-1.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/KJEv9gJ4vA/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 16",
+     "info": "ซับไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/04/Legend-of-Xianwu-1.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/dW6IZcUNsG/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 17",
+     "info": "ซับไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/04/Legend-of-Xianwu-1.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/O8nzy1on4W/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 18",
+     "info": "ซับไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/04/Legend-of-Xianwu-1.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/7mtxA0MFpz/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 19",
+     "info": "ซับไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/04/Legend-of-Xianwu-1.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/TiJ1sVDLHR/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 20",
+     "info": "ซับไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/04/Legend-of-Xianwu-1.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/7HHkBntsRS/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 21",
+     "info": "ซับไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/04/Legend-of-Xianwu-1.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/JfhKAXQ996/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 22",
+     "info": "ซับไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/04/Legend-of-Xianwu-1.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/2sTQk6d0Ea/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 23",
+     "info": "ซับไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/04/Legend-of-Xianwu-1.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/mHg2MW4pru/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 24",
+     "info": "ซับไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/04/Legend-of-Xianwu-1.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/CsopiIBIj2/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 25",
+     "info": "ซับไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/04/Legend-of-Xianwu-1.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/2lHquSl7rQ/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 26",
+     "info": "ซับไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/04/Legend-of-Xianwu-1.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/JIeIokwiUN/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 27",
+     "info": "ซับไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/04/Legend-of-Xianwu-1.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/vEWz4d2P2W/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 28",
+     "info": "ซับไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/04/Legend-of-Xianwu-1.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/OxxPSKC2z1/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 29",
+     "info": "ซับไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/04/Legend-of-Xianwu-1.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/DFif6wiWT8/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 30",
+     "info": "ซับไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/04/Legend-of-Xianwu-1.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/JPaoBC2BBU/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 31",
+     "info": "ซับไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/04/Legend-of-Xianwu-1.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/tZfxrtFCTj/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 32",
+     "info": "ซับไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/04/Legend-of-Xianwu-1.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/579jk8tpey/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 33",
+     "info": "ซับไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/04/Legend-of-Xianwu-1.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/XMdMhG2YLo/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 34",
+     "info": "ซับไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/04/Legend-of-Xianwu-1.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/VTxrToTAc7/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 35",
+     "info": "ซับไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/04/Legend-of-Xianwu-1.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/K4DhMY89P/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 36",
+     "info": "ซับไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/04/Legend-of-Xianwu-1.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/Ed2CDiExTV/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 37",
+     "info": "ซับไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/04/Legend-of-Xianwu-1.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/Y224LYdNzG/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 38",
+     "info": "ซับไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/04/Legend-of-Xianwu-1.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/yi2jo0uLEC/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 39",
+     "info": "ซับไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/04/Legend-of-Xianwu-1.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/ZFUrBhI2fN/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 40",
+     "info": "ซับไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/04/Legend-of-Xianwu-1.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/JRXWus4Cua/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 41",
+     "info": "ซับไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/04/Legend-of-Xianwu-1.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/5Vf7pToxYy/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 42",
+     "info": "ซับไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/04/Legend-of-Xianwu-1.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/dGZzW1DONr/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 43",
+     "info": "ซับไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/04/Legend-of-Xianwu-1.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/tEJ6bvrGJ/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 44",
+     "info": "ซับไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/04/Legend-of-Xianwu-1.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/tFb4qx0exz/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 45",
+     "info": "ซับไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/04/Legend-of-Xianwu-1.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/023aCPjc12/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 46",
+     "info": "ซับไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/04/Legend-of-Xianwu-1.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/LhfptdI3IR/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 47",
+     "info": "ซับไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/04/Legend-of-Xianwu-1.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/wCpgUAd65k/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 48",
+     "info": "ซับไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/04/Legend-of-Xianwu-1.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/7ry2kOeah/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 49",
+     "info": "ซับไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/04/Legend-of-Xianwu-1.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/a6CFba6zW6/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 50",
+     "info": "ซับไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/04/Legend-of-Xianwu-1.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/YB43XPrII/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 51",
+     "info": "ซับไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/04/Legend-of-Xianwu-1.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/tsdOT9xqd2/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 52",
+     "info": "ซับไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/04/Legend-of-Xianwu-1.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/gJQT0622jA/video.mp4/playlist.m3u8"
+    }
+   ]
+  },
   {
    "name": "Ragna Crimson ตำนานนักล่ามังกร ตอนที่ 1-22 ซับไทย",
    "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/09/mainimg.jpg",
@@ -835,54 +1207,12 @@
      "info": "ซับไทย",
      "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/02/One-Hundred-Thousand-Years-of-Qi-Refining-e1691242312851.jpg",
      "url": "https://indy.team-indy.tech:8443/vid/FPtEDAEu0/video.mp4/playlist.m3u8"
-    }
-   ]
-  },
-  {
-   "name": "Ojou to Banken-kun องครักษ์พิทักษ์หวานใจ ตอนที่ 1-7 พากย์ไทย",
-   "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/03/Ojou-to-Banken-kun.jpg",
-   "stations": [
-    {
-     "name": "ตอนที่ 1",
-     "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/03/Ojou-to-Banken-kun.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/K5o7cK4bj0/video.mp4/playlist.m3u8"
     },
     {
-     "name": "ตอนที่ 2",
-     "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/03/Ojou-to-Banken-kun.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/EIJfpns3wB/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 3",
-     "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/03/Ojou-to-Banken-kun.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/RXPbiuEkOh/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 4",
-     "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/03/Ojou-to-Banken-kun.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/kGPQ8QEPzg/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 5",
-     "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/03/Ojou-to-Banken-kun.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/JjEe5yWds9/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 6",
-     "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/03/Ojou-to-Banken-kun.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/BydhOUX25b/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 7",
-     "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/03/Ojou-to-Banken-kun.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/4mFRLaLWh/video.mp4/playlist.m3u8"
+     "name": "ตอนที่ 116",
+     "info": "ซับไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/02/One-Hundred-Thousand-Years-of-Qi-Refining-e1691242312851.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/Q637wRZOQr/video.mp4/playlist.m3u8"
     }
    ]
   },
@@ -3253,318 +3583,6 @@
      "info": "ซับไทย",
      "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/05/One-Hundred-Thousand-Years-of-Qi-Refining-1.jpg",
      "url": "https://indy.team-indy.tech:8443/vid/3rVPBouZAu/video.mp4/playlist.m3u8"
-    }
-   ]
-  },
-  {
-   "name": "Legend of Xianwu ตำนานเซียนอู่ ตอนที่ 1-51 ซับไทย",
-   "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/04/Legend-of-Xianwu-1.jpg",
-   "stations": [
-    {
-     "name": "ตอนที่ 1",
-     "info": "ซับไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/04/Legend-of-Xianwu-1.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/BUoH96BIPB/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 2",
-     "info": "ซับไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/04/Legend-of-Xianwu-1.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/f8xE8mkhjZ/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 3",
-     "info": "ซับไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/04/Legend-of-Xianwu-1.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/YE6XU0BwuH/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 4",
-     "info": "ซับไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/04/Legend-of-Xianwu-1.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/yc72GjqKCS/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 5",
-     "info": "ซับไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/04/Legend-of-Xianwu-1.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/hJ5HJArWn/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 6",
-     "info": "ซับไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/04/Legend-of-Xianwu-1.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/j9E0grd65J/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 7",
-     "info": "ซับไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/04/Legend-of-Xianwu-1.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/GJmGhFoR4P/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 8",
-     "info": "ซับไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/04/Legend-of-Xianwu-1.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/YlNqx9bCjx/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 9",
-     "info": "ซับไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/04/Legend-of-Xianwu-1.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/L4dlMHx48/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 10",
-     "info": "ซับไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/04/Legend-of-Xianwu-1.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/NzHm4mxecx/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 11",
-     "info": "ซับไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/04/Legend-of-Xianwu-1.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/GhF2A8yhP9/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 12",
-     "info": "ซับไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/04/Legend-of-Xianwu-1.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/ZM4AUDSiQs/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 13",
-     "info": "ซับไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/04/Legend-of-Xianwu-1.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/ucHVb41w0v/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 14",
-     "info": "ซับไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/04/Legend-of-Xianwu-1.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/4QxxBHLqpm/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 15",
-     "info": "ซับไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/04/Legend-of-Xianwu-1.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/KJEv9gJ4vA/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 16",
-     "info": "ซับไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/04/Legend-of-Xianwu-1.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/dW6IZcUNsG/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 17",
-     "info": "ซับไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/04/Legend-of-Xianwu-1.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/O8nzy1on4W/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 18",
-     "info": "ซับไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/04/Legend-of-Xianwu-1.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/7mtxA0MFpz/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 19",
-     "info": "ซับไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/04/Legend-of-Xianwu-1.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/TiJ1sVDLHR/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 20",
-     "info": "ซับไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/04/Legend-of-Xianwu-1.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/7HHkBntsRS/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 21",
-     "info": "ซับไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/04/Legend-of-Xianwu-1.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/JfhKAXQ996/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 22",
-     "info": "ซับไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/04/Legend-of-Xianwu-1.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/2sTQk6d0Ea/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 23",
-     "info": "ซับไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/04/Legend-of-Xianwu-1.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/mHg2MW4pru/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 24",
-     "info": "ซับไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/04/Legend-of-Xianwu-1.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/CsopiIBIj2/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 25",
-     "info": "ซับไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/04/Legend-of-Xianwu-1.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/2lHquSl7rQ/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 26",
-     "info": "ซับไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/04/Legend-of-Xianwu-1.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/JIeIokwiUN/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 27",
-     "info": "ซับไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/04/Legend-of-Xianwu-1.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/vEWz4d2P2W/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 28",
-     "info": "ซับไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/04/Legend-of-Xianwu-1.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/OxxPSKC2z1/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 29",
-     "info": "ซับไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/04/Legend-of-Xianwu-1.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/DFif6wiWT8/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 30",
-     "info": "ซับไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/04/Legend-of-Xianwu-1.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/JPaoBC2BBU/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 31",
-     "info": "ซับไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/04/Legend-of-Xianwu-1.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/tZfxrtFCTj/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 32",
-     "info": "ซับไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/04/Legend-of-Xianwu-1.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/579jk8tpey/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 33",
-     "info": "ซับไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/04/Legend-of-Xianwu-1.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/XMdMhG2YLo/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 34",
-     "info": "ซับไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/04/Legend-of-Xianwu-1.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/VTxrToTAc7/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 35",
-     "info": "ซับไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/04/Legend-of-Xianwu-1.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/K4DhMY89P/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 36",
-     "info": "ซับไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/04/Legend-of-Xianwu-1.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/Ed2CDiExTV/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 37",
-     "info": "ซับไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/04/Legend-of-Xianwu-1.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/Y224LYdNzG/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 38",
-     "info": "ซับไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/04/Legend-of-Xianwu-1.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/yi2jo0uLEC/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 39",
-     "info": "ซับไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/04/Legend-of-Xianwu-1.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/ZFUrBhI2fN/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 40",
-     "info": "ซับไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/04/Legend-of-Xianwu-1.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/JRXWus4Cua/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 41",
-     "info": "ซับไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/04/Legend-of-Xianwu-1.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/5Vf7pToxYy/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 42",
-     "info": "ซับไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/04/Legend-of-Xianwu-1.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/dGZzW1DONr/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 43",
-     "info": "ซับไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/04/Legend-of-Xianwu-1.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/tEJ6bvrGJ/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 44",
-     "info": "ซับไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/04/Legend-of-Xianwu-1.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/tFb4qx0exz/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 45",
-     "info": "ซับไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/04/Legend-of-Xianwu-1.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/023aCPjc12/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 46",
-     "info": "ซับไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/04/Legend-of-Xianwu-1.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/LhfptdI3IR/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 47",
-     "info": "ซับไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/04/Legend-of-Xianwu-1.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/wCpgUAd65k/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 48",
-     "info": "ซับไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/04/Legend-of-Xianwu-1.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/7ry2kOeah/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 49",
-     "info": "ซับไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/04/Legend-of-Xianwu-1.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/a6CFba6zW6/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 50",
-     "info": "ซับไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/04/Legend-of-Xianwu-1.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/YB43XPrII/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 51",
-     "info": "ซับไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/04/Legend-of-Xianwu-1.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/tsdOT9xqd2/video.mp4/playlist.m3u8"
     }
    ]
   },
