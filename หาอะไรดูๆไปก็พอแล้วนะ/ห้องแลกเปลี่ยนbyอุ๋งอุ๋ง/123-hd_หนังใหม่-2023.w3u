@@ -1,9 +1,27 @@
 {
   "name": "หนังใหม่ 2023",
-  "author": "เจียว เจียว อัพวันที่ 16 มีนาคม 2567",
+  "author": "เจียว เจียว อัพวันที่ 22 มีนาคม 2567",
   "info": "เฉพาะเมื่อเราให้ความสุขโดยไม่ลังเลหรือคิดจะได้กำไรเราสามารถรู้ได้อย่างแท้จริงว่าความรักหมายถึงอะไร😊",
   "image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
   "groups": [
+    {
+      "name": "Which Brings Me to You (2023) สิ่งที่พาฉันมาพบคุณ",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/03/Which-Brings-Me-to-You-2023-สิ่งที่พาฉันมาพบคุณ-300x450.jpg",
+      "stations": [
+        {
+          "name": "Which Brings Me to You (2023) สิ่งที่พาฉันมาพบคุณ",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/03/Which-Brings-Me-to-You-2023-สิ่งที่พาฉันมาพบคุณ-300x450.jpg",
+          "url": "https://main.77player.xyz/newplaylist/b1b18034e019111f7b306c8d/b1b18034e019111f7b306c8d.m3u8"
+        },
+        {
+          "name": "Which Brings Me to You (2023) สิ่งที่พาฉันมาพบคุณ",
+          "info": "ซับไทย ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/03/Which-Brings-Me-to-You-2023-สิ่งที่พาฉันมาพบคุณ-300x450.jpg",
+          "url": "https://xxx.77player.xyz/autoplaylist/d5a64038cc6ff8fee15a05f4/d5a64038cc6ff8fee15a05f4.m3u8"
+        }
+      ]
+    },
     {
       "name": "Taking On Taylor Swift (2023)",
       "image": "https://www.123-hd.com/wp-content/uploads/2023/11/Taking-On-Taylor-Swift-2023-300x450.jpg",
@@ -42,18 +60,18 @@
     },
     {
       "name": "She Came to Me (2023)",
-      "image": "https://www.123-hd.com/wp-content/themes/halimmovies_54/assets/images/default-poster.jpg",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/03/She-Came-to-Me-2023-1-300x450.jpg",
       "stations": [
         {
           "name": "She Came to Me (2023)",
           "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/themes/halimmovies_54/assets/images/default-poster.jpg",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/03/She-Came-to-Me-2023-1-300x450.jpg",
           "url": "https://main.77player.xyz/newplaylist/755117bfc8fd2a9478ee98d3/755117bfc8fd2a9478ee98d3.m3u8"
         },
         {
           "name": "She Came to Me (2023)",
           "info": "ซับไทย ตัวเล่นสำรอง",
-          "image": "https://www.123-hd.com/wp-content/themes/halimmovies_54/assets/images/default-poster.jpg",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/03/She-Came-to-Me-2023-1-300x450.jpg",
           "url": "https://xxx.77player.xyz/autoplaylist/b1784f88df206b111d1e08e9/b1784f88df206b111d1e08e9.m3u8"
         }
       ]
@@ -443,20 +461,74 @@
       ]
     },
     {
-      "name": "Freud's Last Session (2023)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Freuds-Last-Session-2023-300x450.jpg",
+      "name": "Anyone But You (2023) เกลียดนัก รักซะเลย",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Anyone-But-You-2023-เกลียดนัก-รักซะเลย-1-300x450.jpg",
       "stations": [
         {
-          "name": "Freud's Last Session (2023)",
+          "name": "Anyone But You (2023) เกลียดนัก รักซะเลย",
           "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Freuds-Last-Session-2023-300x450.jpg",
-          "url": "https://main.77player.xyz/newplaylist/57ce657de31d862705d1c26c/57ce657de31d862705d1c26c.m3u8"
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Anyone-But-You-2023-เกลียดนัก-รักซะเลย-1-300x450.jpg",
+          "url": "https://main.77player.xyz/newplaylist/cfd9362c1751d5a415fb27b6/cfd9362c1751d5a415fb27b6.m3u8"
         },
         {
-          "name": "Freud's Last Session (2023)",
+          "name": "Anyone But You (2023) เกลียดนัก รักซะเลย",
           "info": "ซับไทย ตัวเล่นสำรอง",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Freuds-Last-Session-2023-300x450.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/8b3ce5eb5a5e0248a5c80189/8b3ce5eb5a5e0248a5c80189.m3u8"
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Anyone-But-You-2023-เกลียดนัก-รักซะเลย-1-300x450.jpg",
+          "url": "https://xxx.77player.xyz/autoplaylist/b2fa4f739643fe218e905eec/b2fa4f739643fe218e905eec.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "Mantra Warrior The Legend of the Eight Moons (2024) นักรบมนตรา ตำนานแปดดวงจันทร์",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Mantra-Warrior-The-Legend-of-the-Eight-Moons-2024-นักรบมนตรา-ตำนานแปดดวงจันทร์-1-300x450.jpg",
+      "stations": [
+        {
+          "name": "Mantra Warrior The Legend of the Eight Moons (2024) นักรบมนตรา ตำนานแปดดวงจันทร์",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Mantra-Warrior-The-Legend-of-the-Eight-Moons-2024-นักรบมนตรา-ตำนานแปดดวงจันทร์-1-300x450.jpg",
+          "url": "https://main.77player.xyz/newplaylist/b5ddea6f131bc716037fdf35/b5ddea6f131bc716037fdf35.m3u8"
+        },
+        {
+          "name": "Mantra Warrior The Legend of the Eight Moons (2024) นักรบมนตรา ตำนานแปดดวงจันทร์",
+          "info": "พากย์ไทย ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Mantra-Warrior-The-Legend-of-the-Eight-Moons-2024-นักรบมนตรา-ตำนานแปดดวงจันทร์-1-300x450.jpg",
+          "url": "https://xxx.77player.xyz/autoplaylist/030f8337fbdf1723d911e890/030f8337fbdf1723d911e890.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "Love in an Old Album (2023) ปราณี",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Love-in-an-Old-Album-2023-ปราณี-300x450.jpg",
+      "stations": [
+        {
+          "name": "Love in an Old Album (2023) ปราณี",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Love-in-an-Old-Album-2023-ปราณี-300x450.jpg",
+          "url": "https://main.77player.xyz/newplaylist/22d6cbe9dca9d184cc944488/22d6cbe9dca9d184cc944488.m3u8"
+        },
+        {
+          "name": "Love in an Old Album (2023) ปราณี",
+          "info": "พากย์ไทย ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Love-in-an-Old-Album-2023-ปราณี-300x450.jpg",
+          "url": "https://xxx.77player.xyz/autoplaylist/3240e3b138d580da5ba12462/3240e3b138d580da5ba12462.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "The Book of Clarence (2023)",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/02/The-Book-of-Clarence-2023-1-300x450.jpg",
+      "stations": [
+        {
+          "name": "The Book of Clarence (2023)",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/02/The-Book-of-Clarence-2023-1-300x450.jpg",
+          "url": "https://main.77player.xyz/newplaylist/22ae800f2bbd8c8aaead8b98/22ae800f2bbd8c8aaead8b98.m3u8"
+        },
+        {
+          "name": "The Book of Clarence (2023)",
+          "info": "ซับไทย ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/02/The-Book-of-Clarence-2023-1-300x450.jpg",
+          "url": "https://xxx.77player.xyz/autoplaylist/d522a1f613fd7a4415abbb75/d522a1f613fd7a4415abbb75.m3u8"
         }
       ]
     },
@@ -948,7 +1020,7 @@
           "name": "The Roundup ภาค 1",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/07/The-Roundup-No-Way-Out-2023-บู๊ระห่ำล่าล้างนรก-ทุบนรกแตก-300x450.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/fc0263f46ef63731f2c751a157bc874a/fc0263f46ef63731f2c751a157bc874a.m3u8"
+          "url": "https://xxx.77player.xyz/autoplaylist/9efaf31a036b322b3375092b009ebdc8/9efaf31a036b322b3375092b009ebdc8.m3u8"
         },
         {
           "name": "The Roundup ภาค 2",
@@ -1668,7 +1740,7 @@
           "name": "Tokyo Revengers The Movie ภาค 1",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Tokyo-Revengers-2-Part-2-Bloody-Halloween-Final-Battle-2023-โตเกียว-รีเวนเจอร์ส-ฮาโลวีนสีเลือด-ศึกตัดสิน-300x450.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/9274de1051c4e665915602ed02ae04bf/9274de1051c4e665915602ed02ae04bf.m3u8"
+          "url": "https://xxx.77player.xyz/autoplaylist/18a4ca3ea0cad2ab1d42d41b4503bfde/18a4ca3ea0cad2ab1d42d41b4503bfde.m3u8"
         },
         {
           "name": "Tokyo Revengers The Movie ภาค 1",
@@ -1698,7 +1770,7 @@
           "name": "Tokyo Revengers The Movie ภาค 1",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Tokyo-Revengers-2-Part-1-Bloody-Halloween-Destiny-2023-โตเกียว-รีเวนเจอร์ส-ฮาโลวีนสีเลือด-โชคชะตา-300x450.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/9274de1051c4e665915602ed02ae04bf/9274de1051c4e665915602ed02ae04bf.m3u8"
+          "url": "https://xxx.77player.xyz/autoplaylist/18a4ca3ea0cad2ab1d42d41b4503bfde/18a4ca3ea0cad2ab1d42d41b4503bfde.m3u8"
         },
         {
           "name": "Tokyo Revengers The Movie ภาค 1",
@@ -2230,19 +2302,19 @@
           "name": "The Hunger Games ภาค 1",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/11/The-Hunger-Games-The-Ballad-of-Songbirds-Snakes-2023-เดอะ-ฮังเกอร์เกมส์-ปฐมบทเกมล่าเกม-300x450.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/7f0d105c628bf97d4d827703217da1a4/7f0d105c628bf97d4d827703217da1a4.m3u8"
+          "url": "https://xxx.77player.xyz/autoplaylist/6550eb562d6729130cd7bb168ad6294f/6550eb562d6729130cd7bb168ad6294f.m3u8"
         },
         {
           "name": "The Hunger Games ภาค 1",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/11/The-Hunger-Games-The-Ballad-of-Songbirds-Snakes-2023-เดอะ-ฮังเกอร์เกมส์-ปฐมบทเกมล่าเกม-300x450.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/4f94664a118e70d043faa31058799857/4f94664a118e70d043faa31058799857.m3u8"
+          "url": "https://xxx.77player.xyz/autoplaylist/3f899534a8e82679c8848a1ca7b6b6d9/3f899534a8e82679c8848a1ca7b6b6d9.m3u8"
         },
         {
           "name": "The Hunger Games ภาค 2 Catching Fire",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/11/The-Hunger-Games-The-Ballad-of-Songbirds-Snakes-2023-เดอะ-ฮังเกอร์เกมส์-ปฐมบทเกมล่าเกม-300x450.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/39ef946071ef0e17f4c42c791ebf3ebd/39ef946071ef0e17f4c42c791ebf3ebd.m3u8"
+          "url": "https://xxx.77player.xyz/autoplaylist/10294bdf036691f0530e336eeb5dc6f3/10294bdf036691f0530e336eeb5dc6f3.m3u8"
         },
         {
           "name": "The Hunger Games ภาค 2 Catching Fire",
@@ -2260,7 +2332,7 @@
           "name": "Hunger Games 3 Mockingjay Part 1 (2014)",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/11/The-Hunger-Games-The-Ballad-of-Songbirds-Snakes-2023-เดอะ-ฮังเกอร์เกมส์-ปฐมบทเกมล่าเกม-300x450.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/739d168fee58fcda12a4a1dcd50b3b75/739d168fee58fcda12a4a1dcd50b3b75.m3u8"
+          "url": "https://xxx.77player.xyz/autoplaylist/95add6eedf009a109d0603bf5c7675f5/95add6eedf009a109d0603bf5c7675f5.m3u8"
         },
         {
           "name": "Hunger Games 3 Mockingjay Part 2 (2015)",
@@ -2272,7 +2344,7 @@
           "name": "Hunger Games 3 Mockingjay Part 2 (2015)",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/11/The-Hunger-Games-The-Ballad-of-Songbirds-Snakes-2023-เดอะ-ฮังเกอร์เกมส์-ปฐมบทเกมล่าเกม-300x450.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/5f8bdbe9ed85193ca6f71e76a6f069bd/5f8bdbe9ed85193ca6f71e76a6f069bd.m3u8"
+          "url": "https://xxx.77player.xyz/autoplaylist/d7368da86b658f8ef50718afe3a596d9/d7368da86b658f8ef50718afe3a596d9.m3u8"
         },
         {
           "name": "The Hunger Games ภาค 5",
@@ -3180,24 +3252,6 @@
       ]
     },
     {
-      "name": "Taking On Taylor Swift (2023)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2023/11/Taking-On-Taylor-Swift-2023-300x450.jpg",
-      "stations": [
-        {
-          "name": "Taking On Taylor Swift (2023)",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/11/Taking-On-Taylor-Swift-2023-300x450.jpg",
-          "url": "https://main.77player.xyz/newplaylist/bb2203b01b0bb887cddea874/bb2203b01b0bb887cddea874.m3u8"
-        },
-        {
-          "name": "Taking On Taylor Swift (2023)",
-          "info": "ซับไทย ตัวเล่นสำรอง",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/11/Taking-On-Taylor-Swift-2023-300x450.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/c98dc8f1e556e913057bcc19/c98dc8f1e556e913057bcc19.m3u8"
-        }
-      ]
-    },
-    {
       "name": "All-Time High (2023) รวยทะลุ",
       "image": "https://www.123-hd.com/wp-content/uploads/2023/11/All-Time-High-2023-รวยทะลุ-300x450.jpg",
       "stations": [
@@ -3260,6 +3314,18 @@
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/11/Rustin-2023-รัสติน-300x450.jpg",
           "url": "https://main.77player.xyz/newplaylist/ce0f58983f78d4817f5792ce/ce0f58983f78d4817f5792ce.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "The Queenstown Kings (2023) ราชาควีนส์ทาวน์",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/11/The-Queenstown-Kings-2023-ราชาควีนส์ทาวน์-300x450.jpg",
+      "stations": [
+        {
+          "name": "The Queenstown Kings (2023) ราชาควีนส์ทาวน์",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/11/The-Queenstown-Kings-2023-ราชาควีนส์ทาวน์-300x450.jpg",
+          "url": "https://main.77player.xyz/newplaylist/41e48a27dab593447450b089/41e48a27dab593447450b089.m3u8"
         }
       ]
     },
@@ -3584,24 +3650,6 @@
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/11/The-X-Treme-Riders-2023-ปล้นทะลุไมล์-300x450.jpg",
           "url": "https://main.77player.xyz/newplaylist/8cefafb09f7addd603712a0a/8cefafb09f7addd603712a0a.m3u8"
-        }
-      ]
-    },
-    {
-      "name": "A Haunting in Venice (2023) ฆาตกรรมหลอนแห่งนครเวนิส",
-      "image": "https://www.123-hd.com/wp-content/uploads/2023/09/A-Haunting-in-Venice-2023-ฆาตกรรมหลอนแห่งนครเวนิส-1-300x450.jpg",
-      "stations": [
-        {
-          "name": "A Haunting in Venice (2023) ฆาตกรรมหลอนแห่งนครเวนิส",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/09/A-Haunting-in-Venice-2023-ฆาตกรรมหลอนแห่งนครเวนิส-1-300x450.jpg",
-          "url": "https://main.77player.xyz/newplaylist/9bb1494dc25edf6b5045c2ff/9bb1494dc25edf6b5045c2ff.m3u8"
-        },
-        {
-          "name": "A Haunting in Venice (2023) ฆาตกรรมหลอนแห่งนครเวนิส",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/09/A-Haunting-in-Venice-2023-ฆาตกรรมหลอนแห่งนครเวนิส-1-300x450.jpg",
-          "url": "https://main.77player.xyz/newplaylist/1615f08b35c610374686bbc2/1615f08b35c610374686bbc2.m3u8"
         }
       ]
     },
@@ -4236,6 +4284,24 @@
       ]
     },
     {
+      "name": "80 for Brady (2023)",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/03/80-for-Brady-2023-300x450.jpg",
+      "stations": [
+        {
+          "name": "80 for Brady (2023)",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/03/80-for-Brady-2023-300x450.jpg",
+          "url": "https://main.77player.xyz/newplaylist/254d7eee5dd4f30e6d271ea8/254d7eee5dd4f30e6d271ea8.m3u8"
+        },
+        {
+          "name": "80 for Brady (2023)",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/03/80-for-Brady-2023-300x450.jpg",
+          "url": "https://main.77player.xyz/newplaylist/442db02ffa2ab8ba3abe49bc/442db02ffa2ab8ba3abe49bc.m3u8"
+        }
+      ]
+    },
+    {
       "name": "Where the Wind Blows (2023) คู่พายุเดือด",
       "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Where-the-Wind-Blows-2023-คู่พายุเดือด-300x450.jpg",
       "stations": [
@@ -4375,7 +4441,7 @@
           "name": "The Equalizer 1",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/09/The-Equalizer-3-2023-มัจจุราชไร้เงา-3-300x450.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/92a1aaff638cdc7395ca89e0e3b15ed2/92a1aaff638cdc7395ca89e0e3b15ed2.m3u8"
+          "url": "https://xxx.77player.xyz/autoplaylist/f62f49ab04c5ea35e1282b45dadd107b/f62f49ab04c5ea35e1282b45dadd107b.m3u8"
         },
         {
           "name": "The Equalizer 1",
@@ -4387,7 +4453,7 @@
           "name": "The Equalizer 2",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/09/The-Equalizer-3-2023-มัจจุราชไร้เงา-3-300x450.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/457e53f02fdcf7abfb07467e70aafad1/457e53f02fdcf7abfb07467e70aafad1.m3u8"
+          "url": "https://xxx.77player.xyz/autoplaylist/8809e7f3c0def3913abc54b5a74905e1/8809e7f3c0def3913abc54b5a74905e1.m3u8"
         },
         {
           "name": "The Equalizer 2",
@@ -4622,24 +4688,6 @@
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/10/Camp-Courage-2023-ค่ายคนกล้า-300x450.jpg",
           "url": "https://main.77player.xyz/newplaylist/105a7138b8d8ddbd6d240572/105a7138b8d8ddbd6d240572.m3u8"
-        }
-      ]
-    },
-    {
-      "name": "The Conference (2023) สัมมานาเลือด",
-      "image": "https://www.123-hd.com/wp-content/uploads/2023/10/The-Conference-2023-สัมมานาเลือด-300x450.jpg",
-      "stations": [
-        {
-          "name": "The Conference (2023) สัมมานาเลือด",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/10/The-Conference-2023-สัมมานาเลือด-300x450.jpg",
-          "url": "https://main.77player.xyz/newplaylist/abcd2f2f6ae4f184c77e133e/abcd2f2f6ae4f184c77e133e.m3u8"
-        },
-        {
-          "name": "The Conference (2023) สัมมานาเลือด",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/10/The-Conference-2023-สัมมานาเลือด-300x450.jpg",
-          "url": "https://main.77player.xyz/newplaylist/109901cba6bdf0dd70ac8f79/109901cba6bdf0dd70ac8f79.m3u8"
         }
       ]
     },
@@ -6485,6 +6533,24 @@
       ]
     },
     {
+      "name": "The Monkey King (2023) พญาวานร",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/08/The-Monkey-King-2023-พญาวานร-1-300x450.jpg",
+      "stations": [
+        {
+          "name": "The Monkey King (2023) พญาวานร",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/The-Monkey-King-2023-พญาวานร-1-300x450.jpg",
+          "url": "https://main.77player.xyz/newplaylist/19e67c64e4ee310141a43cca/19e67c64e4ee310141a43cca.m3u8"
+        },
+        {
+          "name": "The Monkey King (2023) พญาวานร",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/The-Monkey-King-2023-พญาวานร-1-300x450.jpg",
+          "url": "https://main.77player.xyz/newplaylist/8f3efa5fa14d8a440bfc1c65/8f3efa5fa14d8a440bfc1c65.m3u8"
+        }
+      ]
+    },
+    {
       "name": "Love Sex and 30 Candles (2023) รัก เซ็กส์ และเทียน 30 เล่ม",
       "image": "https://www.123-hd.com/wp-content/uploads/2023/08/Love-Sex-and-30-Candles-2023-รัก-เซ็กส์-และเทียน-30-เล่ม-300x450.jpg",
       "stations": [
@@ -6505,24 +6571,6 @@
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/08/Miguel-Wants-to-Fight-2023-300x450.jpg",
           "url": "https://main.77player.xyz/newplaylist/83a90316a87782700c580399/83a90316a87782700c580399.m3u8"
-        }
-      ]
-    },
-    {
-      "name": "10 Days Of a Bad Man (2023) 10 วันของคนเลว",
-      "image": "https://www.123-hd.com/wp-content/uploads/2023/08/10-Days-Of-a-Bad-Man-2023-10-วันของคนเลว-300x450.jpg",
-      "stations": [
-        {
-          "name": "10 Days ภาค 1",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/10-Days-Of-a-Bad-Man-2023-10-วันของคนเลว-300x450.jpg",
-          "url": "https://main.77player.xyz/newplaylist/0741034e0cb3fc100ec01cbc/0741034e0cb3fc100ec01cbc.m3u8"
-        },
-        {
-          "name": "10 Days ภาค 2",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/10-Days-Of-a-Bad-Man-2023-10-วันของคนเลว-300x450.jpg",
-          "url": "https://main.77player.xyz/newplaylist/79c17b76b6e24e8f9a03d15f/79c17b76b6e24e8f9a03d15f.m3u8"
         }
       ]
     },
@@ -6827,24 +6875,6 @@
       ]
     },
     {
-      "name": "Kandahar (2023)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2023/06/Kandahar-2023-300x450.jpg",
-      "stations": [
-        {
-          "name": "Kandahar (2023)",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/06/Kandahar-2023-300x450.jpg",
-          "url": "https://main.77player.xyz/newplaylist/bbfea00a6372dd5e815a0f83/bbfea00a6372dd5e815a0f83.m3u8"
-        },
-        {
-          "name": "Kandahar (2023)",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/06/Kandahar-2023-300x450.jpg",
-          "url": "https://main.77player.xyz/newplaylist/6fe773495ed45568ffa6978d/6fe773495ed45568ffa6978d.m3u8"
-        }
-      ]
-    },
-    {
       "name": "The Puppet (2023) ผีหุ่นเชิด",
       "image": "https://www.123-hd.com/wp-content/uploads/2023/08/The-Puppet-2023-ผีหุ่นเชิด-300x450.jpg",
       "stations": [
@@ -6871,6 +6901,18 @@
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/08/The-Seven-Deadly-Sins-Grudge-of-Edinburgh-Part-2-2023-ศึกตำนาน-7-อัศวิน-แค้นเอดินเบอระ-ภาค-2-300x450.jpg",
           "url": "https://main.77player.xyz/newplaylist/22987a87e99e3fdac2c4f9ee/22987a87e99e3fdac2c4f9ee.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "Johnny Football (2023) จอห์นนี่ ฟุตบอล",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/08/Johnny-Football-2023-จอห์นนี่-ฟุตบอล-300x450.jpg",
+      "stations": [
+        {
+          "name": "Johnny Football (2023) จอห์นนี่ ฟุตบอล",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/Johnny-Football-2023-จอห์นนี่-ฟุตบอล-300x450.jpg",
+          "url": "https://main.77player.xyz/newplaylist/07dc2bba9f2012b843ea915e/07dc2bba9f2012b843ea915e.m3u8"
         }
       ]
     },
@@ -8200,6 +8242,24 @@
       ]
     },
     {
+      "name": "King of Clones (2023) ราชาโคลนนิ่ง",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/06/King-of-Clones-2023-ราชาโคลนนิ่ง-300x450.jpg",
+      "stations": [
+        {
+          "name": "King of Clones (2023) ราชาโคลนนิ่ง",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/06/King-of-Clones-2023-ราชาโคลนนิ่ง-300x450.jpg",
+          "url": "https://main.77player.xyz/newplaylist/f12bd08c1a1d53569eb56d8e/f12bd08c1a1d53569eb56d8e.m3u8"
+        },
+        {
+          "name": "King of Clones (2023) ราชาโคลนนิ่ง",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/06/King-of-Clones-2023-ราชาโคลนนิ่ง-300x450.jpg",
+          "url": "https://main.77player.xyz/newplaylist/181f7dccff85add02eccad43/181f7dccff85add02eccad43.m3u8"
+        }
+      ]
+    },
+    {
       "name": "Make me Believe (2023) เชื่อว่ารัก",
       "image": "https://www.123-hd.com/wp-content/uploads/2023/06/Make-me-Believe-2023-เชื่อว่ารัก-300x450.jpg",
       "stations": [
@@ -8226,18 +8286,6 @@
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/06/The-Perfect-Find-2023-300x450.jpg",
           "url": "https://main.77player.xyz/newplaylist/0ddbbce7cf2c3e984e171660/0ddbbce7cf2c3e984e171660.m3u8"
-        }
-      ]
-    },
-    {
-      "name": "Taz Quest for Burger (2023)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2023/06/Taz-Quest-for-Burger-2023-300x450.jpg",
-      "stations": [
-        {
-          "name": "Taz Quest for Burger (2023)",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/06/Taz-Quest-for-Burger-2023-300x450.jpg",
-          "url": "https://main.77player.xyz/newplaylist/4ce8ca4a877ffdb872caa637/4ce8ca4a877ffdb872caa637.m3u8"
         }
       ]
     },
@@ -8514,24 +8562,6 @@
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/06/Flamin-Hot-2023-300x450.jpg",
           "url": "https://main.77player.xyz/newplaylist/a2c01d54fb1137384265f6be/a2c01d54fb1137384265f6be.m3u8"
-        }
-      ]
-    },
-    {
-      "name": "The Pope's Exorcist (2023) โป๊ปปราบผี",
-      "image": "https://www.123-hd.com/wp-content/uploads/2023/04/The-Popes-Exorcist-2023-โป๊ปปราบผี-300x450.jpg",
-      "stations": [
-        {
-          "name": "The Pope's Exorcist (2023) โป๊ปปราบผี",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/04/The-Popes-Exorcist-2023-โป๊ปปราบผี-300x450.jpg",
-          "url": "https://main.77player.xyz/newplaylist/d4b2efc3bff847647969c0ef/d4b2efc3bff847647969c0ef.m3u8"
-        },
-        {
-          "name": "The Pope's Exorcist (2023) โป๊ปปราบผี",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/04/The-Popes-Exorcist-2023-โป๊ปปราบผี-300x450.jpg",
-          "url": "https://main.77player.xyz/newplaylist/cafd72ab30eab41a08cb3db3/cafd72ab30eab41a08cb3db3.m3u8"
         }
       ]
     },
@@ -8868,6 +8898,18 @@
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/05/Blood-Gold-2023-ทองเปื้อนเลือด-300x450.jpg",
           "url": "https://main.77player.xyz/newplaylist/87e0f40fd0abef1f58d6dc29/87e0f40fd0abef1f58d6dc29.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "Snag (2023)",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/05/Snag-2023-300x450.jpg",
+      "stations": [
+        {
+          "name": "Snag (2023)",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/05/Snag-2023-300x450.jpg",
+          "url": "https://main.77player.xyz/newplaylist/39792008cd98a0e0dc28d4a2/39792008cd98a0e0dc28d4a2.m3u8"
         }
       ]
     },
@@ -10430,6 +10472,18 @@
       ]
     },
     {
+      "name": "Bono  The Edge A Sort of Homecoming with Dave Letterman (2023)",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/03/Bono-The-Edge-A-Sort-of-Homecoming-with-Dave-Letterman-2023-300x450.jpg",
+      "stations": [
+        {
+          "name": "Bono  The Edge A Sort of Homecoming with Dave Letterman (2023)",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/03/Bono-The-Edge-A-Sort-of-Homecoming-with-Dave-Letterman-2023-300x450.jpg",
+          "url": "https://main.77player.xyz/newplaylist/6d8e96040e17bbc528373600/6d8e96040e17bbc528373600.m3u8"
+        }
+      ]
+    },
+    {
       "name": "Taoist Priest in the Tomb (2023) นักพรตเต๋าตะลุยสุสาน",
       "image": "https://www.123-hd.com/wp-content/uploads/2023/03/Taoist-Priest-in-the-Tomb-2023-นักพรตเต๋าตะลุยสุสาน.jpg",
       "stations": [
@@ -10450,18 +10504,6 @@
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/03/Consecration-2023-300x450.png",
           "url": "https://main.77player.xyz/newplaylist/c320973725876f546de70836/c320973725876f546de70836.m3u8"
-        }
-      ]
-    },
-    {
-      "name": "Girl in the Closet (2023)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2023/03/Girl-in-the-Closet-2023-300x450.png",
-      "stations": [
-        {
-          "name": "Girl in the Closet (2023)",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/03/Girl-in-the-Closet-2023-300x450.png",
-          "url": "https://main.77player.xyz/newplaylist/2404a69c26dca74d59cd4fe2/2404a69c26dca74d59cd4fe2.m3u8"
         }
       ]
     },
@@ -10748,18 +10790,6 @@
       ]
     },
     {
-      "name": "Sayen (2023)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2023/03/Sayen-2023-300x450.png",
-      "stations": [
-        {
-          "name": "Sayen (2023)",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/03/Sayen-2023-300x450.png",
-          "url": "https://main.77player.xyz/newplaylist/0e50b3bf828b746f9a2f07f0/0e50b3bf828b746f9a2f07f0.m3u8"
-        }
-      ]
-    },
-    {
       "name": "Barbie Skipper and the Big Babysitting Adventure (2023)",
       "image": "https://www.123-hd.com/wp-content/uploads/2023/03/Barbie-Skipper-and-the-Big-Babysitting-Adventure-2023-300x450.png",
       "stations": [
@@ -10786,6 +10816,18 @@
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/03/Love-At-Frist-Kiss-2023-รักแรกจูบ-300x450.png",
           "url": "https://main.77player.xyz/newplaylist/7d82c646f5b64e7f83ed23ae/7d82c646f5b64e7f83ed23ae.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "A Royal in Paradise (2023)",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/03/A-Royal-in-Paradise-2023-300x450.png",
+      "stations": [
+        {
+          "name": "A Royal in Paradise (2023)",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/03/A-Royal-in-Paradise-2023-300x450.png",
+          "url": "https://main.77player.xyz/newplaylist/ca6c0f8687d255016560a7f3/ca6c0f8687d255016560a7f3.m3u8"
         }
       ]
     },
