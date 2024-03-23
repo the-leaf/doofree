@@ -1,9 +1,651 @@
 {
  "name": "หนังไทย",
- "author": "เจียว เจียว อัพวันที่ 05 กุมภาพันธ์ 2567",
+ "author": "เจียว เจียว อัพวันที่ 24 มีนาคม 2567",
  "info": "ชีวิตไม่ได้ให้เราสิ่งที่ต้องการเสมอไป แต่มันจะให้เราสิ่งที่เราจำเป็นต้องการ",
  "image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
  "groups": [
+  {
+   "name": "2475 Dawn of Revolution (2024) 2475 รุ่งอรุณแห่งการปฏิวัติ",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/2475-Dawn-of-Revolution.png",
+   "stations": [
+    {
+     "name": "2475 Dawn of Revolution (2024) 2475 รุ่งอรุณแห่งการปฏิวัติ",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/2475-Dawn-of-Revolution.png",
+     "url": "https://play.kakjeawplay.xyz/75d9f1a7-ad82-4b53-873c-8e6b64b78f98/_",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "2475 Dawn of Revolution (2024) 2475 รุ่งอรุณแห่งการปฏิวัติ",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/2475-Dawn-of-Revolution.png",
+     "url": "https://streamhls.com/view/b580b04b-8351-5864-b37a-a04745e53dac.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    }
+   ]
+  },
+  {
+   "name": "O.T. Overtime (2015) โอที ผีโอเวอร์ไทม์",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2015/02/OT-Overtime.png",
+   "stations": [
+    {
+     "name": "O.T. Overtime (2015) โอที ผีโอเวอร์ไทม์",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2015/02/OT-Overtime.png",
+     "url": "https://play.kakjeawplay.xyz/7839e819-6c71-4044-9add-ccaaaf0b2ca4/_",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "O.T. Overtime (2015) โอที ผีโอเวอร์ไทม์",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2015/02/OT-Overtime.png",
+     "url": "https://streamhls.com/view/715534b9-4fed-5695-917a-77e3df0cd564.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    }
+   ]
+  },
+  {
+   "name": "นางทาสหัวทอง Blondie in an Ancient Time (2024)",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Blondie-in-an-Ancient-Time.png",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Blondie-in-an-Ancient-Time.png",
+     "url": "https://sgcdnseriesn.xyz/view/b70199ae-4242-51b3-b044-76e377e63a61.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Blondie-in-an-Ancient-Time.png",
+     "url": "https://sgcdnseriesn.xyz/view/50db4d99-c5f7-531d-9554-bc896a74074d.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 3",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Blondie-in-an-Ancient-Time.png",
+     "url": "https://sgcdnseriesn.xyz/view/0987e635-9d59-5ff0-9cbe-356978af8a1b.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Blondie-in-an-Ancient-Time.png",
+     "url": "https://sgcdnseriesn.xyz/view/677a81b5-0349-5a3a-93f0-f58646b0fdf1.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 5",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Blondie-in-an-Ancient-Time.png",
+     "url": "https://sgcdnseriesn.xyz/view/56bbea6d-856b-54c3-8cd3-adc7985e8637.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Blondie-in-an-Ancient-Time.png",
+     "url": "https://sgcdnseriesn.xyz/view/1d9762c8-1621-53ff-ab76-ed79a864c1c9.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 7",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Blondie-in-an-Ancient-Time.png",
+     "url": "https://sgcdnseriesn.xyz/view/c99c93e9-2a80-5468-8498-233cdfb29eec.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 8",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Blondie-in-an-Ancient-Time.png",
+     "url": "https://sgcdnseriesn.xyz/view/9e5acc20-8844-5105-b205-da61e9ad84b1.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 9",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Blondie-in-an-Ancient-Time.png",
+     "url": "https://sgcdnseriesn.xyz/view/14e61b50-c5ea-5331-9f0a-5032c5e51b37.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 10",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Blondie-in-an-Ancient-Time.png",
+     "url": "https://sgcdnseriesn.xyz/view/4e8dc0a4-1272-5451-a9cf-8458ab61fa53.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 11",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Blondie-in-an-Ancient-Time.png",
+     "url": "https://sgcdnseriesn.xyz/view/0cdb07f2-73aa-5067-a833-1960a6306134.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 12",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Blondie-in-an-Ancient-Time.png",
+     "url": "https://sgcdnseriesn.xyz/view/d8c93787-5b7f-5362-a0d5-d65438fe199f.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 13",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Blondie-in-an-Ancient-Time.png",
+     "url": "https://sgcdnseriesn.xyz/view/b00133f7-7799-5af6-8ae5-df83e92fbddc.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 14",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Blondie-in-an-Ancient-Time.png",
+     "url": "https://sgcdnseriesn.xyz/view/25c84e62-dee5-5b71-aabc-8ed6f084dbf7.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 15",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Blondie-in-an-Ancient-Time.png",
+     "url": "https://sgcdnseriesn.xyz/view/f7a20c19-253f-5327-8ec2-b02a97cb3af6.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 16",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Blondie-in-an-Ancient-Time.png",
+     "url": "https://sgcdnseriesn.xyz/view/739937f5-6112-5da2-b18c-4282e2db4fef.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 17",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Blondie-in-an-Ancient-Time.png",
+     "url": "https://sgcdnseriesn.xyz/view/7e96b795-3e49-5df7-b1b4-491fffd0b7bb.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 18",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Blondie-in-an-Ancient-Time.png",
+     "url": "https://sgcdnseriesn.xyz/view/9de3b1ac-02be-52ad-9227-0b46334c754b.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 19",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Blondie-in-an-Ancient-Time.png",
+     "url": "https://sgcdnseriesn.xyz/view/32911f65-fa3c-5459-8120-07e4a511fe4f.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 20",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Blondie-in-an-Ancient-Time.png",
+     "url": "https://sgcdnseriesn.xyz/view/d3c2f4d6-ebd3-59b7-856f-68d3354a23c3.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 21",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Blondie-in-an-Ancient-Time.png",
+     "url": "https://sgcdnseriesn.xyz/view/6be47e96-4e2b-5ffe-8eca-0d5657f6be26.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 22",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Blondie-in-an-Ancient-Time.png",
+     "url": "https://sgcdnseriesn.xyz/view/50068a03-5f05-51f5-931d-8180051bb7a8.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    }
+   ]
+  },
+  {
+   "name": "เพื่อน (ไม่) สนิท (2023) Not Friends",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/not-Friends-2024.png",
+   "stations": [
+    {
+     "name": "เพื่อน (ไม่) สนิท (2023) Not Friends",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/not-Friends-2024.png",
+     "url": "https://play.kakjeawplay.xyz/40715b03-1535-479e-84f7-258f0c1027aa/_",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "เพื่อน (ไม่) สนิท (2023) Not Friends",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/not-Friends-2024.png",
+     "url": "https://streamhls.com/view/b9fbefb4-0f3c-52ae-95d5-ecc21f1b5fa6.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    }
+   ]
+  },
+  {
+   "name": "อยากตาย อย่าตาย มรณา คาเฟ่ (2023) Death is All Around",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Death-is-All-Around.jpg",
+   "stations": [
+    {
+     "name": "อยากตาย อย่าตาย มรณา คาเฟ่ (2023) Death is All Around",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Death-is-All-Around.jpg",
+     "url": "https://play.kakjeawplay.xyz/569a827e-9238-40d9-b2b6-e1f922ec4b2f/_",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "อยากตาย อย่าตาย มรณา คาเฟ่ (2023) Death is All Around",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Death-is-All-Around.jpg",
+     "url": "https://streamhls.com/view/a31c75e6-3b0d-59f1-83ea-569a0e180aaa.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    }
+   ]
+  },
+  {
+   "name": "ฟ้าต่ำ แผ่นดินสูง (2013) Boundary",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Boundary.png",
+   "stations": [
+    {
+     "name": "ฟ้าต่ำ แผ่นดินสูง (2013) Boundary",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Boundary.png",
+     "url": "https://play.kakjeawplay.xyz/18398738-b5ef-4086-ba6b-dba38cba7cca/_",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ฟ้าต่ำ แผ่นดินสูง (2013) Boundary",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Boundary.png",
+     "url": "https://streamhls.com/view/f5560716-dbdd-50ff-9ee6-165718fa12a8.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    }
+   ]
+  },
+  {
+   "name": "สายน้ำติดเชื้อ‬ (2013) By the River",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/By-the-River.png",
+   "stations": [
+    {
+     "name": "สายน้ำติดเชื้อ‬ (2013) By the River",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/By-the-River.png",
+     "url": "https://play.kakjeawplay.xyz/a65fd39b-a2d5-461e-9ec6-2d3f56627493/_",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "สายน้ำติดเชื้อ‬ (2013) By the River",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/By-the-River.png",
+     "url": "https://streamhls.com/view/ff312460-0ab7-5923-b5b9-46493e18bd05.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    }
+   ]
+  },
+  {
+   "name": "ดินไร้แดน (2019) Soil Without Land",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Soil-Without-Land.png",
+   "stations": [
+    {
+     "name": "ดินไร้แดน (2019) Soil Without Land",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Soil-Without-Land.png",
+     "url": "https://play.kakjeawplay.xyz/dd3696da-5669-4ebd-baca-7221affec870/_",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ดินไร้แดน (2019) Soil Without Land",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Soil-Without-Land.png",
+     "url": "https://streamhls.com/view/a80b2597-ca58-57a8-bc50-9bda68fc668f.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    }
+   ]
+  },
+  {
+   "name": "นักรบมนตรา: ตำนานแปดดวงจันทร์ (2024) Mantra Warrior: The Legend of The Eight Moons",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/montrawarrir.png",
+   "stations": [
+    {
+     "name": "นักรบมนตรา: ตำนานแปดดวงจันทร์ (2024) Mantra Warrior: The Legend of The Eight Moons",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/montrawarrir.png",
+     "url": "https://play.kakjeawplay.xyz/699c2b24-c30d-4612-891a-30f817bdc3f2/_",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "นักรบมนตรา: ตำนานแปดดวงจันทร์ (2024) Mantra Warrior: The Legend of The Eight Moons",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/montrawarrir.png",
+     "url": "https://streamhls.com/view/5ce1e28c-18c8-5d43-8c08-18f6833dfb02.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    }
+   ]
+  },
+  {
+   "name": "แมนสรวง (2023) ManSuang",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2023/02/ManSuang2024.png",
+   "stations": [
+    {
+     "name": "แมนสรวง (2023) ManSuang",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/02/ManSuang2024.png",
+     "url": "https://play.kakjeawplay.xyz/f8b67d68-adba-4fc9-b8a4-10f477f5a31b/_",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "แมนสรวง (2023) ManSuang",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/02/ManSuang2024.png",
+     "url": "https://streamhls.com/view/8d6d311d-3f87-5024-b738-844d75aaf130.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    }
+   ]
+  },
+  {
+   "name": "คุณตูบสายดาร์ก ปิดเมืองกัด (2023) Darkdog Lockdown",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Darkdog-Lockdown.png",
+   "stations": [
+    {
+     "name": "คุณตูบสายดาร์ก ปิดเมืองกัด (2023) Darkdog Lockdown",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Darkdog-Lockdown.png",
+     "url": "https://play.kakjeawplay.xyz/87481a70-08c8-4659-88e3-fb9fb2a3482c/_",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "คุณตูบสายดาร์ก ปิดเมืองกัด (2023) Darkdog Lockdown",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Darkdog-Lockdown.png",
+     "url": "https://streamhls.com/view/01902353-0345-55bc-a012-f5110e841827.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    }
+   ]
+  },
+  {
+   "name": "มะหมา 4 ขาครับ ภาค 2 (2012) Mid Road Gang 2",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Mid-Road-Gang2.jpg",
+   "stations": [
+    {
+     "name": "มะหมา 4 ขาครับ (2007) Mid Road Gang",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Mid-Road-Gang1.jpg",
+     "url": "https://play.kakjeawplay.xyz/2793c0a8-c1d7-4fdb-8a67-221b9bb4f9be/_",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "มะหมา 4 ขาครับ (2007) Mid Road Gang",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Mid-Road-Gang1.jpg",
+     "url": "https://streamhls.com/view/68d2c3cc-ee10-5513-a556-b6eb97f9bdf6.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "มะหมา 4 ขาครับ ภาค 2 (2012) Mid Road Gang 2",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Mid-Road-Gang2.jpg",
+     "url": "https://play.kakjeawplay.xyz/b5ed11ce-40e9-4f26-9ab2-95adccbb3355/_",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "มะหมา 4 ขาครับ ภาค 2 (2012) Mid Road Gang 2",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Mid-Road-Gang2.jpg",
+     "url": "https://streamhls.com/view/e5eeb9c3-c7ae-5633-9578-bce3b1737bbe.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    }
+   ]
+  },
+  {
+   "name": "มะหมา 4 ขาครับ (2007) Mid Road Gang",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Mid-Road-Gang1.jpg",
+   "stations": [
+    {
+     "name": "มะหมา 4 ขาครับ (2007) Mid Road Gang",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Mid-Road-Gang1.jpg",
+     "url": "https://play.kakjeawplay.xyz/2793c0a8-c1d7-4fdb-8a67-221b9bb4f9be/_",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "มะหมา 4 ขาครับ (2007) Mid Road Gang",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Mid-Road-Gang1.jpg",
+     "url": "https://streamhls.com/view/68d2c3cc-ee10-5513-a556-b6eb97f9bdf6.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "มะหมา 4 ขาครับ ภาค 2 (2012) Mid Road Gang 2",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Mid-Road-Gang2.jpg",
+     "url": "https://play.kakjeawplay.xyz/b5ed11ce-40e9-4f26-9ab2-95adccbb3355/_",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "มะหมา 4 ขาครับ ภาค 2 (2012) Mid Road Gang 2",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Mid-Road-Gang2.jpg",
+     "url": "https://streamhls.com/view/e5eeb9c3-c7ae-5633-9578-bce3b1737bbe.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    }
+   ]
+  },
+  {
+   "name": "หารักด้วยใจเธอ Find Yourself (2023)",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Find-Yourself-2023.png",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Find-Yourself-2023.png",
+     "url": "https://sgcdnseriesn.xyz/view/15d9f958-ab79-5b94-88a9-baad62fe0316.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Find-Yourself-2023.png",
+     "url": "https://sgcdnseriesn.xyz/view/229c43be-366a-5cf2-a451-c0270ba36323.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 3",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Find-Yourself-2023.png",
+     "url": "https://sgcdnseriesn.xyz/view/7b62d616-b0b8-59f7-99bf-989e9638242d.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Find-Yourself-2023.png",
+     "url": "https://sgcdnseriesn.xyz/view/a9d1578b-44c9-5f14-b40c-5bd2d46971e0.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 5",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Find-Yourself-2023.png",
+     "url": "https://sgcdnseriesn.xyz/view/f980d4af-cb4c-5989-8ccb-48f221c585fa.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Find-Yourself-2023.png",
+     "url": "https://sgcdnseriesn.xyz/view/52499ebc-fe0f-524f-9bfd-9efe1271d914.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 7",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Find-Yourself-2023.png",
+     "url": "https://sgcdnseriesn.xyz/view/8010f834-b023-5ebd-a61e-d334b3313659.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 8",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Find-Yourself-2023.png",
+     "url": "https://sgcdnseriesn.xyz/view/2bdad575-5854-5660-8605-e8ff503e85c1.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 9",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Find-Yourself-2023.png",
+     "url": "https://sgcdnseriesn.xyz/view/3ce7a91d-bcb6-5d10-a6f7-d9367bf932f0.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 10",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Find-Yourself-2023.png",
+     "url": "https://sgcdnseriesn.xyz/view/76ea8e6c-2877-5a9b-ba03-df31237db0cc.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 11",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Find-Yourself-2023.png",
+     "url": "https://sgcdnseriesn.xyz/view/f7255a98-e3d1-54b5-9a7b-dfa3ccceed4f.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 12",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Find-Yourself-2023.png",
+     "url": "https://sgcdnseriesn.xyz/view/9af0f38a-5b4d-5c2c-82e7-1193ca3d498e.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 13",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Find-Yourself-2023.png",
+     "url": "https://sgcdnseriesn.xyz/view/751d8c3d-0f25-5c13-9b90-6903646bd0ea.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 14",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Find-Yourself-2023.png",
+     "url": "https://sgcdnseriesn.xyz/view/ed02cb86-10e9-539f-8618-271ccdd7968c.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 15",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Find-Yourself-2023.png",
+     "url": "https://sgcdnseriesn.xyz/view/36491471-bcad-5f77-a86c-1f7cd589eee9.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 16",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Find-Yourself-2023.png",
+     "url": "https://sgcdnseriesn.xyz/view/ae89ace9-fcf1-5d22-a452-2838f40c6753.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Ready, Set, Love เกมชนคนโสด (2024)",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Ready-Set-Love.jpg",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Ready-Set-Love.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/525a5638-2423-52a4-9ed2-03860a2c55b5.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Ready-Set-Love.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/ee4a5b4b-c13d-58c7-9f9a-31e24b9413b9.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 3",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Ready-Set-Love.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/4b741623-bca2-5481-9043-4e779b79012a.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Ready-Set-Love.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/6a591533-46c1-5bf2-bc6c-ecd5577f196e.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 5",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Ready-Set-Love.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/3f4ff879-3d11-5883-90f6-d33c9b09a76a.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Ready-Set-Love.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/1af9d4a4-54de-580f-acee-e83f999de9f5.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Curse Code แช่งชักหักกระดูก (2023)",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/cursecode_poster-2023.jpg",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/cursecode_poster-2023.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/db423671-2a91-5275-ba6e-a0a90ab7afca.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/cursecode_poster-2023.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/36531b6a-3dc5-5db5-9283-05cb92d109f5.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 3",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/cursecode_poster-2023.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/bb4bd029-0090-5bae-bc46-d5dc22948e52.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/cursecode_poster-2023.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/76b3dc01-5338-5574-945d-5d7e33fe7891.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 5",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/cursecode_poster-2023.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/dbe4e564-4fbb-5240-9e27-481a41916415.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/cursecode_poster-2023.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/152e8cfa-5cbb-5c48-a5a7-c4add4c4a7b3.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    }
+   ]
+  },
   {
    "name": "My Undercover Chef มือปราบกระทะรั่ว (2023)",
    "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/My-Undercover-Chef.jpg",
@@ -98,6 +740,155 @@
      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/My-Undercover-Chef.jpg",
      "url": "https://sgcdnseriesn.xyz/view/f58672a9-66b7-5f84-a6fd-332531e73802.m3u8",
      "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 14",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/My-Undercover-Chef.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/f18526d9-109b-58fc-9f28-172a1c8ac059.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 15",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/My-Undercover-Chef.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/ee0b3422-a335-5d5f-bed4-3b338045f750.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 16",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/My-Undercover-Chef.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/379ba8d7-b97e-5670-98ff-c1e697496cfb.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    }
+   ]
+  },
+  {
+   "name": "The Last Breath of Sam Yan (2023)",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/The-Last-Breath-of-Sam-Yan-2023.png",
+   "stations": [
+    {
+     "name": "The Last Breath of Sam Yan (2023)",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/The-Last-Breath-of-Sam-Yan-2023.png",
+     "url": "https://play.kakjeawplay.xyz/04dcb2e6-6ea2-4d22-9557-757536ac014b/_",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "The Last Breath of Sam Yan (2023)",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/The-Last-Breath-of-Sam-Yan-2023.png",
+     "url": "https://streamhls.com/view/33ab8cdd-0371-5d79-9a47-a3a549016d3f.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    }
+   ]
+  },
+  {
+   "name": "สัปเหร่อ (2023) The Undertaker",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/The-Undertaker-2023.jpg",
+   "stations": [
+    {
+     "name": "สัปเหร่อ (2023) The Undertaker",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/The-Undertaker-2023.jpg",
+     "url": "https://play.kakjeawplay.xyz/635cc477-c2b5-4143-9d5d-4f929489f49d/_",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "สัปเหร่อ (2023) The Undertaker",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/The-Undertaker-2023.jpg",
+     "url": "https://streamhls.com/view/168a24c0-2f64-5ee7-80fe-503ccdc2c7ad.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    }
+   ]
+  },
+  {
+   "name": "เกม / ล่า / ตาย (2023) Bad Social",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Bad-Social-2023.jpg",
+   "stations": [
+    {
+     "name": "เกม / ล่า / ตาย (2023) Bad Social",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Bad-Social-2023.jpg",
+     "url": "https://play.kakjeawplay.xyz/294afba8-9025-4bdb-a888-6d0e61f284a7/_",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "เกม / ล่า / ตาย (2023) Bad Social",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Bad-Social-2023.jpg",
+     "url": "https://streamhls.com/view/bc4d2fd6-227e-5415-99e7-fca3973416f6.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    }
+   ]
+  },
+  {
+   "name": "14 อีกครั้ง (2023) I Love You Two Thousand",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/I-Love-You-Two-Thousand-2023.jpg",
+   "stations": [
+    {
+     "name": "14 อีกครั้ง (2023) I Love You Two Thousand",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/I-Love-You-Two-Thousand-2023.jpg",
+     "url": "https://play.kakjeawplay.xyz/55fe9806-0f51-4205-8cd7-56f177e365c6/_",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "14 อีกครั้ง (2023) I Love You Two Thousand",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/I-Love-You-Two-Thousand-2023.jpg",
+     "url": "https://streamhls.com/view/cb379d9d-f6e8-5c91-b1fa-6f9c3bc74984.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    }
+   ]
+  },
+  {
+   "name": "ไทบ้านคึกคัก มนต์รักอบต. Thibaan in Love The Series (2023)",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Thibaan-in-Love-The-Series.png",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Thibaan-in-Love-The-Series.png",
+     "url": "https://sgcdnseriesn.xyz/view/de7f4bc7-9a01-5350-bfa4-d74dc6327600.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Thibaan-in-Love-The-Series.png",
+     "url": "https://sgcdnseriesn.xyz/view/c1bd23cf-9671-5f83-a431-a6d19d2945ed.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 3",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Thibaan-in-Love-The-Series.png",
+     "url": "https://sgcdnseriesn.xyz/view/2e2396e2-675c-598b-9e18-baeb88e976d3.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Thibaan-in-Love-The-Series.png",
+     "url": "https://sgcdnseriesn.xyz/view/f5928824-aed0-5f09-83a6-6694818e96d4.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 5",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Thibaan-in-Love-The-Series.png",
+     "url": "https://sgcdnseriesn.xyz/view/b234255e-682c-5e96-a6fe-45b90743c628.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Thibaan-in-Love-The-Series.png",
+     "url": "https://sgcdnseriesn.xyz/view/4512e762-ecb8-5548-9e65-0db44302caec.m3u8",
+     "referer": "https://www.nung2hdd.com/"
     }
    ]
   },
@@ -128,14 +919,14 @@
     {
      "name": "อีสานตุ๊ดซี่ ภาค 1 (2024) E-Sarn Tootsie Part 1",
      "info": "ตัวเล่นหลัก พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/E-Sarn-Tootsie-Part-2.png",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/E-Sarn-Tootsie-Part-1.png",
      "url": "https://play.kakjeawplay.xyz/1d1e4ab3-07e5-4541-9fbc-2f06437cb27d/_",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "อีสานตุ๊ดซี่ ภาค 1 (2024) E-Sarn Tootsie Part 1",
      "info": "ตัวเล่นสำรอง พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/E-Sarn-Tootsie-Part-2.png",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/E-Sarn-Tootsie-Part-1.png",
      "url": "https://streamhls.com/view/c102931e-719e-5775-97fd-0e1e2b858cb4.m3u8",
      "referer": "https://www.nung2hdd.com/"
     },
@@ -176,167 +967,15 @@
     {
      "name": "อีสานตุ๊ดซี่ ภาค 2 (2024) E-Sarn Tootsie Part 2",
      "info": "ตัวเล่นหลัก พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/E-Sarn-Tootsie-Part-1.png",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/E-Sarn-Tootsie-Part-2.png",
      "url": "https://play.kakjeawplay.xyz/3413417c-3e25-413c-a9a6-03b2c76f99f9/_",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "อีสานตุ๊ดซี่ ภาค 2 (2024) E-Sarn Tootsie Part 2",
      "info": "ตัวเล่นสำรอง พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/E-Sarn-Tootsie-Part-1.png",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/E-Sarn-Tootsie-Part-2.png",
      "url": "https://streamhls.com/view/aec8fbe5-3611-598a-9271-bb83e3694130.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    }
-   ]
-  },
-  {
-   "name": "นางทาสหัวทอง Blondie in an Ancient Time (2024)",
-   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Blondie-in-an-Ancient-Time.png",
-   "stations": [
-    {
-     "name": "ตอนที่ 1",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Blondie-in-an-Ancient-Time.png",
-     "url": "https://sgcdnseriesn.xyz/view/b70199ae-4242-51b3-b044-76e377e63a61.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ตอนที่ 2",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Blondie-in-an-Ancient-Time.png",
-     "url": "https://sgcdnseriesn.xyz/view/50db4d99-c5f7-531d-9554-bc896a74074d.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ตอนที่ 3",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Blondie-in-an-Ancient-Time.png",
-     "url": "https://sgcdnseriesn.xyz/view/0987e635-9d59-5ff0-9cbe-356978af8a1b.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ตอนที่ 4",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Blondie-in-an-Ancient-Time.png",
-     "url": "https://sgcdnseriesn.xyz/view/677a81b5-0349-5a3a-93f0-f58646b0fdf1.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ตอนที่ 5",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Blondie-in-an-Ancient-Time.png",
-     "url": "https://sgcdnseriesn.xyz/view/56bbea6d-856b-54c3-8cd3-adc7985e8637.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ตอนที่ 6",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Blondie-in-an-Ancient-Time.png",
-     "url": "https://sgcdnseriesn.xyz/view/1d9762c8-1621-53ff-ab76-ed79a864c1c9.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ตอนที่ 7",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Blondie-in-an-Ancient-Time.png",
-     "url": "https://sgcdnseriesn.xyz/view/c99c93e9-2a80-5468-8498-233cdfb29eec.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ตอนที่ 8",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Blondie-in-an-Ancient-Time.png",
-     "url": "https://sgcdnseriesn.xyz/view/9e5acc20-8844-5105-b205-da61e9ad84b1.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    }
-   ]
-  },
-  {
-   "name": "หารักด้วยใจเธอ Find Yourself (2023)",
-   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Find-Yourself-2023.png",
-   "stations": [
-    {
-     "name": "ตอนที่ 1",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Find-Yourself-2023.png",
-     "url": "https://sgcdnseriesn.xyz/view/15d9f958-ab79-5b94-88a9-baad62fe0316.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ตอนที่ 2",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Find-Yourself-2023.png",
-     "url": "https://sgcdnseriesn.xyz/view/229c43be-366a-5cf2-a451-c0270ba36323.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ตอนที่ 3",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Find-Yourself-2023.png",
-     "url": "https://sgcdnseriesn.xyz/view/7b62d616-b0b8-59f7-99bf-989e9638242d.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ตอนที่ 4",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Find-Yourself-2023.png",
-     "url": "https://sgcdnseriesn.xyz/view/a9d1578b-44c9-5f14-b40c-5bd2d46971e0.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ตอนที่ 5",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Find-Yourself-2023.png",
-     "url": "https://sgcdnseriesn.xyz/view/f980d4af-cb4c-5989-8ccb-48f221c585fa.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ตอนที่ 6",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Find-Yourself-2023.png",
-     "url": "https://sgcdnseriesn.xyz/view/52499ebc-fe0f-524f-9bfd-9efe1271d914.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ตอนที่ 7",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Find-Yourself-2023.png",
-     "url": "https://sgcdnseriesn.xyz/view/8010f834-b023-5ebd-a61e-d334b3313659.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ตอนที่ 8",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Find-Yourself-2023.png",
-     "url": "https://sgcdnseriesn.xyz/view/2bdad575-5854-5660-8605-e8ff503e85c1.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ตอนที่ 9",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Find-Yourself-2023.png",
-     "url": "https://sgcdnseriesn.xyz/view/3ce7a91d-bcb6-5d10-a6f7-d9367bf932f0.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ตอนที่ 10",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Find-Yourself-2023.png",
-     "url": "https://sgcdnseriesn.xyz/view/76ea8e6c-2877-5a9b-ba03-df31237db0cc.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ตอนที่ 11",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Find-Yourself-2023.png",
-     "url": "https://sgcdnseriesn.xyz/view/f7255a98-e3d1-54b5-9a7b-dfa3ccceed4f.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ตอนที่ 12",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Find-Yourself-2023.png",
-     "url": "https://sgcdnseriesn.xyz/view/9af0f38a-5b4d-5c2c-82e7-1193ca3d498e.m3u8",
      "referer": "https://www.nung2hdd.com/"
     }
    ]
@@ -629,6 +1268,13 @@
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Formalin-Man.png",
      "url": "https://streamhls.com/view/49944577-d29d-5ddb-8725-53e66a8cfc9b.m3u8",
      "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ฟอร์มาลีนแมน รักเธอเท่าฟ้า (2004) Formalin Man",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Formalin-Man.png",
+     "url": "https://streamhls.com/view/49944577-d29d-5ddb-8725-53e66a8cfc9b.m3u8",
+     "referer": "https://www.nung2hdd.com/"
     }
    ]
   },
@@ -639,14 +1285,14 @@
     {
      "name": "4 Kings (2021) อาชีวะ ’90",
      "info": "ตัวเล่นหลัก พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/4-Kings-II-2023.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2022/05/4-Kings-2021.jpg",
      "url": "https://play.kakjeawplay.xyz/5f0a39d3-05fe-4984-a49f-4f47b90c5441/_",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "4 Kings (2021) อาชีวะ ’90",
      "info": "ตัวเล่นสำรอง พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/4-Kings-II-2023.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2022/05/4-Kings-2021.jpg",
      "url": "https://streamhls.com/view/6ca064d6-e187-5f86-ac74-2ada225aace6.m3u8",
      "referer": "https://www.nung2hdd.com/"
     },
@@ -762,54 +1408,6 @@
      "info": "ตัวเล่นสำรอง พากย์ไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/After-Sundown.jpg",
      "url": "https://streamhls.com/view/98d249be-a6ab-53af-bbc4-501edafba85a.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    }
-   ]
-  },
-  {
-   "name": "Curse Code แช่งชักหักกระดูก (2023)",
-   "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/cursecode_poster-2023.jpg",
-   "stations": [
-    {
-     "name": "ตอนที่ 1",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/cursecode_poster-2023.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/db423671-2a91-5275-ba6e-a0a90ab7afca.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ตอนที่ 2",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/cursecode_poster-2023.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/36531b6a-3dc5-5db5-9283-05cb92d109f5.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ตอนที่ 3",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/cursecode_poster-2023.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/bb4bd029-0090-5bae-bc46-d5dc22948e52.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ตอนที่ 4",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/cursecode_poster-2023.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/76b3dc01-5338-5574-945d-5d7e33fe7891.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ตอนที่ 5",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/cursecode_poster-2023.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/dbe4e564-4fbb-5240-9e27-481a41916415.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ตอนที่ 6",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/cursecode_poster-2023.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/152e8cfa-5cbb-5c48-a5a7-c4add4c4a7b3.m3u8",
      "referer": "https://www.nung2hdd.com/"
     }
    ]
@@ -1523,14 +2121,14 @@
     {
      "name": "4 Kings II (2023) 4 คิงส์ 2",
      "info": "ตัวเล่นหลัก พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2022/05/4-Kings-2021.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/4-Kings-II-2023.jpg",
      "url": "https://play.kakjeawplay.xyz/fcdd4e06-938c-454f-940e-32aa15ff0d9b/_",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "4 Kings II (2023) 4 คิงส์ 2",
      "info": "ตัวเล่นสำรอง พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2022/05/4-Kings-2021.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/4-Kings-II-2023.jpg",
      "url": "https://streamhls.com/view/f2f52510-d646-535e-bad6-8a783d902c23.m3u8",
      "referer": "https://www.nung2hdd.com/"
     }
@@ -2085,14 +2683,14 @@
     {
      "name": "My Next Doll (2023) ยัยตุ๊กตาซ้อมรักยกกำลังสอง",
      "info": "ตัวเล่นหลัก พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2020/11/cyVyrXq5dRAtdF06iQhi2vkkyYE.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2020/03/My-Next-Doll-2023.jpg",
      "url": "https://play.kakjeawplay.xyz/f190d0f9-8595-4d6e-870e-8faeac433277/_",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "My Next Doll (2023) ยัยตุ๊กตาซ้อมรักยกกำลังสอง",
      "info": "ตัวเล่นสำรอง พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2020/11/cyVyrXq5dRAtdF06iQhi2vkkyYE.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2020/03/My-Next-Doll-2023.jpg",
      "url": "https://streamhls.com/view/61939f8e-ce97-586e-b5a4-22756548d633.m3u8",
      "referer": "https://www.nung2hdd.com/"
     },
@@ -2133,14 +2731,14 @@
     {
      "name": "My Sexdoll (2020) พร้อมรุก ยัยตุ๊กตาซ้อมรัก",
      "info": "ตัวเล่นหลัก พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2020/03/My-Next-Doll-2023.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2020/11/cyVyrXq5dRAtdF06iQhi2vkkyYE.jpg",
      "url": "https://play.kakjeawplay.xyz/7bf5a3cc-e339-44c9-b12b-584aefa44c0d/_",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "My Sexdoll (2020) พร้อมรุก ยัยตุ๊กตาซ้อมรัก",
      "info": "ตัวเล่นสำรอง พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2020/03/My-Next-Doll-2023.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2020/11/cyVyrXq5dRAtdF06iQhi2vkkyYE.jpg",
      "url": "https://streamhls.com/view/ab75e5f4-3b64-5abd-a7d0-2197fa1cefab.m3u8",
      "referer": "https://www.nung2hdd.com/"
     }
@@ -2171,14 +2769,14 @@
    "image": "https://www.nung2hdd.com/wp-content/uploads/2020/06/ZIEN-LANG-Best-Friends-Forever-2023.jpg",
    "stations": [
     {
-     "name": "ZIEN-LANG Best Friends Forever (2023) เซียนหรั่ง เดอะมูฟวี่ : เสียงไทย",
+     "name": "ZIEN-LANG Best Friends Forever (2023) เซียนหรั่ง เดอะมูฟวี่",
      "info": "ตัวเล่นหลัก พากย์ไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2020/06/ZIEN-LANG-Best-Friends-Forever-2023.jpg",
      "url": "https://play.kakjeawplay.xyz/0b672579-9fed-4818-8e3f-8e9946b8bdb7/_",
      "referer": "https://www.nung2hdd.com/"
     },
     {
-     "name": "ZIEN-LANG Best Friends Forever (2023) เซียนหรั่ง เดอะมูฟวี่ : เสียงไทย",
+     "name": "ZIEN-LANG Best Friends Forever (2023) เซียนหรั่ง เดอะมูฟวี่",
      "info": "ตัวเล่นสำรอง พากย์ไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2020/06/ZIEN-LANG-Best-Friends-Forever-2023.jpg",
      "url": "https://streamhls.com/view/3ed4e9d7-5960-5166-8867-4c38dabf84a3.m3u8",
@@ -2191,14 +2789,14 @@
    "image": "https://www.nung2hdd.com/wp-content/uploads/2023/09/Thunder-Monk-2023.jpg",
    "stations": [
     {
-     "name": "Thunder Monk (2023) อาตมาฟ้าผ่า : เสียงไทย",
+     "name": "Thunder Monk (2023) อาตมาฟ้าผ่า",
      "info": "ตัวเล่นหลัก พากย์ไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/09/Thunder-Monk-2023.jpg",
      "url": "https://play.kakjeawplay.xyz/d1a92c74-51d6-4fe3-a729-f6c0bb62d9ed/_",
      "referer": "https://www.nung2hdd.com/"
     },
     {
-     "name": "Thunder Monk (2023) อาตมาฟ้าผ่า : เสียงไทย",
+     "name": "Thunder Monk (2023) อาตมาฟ้าผ่า",
      "info": "ตัวเล่นสำรอง พากย์ไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/09/Thunder-Monk-2023.jpg",
      "url": "https://streamhls.com/view/deb2c4cd-9e3d-5844-baf5-f3769f7f26ad.m3u8",
@@ -2211,14 +2809,14 @@
    "image": "https://www.nung2hdd.com/wp-content/uploads/2023/09/Kunpan-The-Legend-of-Warlord-2002.jpg",
    "stations": [
     {
-     "name": "Kunpan The Legend of Warlord (2002) ขุนแผน : เสียงไทย",
+     "name": "Kunpan The Legend of Warlord (2002) ขุนแผน",
      "info": "ตัวเล่นหลัก พากย์ไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/09/Kunpan-The-Legend-of-Warlord-2002.jpg",
      "url": "https://play.kakjeawplay.xyz/709c6020-61c8-467d-a121-d8fae846fc83/_",
      "referer": "https://www.nung2hdd.com/"
     },
     {
-     "name": "Kunpan The Legend of Warlord (2002) ขุนแผน : เสียงไทย",
+     "name": "Kunpan The Legend of Warlord (2002) ขุนแผน",
      "info": "ตัวเล่นสำรอง พากย์ไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/09/Kunpan-The-Legend-of-Warlord-2002.jpg",
      "url": "https://streamhls.com/view/2d497e26-1719-551d-a3e0-4e0abd4e2c13.m3u8",
@@ -2313,28 +2911,28 @@
     {
      "name": "Somsri Program B (1993) สมศรี 422 อาร์ โปรแกรม B ปีนี้ 2 ขวบ",
      "info": "ตัวเล่นหลัก พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/Somsri-422-R-1992.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/Somsri-II-1993.jpg",
      "url": "https://play.kakjeawplay.xyz/233cae6e-66e0-4d5d-82f4-6420f5e57e8d/_",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Somsri Program B (1993) สมศรี 422 อาร์ โปรแกรม B ปีนี้ 2 ขวบ",
      "info": "ตัวเล่นหลัก พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/Somsri-422-R-1992.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/Somsri-II-1993.jpg",
      "url": "https://play.kakjeawplay.xyz/233cae6e-66e0-4d5d-82f4-6420f5e57e8d/_",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Somsri Program D (1995) สมศรี 422 R โปรแกรม D ปีนี้มีน้อง",
      "info": "ตัวเล่นหลัก พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/Somsri-422-R-1992.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/Somsri-III-1995.jpg",
      "url": "https://play.kakjeawplay.xyz/da0297ce-4ed4-4a91-9b8c-678eaf192980/_",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Somsri Program D (1995) สมศรี 422 R โปรแกรม D ปีนี้มีน้อง",
      "info": "ตัวเล่นสำรอง พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/Somsri-422-R-1992.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/Somsri-III-1995.jpg",
      "url": "https://streamhls.com/view/26ae473c-8ac9-5c77-a8c1-e5686cced8df.m3u8",
      "referer": "https://www.nung2hdd.com/"
     },
@@ -2361,14 +2959,14 @@
     {
      "name": "Somsri Program B (1993) สมศรี 422 อาร์ โปรแกรม B ปีนี้ 2 ขวบ",
      "info": "ตัวเล่นหลัก พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/Somsri-III-1995.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/Somsri-II-1993.jpg",
      "url": "https://play.kakjeawplay.xyz/233cae6e-66e0-4d5d-82f4-6420f5e57e8d/_",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Somsri Program B (1993) สมศรี 422 อาร์ โปรแกรม B ปีนี้ 2 ขวบ",
      "info": "ตัวเล่นหลัก พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/Somsri-III-1995.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/Somsri-II-1993.jpg",
      "url": "https://play.kakjeawplay.xyz/233cae6e-66e0-4d5d-82f4-6420f5e57e8d/_",
      "referer": "https://www.nung2hdd.com/"
     },
@@ -2389,14 +2987,14 @@
     {
      "name": "Somsri 422 R (1992) สมศรี 422 อาร์",
      "info": "ตัวเล่นหลัก พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/Somsri-III-1995.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/Somsri-422-R-1992.jpg",
      "url": "https://play.kakjeawplay.xyz/024cde7e-8cbc-4c01-b274-96fb1085ddc2/_",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Somsri 422 R (1992) สมศรี 422 อาร์",
      "info": "ตัวเล่นหลัก พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/Somsri-III-1995.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/Somsri-422-R-1992.jpg",
      "url": "https://play.kakjeawplay.xyz/024cde7e-8cbc-4c01-b274-96fb1085ddc2/_",
      "referer": "https://www.nung2hdd.com/"
     }
@@ -2423,28 +3021,28 @@
     {
      "name": "Somsri Program D (1995) สมศรี 422 R โปรแกรม D ปีนี้มีน้อง",
      "info": "ตัวเล่นหลัก พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/Somsri-II-1993.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/Somsri-III-1995.jpg",
      "url": "https://play.kakjeawplay.xyz/da0297ce-4ed4-4a91-9b8c-678eaf192980/_",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Somsri Program D (1995) สมศรี 422 R โปรแกรม D ปีนี้มีน้อง",
      "info": "ตัวเล่นสำรอง พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/Somsri-II-1993.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/Somsri-III-1995.jpg",
      "url": "https://streamhls.com/view/26ae473c-8ac9-5c77-a8c1-e5686cced8df.m3u8",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Somsri 422 R (1992) สมศรี 422 อาร์",
      "info": "ตัวเล่นหลัก พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/Somsri-II-1993.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/Somsri-422-R-1992.jpg",
      "url": "https://play.kakjeawplay.xyz/024cde7e-8cbc-4c01-b274-96fb1085ddc2/_",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Somsri 422 R (1992) สมศรี 422 อาร์",
      "info": "ตัวเล่นหลัก พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/Somsri-II-1993.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/Somsri-422-R-1992.jpg",
      "url": "https://play.kakjeawplay.xyz/024cde7e-8cbc-4c01-b274-96fb1085ddc2/_",
      "referer": "https://www.nung2hdd.com/"
     }
@@ -2497,28 +3095,28 @@
     {
      "name": "Khun Phan (2016) ขุนพันธ์",
      "info": "ตัวเล่นหลัก พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/08/Khun-Phan2023.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/08/Khun-Phan2016.jpg",
      "url": "https://play.kakjeawplay.xyz/de307616-a14f-447c-a814-e832298a1fd0/_",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Khun Phan (2016) ขุนพันธ์",
      "info": "ตัวเล่นสำรอง พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/08/Khun-Phan2023.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/08/Khun-Phan2016.jpg",
      "url": "https://streamhls.com/view/08e73a10-90aa-5053-b739-d01e2b298577.m3u8",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Khun Phan 2 (2018) ขุนพันธ์ 2",
      "info": "ตัวเล่นหลัก พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/08/Khun-Phan2023.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/08/Khun-Phan2018.jpg",
      "url": "https://play.kakjeawplay.xyz/f07ada5c-99d3-429a-b2c1-da9f9c76cd2d/_",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Khun Phan 2 (2018) ขุนพันธ์ 2",
      "info": "ตัวเล่นสำรอง พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/08/Khun-Phan2023.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/08/Khun-Phan2018.jpg",
      "url": "https://streamhls.com/view/68d5897c-a948-516d-aacf-b9277851fc92.m3u8",
      "referer": "https://www.nung2hdd.com/"
     },
@@ -2545,14 +3143,14 @@
     {
      "name": "Khun Phan (2016) ขุนพันธ์",
      "info": "ตัวเล่นหลัก พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/08/Khun-Phan2018.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/08/Khun-Phan2016.jpg",
      "url": "https://play.kakjeawplay.xyz/de307616-a14f-447c-a814-e832298a1fd0/_",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Khun Phan (2016) ขุนพันธ์",
      "info": "ตัวเล่นสำรอง พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/08/Khun-Phan2018.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/08/Khun-Phan2016.jpg",
      "url": "https://streamhls.com/view/08e73a10-90aa-5053-b739-d01e2b298577.m3u8",
      "referer": "https://www.nung2hdd.com/"
     },
@@ -2573,14 +3171,14 @@
     {
      "name": "Khun Phan 3 (2023) ขุนพันธ์ 3",
      "info": "ตัวเล่นหลัก พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/08/Khun-Phan2018.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/08/Khun-Phan2023.jpg",
      "url": "https://play.kakjeawplay.xyz/c0c81a66-fa66-45f6-b2d4-7101ff2bb89f/_",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Khun Phan 3 (2023) ขุนพันธ์ 3",
      "info": "ตัวเล่นสำรอง พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/08/Khun-Phan2018.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/08/Khun-Phan2023.jpg",
      "url": "https://streamhls.com/view/6c600dbc-3087-5618-af6b-df0db266d79a.m3u8",
      "referer": "https://www.nung2hdd.com/"
     }
@@ -2607,28 +3205,28 @@
     {
      "name": "Khun Phan 2 (2018) ขุนพันธ์ 2",
      "info": "ตัวเล่นหลัก พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/08/Khun-Phan2016.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/08/Khun-Phan2018.jpg",
      "url": "https://play.kakjeawplay.xyz/f07ada5c-99d3-429a-b2c1-da9f9c76cd2d/_",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Khun Phan 2 (2018) ขุนพันธ์ 2",
      "info": "ตัวเล่นสำรอง พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/08/Khun-Phan2016.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/08/Khun-Phan2018.jpg",
      "url": "https://streamhls.com/view/68d5897c-a948-516d-aacf-b9277851fc92.m3u8",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Khun Phan 3 (2023) ขุนพันธ์ 3",
      "info": "ตัวเล่นหลัก พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/08/Khun-Phan2016.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/08/Khun-Phan2023.jpg",
      "url": "https://play.kakjeawplay.xyz/c0c81a66-fa66-45f6-b2d4-7101ff2bb89f/_",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Khun Phan 3 (2023) ขุนพันธ์ 3",
      "info": "ตัวเล่นสำรอง พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/08/Khun-Phan2016.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/08/Khun-Phan2023.jpg",
      "url": "https://streamhls.com/view/6c600dbc-3087-5618-af6b-df0db266d79a.m3u8",
      "referer": "https://www.nung2hdd.com/"
     }
@@ -2721,14 +3319,14 @@
     {
      "name": "Pook Payon (2023) ปลุกพยนต์",
      "info": "ตัวเล่นหลัก พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/07/Hoon-Payon-2023.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/07/Pook-Payon-2023.jpg",
      "url": "https://play.kakjeawplay.xyz/354a6397-f375-4c63-a2a0-687e11cd06eb/_",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Pook Payon (2023) ปลุกพยนต์",
      "info": "ตัวเล่นสำรอง พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/07/Hoon-Payon-2023.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/07/Pook-Payon-2023.jpg",
      "url": "https://streamhls.com/view/3d81bc39-2010-5a6e-8007-b7e20c5ff9bf.m3u8",
      "referer": "https://www.nung2hdd.com/"
     },
@@ -2769,14 +3367,14 @@
     {
      "name": "Hoon Payon (2023) หุ่นพยนต์",
      "info": "ตัวเล่นหลัก พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/07/Pook-Payon-2023.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/07/Hoon-Payon-2023.jpg",
      "url": "https://play.kakjeawplay.xyz/13273ccc-341f-4d59-880f-9bfa67213f4a/_",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Hoon Payon (2023) หุ่นพยนต์",
      "info": "ตัวเล่นสำรอง พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/07/Pook-Payon-2023.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/07/Hoon-Payon-2023.jpg",
      "url": "https://streamhls.com/view/585216f4-50ca-5a4a-9700-994f9e505b92.m3u8",
      "referer": "https://www.nung2hdd.com/"
     }
@@ -2829,14 +3427,14 @@
     {
      "name": "Inhuman Kiss (2019) แสงกระสือ",
      "info": "ตัวเล่นหลัก พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/06/Inhuman-Kiss-The-Last-Breath2022.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2019/06/Inhuman-Kiss-2019.jpg",
      "url": "https://play.kakjeawplay.xyz/6ea26eac-ea82-4a75-8548-5767fc687f67/_",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Inhuman Kiss (2019) แสงกระสือ",
      "info": "ตัวเล่นสำรอง พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/06/Inhuman-Kiss-The-Last-Breath2022.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2019/06/Inhuman-Kiss-2019.jpg",
      "url": "https://streamhls.com/view/fa1ee540-02be-5330-92cb-afc07e70211c.m3u8",
      "referer": "https://www.nung2hdd.com/"
     },
@@ -2877,14 +3475,14 @@
     {
      "name": "Inhuman Kiss: The Last Breath (2023) แสงกระสือ 2",
      "info": "ตัวเล่นหลัก พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2019/06/Inhuman-Kiss-2019.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/06/Inhuman-Kiss-The-Last-Breath2022.jpg",
      "url": "https://play.kakjeawplay.xyz/7b368524-d18f-4c4f-95dd-7ce3866b59ea/_",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Inhuman Kiss: The Last Breath (2023) แสงกระสือ 2",
      "info": "ตัวเล่นสำรอง พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2019/06/Inhuman-Kiss-2019.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/06/Inhuman-Kiss-The-Last-Breath2022.jpg",
      "url": "https://streamhls.com/view/6087e85d-e98d-5163-a6b8-8a478d97631f.m3u8",
      "referer": "https://www.nung2hdd.com/"
     }
@@ -2917,84 +3515,84 @@
     {
      "name": "Hor Taew Tak 5 (2015) หอแต๋วแตก แหกนะคะ",
      "info": "ตัวเล่นหลัก พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Oh-My-Ghost-The-Fierce-Escape-from-Covid-19-2021.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2015.jpg",
      "url": "https://play.kakjeawplay.xyz/87bc2f22-6cfa-4b27-8e8e-a42039512330/_",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Hor Taew Tak 5 (2015) หอแต๋วแตก แหกนะคะ",
      "info": "ตัวเล่นสำรอง พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Oh-My-Ghost-The-Fierce-Escape-from-Covid-19-2021.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2015.jpg",
      "url": "https://streamhls.com/view/0b2598d3-a0a1-5219-9ed8-bb0e0fde6b9d.m3u8",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Hor Taew Tak (2007) หอแต๋วแตก",
      "info": "ตัวเล่นหลัก พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Oh-My-Ghost-The-Fierce-Escape-from-Covid-19-2021.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2007.jpg",
      "url": "https://play.kakjeawplay.xyz/2c833cc6-4aac-4b29-bcb2-9ccdf9a8c880/_",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Hor Taew Tak (2007) หอแต๋วแตก",
      "info": "ตัวเล่นสำรอง พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Oh-My-Ghost-The-Fierce-Escape-from-Covid-19-2021.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2007.jpg",
      "url": "https://streamhls.com/view/3c33e324-df68-52db-a4dd-19e40286a542.m3u8",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Hor Taew Tak 3 (2011) หอแต๋วแตก ภาค 3",
      "info": "ตัวเล่นหลัก พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Oh-My-Ghost-The-Fierce-Escape-from-Covid-19-2021.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2011.jpg",
      "url": "https://play.kakjeawplay.xyz/e26d64e4-45e3-4916-97bd-5051e0f125aa/_",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Hor Taew Tak 3 (2011) หอแต๋วแตก ภาค 3",
      "info": "ตัวเล่นสำรอง พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Oh-My-Ghost-The-Fierce-Escape-from-Covid-19-2021.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2011.jpg",
      "url": "https://streamhls.com/view/c2ee17ab-8f20-55bd-9c9e-ae090cdd1b59.m3u8",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Hor Taew Tak 2 (2009) หอแต๋วแตก แหกกระเจิง",
      "info": "ตัวเล่นหลัก พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Oh-My-Ghost-The-Fierce-Escape-from-Covid-19-2021.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2009.jpg",
      "url": "https://play.kakjeawplay.xyz/0eb365d0-f7fe-487f-9041-b54b97058704/_",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Hor Taew Tak 2 (2009) หอแต๋วแตก แหกกระเจิง",
      "info": "ตัวเล่นสำรอง พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Oh-My-Ghost-The-Fierce-Escape-from-Covid-19-2021.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2009.jpg",
      "url": "https://streamhls.com/view/bef49d90-78fb-5774-bc01-8763e6c042e0.m3u8",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Hor Taew Tak 4 (2012) หอแต๋วแตก ภาค 4",
      "info": "ตัวเล่นหลัก พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Oh-My-Ghost-The-Fierce-Escape-from-Covid-19-2021.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2012.jpg",
      "url": "https://play.kakjeawplay.xyz/665de8ab-4e75-47e4-83ab-bb6f5fdb490a/_",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Hor Taew Tak 4 (2012) หอแต๋วแตก ภาค 4",
      "info": "ตัวเล่นสำรอง พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Oh-My-Ghost-The-Fierce-Escape-from-Covid-19-2021.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2012.jpg",
      "url": "https://streamhls.com/view/4dbc88ca-6e52-54d8-9e7d-0d5ab81779c0.m3u8",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Hor Taew Tak 6 (2018) หอแต๋วแตก 6 แหกต่อไม่รอแล้วนะ",
      "info": "ตัวเล่นหลัก พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Oh-My-Ghost-The-Fierce-Escape-from-Covid-19-2021.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2018.jpg",
      "url": "https://play.kakjeawplay.xyz/e4e93058-3daa-4f2c-9cd3-6552befa478c/_",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Hor Taew Tak 6 (2018) หอแต๋วแตก 6 แหกต่อไม่รอแล้วนะ",
      "info": "ตัวเล่นสำรอง พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Oh-My-Ghost-The-Fierce-Escape-from-Covid-19-2021.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2018.jpg",
      "url": "https://streamhls.com/view/bb659a7f-ce9e-50d2-a262-387a3db2c516.m3u8",
      "referer": "https://www.nung2hdd.com/"
     },
@@ -3041,70 +3639,70 @@
     {
      "name": "Hor Taew Tak 5 (2015) หอแต๋วแตก แหกนะคะ",
      "info": "ตัวเล่นหลัก พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2018.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2015.jpg",
      "url": "https://play.kakjeawplay.xyz/87bc2f22-6cfa-4b27-8e8e-a42039512330/_",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Hor Taew Tak 5 (2015) หอแต๋วแตก แหกนะคะ",
      "info": "ตัวเล่นสำรอง พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2018.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2015.jpg",
      "url": "https://streamhls.com/view/0b2598d3-a0a1-5219-9ed8-bb0e0fde6b9d.m3u8",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Hor Taew Tak (2007) หอแต๋วแตก",
      "info": "ตัวเล่นหลัก พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2018.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2007.jpg",
      "url": "https://play.kakjeawplay.xyz/2c833cc6-4aac-4b29-bcb2-9ccdf9a8c880/_",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Hor Taew Tak (2007) หอแต๋วแตก",
      "info": "ตัวเล่นสำรอง พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2018.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2007.jpg",
      "url": "https://streamhls.com/view/3c33e324-df68-52db-a4dd-19e40286a542.m3u8",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Hor Taew Tak 3 (2011) หอแต๋วแตก ภาค 3",
      "info": "ตัวเล่นหลัก พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2018.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2011.jpg",
      "url": "https://play.kakjeawplay.xyz/e26d64e4-45e3-4916-97bd-5051e0f125aa/_",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Hor Taew Tak 3 (2011) หอแต๋วแตก ภาค 3",
      "info": "ตัวเล่นสำรอง พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2018.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2011.jpg",
      "url": "https://streamhls.com/view/c2ee17ab-8f20-55bd-9c9e-ae090cdd1b59.m3u8",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Hor Taew Tak 2 (2009) หอแต๋วแตก แหกกระเจิง",
      "info": "ตัวเล่นหลัก พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2018.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2009.jpg",
      "url": "https://play.kakjeawplay.xyz/0eb365d0-f7fe-487f-9041-b54b97058704/_",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Hor Taew Tak 2 (2009) หอแต๋วแตก แหกกระเจิง",
      "info": "ตัวเล่นสำรอง พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2018.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2009.jpg",
      "url": "https://streamhls.com/view/bef49d90-78fb-5774-bc01-8763e6c042e0.m3u8",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Hor Taew Tak 4 (2012) หอแต๋วแตก ภาค 4",
      "info": "ตัวเล่นหลัก พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2018.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2012.jpg",
      "url": "https://play.kakjeawplay.xyz/665de8ab-4e75-47e4-83ab-bb6f5fdb490a/_",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Hor Taew Tak 4 (2012) หอแต๋วแตก ภาค 4",
      "info": "ตัวเล่นสำรอง พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2018.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2012.jpg",
      "url": "https://streamhls.com/view/4dbc88ca-6e52-54d8-9e7d-0d5ab81779c0.m3u8",
      "referer": "https://www.nung2hdd.com/"
     },
@@ -3125,14 +3723,14 @@
     {
      "name": "Hor Taew Tak 7 (2021) หอแต๋วแตก 7 แหกโควิดปังปุริเย่",
      "info": "ตัวเล่นหลัก พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2018.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Oh-My-Ghost-The-Fierce-Escape-from-Covid-19-2021.jpg",
      "url": "https://play.kakjeawplay.xyz/ea52c40f-88c7-4da1-8c7e-d4bb714dda81/_",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Hor Taew Tak 7 (2021) หอแต๋วแตก 7 แหกโควิดปังปุริเย่",
      "info": "ตัวเล่นสำรอง พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2018.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Oh-My-Ghost-The-Fierce-Escape-from-Covid-19-2021.jpg",
      "url": "https://streamhls.com/view/1723bd97-8cfc-5c17-8c1b-c3bca39c60dd.m3u8",
      "referer": "https://www.nung2hdd.com/"
     }
@@ -3145,56 +3743,56 @@
     {
      "name": "Hor Taew Tak 5 (2015) หอแต๋วแตก แหกนะคะ",
      "info": "ตัวเล่นหลัก พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2012.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2015.jpg",
      "url": "https://play.kakjeawplay.xyz/87bc2f22-6cfa-4b27-8e8e-a42039512330/_",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Hor Taew Tak 5 (2015) หอแต๋วแตก แหกนะคะ",
      "info": "ตัวเล่นสำรอง พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2012.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2015.jpg",
      "url": "https://streamhls.com/view/0b2598d3-a0a1-5219-9ed8-bb0e0fde6b9d.m3u8",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Hor Taew Tak (2007) หอแต๋วแตก",
      "info": "ตัวเล่นหลัก พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2012.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2007.jpg",
      "url": "https://play.kakjeawplay.xyz/2c833cc6-4aac-4b29-bcb2-9ccdf9a8c880/_",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Hor Taew Tak (2007) หอแต๋วแตก",
      "info": "ตัวเล่นสำรอง พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2012.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2007.jpg",
      "url": "https://streamhls.com/view/3c33e324-df68-52db-a4dd-19e40286a542.m3u8",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Hor Taew Tak 3 (2011) หอแต๋วแตก ภาค 3",
      "info": "ตัวเล่นหลัก พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2012.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2011.jpg",
      "url": "https://play.kakjeawplay.xyz/e26d64e4-45e3-4916-97bd-5051e0f125aa/_",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Hor Taew Tak 3 (2011) หอแต๋วแตก ภาค 3",
      "info": "ตัวเล่นสำรอง พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2012.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2011.jpg",
      "url": "https://streamhls.com/view/c2ee17ab-8f20-55bd-9c9e-ae090cdd1b59.m3u8",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Hor Taew Tak 2 (2009) หอแต๋วแตก แหกกระเจิง",
      "info": "ตัวเล่นหลัก พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2012.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2009.jpg",
      "url": "https://play.kakjeawplay.xyz/0eb365d0-f7fe-487f-9041-b54b97058704/_",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Hor Taew Tak 2 (2009) หอแต๋วแตก แหกกระเจิง",
      "info": "ตัวเล่นสำรอง พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2012.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2009.jpg",
      "url": "https://streamhls.com/view/bef49d90-78fb-5774-bc01-8763e6c042e0.m3u8",
      "referer": "https://www.nung2hdd.com/"
     },
@@ -3215,28 +3813,28 @@
     {
      "name": "Hor Taew Tak 6 (2018) หอแต๋วแตก 6 แหกต่อไม่รอแล้วนะ",
      "info": "ตัวเล่นหลัก พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2012.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2018.jpg",
      "url": "https://play.kakjeawplay.xyz/e4e93058-3daa-4f2c-9cd3-6552befa478c/_",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Hor Taew Tak 6 (2018) หอแต๋วแตก 6 แหกต่อไม่รอแล้วนะ",
      "info": "ตัวเล่นสำรอง พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2012.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2018.jpg",
      "url": "https://streamhls.com/view/bb659a7f-ce9e-50d2-a262-387a3db2c516.m3u8",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Hor Taew Tak 7 (2021) หอแต๋วแตก 7 แหกโควิดปังปุริเย่",
      "info": "ตัวเล่นหลัก พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2012.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Oh-My-Ghost-The-Fierce-Escape-from-Covid-19-2021.jpg",
      "url": "https://play.kakjeawplay.xyz/ea52c40f-88c7-4da1-8c7e-d4bb714dda81/_",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Hor Taew Tak 7 (2021) หอแต๋วแตก 7 แหกโควิดปังปุริเย่",
      "info": "ตัวเล่นสำรอง พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2012.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Oh-My-Ghost-The-Fierce-Escape-from-Covid-19-2021.jpg",
      "url": "https://streamhls.com/view/1723bd97-8cfc-5c17-8c1b-c3bca39c60dd.m3u8",
      "referer": "https://www.nung2hdd.com/"
     }
@@ -3249,42 +3847,42 @@
     {
      "name": "Hor Taew Tak 5 (2015) หอแต๋วแตก แหกนะคะ",
      "info": "ตัวเล่นหลัก พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2009.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2015.jpg",
      "url": "https://play.kakjeawplay.xyz/87bc2f22-6cfa-4b27-8e8e-a42039512330/_",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Hor Taew Tak 5 (2015) หอแต๋วแตก แหกนะคะ",
      "info": "ตัวเล่นสำรอง พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2009.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2015.jpg",
      "url": "https://streamhls.com/view/0b2598d3-a0a1-5219-9ed8-bb0e0fde6b9d.m3u8",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Hor Taew Tak (2007) หอแต๋วแตก",
      "info": "ตัวเล่นหลัก พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2009.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2007.jpg",
      "url": "https://play.kakjeawplay.xyz/2c833cc6-4aac-4b29-bcb2-9ccdf9a8c880/_",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Hor Taew Tak (2007) หอแต๋วแตก",
      "info": "ตัวเล่นสำรอง พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2009.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2007.jpg",
      "url": "https://streamhls.com/view/3c33e324-df68-52db-a4dd-19e40286a542.m3u8",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Hor Taew Tak 3 (2011) หอแต๋วแตก ภาค 3",
      "info": "ตัวเล่นหลัก พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2009.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2011.jpg",
      "url": "https://play.kakjeawplay.xyz/e26d64e4-45e3-4916-97bd-5051e0f125aa/_",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Hor Taew Tak 3 (2011) หอแต๋วแตก ภาค 3",
      "info": "ตัวเล่นสำรอง พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2009.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2011.jpg",
      "url": "https://streamhls.com/view/c2ee17ab-8f20-55bd-9c9e-ae090cdd1b59.m3u8",
      "referer": "https://www.nung2hdd.com/"
     },
@@ -3305,42 +3903,42 @@
     {
      "name": "Hor Taew Tak 4 (2012) หอแต๋วแตก ภาค 4",
      "info": "ตัวเล่นหลัก พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2009.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2012.jpg",
      "url": "https://play.kakjeawplay.xyz/665de8ab-4e75-47e4-83ab-bb6f5fdb490a/_",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Hor Taew Tak 4 (2012) หอแต๋วแตก ภาค 4",
      "info": "ตัวเล่นสำรอง พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2009.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2012.jpg",
      "url": "https://streamhls.com/view/4dbc88ca-6e52-54d8-9e7d-0d5ab81779c0.m3u8",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Hor Taew Tak 6 (2018) หอแต๋วแตก 6 แหกต่อไม่รอแล้วนะ",
      "info": "ตัวเล่นหลัก พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2009.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2018.jpg",
      "url": "https://play.kakjeawplay.xyz/e4e93058-3daa-4f2c-9cd3-6552befa478c/_",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Hor Taew Tak 6 (2018) หอแต๋วแตก 6 แหกต่อไม่รอแล้วนะ",
      "info": "ตัวเล่นสำรอง พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2009.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2018.jpg",
      "url": "https://streamhls.com/view/bb659a7f-ce9e-50d2-a262-387a3db2c516.m3u8",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Hor Taew Tak 7 (2021) หอแต๋วแตก 7 แหกโควิดปังปุริเย่",
      "info": "ตัวเล่นหลัก พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2009.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Oh-My-Ghost-The-Fierce-Escape-from-Covid-19-2021.jpg",
      "url": "https://play.kakjeawplay.xyz/ea52c40f-88c7-4da1-8c7e-d4bb714dda81/_",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Hor Taew Tak 7 (2021) หอแต๋วแตก 7 แหกโควิดปังปุริเย่",
      "info": "ตัวเล่นสำรอง พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2009.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Oh-My-Ghost-The-Fierce-Escape-from-Covid-19-2021.jpg",
      "url": "https://streamhls.com/view/1723bd97-8cfc-5c17-8c1b-c3bca39c60dd.m3u8",
      "referer": "https://www.nung2hdd.com/"
     }
@@ -3353,28 +3951,28 @@
     {
      "name": "Hor Taew Tak 5 (2015) หอแต๋วแตก แหกนะคะ",
      "info": "ตัวเล่นหลัก พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2011.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2015.jpg",
      "url": "https://play.kakjeawplay.xyz/87bc2f22-6cfa-4b27-8e8e-a42039512330/_",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Hor Taew Tak 5 (2015) หอแต๋วแตก แหกนะคะ",
      "info": "ตัวเล่นสำรอง พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2011.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2015.jpg",
      "url": "https://streamhls.com/view/0b2598d3-a0a1-5219-9ed8-bb0e0fde6b9d.m3u8",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Hor Taew Tak (2007) หอแต๋วแตก",
      "info": "ตัวเล่นหลัก พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2011.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2007.jpg",
      "url": "https://play.kakjeawplay.xyz/2c833cc6-4aac-4b29-bcb2-9ccdf9a8c880/_",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Hor Taew Tak (2007) หอแต๋วแตก",
      "info": "ตัวเล่นสำรอง พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2011.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2007.jpg",
      "url": "https://streamhls.com/view/3c33e324-df68-52db-a4dd-19e40286a542.m3u8",
      "referer": "https://www.nung2hdd.com/"
     },
@@ -3395,56 +3993,56 @@
     {
      "name": "Hor Taew Tak 2 (2009) หอแต๋วแตก แหกกระเจิง",
      "info": "ตัวเล่นหลัก พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2011.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2009.jpg",
      "url": "https://play.kakjeawplay.xyz/0eb365d0-f7fe-487f-9041-b54b97058704/_",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Hor Taew Tak 2 (2009) หอแต๋วแตก แหกกระเจิง",
      "info": "ตัวเล่นสำรอง พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2011.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2009.jpg",
      "url": "https://streamhls.com/view/bef49d90-78fb-5774-bc01-8763e6c042e0.m3u8",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Hor Taew Tak 4 (2012) หอแต๋วแตก ภาค 4",
      "info": "ตัวเล่นหลัก พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2011.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2012.jpg",
      "url": "https://play.kakjeawplay.xyz/665de8ab-4e75-47e4-83ab-bb6f5fdb490a/_",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Hor Taew Tak 4 (2012) หอแต๋วแตก ภาค 4",
      "info": "ตัวเล่นสำรอง พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2011.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2012.jpg",
      "url": "https://streamhls.com/view/4dbc88ca-6e52-54d8-9e7d-0d5ab81779c0.m3u8",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Hor Taew Tak 6 (2018) หอแต๋วแตก 6 แหกต่อไม่รอแล้วนะ",
      "info": "ตัวเล่นหลัก พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2011.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2018.jpg",
      "url": "https://play.kakjeawplay.xyz/e4e93058-3daa-4f2c-9cd3-6552befa478c/_",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Hor Taew Tak 6 (2018) หอแต๋วแตก 6 แหกต่อไม่รอแล้วนะ",
      "info": "ตัวเล่นสำรอง พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2011.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2018.jpg",
      "url": "https://streamhls.com/view/bb659a7f-ce9e-50d2-a262-387a3db2c516.m3u8",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Hor Taew Tak 7 (2021) หอแต๋วแตก 7 แหกโควิดปังปุริเย่",
      "info": "ตัวเล่นหลัก พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2011.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Oh-My-Ghost-The-Fierce-Escape-from-Covid-19-2021.jpg",
      "url": "https://play.kakjeawplay.xyz/ea52c40f-88c7-4da1-8c7e-d4bb714dda81/_",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Hor Taew Tak 7 (2021) หอแต๋วแตก 7 แหกโควิดปังปุริเย่",
      "info": "ตัวเล่นสำรอง พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2011.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Oh-My-Ghost-The-Fierce-Escape-from-Covid-19-2021.jpg",
      "url": "https://streamhls.com/view/1723bd97-8cfc-5c17-8c1b-c3bca39c60dd.m3u8",
      "referer": "https://www.nung2hdd.com/"
     }
@@ -3497,14 +4095,14 @@
     {
      "name": "Hor Taew Tak 5 (2015) หอแต๋วแตก แหกนะคะ",
      "info": "ตัวเล่นหลัก พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2007.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2015.jpg",
      "url": "https://play.kakjeawplay.xyz/87bc2f22-6cfa-4b27-8e8e-a42039512330/_",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Hor Taew Tak 5 (2015) หอแต๋วแตก แหกนะคะ",
      "info": "ตัวเล่นสำรอง พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2007.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2015.jpg",
      "url": "https://streamhls.com/view/0b2598d3-a0a1-5219-9ed8-bb0e0fde6b9d.m3u8",
      "referer": "https://www.nung2hdd.com/"
     },
@@ -3525,70 +4123,70 @@
     {
      "name": "Hor Taew Tak 3 (2011) หอแต๋วแตก ภาค 3",
      "info": "ตัวเล่นหลัก พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2007.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2011.jpg",
      "url": "https://play.kakjeawplay.xyz/e26d64e4-45e3-4916-97bd-5051e0f125aa/_",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Hor Taew Tak 3 (2011) หอแต๋วแตก ภาค 3",
      "info": "ตัวเล่นสำรอง พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2007.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2011.jpg",
      "url": "https://streamhls.com/view/c2ee17ab-8f20-55bd-9c9e-ae090cdd1b59.m3u8",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Hor Taew Tak 2 (2009) หอแต๋วแตก แหกกระเจิง",
      "info": "ตัวเล่นหลัก พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2007.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2009.jpg",
      "url": "https://play.kakjeawplay.xyz/0eb365d0-f7fe-487f-9041-b54b97058704/_",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Hor Taew Tak 2 (2009) หอแต๋วแตก แหกกระเจิง",
      "info": "ตัวเล่นสำรอง พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2007.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2009.jpg",
      "url": "https://streamhls.com/view/bef49d90-78fb-5774-bc01-8763e6c042e0.m3u8",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Hor Taew Tak 4 (2012) หอแต๋วแตก ภาค 4",
      "info": "ตัวเล่นหลัก พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2007.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2012.jpg",
      "url": "https://play.kakjeawplay.xyz/665de8ab-4e75-47e4-83ab-bb6f5fdb490a/_",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Hor Taew Tak 4 (2012) หอแต๋วแตก ภาค 4",
      "info": "ตัวเล่นสำรอง พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2007.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2012.jpg",
      "url": "https://streamhls.com/view/4dbc88ca-6e52-54d8-9e7d-0d5ab81779c0.m3u8",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Hor Taew Tak 6 (2018) หอแต๋วแตก 6 แหกต่อไม่รอแล้วนะ",
      "info": "ตัวเล่นหลัก พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2007.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2018.jpg",
      "url": "https://play.kakjeawplay.xyz/e4e93058-3daa-4f2c-9cd3-6552befa478c/_",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Hor Taew Tak 6 (2018) หอแต๋วแตก 6 แหกต่อไม่รอแล้วนะ",
      "info": "ตัวเล่นสำรอง พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2007.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2018.jpg",
      "url": "https://streamhls.com/view/bb659a7f-ce9e-50d2-a262-387a3db2c516.m3u8",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Hor Taew Tak 7 (2021) หอแต๋วแตก 7 แหกโควิดปังปุริเย่",
      "info": "ตัวเล่นหลัก พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2007.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Oh-My-Ghost-The-Fierce-Escape-from-Covid-19-2021.jpg",
      "url": "https://play.kakjeawplay.xyz/ea52c40f-88c7-4da1-8c7e-d4bb714dda81/_",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Hor Taew Tak 7 (2021) หอแต๋วแตก 7 แหกโควิดปังปุริเย่",
      "info": "ตัวเล่นสำรอง พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2007.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Oh-My-Ghost-The-Fierce-Escape-from-Covid-19-2021.jpg",
      "url": "https://streamhls.com/view/1723bd97-8cfc-5c17-8c1b-c3bca39c60dd.m3u8",
      "referer": "https://www.nung2hdd.com/"
     }
@@ -3615,84 +4213,84 @@
     {
      "name": "Hor Taew Tak (2007) หอแต๋วแตก",
      "info": "ตัวเล่นหลัก พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2015.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2007.jpg",
      "url": "https://play.kakjeawplay.xyz/2c833cc6-4aac-4b29-bcb2-9ccdf9a8c880/_",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Hor Taew Tak (2007) หอแต๋วแตก",
      "info": "ตัวเล่นสำรอง พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2015.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2007.jpg",
      "url": "https://streamhls.com/view/3c33e324-df68-52db-a4dd-19e40286a542.m3u8",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Hor Taew Tak 3 (2011) หอแต๋วแตก ภาค 3",
      "info": "ตัวเล่นหลัก พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2015.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2011.jpg",
      "url": "https://play.kakjeawplay.xyz/e26d64e4-45e3-4916-97bd-5051e0f125aa/_",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Hor Taew Tak 3 (2011) หอแต๋วแตก ภาค 3",
      "info": "ตัวเล่นสำรอง พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2015.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2011.jpg",
      "url": "https://streamhls.com/view/c2ee17ab-8f20-55bd-9c9e-ae090cdd1b59.m3u8",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Hor Taew Tak 2 (2009) หอแต๋วแตก แหกกระเจิง",
      "info": "ตัวเล่นหลัก พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2015.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2009.jpg",
      "url": "https://play.kakjeawplay.xyz/0eb365d0-f7fe-487f-9041-b54b97058704/_",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Hor Taew Tak 2 (2009) หอแต๋วแตก แหกกระเจิง",
      "info": "ตัวเล่นสำรอง พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2015.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2009.jpg",
      "url": "https://streamhls.com/view/bef49d90-78fb-5774-bc01-8763e6c042e0.m3u8",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Hor Taew Tak 4 (2012) หอแต๋วแตก ภาค 4",
      "info": "ตัวเล่นหลัก พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2015.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2012.jpg",
      "url": "https://play.kakjeawplay.xyz/665de8ab-4e75-47e4-83ab-bb6f5fdb490a/_",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Hor Taew Tak 4 (2012) หอแต๋วแตก ภาค 4",
      "info": "ตัวเล่นสำรอง พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2015.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2012.jpg",
      "url": "https://streamhls.com/view/4dbc88ca-6e52-54d8-9e7d-0d5ab81779c0.m3u8",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Hor Taew Tak 6 (2018) หอแต๋วแตก 6 แหกต่อไม่รอแล้วนะ",
      "info": "ตัวเล่นหลัก พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2015.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2018.jpg",
      "url": "https://play.kakjeawplay.xyz/e4e93058-3daa-4f2c-9cd3-6552befa478c/_",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Hor Taew Tak 6 (2018) หอแต๋วแตก 6 แหกต่อไม่รอแล้วนะ",
      "info": "ตัวเล่นสำรอง พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2015.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2018.jpg",
      "url": "https://streamhls.com/view/bb659a7f-ce9e-50d2-a262-387a3db2c516.m3u8",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Hor Taew Tak 7 (2021) หอแต๋วแตก 7 แหกโควิดปังปุริเย่",
      "info": "ตัวเล่นหลัก พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2015.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Oh-My-Ghost-The-Fierce-Escape-from-Covid-19-2021.jpg",
      "url": "https://play.kakjeawplay.xyz/ea52c40f-88c7-4da1-8c7e-d4bb714dda81/_",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Hor Taew Tak 7 (2021) หอแต๋วแตก 7 แหกโควิดปังปุริเย่",
      "info": "ตัวเล่นสำรอง พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Hor-Taew-Tak-2015.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/05/Oh-My-Ghost-The-Fierce-Escape-from-Covid-19-2021.jpg",
      "url": "https://streamhls.com/view/1723bd97-8cfc-5c17-8c1b-c3bca39c60dd.m3u8",
      "referer": "https://www.nung2hdd.com/"
     }
@@ -4125,14 +4723,14 @@
     {
      "name": "The Scala (2015)",
      "info": "ตัวเล่นหลัก พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/04/scala-2022-Poster.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/04/The-Scala-2015-Poster.jpg",
      "url": "https://play.kakjeawplay.xyz/a14be04d-2b21-49ab-acae-2ecb908a3ea7/_",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "The Scala (2015)",
      "info": "ตัวเล่นสำรอง พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/04/scala-2022-Poster.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/04/The-Scala-2015-Poster.jpg",
      "url": "https://streamhls.com/view/5f06300d-6c70-5c41-8b69-280deb5867a6.m3u8",
      "referer": "https://www.nung2hdd.com/"
     },
@@ -4173,14 +4771,14 @@
     {
      "name": "Scala (2022) ที่ระลึกรอบสุดท้าย",
      "info": "ตัวเล่นหลัก พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/04/The-Scala-2015-Poster.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/04/scala-2022-Poster.jpg",
      "url": "https://play.kakjeawplay.xyz/6e3a6923-f8ae-4dea-8d15-46e8b308d61d/_",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Scala (2022) ที่ระลึกรอบสุดท้าย",
      "info": "ตัวเล่นสำรอง พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/04/The-Scala-2015-Poster.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/04/scala-2022-Poster.jpg",
      "url": "https://streamhls.com/view/cd009573-9172-5f75-814d-1a762c598aa1.m3u8",
      "referer": "https://www.nung2hdd.com/"
     }
@@ -4418,98 +5016,98 @@
     {
      "name": "Boonchu 2 (1989) บุญชู 2 น้องใหม่",
      "info": "ตัวเล่นหลัก พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/03/Boonchu10.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/02/Boonchu-1989-200x300.jpg",
      "url": "https://play.kakjeawplay.xyz/3bed1f7c-154f-42b9-a343-619a2f4d059c/_",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Boonchu 2 (1989) บุญชู 2 น้องใหม่",
      "info": "ตัวเล่นสำรอง พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/03/Boonchu10.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/02/Boonchu-1989-200x300.jpg",
      "url": "https://streamhls.com/view/6bcb5ef3-3535-5e58-a3b4-45b99dabfd48.m3u8",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Boonchu 1 (1988) บุญชูผู้น่ารัก",
      "info": "ตัวเล่นหลัก พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/03/Boonchu10.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/02/Boonchu-1988-200x300.jpg",
      "url": "https://play.kakjeawplay.xyz/d4f12e22-d4fa-4395-bbb7-56b5822ac4ab/_",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Boonchu 1 (1988) บุญชูผู้น่ารัก",
      "info": "ตัวเล่นสำรอง พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/03/Boonchu10.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/02/Boonchu-1988-200x300.jpg",
      "url": "https://streamhls.com/view/ffa05821-af7c-5a21-aa5c-78048e528a29.m3u8",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Boonchu 5 (1990) บุญชู 5 เนื้อหอม",
      "info": "ตัวเล่นหลัก พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/03/Boonchu10.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/02/Boonchu5-200x300.jpg",
      "url": "https://play.kakjeawplay.xyz/c3d291e8-c242-4fd5-860d-5f41e6fd938d/_",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Boonchu 5 (1990) บุญชู 5 เนื้อหอม",
      "info": "ตัวเล่นสำรอง พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/03/Boonchu10.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/02/Boonchu5-200x300.jpg",
      "url": "https://streamhls.com/view/04987c3a-37fd-5725-b2af-b4cc99206fd7.m3u8",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Boonchu 6 (1991) บุญชู 6 โลกนี้ดีออกสุดสวยน่ารักน่าอยู่ ถ้าหงุ่ย",
      "info": "ตัวเล่นหลัก พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/03/Boonchu10.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/02/Boonchu-6-200x300.jpg",
      "url": "https://play.kakjeawplay.xyz/35d5b058-7118-4a5e-819a-e67daf7e0ab0/_",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Boonchu 6 (1991) บุญชู 6 โลกนี้ดีออกสุดสวยน่ารักน่าอยู่ ถ้าหงุ่ย",
      "info": "ตัวเล่นสำรอง พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/03/Boonchu10.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/02/Boonchu-6-200x300.jpg",
      "url": "https://streamhls.com/view/c669499c-75a9-545f-a94e-31a786a47d8f.m3u8",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Boonchu 7 (1993) บุญชู 7 รักเธอคนเดียวตลอดกาลใครอย่าแตะ",
      "info": "ตัวเล่นหลัก พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/03/Boonchu10.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/03/Boonchu7.jpg",
      "url": "https://play.kakjeawplay.xyz/15704d7e-6738-4508-bb45-53e42cb06a9c/_",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Boonchu 7 (1993) บุญชู 7 รักเธอคนเดียวตลอดกาลใครอย่าแตะ",
      "info": "ตัวเล่นสำรอง พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/03/Boonchu10.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/03/Boonchu7.jpg",
      "url": "https://streamhls.com/view/01768426-2a9b-53f6-848a-b45ccabec8e6.m3u8",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Boonchu 8 (1995) บุญชู 8 เพื่อเธอ",
      "info": "ตัวเล่นหลัก พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/03/Boonchu10.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/03/Boonchu8.jpg",
      "url": "https://play.kakjeawplay.xyz/4daa906c-3be9-4570-b267-a88d9799f43d/_",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Boonchu 8 (1995) บุญชู 8 เพื่อเธอ",
      "info": "ตัวเล่นสำรอง พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/03/Boonchu10.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/03/Boonchu8.jpg",
      "url": "https://streamhls.com/view/0406670e-175f-557c-bf4c-b5e8714442fa.m3u8",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Boonchu 9 (2008) บุญชู ไอ-เลิฟ-สระอู",
      "info": "ตัวเล่นหลัก พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/03/Boonchu10.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/03/Boonchu9.jpg",
      "url": "https://play.kakjeawplay.xyz/761b4fd3-fcfd-4870-88e5-7d68b6f8c3f5/_",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Boonchu 9 (2008) บุญชู ไอ-เลิฟ-สระอู",
      "info": "ตัวเล่นสำรอง พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/03/Boonchu10.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/03/Boonchu9.jpg",
      "url": "https://streamhls.com/view/4b7f2fbf-c30f-55ed-a23b-56f17a926279.m3u8",
      "referer": "https://www.nung2hdd.com/"
     },
@@ -4536,84 +5134,84 @@
     {
      "name": "Boonchu 2 (1989) บุญชู 2 น้องใหม่",
      "info": "ตัวเล่นหลัก พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/03/Boonchu9.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/02/Boonchu-1989-200x300.jpg",
      "url": "https://play.kakjeawplay.xyz/3bed1f7c-154f-42b9-a343-619a2f4d059c/_",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Boonchu 2 (1989) บุญชู 2 น้องใหม่",
      "info": "ตัวเล่นสำรอง พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/03/Boonchu9.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/02/Boonchu-1989-200x300.jpg",
      "url": "https://streamhls.com/view/6bcb5ef3-3535-5e58-a3b4-45b99dabfd48.m3u8",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Boonchu 1 (1988) บุญชูผู้น่ารัก",
      "info": "ตัวเล่นหลัก พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/03/Boonchu9.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/02/Boonchu-1988-200x300.jpg",
      "url": "https://play.kakjeawplay.xyz/d4f12e22-d4fa-4395-bbb7-56b5822ac4ab/_",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Boonchu 1 (1988) บุญชูผู้น่ารัก",
      "info": "ตัวเล่นสำรอง พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/03/Boonchu9.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/02/Boonchu-1988-200x300.jpg",
      "url": "https://streamhls.com/view/ffa05821-af7c-5a21-aa5c-78048e528a29.m3u8",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Boonchu 5 (1990) บุญชู 5 เนื้อหอม",
      "info": "ตัวเล่นหลัก พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/03/Boonchu9.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/02/Boonchu5-200x300.jpg",
      "url": "https://play.kakjeawplay.xyz/c3d291e8-c242-4fd5-860d-5f41e6fd938d/_",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Boonchu 5 (1990) บุญชู 5 เนื้อหอม",
      "info": "ตัวเล่นสำรอง พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/03/Boonchu9.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/02/Boonchu5-200x300.jpg",
      "url": "https://streamhls.com/view/04987c3a-37fd-5725-b2af-b4cc99206fd7.m3u8",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Boonchu 6 (1991) บุญชู 6 โลกนี้ดีออกสุดสวยน่ารักน่าอยู่ ถ้าหงุ่ย",
      "info": "ตัวเล่นหลัก พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/03/Boonchu9.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/02/Boonchu-6-200x300.jpg",
      "url": "https://play.kakjeawplay.xyz/35d5b058-7118-4a5e-819a-e67daf7e0ab0/_",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Boonchu 6 (1991) บุญชู 6 โลกนี้ดีออกสุดสวยน่ารักน่าอยู่ ถ้าหงุ่ย",
      "info": "ตัวเล่นสำรอง พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/03/Boonchu9.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/02/Boonchu-6-200x300.jpg",
      "url": "https://streamhls.com/view/c669499c-75a9-545f-a94e-31a786a47d8f.m3u8",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Boonchu 7 (1993) บุญชู 7 รักเธอคนเดียวตลอดกาลใครอย่าแตะ",
      "info": "ตัวเล่นหลัก พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/03/Boonchu9.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/03/Boonchu7.jpg",
      "url": "https://play.kakjeawplay.xyz/15704d7e-6738-4508-bb45-53e42cb06a9c/_",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Boonchu 7 (1993) บุญชู 7 รักเธอคนเดียวตลอดกาลใครอย่าแตะ",
      "info": "ตัวเล่นสำรอง พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/03/Boonchu9.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/03/Boonchu7.jpg",
      "url": "https://streamhls.com/view/01768426-2a9b-53f6-848a-b45ccabec8e6.m3u8",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Boonchu 8 (1995) บุญชู 8 เพื่อเธอ",
      "info": "ตัวเล่นหลัก พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/03/Boonchu9.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/03/Boonchu8.jpg",
      "url": "https://play.kakjeawplay.xyz/4daa906c-3be9-4570-b267-a88d9799f43d/_",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Boonchu 8 (1995) บุญชู 8 เพื่อเธอ",
      "info": "ตัวเล่นสำรอง พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/03/Boonchu9.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/03/Boonchu8.jpg",
      "url": "https://streamhls.com/view/0406670e-175f-557c-bf4c-b5e8714442fa.m3u8",
      "referer": "https://www.nung2hdd.com/"
     },
@@ -4634,14 +5232,14 @@
     {
      "name": "Boonchu 10 (2010) บุญชู จะอยู่ในใจเสมอ",
      "info": "ตัวเล่นหลัก พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/03/Boonchu9.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/03/Boonchu10.jpg",
      "url": "https://play.kakjeawplay.xyz/5416f081-0472-4ad5-b55f-7f671c35486f/_",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Boonchu 10 (2010) บุญชู จะอยู่ในใจเสมอ",
      "info": "ตัวเล่นสำรอง พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/03/Boonchu9.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/03/Boonchu10.jpg",
      "url": "https://streamhls.com/view/2af45896-9378-5e50-87b6-86d1e58e62f6.m3u8",
      "referer": "https://www.nung2hdd.com/"
     }
@@ -4654,70 +5252,70 @@
     {
      "name": "Boonchu 2 (1989) บุญชู 2 น้องใหม่",
      "info": "ตัวเล่นหลัก พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/03/Boonchu8.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/02/Boonchu-1989-200x300.jpg",
      "url": "https://play.kakjeawplay.xyz/3bed1f7c-154f-42b9-a343-619a2f4d059c/_",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Boonchu 2 (1989) บุญชู 2 น้องใหม่",
      "info": "ตัวเล่นสำรอง พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/03/Boonchu8.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/02/Boonchu-1989-200x300.jpg",
      "url": "https://streamhls.com/view/6bcb5ef3-3535-5e58-a3b4-45b99dabfd48.m3u8",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Boonchu 1 (1988) บุญชูผู้น่ารัก",
      "info": "ตัวเล่นหลัก พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/03/Boonchu8.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/02/Boonchu-1988-200x300.jpg",
      "url": "https://play.kakjeawplay.xyz/d4f12e22-d4fa-4395-bbb7-56b5822ac4ab/_",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Boonchu 1 (1988) บุญชูผู้น่ารัก",
      "info": "ตัวเล่นสำรอง พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/03/Boonchu8.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/02/Boonchu-1988-200x300.jpg",
      "url": "https://streamhls.com/view/ffa05821-af7c-5a21-aa5c-78048e528a29.m3u8",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Boonchu 5 (1990) บุญชู 5 เนื้อหอม",
      "info": "ตัวเล่นหลัก พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/03/Boonchu8.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/02/Boonchu5-200x300.jpg",
      "url": "https://play.kakjeawplay.xyz/c3d291e8-c242-4fd5-860d-5f41e6fd938d/_",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Boonchu 5 (1990) บุญชู 5 เนื้อหอม",
      "info": "ตัวเล่นสำรอง พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/03/Boonchu8.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/02/Boonchu5-200x300.jpg",
      "url": "https://streamhls.com/view/04987c3a-37fd-5725-b2af-b4cc99206fd7.m3u8",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Boonchu 6 (1991) บุญชู 6 โลกนี้ดีออกสุดสวยน่ารักน่าอยู่ ถ้าหงุ่ย",
      "info": "ตัวเล่นหลัก พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/03/Boonchu8.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/02/Boonchu-6-200x300.jpg",
      "url": "https://play.kakjeawplay.xyz/35d5b058-7118-4a5e-819a-e67daf7e0ab0/_",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Boonchu 6 (1991) บุญชู 6 โลกนี้ดีออกสุดสวยน่ารักน่าอยู่ ถ้าหงุ่ย",
      "info": "ตัวเล่นสำรอง พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/03/Boonchu8.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/02/Boonchu-6-200x300.jpg",
      "url": "https://streamhls.com/view/c669499c-75a9-545f-a94e-31a786a47d8f.m3u8",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Boonchu 7 (1993) บุญชู 7 รักเธอคนเดียวตลอดกาลใครอย่าแตะ",
      "info": "ตัวเล่นหลัก พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/03/Boonchu8.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/03/Boonchu7.jpg",
      "url": "https://play.kakjeawplay.xyz/15704d7e-6738-4508-bb45-53e42cb06a9c/_",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Boonchu 7 (1993) บุญชู 7 รักเธอคนเดียวตลอดกาลใครอย่าแตะ",
      "info": "ตัวเล่นสำรอง พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/03/Boonchu8.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/03/Boonchu7.jpg",
      "url": "https://streamhls.com/view/01768426-2a9b-53f6-848a-b45ccabec8e6.m3u8",
      "referer": "https://www.nung2hdd.com/"
     },
@@ -4738,28 +5336,28 @@
     {
      "name": "Boonchu 9 (2008) บุญชู ไอ-เลิฟ-สระอู",
      "info": "ตัวเล่นหลัก พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/03/Boonchu8.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/03/Boonchu9.jpg",
      "url": "https://play.kakjeawplay.xyz/761b4fd3-fcfd-4870-88e5-7d68b6f8c3f5/_",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Boonchu 9 (2008) บุญชู ไอ-เลิฟ-สระอู",
      "info": "ตัวเล่นสำรอง พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/03/Boonchu8.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/03/Boonchu9.jpg",
      "url": "https://streamhls.com/view/4b7f2fbf-c30f-55ed-a23b-56f17a926279.m3u8",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Boonchu 10 (2010) บุญชู จะอยู่ในใจเสมอ",
      "info": "ตัวเล่นหลัก พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/03/Boonchu8.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/03/Boonchu10.jpg",
      "url": "https://play.kakjeawplay.xyz/5416f081-0472-4ad5-b55f-7f671c35486f/_",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Boonchu 10 (2010) บุญชู จะอยู่ในใจเสมอ",
      "info": "ตัวเล่นสำรอง พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/03/Boonchu8.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/03/Boonchu10.jpg",
      "url": "https://streamhls.com/view/2af45896-9378-5e50-87b6-86d1e58e62f6.m3u8",
      "referer": "https://www.nung2hdd.com/"
     }
@@ -4772,56 +5370,56 @@
     {
      "name": "Boonchu 2 (1989) บุญชู 2 น้องใหม่",
      "info": "ตัวเล่นหลัก พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/03/Boonchu7.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/02/Boonchu-1989-200x300.jpg",
      "url": "https://play.kakjeawplay.xyz/3bed1f7c-154f-42b9-a343-619a2f4d059c/_",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Boonchu 2 (1989) บุญชู 2 น้องใหม่",
      "info": "ตัวเล่นสำรอง พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/03/Boonchu7.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/02/Boonchu-1989-200x300.jpg",
      "url": "https://streamhls.com/view/6bcb5ef3-3535-5e58-a3b4-45b99dabfd48.m3u8",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Boonchu 1 (1988) บุญชูผู้น่ารัก",
      "info": "ตัวเล่นหลัก พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/03/Boonchu7.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/02/Boonchu-1988-200x300.jpg",
      "url": "https://play.kakjeawplay.xyz/d4f12e22-d4fa-4395-bbb7-56b5822ac4ab/_",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Boonchu 1 (1988) บุญชูผู้น่ารัก",
      "info": "ตัวเล่นสำรอง พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/03/Boonchu7.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/02/Boonchu-1988-200x300.jpg",
      "url": "https://streamhls.com/view/ffa05821-af7c-5a21-aa5c-78048e528a29.m3u8",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Boonchu 5 (1990) บุญชู 5 เนื้อหอม",
      "info": "ตัวเล่นหลัก พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/03/Boonchu7.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/02/Boonchu5-200x300.jpg",
      "url": "https://play.kakjeawplay.xyz/c3d291e8-c242-4fd5-860d-5f41e6fd938d/_",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Boonchu 5 (1990) บุญชู 5 เนื้อหอม",
      "info": "ตัวเล่นสำรอง พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/03/Boonchu7.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/02/Boonchu5-200x300.jpg",
      "url": "https://streamhls.com/view/04987c3a-37fd-5725-b2af-b4cc99206fd7.m3u8",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Boonchu 6 (1991) บุญชู 6 โลกนี้ดีออกสุดสวยน่ารักน่าอยู่ ถ้าหงุ่ย",
      "info": "ตัวเล่นหลัก พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/03/Boonchu7.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/02/Boonchu-6-200x300.jpg",
      "url": "https://play.kakjeawplay.xyz/35d5b058-7118-4a5e-819a-e67daf7e0ab0/_",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Boonchu 6 (1991) บุญชู 6 โลกนี้ดีออกสุดสวยน่ารักน่าอยู่ ถ้าหงุ่ย",
      "info": "ตัวเล่นสำรอง พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/03/Boonchu7.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/02/Boonchu-6-200x300.jpg",
      "url": "https://streamhls.com/view/c669499c-75a9-545f-a94e-31a786a47d8f.m3u8",
      "referer": "https://www.nung2hdd.com/"
     },
@@ -4842,42 +5440,42 @@
     {
      "name": "Boonchu 8 (1995) บุญชู 8 เพื่อเธอ",
      "info": "ตัวเล่นหลัก พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/03/Boonchu7.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/03/Boonchu8.jpg",
      "url": "https://play.kakjeawplay.xyz/4daa906c-3be9-4570-b267-a88d9799f43d/_",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Boonchu 8 (1995) บุญชู 8 เพื่อเธอ",
      "info": "ตัวเล่นสำรอง พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/03/Boonchu7.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/03/Boonchu8.jpg",
      "url": "https://streamhls.com/view/0406670e-175f-557c-bf4c-b5e8714442fa.m3u8",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Boonchu 9 (2008) บุญชู ไอ-เลิฟ-สระอู",
      "info": "ตัวเล่นหลัก พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/03/Boonchu7.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/03/Boonchu9.jpg",
      "url": "https://play.kakjeawplay.xyz/761b4fd3-fcfd-4870-88e5-7d68b6f8c3f5/_",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Boonchu 9 (2008) บุญชู ไอ-เลิฟ-สระอู",
      "info": "ตัวเล่นสำรอง พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/03/Boonchu7.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/03/Boonchu9.jpg",
      "url": "https://streamhls.com/view/4b7f2fbf-c30f-55ed-a23b-56f17a926279.m3u8",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Boonchu 10 (2010) บุญชู จะอยู่ในใจเสมอ",
      "info": "ตัวเล่นหลัก พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/03/Boonchu7.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/03/Boonchu10.jpg",
      "url": "https://play.kakjeawplay.xyz/5416f081-0472-4ad5-b55f-7f671c35486f/_",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Boonchu 10 (2010) บุญชู จะอยู่ในใจเสมอ",
      "info": "ตัวเล่นสำรอง พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/03/Boonchu7.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/03/Boonchu10.jpg",
      "url": "https://streamhls.com/view/2af45896-9378-5e50-87b6-86d1e58e62f6.m3u8",
      "referer": "https://www.nung2hdd.com/"
     }
@@ -4915,14 +5513,14 @@
     {
      "name": "Heavens Seven 2 (2005) 7 ประจัญบาน 2",
      "info": "ตัวเล่นหลัก พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/02/Heavens-Seven.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/02/Heavens-Seven-2.jpg",
      "url": "https://play.kakjeawplay.xyz/0821e074-2a09-4d9f-aca0-8c0d63cbc5fb/_",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Heavens Seven 2 (2005) 7 ประจัญบาน 2",
      "info": "ตัวเล่นสำรอง พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/02/Heavens-Seven.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/02/Heavens-Seven-2.jpg",
      "url": "https://streamhls.com/view/b9553bc2-a5c4-5bc0-8658-c3fb067bcec4.m3u8",
      "referer": "https://www.nung2hdd.com/"
     },
@@ -4963,14 +5561,14 @@
     {
      "name": "Heavens Seven (2002) 7 ประจัญบาน",
      "info": "ตัวเล่นหลัก พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/02/Heavens-Seven-2.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/02/Heavens-Seven.jpg",
      "url": "https://play.kakjeawplay.xyz/9afb0451-bf08-430e-b011-37b1de1ffb1d/_",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "Heavens Seven (2002) 7 ประจัญบาน",
      "info": "ตัวเล่นสำรอง พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/02/Heavens-Seven-2.jpg",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/02/Heavens-Seven.jpg",
      "url": "https://streamhls.com/view/a8e22f4f-f5f6-5c02-8bff-b29fd9c7bf9c.m3u8",
      "referer": "https://www.nung2hdd.com/"
     }
