@@ -1,9 +1,150 @@
 {
  "name": "2024",
- "author": "เจียว เจียว อัพวันที่ 24 มีนาคม 2567",
+ "author": "เจียว เจียว อัพวันที่ 25 มีนาคม 2567",
  "info": "ชีวิตไม่ได้ให้เราสิ่งที่ต้องการเสมอไป แต่มันจะให้เราสิ่งที่เราจำเป็นต้องการ",
  "image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
  "groups": [
+  {
+   "name": "The Casagrandes Movie (2024) เดอะ คาซากรานเดส์ มูฟวี่",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/The-Casagrandes-Movie.png",
+   "stations": [
+    {
+     "name": "The Casagrandes Movie (2024) เดอะ คาซากรานเดส์ มูฟวี่",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/The-Casagrandes-Movie.png",
+     "url": "https://streamhls.com/view/8510f836-37f0-5295-b855-1e5ad93130a4.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "The Casagrandes Movie (2024) เดอะ คาซากรานเดส์ มูฟวี่",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/The-Casagrandes-Movie.png",
+     "url": "https://play.kakjeawplay.xyz/d5d0e659-c1fe-4632-a07c-45d7bf87680b/_",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "The Casagrandes Movie (2024) เดอะ คาซากรานเดส์ มูฟวี่",
+     "info": "ตัวเล่นสำรอง ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/The-Casagrandes-Movie.png",
+     "url": "https://streamhls.com/view/acf05928-d365-53d0-9325-1e9521ae3bda.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Demon Slayer: Kimetsu no Yaiba -To the Hashira Training- (2024) ดาบพิฆาตอสูร เดอะมูฟวี่ ปาฏิหาริย์แห่งสายสัมพันธ์ สู่การสั่งสอนของเสาหลัก",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Demon-Slayer-Kimetsu-no-Yaiba-To-the-Hashira-Training.png",
+   "stations": [
+    {
+     "name": "Demon Slayer: Kimetsu no Yaiba -To the Hashira Training- (2024) ดาบพิฆาตอสูร เดอะมูฟวี่ ปาฏิหาริย์แห่งสายสัมพันธ์ สู่การสั่งสอนของเสาหลัก",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Demon-Slayer-Kimetsu-no-Yaiba-To-the-Hashira-Training.png",
+     "url": "https://play.kakjeawplay.xyz/ec94de20-edf4-4ff2-b0b6-f1953bd56930/_",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Demon Slayer: Kimetsu no Yaiba -To the Hashira Training- (2024) ดาบพิฆาตอสูร เดอะมูฟวี่ ปาฏิหาริย์แห่งสายสัมพันธ์ สู่การสั่งสอนของเสาหลัก",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Demon-Slayer-Kimetsu-no-Yaiba-To-the-Hashira-Training.png",
+     "url": "https://streamhls.com/view/3839eb1d-b9ab-5385-a1f6-3c0366b50f68.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Rob N Roll (2024) มหากาพย์ปล้นจารชน",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Rob-N-Roll.png",
+   "stations": [
+    {
+     "name": "Rob N Roll (2024) มหากาพย์ปล้นจารชน",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Rob-N-Roll.png",
+     "url": "https://play.kakjeawplay.xyz/b387c531-6b79-435a-aca6-fe3faaa80f8f/_",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Rob N Roll (2024) มหากาพย์ปล้นจารชน",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Rob-N-Roll.png",
+     "url": "https://streamhls.com/view/3822fa88-df7d-5fb2-b8f0-3266a1fefed9.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Love Lies Bleeding (2024) รัก ร้าย ร้าย",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Love-Lies-Bleeding.png",
+   "stations": [
+    {
+     "name": "Love Lies Bleeding (2024) รัก ร้าย ร้าย",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Love-Lies-Bleeding.png",
+     "url": "https://play.kakjeawplay.xyz/fc75428d-6c74-499c-9677-d277be4931dd/_",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Love Lies Bleeding (2024) รัก ร้าย ร้าย",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Love-Lies-Bleeding.png",
+     "url": "https://streamhls.com/view/87d64393-a7ee-562d-ad00-2acdab9845b9.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Marmalade (2024) แผนปล้นยัยส้มซ่า",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Marmalade-2024.png",
+   "stations": [
+    {
+     "name": "Marmalade (2024) แผนปล้นยัยส้มซ่า",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Marmalade-2024.png",
+     "url": "https://play.kakjeawplay.xyz/0ca4e5e2-01f1-491c-a166-84c4f5ab8acf/_",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Marmalade (2024) แผนปล้นยัยส้มซ่า",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Marmalade-2024.png",
+     "url": "https://streamhls.com/view/a7237a86-fda2-5539-adad-e043bc9db452.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Argylle (2024) อาร์ไกล์ ยอดสายลับ",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Argylle-2024.png",
+   "stations": [
+    {
+     "name": "Argylle (2024) อาร์ไกล์ ยอดสายลับ",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Argylle-2024.png",
+     "url": "https://play.kakjeawplay.xyz/52b21b46-745a-4884-a835-b7ad9321ca99/_",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Argylle (2024) อาร์ไกล์ ยอดสายลับ",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Argylle-2024.png",
+     "url": "https://streamhls.com/view/8fe2a96e-e3f8-5eac-a911-aa9c5011c508.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Argylle (2024) อาร์ไกล์ ยอดสายลับ",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Argylle-2024.png",
+     "url": "https://play.kakjeawplay.xyz/6d2ca1b1-b086-476b-be14-d050752a6a3e/_",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Argylle (2024) อาร์ไกล์ ยอดสายลับ",
+     "info": "ตัวเล่นสำรอง ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Argylle-2024.png",
+     "url": "https://streamhls.com/view/da80048d-a7f7-57d7-aec7-c9b2b5ed2ee5.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    }
+   ]
+  },
   {
    "name": "3 Body Problem ดาวซานถี่ อุบัติการณ์สงครามล้างโลก (2024)",
    "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/3-Body-Problem.png",
