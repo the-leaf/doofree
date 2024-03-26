@@ -1,9 +1,72 @@
 {
   "name": "ระทึกขวัญ",
-  "author": "เจียว เจียว อัพวันที่ 31 มกราคม 2567",
+  "author": "เจียว เจียว อัพวันที่ 26 มีนาคม 2567",
   "info": "ชีวิตไม่ได้ให้เราสิ่งที่ต้องการเสมอไป แต่มันจะให้เราสิ่งที่เราจำเป็นต้องการ",
   "image": "https://www.dooseries4k.com/wp-content/themes/dooseries4k/logo/logo.png",
   "groups": [
+    {
+      "name": "The Silent Service (2024) ยุทธการใต้สมุทร",
+      "info": "HD",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2024/02/The-Silent-Service-220x300-c-default.png",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/02/The-Silent-Service-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/63bdea0c-b966-5689-9017-a16103574f8d.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/02/The-Silent-Service-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/80f9607e-fa87-5124-9552-df9e01184f5b.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/02/The-Silent-Service-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/cfd4b284-bfd5-5be9-8f25-c44964e5d177.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/02/The-Silent-Service-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/178d067f-2d65-5555-9727-9682c06477c7.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/02/The-Silent-Service-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/d676450a-9815-5d6d-95df-0a4065003a22.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/02/The-Silent-Service-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/1656bb82-3b30-5607-adf0-67995d688897.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/02/The-Silent-Service-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/86cfa426-6084-57a9-a164-af5af781c6aa.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/02/The-Silent-Service-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/1d97e67e-e03f-5c16-99ee-7776642e0fe3.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        }
+      ]
+    },
     {
       "name": "Reacher รีชเชอร์ ยอดคนสืบระห่ำ Season 1 (2022)",
       "info": "HD",

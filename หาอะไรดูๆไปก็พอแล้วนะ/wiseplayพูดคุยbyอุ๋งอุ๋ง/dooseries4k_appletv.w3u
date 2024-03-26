@@ -1,6 +1,6 @@
 {
   "name": "AppleTV+",
-  "author": "เจียว เจียว อัพวันที่ 30 มกราคม 2567",
+  "author": "เจียว เจียว อัพวันที่ 26 มีนาคม 2567",
   "info": "ชีวิตไม่ได้ให้เราสิ่งที่ต้องการเสมอไป แต่มันจะให้เราสิ่งที่เราจำเป็นต้องการ",
   "image": "https://www.dooseries4k.com/wp-content/themes/dooseries4k/logo/logo.png",
   "groups": [
@@ -35,6 +35,34 @@
           "info": "ซับไทย",
           "image": "https://www.dooseries4k.com/wp-content/uploads/2024/01/Criminal-Record-220x300-c-default.png",
           "url": "https://www.sgcdnseriesn.xyz/view/bf5dc008-3915-5fc2-9681-24437b5ccc54.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/01/Criminal-Record-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/2d458c6a-b149-52cc-a142-d1e3d1ec3fbc.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/01/Criminal-Record-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/10973bb2-bb22-5436-9018-bf2e29bcec38.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/01/Criminal-Record-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/809fbf4d-1478-5606-93e1-6fbf25eb1ba1.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/01/Criminal-Record-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/3170c0bf-0081-5a25-a1b2-c8862ab1fc1a.m3u8",
           "referer": "https://www.sgcdnseriesn.xyz/"
         }
       ]

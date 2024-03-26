@@ -1,54 +1,719 @@
 {
   "name": "Netflix",
-  "author": "เจียว เจียว อัพวันที่ 30 มกราคม 2567",
+  "author": "เจียว เจียว อัพวันที่ 27 มีนาคม 2567",
   "info": "ชีวิตไม่ได้ให้เราสิ่งที่ต้องการเสมอไป แต่มันจะให้เราสิ่งที่เราจำเป็นต้องการ",
   "image": "https://www.dooseries4k.com/wp-content/themes/dooseries4k/logo/logo.png",
   "groups": [
     {
-      "name": "Griselda (2024) เจ้าแม่โคเคน",
+      "name": "Queen of Tears (2024) ราชินีแห่งน้ำตา",
+      "info": "SUB",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Queen-of-Tears-2024-220x300-c-default.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Queen-of-Tears-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/9fc558b1-fffd-5ca9-b70c-7524fa279278.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Queen-of-Tears-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/77fe8497-1795-528d-9338-99f33ab3780e.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Queen-of-Tears-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/07d77bb9-4227-53e6-bcc0-3f721098dab8.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Queen-of-Tears-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/be1da660-4719-5e71-9c7a-31b1748c7375.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Queen-of-Tears-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/c9c6cdd3-5a3d-597d-88cc-2fb949ee8690.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Queen-of-Tears-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/e1e6d9d9-68e8-5e30-868c-80d3b1d150f5.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        }
+      ]
+    },
+    {
+      "name": "3 Body Problem (2024) ดาวซานถี่ อุบัติการณ์สงครามล้างโลก",
       "info": "HD",
-      "image": "https://www.dooseries4k.com/wp-content/uploads/2024/01/Griselda-220x300-c-default.png",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/3-Body-Problem-220x300-c-default.png",
       "stations": [
         {
           "name": "ตอนที่ 1",
           "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/01/Griselda-220x300-c-default.png",
-          "url": "https://www.sgcdnseriesn.xyz/view/36d5b250-ac63-5ba3-b8bb-3ef9e742ce76.m3u8",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/3-Body-Problem-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/1717cb96-746a-5073-964e-28527a3a6504.m3u8",
           "referer": "https://www.sgcdnseriesn.xyz/"
         },
         {
           "name": "ตอนที่ 2",
           "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/01/Griselda-220x300-c-default.png",
-          "url": "https://www.sgcdnseriesn.xyz/view/0e237198-659b-5b81-b49e-64c496898894.m3u8",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/3-Body-Problem-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/3c3a5862-9a1f-5707-9cfd-90c668bc3431.m3u8",
           "referer": "https://www.sgcdnseriesn.xyz/"
         },
         {
           "name": "ตอนที่ 3",
           "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/01/Griselda-220x300-c-default.png",
-          "url": "https://www.sgcdnseriesn.xyz/view/f3cd5344-1738-5459-ae28-6c2c9e16413b.m3u8",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/3-Body-Problem-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/1ab4058d-1cd9-5198-95ab-cb7b75835fcd.m3u8",
           "referer": "https://www.sgcdnseriesn.xyz/"
         },
         {
           "name": "ตอนที่ 4",
           "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/01/Griselda-220x300-c-default.png",
-          "url": "https://www.sgcdnseriesn.xyz/view/5e5c35c8-b35b-5569-b744-db733c6885b1.m3u8",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/3-Body-Problem-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/8a0983d3-6e13-5482-8111-49177737c85b.m3u8",
           "referer": "https://www.sgcdnseriesn.xyz/"
         },
         {
           "name": "ตอนที่ 5",
           "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/01/Griselda-220x300-c-default.png",
-          "url": "https://www.sgcdnseriesn.xyz/view/364c2f85-9e41-5d33-a2bd-0631ae3eff5c.m3u8",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/3-Body-Problem-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/2e58efdd-77e8-515a-9c22-6d1108892d7d.m3u8",
           "referer": "https://www.sgcdnseriesn.xyz/"
         },
         {
           "name": "ตอนที่ 6",
           "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/01/Griselda-220x300-c-default.png",
-          "url": "https://www.sgcdnseriesn.xyz/view/b1c5e4f0-f163-5740-b0db-2714ad8dc877.m3u8",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/3-Body-Problem-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/b01f31fb-1502-5711-a318-f6ee60208f6b.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/3-Body-Problem-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/17ca342e-28dc-5e87-839b-c8fc97ea371f.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/3-Body-Problem-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/a1b5d9ab-1d40-5b9a-a8eb-747b74058a3b.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        }
+      ]
+    },
+    {
+      "name": "Doctor Slump (2024) หัวใจหมอไม่มอดไหม้",
+      "info": "SUB",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2024/02/Doctor-Slump-220x300-c-default.png",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/02/Doctor-Slump-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/d7c3120f-fb2f-5787-bc5f-42312fd03e95.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/02/Doctor-Slump-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/8c0cdd72-5ffa-5324-95c3-3aded8f8c7cc.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/02/Doctor-Slump-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/09460e33-3cf7-5e18-ac33-d5b371c731db.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/02/Doctor-Slump-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/846f3282-dd12-5652-b6a7-e1254b86f890.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/02/Doctor-Slump-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/2ce72ca5-2228-531e-baf2-f5d916130f0f.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/02/Doctor-Slump-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/e256ea0c-689f-530f-a75c-4d139b291842.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/02/Doctor-Slump-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/127fa3a4-6a7c-5e4e-9999-595a52995f71.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/02/Doctor-Slump-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/5a3e8e98-63c5-5402-b22d-046189552838.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 9",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/02/Doctor-Slump-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/99b94348-2a9a-55d9-b38f-e7dc0264b251.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 10",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/02/Doctor-Slump-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/8a2ca259-b903-570b-ad91-54bc26c429e9.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 11",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/02/Doctor-Slump-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/81214ec7-17f4-5623-a650-b5ac77032d7a.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 12",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/02/Doctor-Slump-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/1a7b1a51-8f1d-5e8d-9305-c25dec627349.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 13",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/02/Doctor-Slump-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/98092737-9041-5e97-b5f5-46d69d72ec9b.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 14",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/02/Doctor-Slump-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/281ee6ef-dbdf-5fe2-ab90-7912fd03e863.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 15",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/02/Doctor-Slump-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/03b9e1c7-fc61-5bc4-9646-86f20bacf826.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 16",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/02/Doctor-Slump-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/6a0d92e9-c541-50d9-9753-61c1d61af428.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        }
+      ]
+    },
+    {
+      "name": "Iron Reign (2024) เจ้าพ่อกำปั้นเหล็ก",
+      "info": "HD",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Iron-Reign-220x300-c-default.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Iron-Reign-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/f07a7a9c-6691-5858-bbdd-ca8e1cd83d78.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Iron-Reign-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/7547519b-d9c6-596a-903f-82e61380e455.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Iron-Reign-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/744d1583-17e4-5528-a3b8-e72861edb406.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Iron-Reign-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/7cc49484-35c7-541b-8ad3-3d72c6cbe065.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Iron-Reign-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/56e94600-c0b5-597f-b67c-981a4f6086ed.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Iron-Reign-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/a2edc2bd-210a-5336-9332-f79f26de3a8e.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Iron-Reign-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/e9bf08f3-4e3b-5421-b836-be5a92b0afde.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Iron-Reign-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/2a085fe1-0933-5ebd-b647-a1565b6a96b3.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        }
+      ]
+    },
+    {
+      "name": "Chicken Nugget (2024) ไก่ทอดคลุกซอส",
+      "info": "HD",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Chicken-Nugget-220x300-c-default.png",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Chicken-Nugget-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/41f5fceb-5150-5165-8c46-f0056b7c928d.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Chicken-Nugget-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/2365c3f7-ac16-5a5e-bfcb-ba552d9ae833.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Chicken-Nugget-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/13bd384f-53ad-5657-924c-03e5413cff1e.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Chicken-Nugget-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/2c732acf-1bc4-5143-9cc5-8e180f55aacc.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Chicken-Nugget-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/f09cb24d-ee87-5eae-af5a-30a9cda47054.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Chicken-Nugget-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/56ce27a7-fe10-5e1c-8c4c-493a407118e4.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Chicken-Nugget-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/f5fe2c0b-d334-5ff7-abdf-07d5738f08d5.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Chicken-Nugget-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/8ca35015-c125-566f-b2a1-b1fc9221f77d.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 9",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Chicken-Nugget-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/3c560b7a-4308-58b9-9d73-f48c8eb4b24e.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 10",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Chicken-Nugget-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/fe875301-eaf0-5c5e-8f0a-0fc4cec087e6.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        }
+      ]
+    },
+    {
+      "name": "The Gentlemen (2024) สุภาพบุรุษมาหากัญ",
+      "info": "HD",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/The-Gentlemen-220x300-c-default.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/The-Gentlemen-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/eee5b786-fd6e-54d8-98ce-4c0a47e385e4.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/The-Gentlemen-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/f57bc748-e668-5ad6-a2a6-f584c2a119c4.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/The-Gentlemen-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/0efb5b04-44e8-5bbb-9872-a41923a3880b.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/The-Gentlemen-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/b8415c20-422b-5315-90b2-bf4f05d52a19.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/The-Gentlemen-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/c8a3a7a6-dc2b-5e36-ad86-63ca08428d34.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/The-Gentlemen-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/f708d039-9386-52b5-a3ca-90b584de1356.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/The-Gentlemen-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/92aaa810-8bce-5b2c-873f-098cb2d23357.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/The-Gentlemen-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/4165c55c-18b0-5e33-ba4c-0c5bdbe63fa2.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        }
+      ]
+    },
+    {
+      "name": "The Signal (2024) สัญญาณ",
+      "info": "HD",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/The-Signal-220x300-c-default.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/The-Signal-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/b7f365e4-3a93-5c82-8495-fb9db9a9992d.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/The-Signal-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/a396f6aa-e104-5522-8f0f-a52963953d3f.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/The-Signal-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/c28e05f6-0285-5311-b5cc-d4fe0a33ca6b.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/The-Signal-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/f04f0335-12af-59f3-822e-85f0c70f4a91.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        }
+      ]
+    },
+    {
+      "name": "Captivating the King (2024) เสน่ห์ร้ายบัลลังก์ลวง",
+      "info": "SUB",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2024/01/Captivating-the-King-2024-220x300-c-default.png",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/01/Captivating-the-King-2024-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/49da6c31-2051-5d21-b047-74f76d6ead07.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/01/Captivating-the-King-2024-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/efac2583-180f-52e4-a651-5aa37f31977b.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/01/Captivating-the-King-2024-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/0fb73ad8-0026-56af-9eb3-b9c89be8830e.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/01/Captivating-the-King-2024-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/be447c4f-b6b6-5e98-9553-6e9addaf8b0f.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/01/Captivating-the-King-2024-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/d3695349-cec9-5ced-b2d4-1ad8eb174ab4.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/01/Captivating-the-King-2024-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/dd017a6c-3900-5194-a524-cbeebe97c5af.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/01/Captivating-the-King-2024-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/c08dd035-bd9b-511a-8b3e-50b987cd7c31.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/01/Captivating-the-King-2024-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/28321a16-fff3-5cdd-8f9f-14cc2ecf1a1d.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 9",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/01/Captivating-the-King-2024-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/64a8b5a4-a567-536f-bac9-f139c9731c0a.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 10",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/01/Captivating-the-King-2024-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/5adbbd35-a98f-502c-bcc9-3329d7bcdb9d.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 11",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/01/Captivating-the-King-2024-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/6a6b2cc9-b2bf-5481-b5fd-aa5f74588db1.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 12",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/01/Captivating-the-King-2024-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/5aa7bcee-1753-59e9-ab1a-883be4ffa002.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 13",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/01/Captivating-the-King-2024-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/2804f9e3-0c36-56a1-938f-2630650a39f3.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 14",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/01/Captivating-the-King-2024-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/9337e57e-ac7a-5aa9-b265-c1abf28527ae.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 15",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/01/Captivating-the-King-2024-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/2928b0bd-7abc-59c5-b191-1159b2c7b136.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 16",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/01/Captivating-the-King-2024-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/2ffaa040-7e0d-5107-891f-eeb7c8bf38c1.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        }
+      ]
+    },
+    {
+      "name": "Furies (2024) ชำระแค้นทรชน",
+      "info": "HD",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Furies-220x300-c-default.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Furies-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/f1a0b15f-702a-5812-a629-be1b95ad8257.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Furies-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/cb6693d1-1233-58a2-b682-c68ac32ccfda.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Furies-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/eaff696b-02f8-50ce-b727-d4dc831dc981.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Furies-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/41655464-ce7d-57fe-b605-9317100667ff.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Furies-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/c0e1f7d5-cd66-5078-830f-fd7b6bdd7d25.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Furies-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/4009235b-8b18-5ab4-a9e9-a6aaf0e663e6.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Furies-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/307b3019-372c-5f6c-82d6-04e201801da1.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Furies-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/bbe49d55-8332-50b0-9b2f-ae5d594a62ee.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        }
+      ]
+    },
+    {
+      "name": "Avatar: The Last Airbender (2024) เณรน้อยเจ้าอภินิหาร",
+      "info": "HD",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2024/02/The-Last-Airbender-220x300-c-default.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/02/The-Last-Airbender-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/a7bea61a-4e95-5149-8a8b-3cb0e99dd57c.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/02/The-Last-Airbender-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/e60ceef0-14f8-5a61-9e71-bf6c04ae2063.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/02/The-Last-Airbender-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/e6c2a621-3d7f-5a97-b296-39223dc576d7.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/02/The-Last-Airbender-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/7d790efb-1c43-5a51-ac8c-8e0936c343ae.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/02/The-Last-Airbender-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/c717bfa7-ac8a-56aa-b175-57ce89d44f3d.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/02/The-Last-Airbender-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/88a9c189-bf94-51a1-b985-d2c7aed0c830.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/02/The-Last-Airbender-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/5a26e5ce-5ad1-52fa-b588-bdaa7565375b.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/02/The-Last-Airbender-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/5c98e99c-a8d9-5b86-b51b-9ea4138317f0.m3u8",
           "referer": "https://www.sgcdnseriesn.xyz/"
         }
       ]
@@ -134,26 +799,285 @@
           "image": "https://www.dooseries4k.com/wp-content/uploads/2024/01/Like-Flowers-in-Sand-220x300-c-default.jpg",
           "url": "https://www.sgcdnseriesn.xyz/view/33e5aa0e-8e0e-5cd8-bcab-85dc3124de12.m3u8",
           "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 12",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/01/Like-Flowers-in-Sand-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/517e98e6-1f1d-528f-9e10-c0675af7af61.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
         }
       ]
     },
     {
-      "name": "Captivating the King (2024) เสน่ห์ร้ายบัลลังก์ลวง",
+      "name": "เกมชนคนโสด (2024) Ready, Set, Love",
+      "info": "HD",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2024/02/Ready-Set-Love-220x300-c-default.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/02/Ready-Set-Love-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/525a5638-2423-52a4-9ed2-03860a2c55b5.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/02/Ready-Set-Love-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/ee4a5b4b-c13d-58c7-9f9a-31e24b9413b9.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/02/Ready-Set-Love-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/4b741623-bca2-5481-9043-4e779b79012a.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/02/Ready-Set-Love-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/6a591533-46c1-5bf2-bc6c-ecd5577f196e.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/02/Ready-Set-Love-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/3f4ff879-3d11-5883-90f6-d33c9b09a76a.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/02/Ready-Set-Love-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/1af9d4a4-54de-580f-acee-e83f999de9f5.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        }
+      ]
+    },
+    {
+      "name": "House of Ninjas (2024) เฮาส์ ออฟ นินจา",
+      "info": "HD",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2024/02/House-of-Ninjas-2024-220x300-c-default.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/02/House-of-Ninjas-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/6e8c95d3-af99-577e-b084-5f2382109710.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/02/House-of-Ninjas-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/8f429c86-76fc-55c1-87b2-42c94e4ebf19.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/02/House-of-Ninjas-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/27f6db6d-4bdf-500c-a60f-58ff13f1c310.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/02/House-of-Ninjas-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/9f92d30d-3f6e-556d-bcf1-28577a331fa9.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/02/House-of-Ninjas-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/9b2bd8e6-fd4d-5d59-828d-9ce3be82e968.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/02/House-of-Ninjas-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/2582d196-146a-5651-9fd4-16d9f006564c.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/02/House-of-Ninjas-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/7857e40d-5a39-5ea3-9d02-30946a9de947.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/02/House-of-Ninjas-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/de019451-286c-5989-998c-16c91299384d.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        }
+      ]
+    },
+    {
+      "name": "A Killer Paradox (2024) หน้ากากความยุติธรรม",
+      "info": "HD",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2024/02/A-Killer-Paradox-220x300-c-default.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/02/A-Killer-Paradox-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/e15db714-4f6f-5a1e-884a-649eca194646.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/02/A-Killer-Paradox-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/b4aa5d33-17e8-52b7-be4c-f72d39e4bb77.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/02/A-Killer-Paradox-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/88dafc72-38b6-5790-b86c-c8e36120ecb3.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/02/A-Killer-Paradox-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/062c8e5a-cb79-5ae3-8a48-096bb7703115.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/02/A-Killer-Paradox-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/506a35ca-3b74-5ebc-adff-558bfe6bfdc9.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/02/A-Killer-Paradox-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/441cbb06-c52e-5a36-9929-17465e9bd0c9.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/02/A-Killer-Paradox-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/bf48c9f6-3fc3-5e87-95d2-729771693b79.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/02/A-Killer-Paradox-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/f5df04a7-1909-53b5-b936-cd6463fda30f.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        }
+      ]
+    },
+    {
+      "name": "Alexander: The Making of a God (2024) อเล็กซานเดอร์: ตำนานมนุษย์สู่เทพ",
       "info": "SUB",
-      "image": "https://www.dooseries4k.com/wp-content/uploads/2024/01/Captivating-the-King-2024-220x300-c-default.png",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2024/02/Alexander-The-Making-of-a-God-220x300-c-default.png",
       "stations": [
         {
           "name": "ตอนที่ 1",
           "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/01/Captivating-the-King-2024-220x300-c-default.png",
-          "url": "https://www.sgcdnseriesn.xyz/view/49da6c31-2051-5d21-b047-74f76d6ead07.m3u8",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/02/Alexander-The-Making-of-a-God-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/4ee31851-779b-5b49-b6ec-74750f0758a9.m3u8",
           "referer": "https://www.sgcdnseriesn.xyz/"
         },
         {
           "name": "ตอนที่ 2",
           "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/01/Captivating-the-King-2024-220x300-c-default.png",
-          "url": "https://www.sgcdnseriesn.xyz/view/efac2583-180f-52e4-a651-5aa37f31977b.m3u8",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/02/Alexander-The-Making-of-a-God-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/0c9326f5-07fb-513f-ad17-b797f520547a.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/02/Alexander-The-Making-of-a-God-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/efd1c777-0583-53d4-9762-685cad372e1c.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/02/Alexander-The-Making-of-a-God-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/882cbfcd-30a0-59a5-a9ac-7a10950b5ebc.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/02/Alexander-The-Making-of-a-God-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/8618bd72-5d09-5134-9724-cff1a9df97b6.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/02/Alexander-The-Making-of-a-God-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/aa8ff312-95a3-5212-b251-735e086af548.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        }
+      ]
+    },
+    {
+      "name": "Griselda (2024) เจ้าแม่โคเคน",
+      "info": "HD",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2024/01/Griselda-220x300-c-default.png",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/01/Griselda-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/36d5b250-ac63-5ba3-b8bb-3ef9e742ce76.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/01/Griselda-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/0e237198-659b-5b81-b49e-64c496898894.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/01/Griselda-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/f3cd5344-1738-5459-ae28-6c2c9e16413b.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/01/Griselda-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/5e5c35c8-b35b-5569-b744-db733c6885b1.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/01/Griselda-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/364c2f85-9e41-5d33-a2bd-0631ae3eff5c.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/01/Griselda-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/b1c5e4f0-f163-5740-b0db-2714ad8dc877.m3u8",
           "referer": "https://www.sgcdnseriesn.xyz/"
         }
       ]
@@ -29495,349 +30419,6 @@
       ]
     },
     {
-      "name": "JoJo’s Bizarre Adventure: Stardust Crusaders โจโจ้ ล่าข้ามศตวรรษ: นักรบละอองดาว [พากย์ไทย]",
-      "info": "HD",
-      "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/jojo-season-2-220x300-c-default.jpg",
-      "stations": [
-        {
-          "name": "ซีซั่น 2 ตอนที่ 1",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/jojo-season-2-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/e51da459-82cf-584b-8c93-f586e1e1bfa6.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 2 ตอนที่ 2",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/jojo-season-2-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/10d8acb1-cf3b-508e-ad53-4d40a9acccf0.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 2 ตอนที่ 3",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/jojo-season-2-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/984e7461-50bf-55b2-95bb-fdd521102e8c.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 2 ตอนที่ 4",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/jojo-season-2-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/746a78cf-19a8-53d6-b163-0cae669f6c82.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 2 ตอนที่ 5",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/jojo-season-2-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/766cdc14-0de3-5ae6-a0fc-67d094912f75.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 2 ตอนที่ 6",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/jojo-season-2-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/67eef355-ac06-55d2-a0fc-debde6aabfe1.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 2 ตอนที่ 7",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/jojo-season-2-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/0204f79e-0b14-55fa-9d5a-c50c4bb72c5b.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 2 ตอนที่ 8",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/jojo-season-2-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/59b4c723-c443-5646-9ca1-1aed5cfe3688.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 2 ตอนที่ 9",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/jojo-season-2-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/576752e2-3367-5857-8205-ac4d41f8dc42.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 2 ตอนที่ 10",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/jojo-season-2-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/3bf66379-8494-5349-bae6-7d2b67eaa6ce.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 2 ตอนที่ 11",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/jojo-season-2-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/f4ae630f-b57f-5009-8701-c3e4e521d58f.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 2 ตอนที่ 12",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/jojo-season-2-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/d90e7f6e-0108-5db8-b112-c3a1064e45fd.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 2 ตอนที่ 13",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/jojo-season-2-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/0f80f701-4bc8-5d1f-8ff6-3158936add7e.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 2 ตอนที่ 14",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/jojo-season-2-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/7c7b671e-f2cb-51c8-a88d-e03a0276667a.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 2 ตอนที่ 15",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/jojo-season-2-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/388b3787-43b8-55ec-af00-e0771ddd805c.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 2 ตอนที่ 16",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/jojo-season-2-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/03477200-e433-5302-8ae7-022822c5cfcf.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 2 ตอนที่ 17",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/jojo-season-2-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/024cba82-e7c4-5d92-9b4f-2abe7a99684f.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 2 ตอนที่ 18",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/jojo-season-2-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/67d33e4c-f5e2-549f-8fe5-3749a8e3d01a.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 2 ตอนที่ 19",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/jojo-season-2-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/7b25ac50-b692-5b2b-9b8d-a7f4d478eaaa.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 2 ตอนที่ 20",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/jojo-season-2-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/1ef61ce0-9f1c-5a56-a805-0559f57a350e.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 2 ตอนที่ 21",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/jojo-season-2-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/a2697394-9057-53d9-8e01-2ca384ebe664.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 2 ตอนที่ 22",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/jojo-season-2-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/43cf273f-e989-5dd9-94cb-cbb7627d8055.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 2 ตอนที่ 23",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/jojo-season-2-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/cfd6646c-ef54-57e9-8bc8-d014a0559702.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 2 ตอนที่ 24",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/jojo-season-2-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/1010976e-9c66-5f3c-9346-58621a2c9dc0.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 2 ตอนที่ 25",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/jojo-season-2-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/1277fcb5-b5bd-5619-b743-dbc40da473da.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 2 ตอนที่ 26",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/jojo-season-2-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/1b4f64e6-edc4-53db-b114-b8506ff41108.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 2 ตอนที่ 27",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/jojo-season-2-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/4e123af9-17e9-589b-be4b-5099969494b9.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 2 ตอนที่ 28",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/jojo-season-2-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/85c1bf1f-7c5a-5514-b3b0-157bacd0672d.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 2 ตอนที่ 29",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/jojo-season-2-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/45b89fc7-ac96-5a24-b986-4bd6e288774e.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 2 ตอนที่ 30",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/jojo-season-2-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/2261f2f7-610b-5817-931a-e0f35bd3e7a5.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 2 ตอนที่ 31",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/jojo-season-2-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/bf8aef35-490b-5d0c-9842-e77484558729.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 2 ตอนที่ 32",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/jojo-season-2-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/c3811986-c466-5ae5-a3f4-6033740130c9.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 2 ตอนที่ 33",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/jojo-season-2-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/581c7ffb-04da-5a35-bd24-7ef878680513.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 2 ตอนที่ 34",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/jojo-season-2-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/214f2657-e762-5fe5-a9dc-65537d4196a7.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 2 ตอนที่ 35",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/jojo-season-2-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/a98b6b1b-d4d6-568f-b5d4-7c62e74a747c.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 2 ตอนที่ 36",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/jojo-season-2-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/c81996d9-749d-5e9e-8b46-b3f797efb244.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 2 ตอนที่ 37",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/jojo-season-2-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/83f2379a-39f8-5537-b27b-104b899346f1.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 2 ตอนที่ 38",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/jojo-season-2-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/f1961f49-d6c2-5eb9-bcf1-3a1d21f374a8.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 2 ตอนที่ 39",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/jojo-season-2-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/2e04c8b7-2f03-5430-adf9-55de9d974413.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 2 ตอนที่ 40",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/jojo-season-2-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/5e82f35e-f4b7-5ac5-b3d5-bd00fd5f770e.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 2 ตอนที่ 41",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/jojo-season-2-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/7c9d9bdc-76c4-5975-91a8-5b09c269e373.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 2 ตอนที่ 42",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/jojo-season-2-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/cbd0acf1-a574-5b6f-8ec8-bad5a29e9703.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 2 ตอนที่ 43",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/jojo-season-2-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/42964f0b-039a-5a08-aa09-c865171ca390.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 2 ตอนที่ 44",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/jojo-season-2-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/403dab0f-064a-516a-a841-11935d6d2dfc.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 2 ตอนที่ 45",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/jojo-season-2-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/8408a5fe-74af-5257-b35f-d937943f3d04.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 2 ตอนที่ 46",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/jojo-season-2-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/638f5278-6106-5f4f-a516-930343b55bb9.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 2 ตอนที่ 47",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/jojo-season-2-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/9ca179fe-be2c-55a0-bb94-b8571703861a.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 2 ตอนที่ 48",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/jojo-season-2-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/7813bef0-c882-5026-9b5f-bd78012d2947.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        }
-      ]
-    },
-    {
       "name": "JoJo’s Bizarre Adventure โจโจ้ ล่าข้ามศตวรรษ [พากย์ไทย]",
       "info": "HD",
       "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/jojo-season-1-220x300-c-default.jpg",
@@ -30909,6 +31490,349 @@
       ]
     },
     {
+      "name": "JoJo’s Bizarre Adventure: Stardust Crusaders โจโจ้ ล่าข้ามศตวรรษ: นักรบละอองดาว [พากย์ไทย]",
+      "info": "HD",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/jojo-season-2-220x300-c-default.jpg",
+      "stations": [
+        {
+          "name": "ซีซั่น 2 ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/jojo-season-2-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/e51da459-82cf-584b-8c93-f586e1e1bfa6.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/jojo-season-2-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/10d8acb1-cf3b-508e-ad53-4d40a9acccf0.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/jojo-season-2-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/984e7461-50bf-55b2-95bb-fdd521102e8c.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/jojo-season-2-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/746a78cf-19a8-53d6-b163-0cae669f6c82.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/jojo-season-2-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/766cdc14-0de3-5ae6-a0fc-67d094912f75.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/jojo-season-2-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/67eef355-ac06-55d2-a0fc-debde6aabfe1.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/jojo-season-2-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/0204f79e-0b14-55fa-9d5a-c50c4bb72c5b.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 8",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/jojo-season-2-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/59b4c723-c443-5646-9ca1-1aed5cfe3688.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 9",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/jojo-season-2-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/576752e2-3367-5857-8205-ac4d41f8dc42.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 10",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/jojo-season-2-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/3bf66379-8494-5349-bae6-7d2b67eaa6ce.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 11",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/jojo-season-2-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/f4ae630f-b57f-5009-8701-c3e4e521d58f.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 12",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/jojo-season-2-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/d90e7f6e-0108-5db8-b112-c3a1064e45fd.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 13",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/jojo-season-2-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/0f80f701-4bc8-5d1f-8ff6-3158936add7e.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 14",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/jojo-season-2-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/7c7b671e-f2cb-51c8-a88d-e03a0276667a.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 15",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/jojo-season-2-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/388b3787-43b8-55ec-af00-e0771ddd805c.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 16",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/jojo-season-2-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/03477200-e433-5302-8ae7-022822c5cfcf.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 17",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/jojo-season-2-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/024cba82-e7c4-5d92-9b4f-2abe7a99684f.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 18",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/jojo-season-2-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/67d33e4c-f5e2-549f-8fe5-3749a8e3d01a.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 19",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/jojo-season-2-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/7b25ac50-b692-5b2b-9b8d-a7f4d478eaaa.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 20",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/jojo-season-2-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/1ef61ce0-9f1c-5a56-a805-0559f57a350e.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 21",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/jojo-season-2-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/a2697394-9057-53d9-8e01-2ca384ebe664.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 22",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/jojo-season-2-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/43cf273f-e989-5dd9-94cb-cbb7627d8055.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 23",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/jojo-season-2-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/cfd6646c-ef54-57e9-8bc8-d014a0559702.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 24",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/jojo-season-2-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/1010976e-9c66-5f3c-9346-58621a2c9dc0.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 25",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/jojo-season-2-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/1277fcb5-b5bd-5619-b743-dbc40da473da.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 26",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/jojo-season-2-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/1b4f64e6-edc4-53db-b114-b8506ff41108.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 27",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/jojo-season-2-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/4e123af9-17e9-589b-be4b-5099969494b9.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 28",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/jojo-season-2-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/85c1bf1f-7c5a-5514-b3b0-157bacd0672d.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 29",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/jojo-season-2-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/45b89fc7-ac96-5a24-b986-4bd6e288774e.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 30",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/jojo-season-2-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/2261f2f7-610b-5817-931a-e0f35bd3e7a5.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 31",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/jojo-season-2-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/bf8aef35-490b-5d0c-9842-e77484558729.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 32",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/jojo-season-2-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/c3811986-c466-5ae5-a3f4-6033740130c9.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 33",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/jojo-season-2-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/581c7ffb-04da-5a35-bd24-7ef878680513.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 34",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/jojo-season-2-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/214f2657-e762-5fe5-a9dc-65537d4196a7.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 35",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/jojo-season-2-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/a98b6b1b-d4d6-568f-b5d4-7c62e74a747c.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 36",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/jojo-season-2-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/c81996d9-749d-5e9e-8b46-b3f797efb244.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 37",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/jojo-season-2-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/83f2379a-39f8-5537-b27b-104b899346f1.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 38",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/jojo-season-2-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/f1961f49-d6c2-5eb9-bcf1-3a1d21f374a8.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 39",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/jojo-season-2-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/2e04c8b7-2f03-5430-adf9-55de9d974413.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 40",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/jojo-season-2-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/5e82f35e-f4b7-5ac5-b3d5-bd00fd5f770e.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 41",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/jojo-season-2-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/7c9d9bdc-76c4-5975-91a8-5b09c269e373.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 42",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/jojo-season-2-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/cbd0acf1-a574-5b6f-8ec8-bad5a29e9703.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 43",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/jojo-season-2-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/42964f0b-039a-5a08-aa09-c865171ca390.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 44",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/jojo-season-2-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/403dab0f-064a-516a-a841-11935d6d2dfc.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 45",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/jojo-season-2-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/8408a5fe-74af-5257-b35f-d937943f3d04.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 46",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/jojo-season-2-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/638f5278-6106-5f4f-a516-930343b55bb9.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 47",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/jojo-season-2-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/9ca179fe-be2c-55a0-bb94-b8571703861a.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 48",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/jojo-season-2-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/7813bef0-c882-5026-9b5f-bd78012d2947.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        }
+      ]
+    },
+    {
       "name": "JoJo’s Bizarre Adventure: Diamond Is Unbreakable โจโจ้ ล่าข้ามศตวรรษ: เพชรแท้ไม่มีวันสลาย [พากย์ไทย]",
       "info": "HD",
       "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/jojo-season-3-220x300-c-default.jpg",
@@ -31588,356 +32512,6 @@
       ]
     },
     {
-      "name": "Vikings Season 1 (2013)",
-      "info": "SUB",
-      "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-1-220x300-c-default.jpg",
-      "stations": [
-        {
-          "name": "ซีซั่น 1 ตอนที่ 1",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-1-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/deae3e74-2fb4-5927-8e8d-8287b6909ab5.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 1 ตอนที่ 1",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-1-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/8f03ba6c-8f24-5f27-899f-1806c5275d1a.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 1 ตอนที่ 2",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-1-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/30959ba8-d89a-5b82-bb9d-8999ba6f17d8.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 1 ตอนที่ 2",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-1-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/f8f4497a-8f6b-5bf0-9ceb-709f556364fb.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 1 ตอนที่ 3",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-1-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/a58e004c-dc17-5e37-9a07-672c754063b1.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 1 ตอนที่ 3",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-1-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/ddc13398-cf6c-574e-a25d-9e64b1b9b8dd.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 1 ตอนที่ 4",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-1-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/ee3f184d-11f3-5c27-afb0-bff74b7bde6f.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 1 ตอนที่ 4",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-1-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/54f7cdb2-8459-5623-a4e8-2ea5a6b1a914.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 1 ตอนที่ 5",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-1-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/f50c6940-aaa4-58bc-a5e8-b7e10c21d0dd.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 1 ตอนที่ 5",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-1-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/bed04312-4c92-59b4-af33-f2703117596a.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 1 ตอนที่ 6",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-1-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/9f923cb5-76b4-5f5a-a733-77590d82500e.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 1 ตอนที่ 6",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-1-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/716772b7-5672-53f3-b265-dd55b1afb608.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 1 ตอนที่ 7",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-1-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/06756720-37a5-5787-a378-caccd2021764.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 1 ตอนที่ 7",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-1-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/b20183b8-689f-5f14-a0fa-db14931593d5.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 1 ตอนที่ 8",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-1-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/85cdfaad-e31b-5905-ad9f-4894dc54beb7.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 1 ตอนที่ 8",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-1-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/b13619cf-7d69-5cb7-8dfd-79b2af6d80ac.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 1 ตอนที่ 9",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-1-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/b696c8ed-f464-5c11-a0d1-ecd064a369a6.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 1 ตอนที่ 9",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-1-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/d62e10da-d1e4-5f79-a279-3621098a6320.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 1 ตอนที่ 10",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-1-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/9a8f20aa-3677-56e6-9761-05ff8cf3373c.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        }
-      ]
-    },
-    {
-      "name": "Vikings Season 2 (2014)",
-      "info": "SUB",
-      "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-2-220x300-c-default.jpg",
-      "stations": [
-        {
-          "name": "ซีซั่น 2 ตอนที่ 1",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-2-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/04e43148-947f-5791-b373-0fd73e79f1e4.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 2 ตอนที่ 1",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-2-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/4acc342c-6b0e-5568-a8f4-c0a800ea929a.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 2 ตอนที่ 2",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-2-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/abed66f8-1940-5398-bb9c-8e8686963bea.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 2 ตอนที่ 2",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-2-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/b2d6d1b8-aa90-5320-b3e2-e8f306ffeb23.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 2 ตอนที่ 3",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-2-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/31670563-d7f5-5900-9d60-942d444976f8.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 2 ตอนที่ 3",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-2-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/b53bac69-c40c-55b9-ac8e-4be16c9f6556.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 2 ตอนที่ 4",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-2-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/7e38ec79-40ad-5269-8255-34051aee821d.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 2 ตอนที่ 4",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-2-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/447e3999-e6ab-54dc-9704-b21f2c4a89c6.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 2 ตอนที่ 5",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-2-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/19295b75-11a3-5f71-84b4-5a367835383a.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 2 ตอนที่ 5",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-2-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/cb698b86-7a53-5663-bb9c-ef511dbcf812.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 2 ตอนที่ 6",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-2-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/e13f4faf-3c06-574e-a61d-3c6ff466cc54.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 2 ตอนที่ 6",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-2-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/76c884c5-8e06-5a75-a54f-78ca26438ede.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 2 ตอนที่ 7",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-2-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/ee0661d6-6efa-5b09-bd88-a28e1107d16c.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 2 ตอนที่ 7",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-2-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/3f915229-18db-5eb2-b350-716e6289444f.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 2 ตอนที่ 8",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-2-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/e391e5b3-22e6-5efe-b0fa-d17225266833.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 2 ตอนที่ 8",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-2-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/73c6c9e8-fb98-5fe8-8b13-fb33a369e4b4.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 2 ตอนที่ 9",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-2-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/00efe70f-2872-507e-b856-6ff41d26ded1.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 2 ตอนที่ 10",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-2-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/09a1f4e8-aed5-5d9f-ab13-ebe01ae902b7.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        }
-      ]
-    },
-    {
-      "name": "Vikings Season 3 (2015)",
-      "info": "SUB",
-      "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-3-220x300-c-default.jpg",
-      "stations": [
-        {
-          "name": "ซีซั่น 3 ตอนที่ 1",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-3-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/08c00411-49ae-516d-97af-1a3e89d174e7.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 3 ตอนที่ 2",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-3-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/5cf1257d-d715-539b-8dca-90df7360beaa.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 3 ตอนที่ 3",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-3-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/e37fc7eb-2d66-5ffd-8f06-fc7fcfbe0a43.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 3 ตอนที่ 4",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-3-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/70fb0686-a8a4-5db0-a151-571126a2c8bc.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 3 ตอนที่ 5",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-3-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/c6f04101-7732-5c3a-b89b-ab0dd8a02e00.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 3 ตอนที่ 6",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-3-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/e4d11353-e4e3-51ae-b024-7f83ac46b0eb.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 3 ตอนที่ 7",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-3-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/145caded-fdf3-5e86-beff-31906db3308a.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 3 ตอนที่ 8",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-3-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/1829ccec-4e17-5cc3-9782-3199230dd462.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 3 ตอนที่ 9",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-3-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/9198ffb5-5538-54ba-9957-620bfa981791.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 3 ตอนที่ 10",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-3-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/c94ae634-782c-5717-8cae-bba58cdeb267.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        }
-      ]
-    },
-    {
       "name": "Vikings Season 4 (2016)",
       "info": "SUB",
       "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-4-220x300-c-default.jpg",
@@ -32381,6 +32955,356 @@
           "info": "ซับไทย",
           "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-6-220x300-c-default.jpg",
           "url": "https://www.sgcdnseriesn.xyz/view/e7380a8d-b7a4-5bb6-a5ea-47008ca0b9aa.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        }
+      ]
+    },
+    {
+      "name": "Vikings Season 1 (2013)",
+      "info": "SUB",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-1-220x300-c-default.jpg",
+      "stations": [
+        {
+          "name": "ซีซั่น 1 ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-1-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/deae3e74-2fb4-5927-8e8d-8287b6909ab5.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 1",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-1-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/8f03ba6c-8f24-5f27-899f-1806c5275d1a.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-1-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/30959ba8-d89a-5b82-bb9d-8999ba6f17d8.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 2",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-1-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/f8f4497a-8f6b-5bf0-9ceb-709f556364fb.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-1-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/a58e004c-dc17-5e37-9a07-672c754063b1.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 3",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-1-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/ddc13398-cf6c-574e-a25d-9e64b1b9b8dd.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-1-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/ee3f184d-11f3-5c27-afb0-bff74b7bde6f.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 4",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-1-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/54f7cdb2-8459-5623-a4e8-2ea5a6b1a914.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-1-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/f50c6940-aaa4-58bc-a5e8-b7e10c21d0dd.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 5",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-1-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/bed04312-4c92-59b4-af33-f2703117596a.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-1-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/9f923cb5-76b4-5f5a-a733-77590d82500e.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 6",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-1-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/716772b7-5672-53f3-b265-dd55b1afb608.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-1-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/06756720-37a5-5787-a378-caccd2021764.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 7",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-1-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/b20183b8-689f-5f14-a0fa-db14931593d5.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 8",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-1-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/85cdfaad-e31b-5905-ad9f-4894dc54beb7.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 8",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-1-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/b13619cf-7d69-5cb7-8dfd-79b2af6d80ac.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 9",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-1-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/b696c8ed-f464-5c11-a0d1-ecd064a369a6.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 9",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-1-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/d62e10da-d1e4-5f79-a279-3621098a6320.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 10",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-1-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/9a8f20aa-3677-56e6-9761-05ff8cf3373c.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        }
+      ]
+    },
+    {
+      "name": "Vikings Season 2 (2014)",
+      "info": "SUB",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-2-220x300-c-default.jpg",
+      "stations": [
+        {
+          "name": "ซีซั่น 2 ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-2-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/04e43148-947f-5791-b373-0fd73e79f1e4.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 1",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-2-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/4acc342c-6b0e-5568-a8f4-c0a800ea929a.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-2-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/abed66f8-1940-5398-bb9c-8e8686963bea.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 2",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-2-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/b2d6d1b8-aa90-5320-b3e2-e8f306ffeb23.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-2-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/31670563-d7f5-5900-9d60-942d444976f8.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 3",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-2-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/b53bac69-c40c-55b9-ac8e-4be16c9f6556.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-2-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/7e38ec79-40ad-5269-8255-34051aee821d.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 4",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-2-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/447e3999-e6ab-54dc-9704-b21f2c4a89c6.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-2-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/19295b75-11a3-5f71-84b4-5a367835383a.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 5",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-2-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/cb698b86-7a53-5663-bb9c-ef511dbcf812.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-2-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/e13f4faf-3c06-574e-a61d-3c6ff466cc54.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 6",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-2-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/76c884c5-8e06-5a75-a54f-78ca26438ede.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-2-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/ee0661d6-6efa-5b09-bd88-a28e1107d16c.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 7",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-2-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/3f915229-18db-5eb2-b350-716e6289444f.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 8",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-2-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/e391e5b3-22e6-5efe-b0fa-d17225266833.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 8",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-2-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/73c6c9e8-fb98-5fe8-8b13-fb33a369e4b4.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 9",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-2-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/00efe70f-2872-507e-b856-6ff41d26ded1.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 10",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-2-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/09a1f4e8-aed5-5d9f-ab13-ebe01ae902b7.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        }
+      ]
+    },
+    {
+      "name": "Vikings Season 3 (2015)",
+      "info": "SUB",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-3-220x300-c-default.jpg",
+      "stations": [
+        {
+          "name": "ซีซั่น 3 ตอนที่ 1",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-3-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/08c00411-49ae-516d-97af-1a3e89d174e7.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 3 ตอนที่ 2",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-3-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/5cf1257d-d715-539b-8dca-90df7360beaa.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 3 ตอนที่ 3",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-3-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/e37fc7eb-2d66-5ffd-8f06-fc7fcfbe0a43.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 3 ตอนที่ 4",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-3-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/70fb0686-a8a4-5db0-a151-571126a2c8bc.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 3 ตอนที่ 5",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-3-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/c6f04101-7732-5c3a-b89b-ab0dd8a02e00.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 3 ตอนที่ 6",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-3-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/e4d11353-e4e3-51ae-b024-7f83ac46b0eb.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 3 ตอนที่ 7",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-3-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/145caded-fdf3-5e86-beff-31906db3308a.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 3 ตอนที่ 8",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-3-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/1829ccec-4e17-5cc3-9782-3199230dd462.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 3 ตอนที่ 9",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-3-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/9198ffb5-5538-54ba-9957-620bfa981791.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 3 ตอนที่ 10",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-3-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/c94ae634-782c-5717-8cae-bba58cdeb267.m3u8",
           "referer": "https://www.sgcdnseriesn.xyz/"
         }
       ]
@@ -33933,6 +34857,181 @@
       ]
     },
     {
+      "name": "Animal Kingdom Season 1 (2016)",
+      "info": "SUB",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2022/12/Animal-Kingdom-Season-1-220x300-c-default.jpg",
+      "stations": [
+        {
+          "name": "ซีซั่น 1 ตอนที่ 1",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/12/Animal-Kingdom-Season-1-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/cae912bf-aa70-59e7-bf2e-75193cb02102.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 2",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/12/Animal-Kingdom-Season-1-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/18862044-9611-51a1-8cd4-5f3be8fb926c.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 3",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/12/Animal-Kingdom-Season-1-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/978f818d-d66d-5955-95f4-d2cdc68a0415.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 4",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/12/Animal-Kingdom-Season-1-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/af4b6cda-bda8-5180-b1fa-c561a3e68884.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 5",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/12/Animal-Kingdom-Season-1-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/0d6e2593-37b9-50f0-ae47-46ea42fd94f3.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 6",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/12/Animal-Kingdom-Season-1-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/73ae7eae-f24a-516f-b059-aa049ac24933.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 7",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/12/Animal-Kingdom-Season-1-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/86aef59a-0a51-5e04-a8a1-a489e724d7b4.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 8",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/12/Animal-Kingdom-Season-1-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/141cac2a-8c65-5e40-afe3-009f625e92d3.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 9",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/12/Animal-Kingdom-Season-1-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/f725a1a0-520b-53d3-b469-7993509edb4c.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 10",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/12/Animal-Kingdom-Season-1-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/eacb41a3-1bae-53fe-8a42-5024dfae47c3.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        }
+      ]
+    },
+    {
+      "name": "Animal Kingdom Season 2 (2017)",
+      "info": "SUB",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2022/12/Animal-Kingdom-Season-2-220x300-c-default.jpg",
+      "stations": [
+        {
+          "name": "ซีซั่น 2 ตอนที่ 1",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/12/Animal-Kingdom-Season-2-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/ee0af260-12b6-5fb2-9c95-23bd45d0c3bb.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 2",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/12/Animal-Kingdom-Season-2-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/e172f26f-250f-5c44-b7ac-21261fccacdd.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 3",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/12/Animal-Kingdom-Season-2-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/0728ab48-8d9b-51a3-8dec-94220e1deb5f.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 4",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/12/Animal-Kingdom-Season-2-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/00de786a-65e3-5794-bd24-814954fb4cc4.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 5",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/12/Animal-Kingdom-Season-2-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/5b5c5c21-30f6-5283-bdb7-212ad3016c26.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 6",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/12/Animal-Kingdom-Season-2-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/61c059fc-f0dc-583d-a98b-a81fb30419ae.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 7",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/12/Animal-Kingdom-Season-2-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/82b365aa-9a33-5fef-bbfa-dd3f23a72539.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 8",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/12/Animal-Kingdom-Season-2-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/0dcdf279-db8b-5e1c-bca3-d331d3cd6951.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 9",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/12/Animal-Kingdom-Season-2-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/b740b8de-e29e-545e-ae00-6e670455ea77.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 10",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/12/Animal-Kingdom-Season-2-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/c0ab1273-0f14-5136-9e62-526169c0b74c.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 11",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/12/Animal-Kingdom-Season-2-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/ded612cf-bff2-5bd7-966d-153049a8a03e.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 12",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/12/Animal-Kingdom-Season-2-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/52b374f4-ac2d-5a33-989f-51d26efa0b9d.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 13",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/12/Animal-Kingdom-Season-2-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/1f75afc6-6901-5e9c-ba43-aa0bd8723f7c.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        }
+      ]
+    },
+    {
       "name": "Animal Kingdom Season 3 (2018)",
       "info": "SUB",
       "image": "https://www.dooseries4k.com/wp-content/uploads/2022/12/Animal-Kingdom-Season-3-220x300-c-default.jpg",
@@ -34124,181 +35223,6 @@
           "info": "ซับไทย",
           "image": "https://www.dooseries4k.com/wp-content/uploads/2022/12/Animal-Kingdom-Season-5-220x300-c-default.jpg",
           "url": "https://www.sgcdnseriesn.xyz/view/e374d2ae-2106-5533-b579-e3c32707d227.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        }
-      ]
-    },
-    {
-      "name": "Animal Kingdom Season 1 (2016)",
-      "info": "SUB",
-      "image": "https://www.dooseries4k.com/wp-content/uploads/2022/12/Animal-Kingdom-Season-1-220x300-c-default.jpg",
-      "stations": [
-        {
-          "name": "ซีซั่น 1 ตอนที่ 1",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/12/Animal-Kingdom-Season-1-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/cae912bf-aa70-59e7-bf2e-75193cb02102.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 1 ตอนที่ 2",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/12/Animal-Kingdom-Season-1-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/18862044-9611-51a1-8cd4-5f3be8fb926c.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 1 ตอนที่ 3",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/12/Animal-Kingdom-Season-1-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/978f818d-d66d-5955-95f4-d2cdc68a0415.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 1 ตอนที่ 4",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/12/Animal-Kingdom-Season-1-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/af4b6cda-bda8-5180-b1fa-c561a3e68884.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 1 ตอนที่ 5",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/12/Animal-Kingdom-Season-1-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/0d6e2593-37b9-50f0-ae47-46ea42fd94f3.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 1 ตอนที่ 6",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/12/Animal-Kingdom-Season-1-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/73ae7eae-f24a-516f-b059-aa049ac24933.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 1 ตอนที่ 7",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/12/Animal-Kingdom-Season-1-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/86aef59a-0a51-5e04-a8a1-a489e724d7b4.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 1 ตอนที่ 8",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/12/Animal-Kingdom-Season-1-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/141cac2a-8c65-5e40-afe3-009f625e92d3.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 1 ตอนที่ 9",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/12/Animal-Kingdom-Season-1-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/f725a1a0-520b-53d3-b469-7993509edb4c.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 1 ตอนที่ 10",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/12/Animal-Kingdom-Season-1-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/eacb41a3-1bae-53fe-8a42-5024dfae47c3.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        }
-      ]
-    },
-    {
-      "name": "Animal Kingdom Season 2 (2017)",
-      "info": "SUB",
-      "image": "https://www.dooseries4k.com/wp-content/uploads/2022/12/Animal-Kingdom-Season-2-220x300-c-default.jpg",
-      "stations": [
-        {
-          "name": "ซีซั่น 2 ตอนที่ 1",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/12/Animal-Kingdom-Season-2-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/ee0af260-12b6-5fb2-9c95-23bd45d0c3bb.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 2 ตอนที่ 2",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/12/Animal-Kingdom-Season-2-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/e172f26f-250f-5c44-b7ac-21261fccacdd.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 2 ตอนที่ 3",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/12/Animal-Kingdom-Season-2-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/0728ab48-8d9b-51a3-8dec-94220e1deb5f.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 2 ตอนที่ 4",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/12/Animal-Kingdom-Season-2-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/00de786a-65e3-5794-bd24-814954fb4cc4.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 2 ตอนที่ 5",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/12/Animal-Kingdom-Season-2-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/5b5c5c21-30f6-5283-bdb7-212ad3016c26.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 2 ตอนที่ 6",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/12/Animal-Kingdom-Season-2-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/61c059fc-f0dc-583d-a98b-a81fb30419ae.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 2 ตอนที่ 7",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/12/Animal-Kingdom-Season-2-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/82b365aa-9a33-5fef-bbfa-dd3f23a72539.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 2 ตอนที่ 8",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/12/Animal-Kingdom-Season-2-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/0dcdf279-db8b-5e1c-bca3-d331d3cd6951.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 2 ตอนที่ 9",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/12/Animal-Kingdom-Season-2-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/b740b8de-e29e-545e-ae00-6e670455ea77.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 2 ตอนที่ 10",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/12/Animal-Kingdom-Season-2-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/c0ab1273-0f14-5136-9e62-526169c0b74c.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 2 ตอนที่ 11",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/12/Animal-Kingdom-Season-2-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/ded612cf-bff2-5bd7-966d-153049a8a03e.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 2 ตอนที่ 12",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/12/Animal-Kingdom-Season-2-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/52b374f4-ac2d-5a33-989f-51d26efa0b9d.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 2 ตอนที่ 13",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/12/Animal-Kingdom-Season-2-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/1f75afc6-6901-5e9c-ba43-aa0bd8723f7c.m3u8",
           "referer": "https://www.sgcdnseriesn.xyz/"
         }
       ]
@@ -52739,76 +53663,6 @@
       ]
     },
     {
-      "name": "Inventing Anna Season 1 (2022) แอนนา มายา ลวง",
-      "info": "HD",
-      "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/Inventing-Anna-Season-1-2022-220x300-c-default.jpg",
-      "stations": [
-        {
-          "name": "ตอนที่ 1",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/Inventing-Anna-Season-1-2022-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/2189ac46-a52c-5d18-a2fc-001e3b51d475.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 2",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/Inventing-Anna-Season-1-2022-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/e9662ae9-eaab-59d2-88e7-88e45e1d860c.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 3",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/Inventing-Anna-Season-1-2022-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/2882beb9-73ad-540b-b416-33d45cb3cfb3.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 4",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/Inventing-Anna-Season-1-2022-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/9d25ea01-1979-54f9-9ab8-985f3290adcc.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 5",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/Inventing-Anna-Season-1-2022-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/74b7f2c3-bd1b-5a6c-89bc-ff11a43e37c6.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 6",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/Inventing-Anna-Season-1-2022-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/0dd4bad4-2cad-5acb-a284-19c2caba6e6d.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 7",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/Inventing-Anna-Season-1-2022-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/f852c3e0-9c15-5da3-889c-bbf6aa4e6e9a.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 8",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/Inventing-Anna-Season-1-2022-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/6238819d-cfc8-5c34-aef6-0f5b3e772dfb.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 9",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/Inventing-Anna-Season-1-2022-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/cc19d7e5-5e87-51d6-b55a-a5117feb66d9.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        }
-      ]
-    },
-    {
       "name": "His Dark Materials Season 1 (2019) ธุลีปริศนา",
       "info": "HD",
       "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/His-Dark-Materials-Season-1-2019-220x300-c-default.png",
@@ -53224,6 +54078,104 @@
           "info": "ซับไทย",
           "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/Queen-of-the-South-Season-3-2018-220x300-c-default.jpg",
           "url": "https://www.sgcdnseriesn.xyz/view/c886a2f0-4be7-5944-b593-f99e54b17c6e.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        }
+      ]
+    },
+    {
+      "name": "Queen of the South Season 4 (2019) ราชินีแดนใต้",
+      "info": "SUB",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/Queen-of-the-South-Season-4-2019-220x300-c-default.jpg",
+      "stations": [
+        {
+          "name": "ซีซั่น 4 ตอนที่ 1",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/Queen-of-the-South-Season-4-2019-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/53d852e5-c703-579a-b001-c85559a0d0b5.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 4 ตอนที่ 2",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/Queen-of-the-South-Season-4-2019-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/0d1c9160-4f81-5142-b8f3-f192da8d0bb3.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 4 ตอนที่ 3",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/Queen-of-the-South-Season-4-2019-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/041e2704-9620-5214-a8f5-ef7fb97a9e17.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 4 ตอนที่ 4",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/Queen-of-the-South-Season-4-2019-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/98e60c39-6e8c-5470-bc8c-7c802c89ee1d.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 4 ตอนที่ 5",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/Queen-of-the-South-Season-4-2019-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/7fddb7e7-7e5a-52a5-b4c9-2931b8ba602d.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 4 ตอนที่ 6",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/Queen-of-the-South-Season-4-2019-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/fb0cd6f5-741f-584b-859f-a4353a4cdcc5.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 4 ตอนที่ 7",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/Queen-of-the-South-Season-4-2019-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/0b7c1f77-522c-5763-9104-0e6f69f120ae.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 4 ตอนที่ 8",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/Queen-of-the-South-Season-4-2019-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/6e0a3226-3960-54dc-bc5f-265794d630ef.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 4 ตอนที่ 9",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/Queen-of-the-South-Season-4-2019-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/139c8423-18d0-557d-936f-c9331bcbb78d.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 4 ตอนที่ 10",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/Queen-of-the-South-Season-4-2019-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/b3268e6f-a273-5b32-af5e-ceb696ef6160.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 4 ตอนที่ 11",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/Queen-of-the-South-Season-4-2019-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/308de7b7-b600-5c38-808a-06598392db5a.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 4 ตอนที่ 12",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/Queen-of-the-South-Season-4-2019-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/867ece59-2f14-5cdd-a7f0-6f0f46791050.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 4 ตอนที่ 13",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/Queen-of-the-South-Season-4-2019-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/ee79c047-3d83-536e-939e-8da53804bd75.m3u8",
           "referer": "https://www.sgcdnseriesn.xyz/"
         }
       ]

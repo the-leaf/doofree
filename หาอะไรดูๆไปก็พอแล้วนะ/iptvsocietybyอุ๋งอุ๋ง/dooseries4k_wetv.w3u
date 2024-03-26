@@ -1,9 +1,429 @@
 {
   "name": "WeTV",
-  "author": "เจียว เจียว อัพวันที่ 30 มกราคม 2567",
+  "author": "เจียว เจียว อัพวันที่ 26 มีนาคม 2567",
   "info": "ชีวิตไม่ได้ให้เราสิ่งที่ต้องการเสมอไป แต่มันจะให้เราสิ่งที่เราจำเป็นต้องการ",
   "image": "https://www.dooseries4k.com/wp-content/themes/dooseries4k/logo/logo.png",
   "groups": [
+    {
+      "name": "Sweet Trap (2024) สูตรลับรักรสหวาน",
+      "info": "SUB",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2024/02/Sweet-Trap-220x300-c-default.png",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/02/Sweet-Trap-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/59b7b53e-7942-5bc0-b762-660b7397d2ce.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/02/Sweet-Trap-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/747dd993-fb40-5c59-9549-e8abfd1cf22b.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/02/Sweet-Trap-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/3bd3d488-f175-51ef-9f5f-ffb394c8f05a.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/02/Sweet-Trap-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/f320ea6d-d673-51a6-90d8-8c24bfa6b840.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/02/Sweet-Trap-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/f82c3d8d-b539-588f-a2bf-23fa748cb2e2.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/02/Sweet-Trap-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/d86a0b7a-93a7-5750-9b9a-a804dbc910e6.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/02/Sweet-Trap-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/179f4a32-f201-569b-9959-007c284a5bf0.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/02/Sweet-Trap-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/c7d92610-bee1-57b9-ada2-82a35acbcea6.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 9",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/02/Sweet-Trap-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/970b69e7-8797-5cf1-8fdc-fb2554ce29e3.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 10",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/02/Sweet-Trap-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/f4607e6c-e561-50cb-a433-38881950ea25.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 11",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/02/Sweet-Trap-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/f0abedc9-c2a0-5a17-ba3b-07edf2b3e25e.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 12",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/02/Sweet-Trap-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/9b0e64c7-b37c-5c68-b40d-6e8f590c11a9.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 13",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/02/Sweet-Trap-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/1e5a63b6-5b22-5cfb-969d-e727c525eb92.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 14",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/02/Sweet-Trap-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/f8c038c8-d357-5476-b51b-a76eab5fc5aa.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 15",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/02/Sweet-Trap-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/382a6886-b89b-54cd-9a50-271787460b4f.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 16",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/02/Sweet-Trap-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/2e9517fb-24bc-5b65-a4e7-67d09690ea64.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 17",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/02/Sweet-Trap-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/897276af-704a-5631-9d94-baf5704a45d3.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 18",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/02/Sweet-Trap-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/95ca83b8-0837-566c-b579-eb1531181224.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 19",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/02/Sweet-Trap-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/6a255bf0-6b7a-5a8e-8b88-644363141cea.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 20",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/02/Sweet-Trap-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/da79d6f2-70fd-5cb7-97a4-a55e9ad312c3.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 21",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/02/Sweet-Trap-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/4f90df4a-1711-5c7c-8834-991db9e18f28.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 22",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/02/Sweet-Trap-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/c9cf111f-db68-5aab-8dde-9f88d482bd0f.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        }
+      ]
+    },
+    {
+      "name": "Sword and Fairy (Qi Jin Zhao) (2024) เซียนกระบี่เปิดผนึกพิชิตชะตา",
+      "info": "SUB",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2024/01/Sword-and-Fairy-Qi-Jin-Zhao-2024-220x300-c-default.png",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/01/Sword-and-Fairy-Qi-Jin-Zhao-2024-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/42ae1326-5f55-5104-8b74-868156898bd0.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/01/Sword-and-Fairy-Qi-Jin-Zhao-2024-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/3e9611b0-3938-5802-a114-435d37abd5ec.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/01/Sword-and-Fairy-Qi-Jin-Zhao-2024-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/1a0416a2-61d1-5f26-a5ad-428c05b81d81.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/01/Sword-and-Fairy-Qi-Jin-Zhao-2024-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/c2ba8b79-7ea2-5d00-a66c-885b5f1b3f05.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/01/Sword-and-Fairy-Qi-Jin-Zhao-2024-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/831512e8-8b43-5bc0-88a4-fd3a0ce5094a.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/01/Sword-and-Fairy-Qi-Jin-Zhao-2024-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/396c3bf8-77bc-57fe-9a8a-9c9ec29a5496.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/01/Sword-and-Fairy-Qi-Jin-Zhao-2024-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/d50c90b3-90f7-53d4-80a0-c1b6697cbe2d.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/01/Sword-and-Fairy-Qi-Jin-Zhao-2024-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/9d4c3aba-5870-5781-92d9-4172d8c7673d.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 9",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/01/Sword-and-Fairy-Qi-Jin-Zhao-2024-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/d7e28781-4a52-5ead-a931-5a7c8b5526dd.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 10",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/01/Sword-and-Fairy-Qi-Jin-Zhao-2024-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/fda69971-c48a-5b39-b173-68be9b5e8bc4.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 11",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/01/Sword-and-Fairy-Qi-Jin-Zhao-2024-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/de9fe253-589c-59db-b307-86f8053d7e79.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 12",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/01/Sword-and-Fairy-Qi-Jin-Zhao-2024-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/e6b0192d-d67e-52b9-a7c4-bd8ae779688f.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 13",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/01/Sword-and-Fairy-Qi-Jin-Zhao-2024-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/f6bc082b-f00f-5a82-aaf9-194811d180de.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 14",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/01/Sword-and-Fairy-Qi-Jin-Zhao-2024-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/53421aa7-552a-5311-9528-7f2d5b958e13.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 15",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/01/Sword-and-Fairy-Qi-Jin-Zhao-2024-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/0e70f73d-c6fd-5756-b020-0b04a5e13189.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 16",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/01/Sword-and-Fairy-Qi-Jin-Zhao-2024-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/50ffcb3f-d41c-5137-b477-954d93b27fbb.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 17",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/01/Sword-and-Fairy-Qi-Jin-Zhao-2024-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/e649f304-ed8d-5b29-8f88-9ba24f4c9326.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 18",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/01/Sword-and-Fairy-Qi-Jin-Zhao-2024-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/1281161d-6d38-5ae5-a22d-85ab0327ad24.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 19",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/01/Sword-and-Fairy-Qi-Jin-Zhao-2024-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/7946e6ed-6a3f-5c4d-90ac-52722fa3d746.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 20",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/01/Sword-and-Fairy-Qi-Jin-Zhao-2024-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/3f5b5272-7bd6-5b5c-a313-a820ea62b12b.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 21",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/01/Sword-and-Fairy-Qi-Jin-Zhao-2024-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/9b2bb173-1583-58eb-b75b-4c64be142d1f.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 22",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/01/Sword-and-Fairy-Qi-Jin-Zhao-2024-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/400e6cda-eafb-57d7-8eb9-5220f31b9f12.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 23",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/01/Sword-and-Fairy-Qi-Jin-Zhao-2024-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/9a8cced6-e18f-5f1b-95ac-60ac33aa9f83.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 24",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/01/Sword-and-Fairy-Qi-Jin-Zhao-2024-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/2cd24d35-0759-5018-b8ab-635b3e2a4ec9.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 25",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/01/Sword-and-Fairy-Qi-Jin-Zhao-2024-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/9fae671b-0d37-5352-952a-f43265d65d70.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 26",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/01/Sword-and-Fairy-Qi-Jin-Zhao-2024-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/d6593088-7ca7-51ee-8a03-ad43398097e6.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 27",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/01/Sword-and-Fairy-Qi-Jin-Zhao-2024-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/1c721fcc-a8db-52f0-b504-7a218d96896a.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 28",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/01/Sword-and-Fairy-Qi-Jin-Zhao-2024-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/ecda47d2-ebd1-527f-b26b-2e3eedb08124.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 29",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/01/Sword-and-Fairy-Qi-Jin-Zhao-2024-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/80351c91-2f44-5e4c-8735-05c01fc1b10a.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 30",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/01/Sword-and-Fairy-Qi-Jin-Zhao-2024-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/731f547e-4fba-59ae-9719-6ea153a23df6.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 31",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/01/Sword-and-Fairy-Qi-Jin-Zhao-2024-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/9b8d83a5-a7e7-52fc-aea7-1dfdc6b8e9a8.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 32",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/01/Sword-and-Fairy-Qi-Jin-Zhao-2024-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/7e8a481d-82f6-5963-9935-489f21a24dab.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 33",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/01/Sword-and-Fairy-Qi-Jin-Zhao-2024-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/39f147aa-4515-5ba0-a338-46b10ab8e143.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 34",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/01/Sword-and-Fairy-Qi-Jin-Zhao-2024-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/f7e1b485-fd1c-5fe0-901d-abdc60eece4b.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 35",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/01/Sword-and-Fairy-Qi-Jin-Zhao-2024-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/18b38ff5-23eb-5244-85bb-4209d062f6e3.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 36",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/01/Sword-and-Fairy-Qi-Jin-Zhao-2024-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/b9cb2e0f-6f17-5fa9-82c0-34b1e61508cb.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        }
+      ]
+    },
     {
       "name": "The Last Immortal (2023) ตำนานรักผนึกสวรรค์",
       "info": "HD",
@@ -459,9 +879,23 @@
         },
         {
           "name": "ตอนที่ 33",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/12/The-Last-Immortal-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/d120ad40-ae79-52d2-91ab-beb29527b523.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 33",
           "info": "ซับไทย",
           "image": "https://www.dooseries4k.com/wp-content/uploads/2023/12/The-Last-Immortal-2023-220x300-c-default.jpg",
           "url": "https://www.sgcdnseriesn.xyz/view/e41ab762-c48b-53c1-aaba-1630cfad8d43.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 34",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/12/The-Last-Immortal-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/c82a7bf6-c1e7-5968-be48-1822ddeeb9db.m3u8",
           "referer": "https://www.sgcdnseriesn.xyz/"
         },
         {
@@ -473,9 +907,23 @@
         },
         {
           "name": "ตอนที่ 35",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/12/The-Last-Immortal-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/923f68b7-ec4d-5d0c-a8c8-2c8041485364.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 35",
           "info": "ซับไทย",
           "image": "https://www.dooseries4k.com/wp-content/uploads/2023/12/The-Last-Immortal-2023-220x300-c-default.jpg",
           "url": "https://www.sgcdnseriesn.xyz/view/7415bc35-ac64-50e0-9295-1e7e4cc50040.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 36",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/12/The-Last-Immortal-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/88519660-e5ee-54c0-bf4e-334311fc8d2d.m3u8",
           "referer": "https://www.sgcdnseriesn.xyz/"
         },
         {
@@ -487,9 +935,23 @@
         },
         {
           "name": "ตอนที่ 37",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/12/The-Last-Immortal-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/ec74494a-64b0-5eb3-be7f-509ead11c759.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 37",
           "info": "ซับไทย",
           "image": "https://www.dooseries4k.com/wp-content/uploads/2023/12/The-Last-Immortal-2023-220x300-c-default.jpg",
           "url": "https://www.sgcdnseriesn.xyz/view/7f8eb9df-4080-5cce-b1b6-cfca5ba64301.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 38",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/12/The-Last-Immortal-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/9af3634d-3b5a-5e43-9a66-7653427df131.m3u8",
           "referer": "https://www.sgcdnseriesn.xyz/"
         },
         {
@@ -501,6 +963,13 @@
         },
         {
           "name": "ตอนที่ 39",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/12/The-Last-Immortal-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/4932b1d1-b0e1-5679-a175-13084bd1061f.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 39",
           "info": "ซับไทย",
           "image": "https://www.dooseries4k.com/wp-content/uploads/2023/12/The-Last-Immortal-2023-220x300-c-default.jpg",
           "url": "https://www.sgcdnseriesn.xyz/view/82cc1234-3ea9-5103-ad18-8d9c341e172f.m3u8",
@@ -508,9 +977,65 @@
         },
         {
           "name": "ตอนที่ 40",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/12/The-Last-Immortal-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/f07f457b-ea91-5be0-8b4c-f72cfd5c8a9b.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 40",
           "info": "ซับไทย",
           "image": "https://www.dooseries4k.com/wp-content/uploads/2023/12/The-Last-Immortal-2023-220x300-c-default.jpg",
           "url": "https://www.sgcdnseriesn.xyz/view/d1694425-1048-5c3c-898c-8eda29884368.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        }
+      ]
+    },
+    {
+      "name": "ไทบ้านคึกคัก มนต์รักอบต. (2023) Thibaan in Love The Series",
+      "info": "HD",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2024/02/Thibaan-in-Love-The-Series-220x300-c-default.png",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/02/Thibaan-in-Love-The-Series-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/de7f4bc7-9a01-5350-bfa4-d74dc6327600.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/02/Thibaan-in-Love-The-Series-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/c1bd23cf-9671-5f83-a431-a6d19d2945ed.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/02/Thibaan-in-Love-The-Series-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/2e2396e2-675c-598b-9e18-baeb88e976d3.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/02/Thibaan-in-Love-The-Series-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/f5928824-aed0-5f09-83a6-6694818e96d4.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/02/Thibaan-in-Love-The-Series-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/b234255e-682c-5e96-a6fe-45b90743c628.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/02/Thibaan-in-Love-The-Series-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/4512e762-ecb8-5548-9e65-0db44302caec.m3u8",
           "referer": "https://www.sgcdnseriesn.xyz/"
         }
       ]
@@ -1071,153 +1596,6 @@
           "info": "ซับไทย",
           "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/South-Wind-Knows-2023-220x300-c-default.jpg",
           "url": "https://www.sgcdnseriesn.xyz/view/4aeffd68-84b3-50a9-9b59-fddfecca627c.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        }
-      ]
-    },
-    {
-      "name": "Sword and Fairy (Qi Jin Zhao) (2024) เซียนกระบี่เปิดผนึกพิชิตชะตา",
-      "info": "SUB",
-      "image": "https://www.dooseries4k.com/wp-content/uploads/2024/01/Sword-and-Fairy-Qi-Jin-Zhao-2024-220x300-c-default.png",
-      "stations": [
-        {
-          "name": "ตอนที่ 1",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/01/Sword-and-Fairy-Qi-Jin-Zhao-2024-220x300-c-default.png",
-          "url": "https://www.sgcdnseriesn.xyz/view/42ae1326-5f55-5104-8b74-868156898bd0.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 2",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/01/Sword-and-Fairy-Qi-Jin-Zhao-2024-220x300-c-default.png",
-          "url": "https://www.sgcdnseriesn.xyz/view/3e9611b0-3938-5802-a114-435d37abd5ec.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 3",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/01/Sword-and-Fairy-Qi-Jin-Zhao-2024-220x300-c-default.png",
-          "url": "https://www.sgcdnseriesn.xyz/view/1a0416a2-61d1-5f26-a5ad-428c05b81d81.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 4",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/01/Sword-and-Fairy-Qi-Jin-Zhao-2024-220x300-c-default.png",
-          "url": "https://www.sgcdnseriesn.xyz/view/c2ba8b79-7ea2-5d00-a66c-885b5f1b3f05.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 5",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/01/Sword-and-Fairy-Qi-Jin-Zhao-2024-220x300-c-default.png",
-          "url": "https://www.sgcdnseriesn.xyz/view/831512e8-8b43-5bc0-88a4-fd3a0ce5094a.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 6",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/01/Sword-and-Fairy-Qi-Jin-Zhao-2024-220x300-c-default.png",
-          "url": "https://www.sgcdnseriesn.xyz/view/396c3bf8-77bc-57fe-9a8a-9c9ec29a5496.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 7",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/01/Sword-and-Fairy-Qi-Jin-Zhao-2024-220x300-c-default.png",
-          "url": "https://www.sgcdnseriesn.xyz/view/d50c90b3-90f7-53d4-80a0-c1b6697cbe2d.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 8",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/01/Sword-and-Fairy-Qi-Jin-Zhao-2024-220x300-c-default.png",
-          "url": "https://www.sgcdnseriesn.xyz/view/9d4c3aba-5870-5781-92d9-4172d8c7673d.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 9",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/01/Sword-and-Fairy-Qi-Jin-Zhao-2024-220x300-c-default.png",
-          "url": "https://www.sgcdnseriesn.xyz/view/d7e28781-4a52-5ead-a931-5a7c8b5526dd.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 10",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/01/Sword-and-Fairy-Qi-Jin-Zhao-2024-220x300-c-default.png",
-          "url": "https://www.sgcdnseriesn.xyz/view/fda69971-c48a-5b39-b173-68be9b5e8bc4.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 11",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/01/Sword-and-Fairy-Qi-Jin-Zhao-2024-220x300-c-default.png",
-          "url": "https://www.sgcdnseriesn.xyz/view/de9fe253-589c-59db-b307-86f8053d7e79.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 12",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/01/Sword-and-Fairy-Qi-Jin-Zhao-2024-220x300-c-default.png",
-          "url": "https://www.sgcdnseriesn.xyz/view/e6b0192d-d67e-52b9-a7c4-bd8ae779688f.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 13",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/01/Sword-and-Fairy-Qi-Jin-Zhao-2024-220x300-c-default.png",
-          "url": "https://www.sgcdnseriesn.xyz/view/f6bc082b-f00f-5a82-aaf9-194811d180de.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 14",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/01/Sword-and-Fairy-Qi-Jin-Zhao-2024-220x300-c-default.png",
-          "url": "https://www.sgcdnseriesn.xyz/view/53421aa7-552a-5311-9528-7f2d5b958e13.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 15",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/01/Sword-and-Fairy-Qi-Jin-Zhao-2024-220x300-c-default.png",
-          "url": "https://www.sgcdnseriesn.xyz/view/0e70f73d-c6fd-5756-b020-0b04a5e13189.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 16",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/01/Sword-and-Fairy-Qi-Jin-Zhao-2024-220x300-c-default.png",
-          "url": "https://www.sgcdnseriesn.xyz/view/50ffcb3f-d41c-5137-b477-954d93b27fbb.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 17",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/01/Sword-and-Fairy-Qi-Jin-Zhao-2024-220x300-c-default.png",
-          "url": "https://www.sgcdnseriesn.xyz/view/e649f304-ed8d-5b29-8f88-9ba24f4c9326.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 18",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/01/Sword-and-Fairy-Qi-Jin-Zhao-2024-220x300-c-default.png",
-          "url": "https://www.sgcdnseriesn.xyz/view/1281161d-6d38-5ae5-a22d-85ab0327ad24.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 19",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/01/Sword-and-Fairy-Qi-Jin-Zhao-2024-220x300-c-default.png",
-          "url": "https://www.sgcdnseriesn.xyz/view/7946e6ed-6a3f-5c4d-90ac-52722fa3d746.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 20",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/01/Sword-and-Fairy-Qi-Jin-Zhao-2024-220x300-c-default.png",
-          "url": "https://www.sgcdnseriesn.xyz/view/3f5b5272-7bd6-5b5c-a313-a820ea62b12b.m3u8",
           "referer": "https://www.sgcdnseriesn.xyz/"
         }
       ]
@@ -5279,7 +5657,232 @@
       "name": "Mr. & Mrs. Chen (2023)",
       "info": "SUB",
       "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Mr-and-Mrs-Chen-2023-220x300-c-default.jpg",
-      "stations": []
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Mr-and-Mrs-Chen-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/228456f7-63e6-564c-83f6-6f30b0fde1ed.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Mr-and-Mrs-Chen-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/dbae6825-1926-5460-b076-a0bc89ba5e8a.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Mr-and-Mrs-Chen-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/5cb9d266-0ded-501e-9b09-b8b743a2097b.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Mr-and-Mrs-Chen-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/815fd617-1a85-5865-9ba4-0c32402583e6.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Mr-and-Mrs-Chen-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/da7656be-fc50-5540-aca1-95274a28cba9.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Mr-and-Mrs-Chen-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/4bd48186-9b97-5b1f-acc2-f85703f49ed9.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Mr-and-Mrs-Chen-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/9d6a5c61-a2d7-5024-862f-d9b6941d80e0.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Mr-and-Mrs-Chen-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/3f82be3c-2bb3-52be-ab19-296b95cd7092.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 9",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Mr-and-Mrs-Chen-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/6fbb32cb-8b4b-57e0-9b85-c52f7f681349.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 10",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Mr-and-Mrs-Chen-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/78683718-cffc-56b1-87a6-2ef16ca751ce.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 11",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Mr-and-Mrs-Chen-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/d98810ae-5e64-54e6-ae46-216410a612d7.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 12",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Mr-and-Mrs-Chen-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/5a3c17af-87b0-5eb8-a508-d22bdf840c76.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 13",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Mr-and-Mrs-Chen-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/bbc3b48f-1c89-56e6-a523-0ad657e538aa.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 14",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Mr-and-Mrs-Chen-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/f4e29a8e-d6b7-5b69-ad78-5daf80b9ead6.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 15",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Mr-and-Mrs-Chen-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/70310fc7-6158-5737-b4c5-8e62ebe2690f.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 16",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Mr-and-Mrs-Chen-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/2f1fe64a-00f1-59cd-9e63-e2f7d0953233.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 17",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Mr-and-Mrs-Chen-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/e30f8b44-0a1e-5a93-91bd-897001acb7de.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 18",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Mr-and-Mrs-Chen-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/2662b07a-955e-5688-be06-6727436d9b73.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 19",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Mr-and-Mrs-Chen-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/b0867c83-9e3a-528b-a776-18bf6da78728.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 20",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Mr-and-Mrs-Chen-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/7a1f1b74-9411-5090-a366-3d12f014ad9c.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 21",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Mr-and-Mrs-Chen-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/444e80ce-f601-5fe0-9f04-759e704e5a38.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 22",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Mr-and-Mrs-Chen-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/2a1abfc2-58d6-50d3-83f9-c8073151da1c.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 23",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Mr-and-Mrs-Chen-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/fc833573-8099-5ac6-9e90-358dac021d65.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 24",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Mr-and-Mrs-Chen-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/3bb974ef-861e-5ec6-a161-1fa389801e05.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 25",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Mr-and-Mrs-Chen-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/f39e77bc-faa5-5cd1-a4b0-0193a9e4b8da.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 26",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Mr-and-Mrs-Chen-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/ec65cf5e-958e-5b3c-a6fb-a763fb1dff5d.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 27",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Mr-and-Mrs-Chen-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/bd54ae70-b661-574c-9aca-1e0a0efee6ef.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 28",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Mr-and-Mrs-Chen-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/9b4bfe57-3d7c-54c2-ae6e-868648f209da.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 29",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Mr-and-Mrs-Chen-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/ed5755fb-73a0-5b4e-a842-f620f0136d03.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 30",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Mr-and-Mrs-Chen-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/6b76d00d-73d0-543d-872c-587aca9e6843.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 31",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Mr-and-Mrs-Chen-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/358a372b-bfc4-5bde-8e66-f4966b523d4d.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 32",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Mr-and-Mrs-Chen-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/8cab66a3-4d5b-5e6b-b875-4cd25175624f.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        }
+      ]
     },
     {
       "name": "What’s Wrong with My Princess (2023) ย้อนวิญญาณชายาแค้น [พากย์ไทย]",
@@ -17607,9 +18210,23 @@
         },
         {
           "name": "ซีซั่น 2 ตอนที่ 30",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/08/Soul-Land-2018-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/b5f2f450-6a08-5029-a7d0-c3d795dbbd91.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 30",
           "info": "ซับไทย",
           "image": "https://www.dooseries4k.com/wp-content/uploads/2022/08/Soul-Land-2018-220x300-c-default.jpg",
           "url": "https://www.sgcdnseriesn.xyz/view/585e9cf0-c5d5-5cbc-a24c-952e5d0bd557.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 31",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/08/Soul-Land-2018-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/4c91886a-ec79-5c59-8fc7-913030b00162.m3u8",
           "referer": "https://www.sgcdnseriesn.xyz/"
         },
         {
@@ -17621,9 +18238,37 @@
         },
         {
           "name": "ซีซั่น 2 ตอนที่ 32",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/08/Soul-Land-2018-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/e29e193e-6490-568d-91b5-36e7030be2fa.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 32",
           "info": "ซับไทย",
           "image": "https://www.dooseries4k.com/wp-content/uploads/2022/08/Soul-Land-2018-220x300-c-default.jpg",
           "url": "https://www.sgcdnseriesn.xyz/view/6f0cdd84-735d-57ff-aef3-109343379b6c.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 33",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/08/Soul-Land-2018-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/a205b22b-424d-57b3-9795-5c040f18ffb4.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 34",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/08/Soul-Land-2018-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/1595f58a-3b4b-560b-9298-fe0374fc3ed1.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 35",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/08/Soul-Land-2018-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/2e67cf8c-488c-5dac-a6c5-fcbdb559c7c1.m3u8",
           "referer": "https://www.sgcdnseriesn.xyz/"
         }
       ]
