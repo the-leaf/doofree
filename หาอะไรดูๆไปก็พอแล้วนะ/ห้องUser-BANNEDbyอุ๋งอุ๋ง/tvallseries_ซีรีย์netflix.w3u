@@ -1,9 +1,247 @@
 {
   "name": "ซีรีย์Netflix",
-  "author": "เจียว เจียว อัพวันที่ 19 มีนาคม 2567",
+  "author": "เจียว เจียว อัพวันที่ 31 มีนาคม 2567",
   "info": "อยู่ในมุมที่ตัวเองมีความสุข ไม่จำเป็นต้องโดดเด่น ไม่จำเป็นต้องเหมือนใคร",
   "image": "https://tvallseries.co/wp-content/uploads/2021/01/logotvseries.png.webp",
   "groups": [
+    {
+      "name": "The Believers (2024) สาธุ EP.1-9 (จบ)",
+      "info": "พากย์ไทย",
+      "image": "https://tvallseries.co/wp-content/uploads/2024/03/The-Believers-2024-185x278.webp",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/03/The-Believers-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/bf4a04fc-b99b-4082-b505-673c713b7121/0"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/03/The-Believers-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/cbaebc3d-607a-4743-9f69-ef98d5281ce1/0"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/03/The-Believers-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/99c7a4fa-9043-4613-ad91-eddf11ab4a80/0"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/03/The-Believers-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/71f62912-7556-4f3a-ba2c-104f03a896fb/0"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/03/The-Believers-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/50205e24-5495-4eea-a4b2-730c9ddf9a40/0"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/03/The-Believers-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/1876d7d6-2d11-44db-94f3-b2a6af2b99ac/0"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/03/The-Believers-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/4abf4b0c-f132-4e7d-8de9-920d19c5ba55/0"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/03/The-Believers-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/8386e995-b541-46d8-b25d-abc5b8f2f2b8/0"
+        },
+        {
+          "name": "ตอนที่ 9 (ตอนจบ)",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/03/The-Believers-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/d87cb488-b34b-486a-996d-b2b7676204f3/0"
+        }
+      ]
+    },
+    {
+      "name": "Queen of Tears (2024) ราชินีแห่งน้ำตา EP.1-16 (กำลังรอฉาย)",
+      "info": "พากย์ไทย",
+      "image": "https://tvallseries.co/wp-content/uploads/2024/03/Queen-of-Tears-2024-1-185x278.webp",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/03/Queen-of-Tears-2024-1-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/b5b267fa-5190-4b97-8814-9d48a2b916b6/0"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/03/Queen-of-Tears-2024-1-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/ea541c0f-ee26-4818-af2d-8d66b3cf1dcd/0"
+        }
+      ]
+    },
+    {
+      "name": "3 Body Problem (2024) ดาวซานถี่ อุบัติการณ์สงครามล้างโลก EP.1-8 (จบ)",
+      "info": "พากย์ไทย",
+      "image": "https://tvallseries.co/wp-content/uploads/2024/03/3-Body-Problem-2024-185x278.webp",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/03/3-Body-Problem-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/9bb545c4-66ad-4224-9e98-87001f4885e7/0"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/03/3-Body-Problem-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/ec8729a8-572c-40f4-bc03-e60efaa69cb9/0"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/03/3-Body-Problem-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/793c7294-4dc1-47d9-b6e0-c826430ac2d8/0"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/03/3-Body-Problem-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/84dce251-f967-4b0f-bb59-dcdca0deceb7/0"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/03/3-Body-Problem-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/6cfccefb-9aa3-4eb7-a3be-02e8777b142a/0"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/03/3-Body-Problem-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/d5b022b5-a919-44f8-bf2f-146eee691807/0"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/03/3-Body-Problem-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/e57f1087-9c34-416c-a385-6c851d1db548/0"
+        },
+        {
+          "name": "ตอนที่ 8 (ตอนจบ)",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/03/3-Body-Problem-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/69e90cc8-8a5f-4188-9281-2d24428e891a/0"
+        }
+      ]
+    },
+    {
+      "name": "Physical 100 ร้อยแกร่งแข่งอึด Season 1-2 (กำลังรอฉาย)",
+      "info": "พากย์ไทย",
+      "image": "https://tvallseries.co/wp-content/uploads/2023/04/Physical-100-2023-ร้อยแกร่งแข่งอึด-185x278.webp",
+      "stations": [
+        {
+          "name": "ซีซั่น 1 ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2023/04/Physical-100-2023-ร้อยแกร่งแข่งอึด-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/9b7e3983-b8a0-4afb-aeb5-cc7574381997/0"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2023/04/Physical-100-2023-ร้อยแกร่งแข่งอึด-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/b6f5bc0d-8ae2-41c5-82bd-6f5ce020d19d/0"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2023/04/Physical-100-2023-ร้อยแกร่งแข่งอึด-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/639afa3d-bf0a-4bef-92a9-b75aae92dd91/0"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2023/04/Physical-100-2023-ร้อยแกร่งแข่งอึด-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/8b3db293-5df4-41ca-9948-e767635b910b/0"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2023/04/Physical-100-2023-ร้อยแกร่งแข่งอึด-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/96ceeb78-ff55-485b-bb73-c90af63f38eb/0"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2023/04/Physical-100-2023-ร้อยแกร่งแข่งอึด-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/5d693ab9-f9d8-4334-8ef4-da2e03ed23dd/0"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2023/04/Physical-100-2023-ร้อยแกร่งแข่งอึด-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/c9f62313-5db0-40eb-8018-31dddd0b726d/0"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 8",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2023/04/Physical-100-2023-ร้อยแกร่งแข่งอึด-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/0c4de2c9-f828-4067-918c-6c50b8cb648a/0"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 9 (ตอนจบ)",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2023/04/Physical-100-2023-ร้อยแกร่งแข่งอึด-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/fc93e420-3853-4ef9-a655-f02afca71866/0"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2023/04/Physical-100-2023-ร้อยแกร่งแข่งอึด-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/9fda06df-0cf1-4308-8727-fe96f79a2016/0"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2023/04/Physical-100-2023-ร้อยแกร่งแข่งอึด-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/bea49e03-8a55-4a9a-a8e6-b0d045638ef4/0"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2023/04/Physical-100-2023-ร้อยแกร่งแข่งอึด-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/3ee1a8fd-fa60-43df-9421-68830673af01/0"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2023/04/Physical-100-2023-ร้อยแกร่งแข่งอึด-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/1854344c-49b8-4306-ab96-8abec7a5fbcd/0"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 5 (กำลังรอฉาย)",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2023/04/Physical-100-2023-ร้อยแกร่งแข่งอึด-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/7b6d70b0-b782-4144-85e0-ed4ad474878a/0"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2023/04/Physical-100-2023-ร้อยแกร่งแข่งอึด-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/ef8d0b09-a3ea-4849-a1cb-203ba368f7c6/0"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2023/04/Physical-100-2023-ร้อยแกร่งแข่งอึด-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/510e7828-351f-4c2d-bac7-216cfe7d9911/0"
+        }
+      ]
+    },
     {
       "name": "Iron Reign (2024) เจ้าพ่อกำปั้นเหล็ก EP1-8 (จบ)",
       "info": "พากย์ไทย",
@@ -86,7 +324,7 @@
           "name": "ตอนที่ 4",
           "info": "พากย์ไทย",
           "image": "https://tvallseries.co/wp-content/uploads/2024/03/Chicken-Nugget-2024-185x278.webp",
-          "url": "https://playcdn.tvallseries.com/fd32dbde-abde-47ad-9e76-3f5e4a8d3876/0"
+          "url": "https://playcdn.tvallseries.com/d236698b-4b24-4e74-9ae7-d7692f9d54fe/0"
         },
         {
           "name": "ตอนที่ 5",
@@ -234,6 +472,18 @@
           "info": "ซับไทย",
           "image": "https://tvallseries.co/wp-content/uploads/2024/03/Queen-of-Tears-2024-185x278.webp",
           "url": "https://playcdn.tvallseries.com/904f1ca7-7ac1-4d4d-ae81-021784b43f84/0"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "ซับไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/03/Queen-of-Tears-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/1ad9c473-2119-428f-9cc6-6990f7601c64/0"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "ซับไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/03/Queen-of-Tears-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/05194121-bf3e-441d-9bd5-dc10fbbeff6a/0"
         }
       ]
     },
@@ -624,7 +874,7 @@
           "name": "ตอนที่ 5",
           "info": "พากย์ไทย",
           "image": "https://tvallseries.co/wp-content/uploads/2024/02/House-of-Ninjas-2024-185x278.webp",
-          "url": "https://playcdn.tvallseries.com/embed/essa6ppz3f/"
+          "url": "https://playcdn.tvallseries.com/8d31db84-afa5-484b-a86b-97511247457e/0"
         },
         {
           "name": "ตอนที่ 6",
@@ -751,7 +1001,7 @@
           "name": "ซีซั่น 2 ตอนที่ 7",
           "info": "พากย์ไทย",
           "image": "https://tvallseries.co/wp-content/uploads/2024/02/Surviving-Summer-2023-185x278.webp",
-          "url": "https://playcdn.tvallseries.com/b68af4a6-5970-4f47-8cb4-ed78e9b742e6/0"
+          "url": "https://playcdn.tvallseries.com/6c495897-fd60-49f1-98f9-238f7a2cd706/_"
         },
         {
           "name": "ซีซั่น 2 ตอนที่ 8 (ตอนจบ)",
@@ -1099,7 +1349,7 @@
           "name": "ตอนที่ 4",
           "info": "พากย์ไทย",
           "image": "https://tvallseries.co/wp-content/uploads/2024/01/The-Bequeathed-2024-185x278.webp",
-          "url": "https://playcdn.tvallseries.com/9ea135d0-1dd1-409f-8a65-e3097ebdb075/0"
+          "url": "https://playcdn.tvallseries.com/883e2d86-d50e-4eac-a8b9-27141611c3b5/_"
         },
         {
           "name": "ตอนที่ 5",
@@ -3134,7 +3384,7 @@
           "name": "ตอนที่ 6",
           "info": "ซับไทย",
           "image": "https://tvallseries.co/wp-content/uploads/2023/10/Creature-2023-185x278.webp",
-          "url": "https://playcdn.tvallseries.com/3f6fef33-e2bd-404a-b320-c1a7995a6703/0"
+          "url": "https://playcdn.tvallseries.com/44c35cb0-ced5-4ec5-af9b-df22ada31ff9/_"
         },
         {
           "name": "ตอนที่ 7",
@@ -4754,7 +5004,7 @@
           "name": "ซีซั่น 1 ตอนที่ 5",
           "info": "พากย์ไทย",
           "image": "https://tvallseries.co/wp-content/uploads/2023/08/The-Lincoln-Lawyer-185x278.webp",
-          "url": "https://playcdn.tvallseries.com/3885df42-fc98-4f0a-8b43-ba43eb52bdd1/0"
+          "url": "https://playcdn.tvallseries.com/2393f7b3-0be3-4700-b90d-16b64eab8a89/_"
         },
         {
           "name": "ซีซั่น 1 ตอนที่ 6",
@@ -5895,7 +6145,7 @@
           "name": "ตอนที่ 7",
           "info": "ซับไทย",
           "image": "https://tvallseries.co/wp-content/uploads/2023/07/Rugal-2020-185x278.webp",
-          "url": "https://playcdn.tvallseries.com/3bc7274e-cc2f-4f86-9069-1d8e9d1ffcbe/0"
+          "url": "https://playcdn.tvallseries.com/d56c7d42-45f2-49b4-89a1-7de53ebe7978/_"
         },
         {
           "name": "ตอนที่ 8",
@@ -6247,7 +6497,7 @@
           "name": "ตอนที่ 1",
           "info": "ซับไทย",
           "image": "https://tvallseries.co/wp-content/uploads/2023/06/Sleeping-Dog-2023-185x278.webp",
-          "url": "https://playcdn.tvallseries.com/6d40f24a-012d-4304-8a41-f38ebf6a45cf/0"
+          "url": "https://playcdn.tvallseries.com/4a51789f-e9ff-4bba-90ab-d2c36676dfbb/_"
         },
         {
           "name": "ตอนที่ 2",
@@ -6406,7 +6656,7 @@
           "name": "ตอนที่ 1",
           "info": "ซับไทย",
           "image": "https://tvallseries.co/wp-content/uploads/2023/06/See-You-in-My-19th-Life-2023-e1687155039787-185x278.webp",
-          "url": "https://playcdn.tvallseries.com/f3c0bfd7-b55e-4a4b-93f0-81c6227cd030/0"
+          "url": "https://playcdn.tvallseries.com/536cf048-6630-4f9c-996d-aff7d4f0b48a/_"
         },
         {
           "name": "ตอนที่ 2",
@@ -6485,7 +6735,7 @@
           "name": "ตอนที่ 1",
           "info": "ซับไทย",
           "image": "https://tvallseries.co/wp-content/uploads/2023/06/King-The-Land-2023-e1687153821936-185x278.webp",
-          "url": "https://playcdn.tvallseries.com/d209e011-fcb6-4e75-8c6a-89e1b9733b66/0"
+          "url": "https://playcdn.tvallseries.com/9ef4a06d-d2b3-4349-8e74-bac3e64c6a5d/_"
         },
         {
           "name": "ตอนที่ 2",
@@ -8380,67 +8630,6 @@
       ]
     },
     {
-      "name": "Physical 100 (2023) ร้อยแกร่งแข่งอึด EP.1-9 (จบ)",
-      "info": "พากย์ไทย",
-      "image": "https://tvallseries.co/wp-content/uploads/2023/04/Physical-100-2023-ร้อยแกร่งแข่งอึด-185x278.webp",
-      "stations": [
-        {
-          "name": "ตอนที่ 1",
-          "info": "พากย์ไทย",
-          "image": "https://tvallseries.co/wp-content/uploads/2023/04/Physical-100-2023-ร้อยแกร่งแข่งอึด-185x278.webp",
-          "url": "https://playcdn.tvallseries.com/9b7e3983-b8a0-4afb-aeb5-cc7574381997/0"
-        },
-        {
-          "name": "ตอนที่ 2",
-          "info": "พากย์ไทย",
-          "image": "https://tvallseries.co/wp-content/uploads/2023/04/Physical-100-2023-ร้อยแกร่งแข่งอึด-185x278.webp",
-          "url": "https://playcdn.tvallseries.com/b6f5bc0d-8ae2-41c5-82bd-6f5ce020d19d/0"
-        },
-        {
-          "name": "ตอนที่ 3",
-          "info": "พากย์ไทย",
-          "image": "https://tvallseries.co/wp-content/uploads/2023/04/Physical-100-2023-ร้อยแกร่งแข่งอึด-185x278.webp",
-          "url": "https://playcdn.tvallseries.com/639afa3d-bf0a-4bef-92a9-b75aae92dd91/0"
-        },
-        {
-          "name": "ตอนที่ 4",
-          "info": "พากย์ไทย",
-          "image": "https://tvallseries.co/wp-content/uploads/2023/04/Physical-100-2023-ร้อยแกร่งแข่งอึด-185x278.webp",
-          "url": "https://playcdn.tvallseries.com/8b3db293-5df4-41ca-9948-e767635b910b/0"
-        },
-        {
-          "name": "ตอนที่ 5",
-          "info": "พากย์ไทย",
-          "image": "https://tvallseries.co/wp-content/uploads/2023/04/Physical-100-2023-ร้อยแกร่งแข่งอึด-185x278.webp",
-          "url": "https://playcdn.tvallseries.com/96ceeb78-ff55-485b-bb73-c90af63f38eb/0"
-        },
-        {
-          "name": "ตอนที่ 6",
-          "info": "พากย์ไทย",
-          "image": "https://tvallseries.co/wp-content/uploads/2023/04/Physical-100-2023-ร้อยแกร่งแข่งอึด-185x278.webp",
-          "url": "https://playcdn.tvallseries.com/5d693ab9-f9d8-4334-8ef4-da2e03ed23dd/0"
-        },
-        {
-          "name": "ตอนที่ 7",
-          "info": "พากย์ไทย",
-          "image": "https://tvallseries.co/wp-content/uploads/2023/04/Physical-100-2023-ร้อยแกร่งแข่งอึด-185x278.webp",
-          "url": "https://playcdn.tvallseries.com/c9f62313-5db0-40eb-8018-31dddd0b726d/0"
-        },
-        {
-          "name": "ตอนที่ 8",
-          "info": "พากย์ไทย",
-          "image": "https://tvallseries.co/wp-content/uploads/2023/04/Physical-100-2023-ร้อยแกร่งแข่งอึด-185x278.webp",
-          "url": "https://playcdn.tvallseries.com/0c4de2c9-f828-4067-918c-6c50b8cb648a/0"
-        },
-        {
-          "name": "ตอนที่ 9 (ตอนจบ)",
-          "info": "พากย์ไทย",
-          "image": "https://tvallseries.co/wp-content/uploads/2023/04/Physical-100-2023-ร้อยแกร่งแข่งอึด-185x278.webp",
-          "url": "https://playcdn.tvallseries.com/fc93e420-3853-4ef9-a655-f02afca71866/0"
-        }
-      ]
-    },
-    {
       "name": "BEEF (2023) คนหัวร้อน EP.1-10 (จบ)",
       "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/04/4b4v7RnPhNyPEaVGFarEuo74r8W-185x278.jpg",
@@ -9050,7 +9239,7 @@
           "name": "ตอนที่ 6",
           "info": "ซับไทย",
           "image": "https://tvallseries.co/wp-content/uploads/2023/03/kpmf1CHtclmwv26mfYI98hxlbId-185x278.jpg",
-          "url": "https://playcdn.tvallseries.com/a28f1d9a-b139-417c-bc44-928099a68361/0"
+          "url": "https://playcdn.tvallseries.com/6013bce5-5c89-40eb-ac97-0e1c403c7552/_"
         },
         {
           "name": "ตอนที่ 7 (ตอนจบ)",
@@ -9322,7 +9511,7 @@
           "name": "ซีซั่น 2 ตอนที่ 2",
           "info": "ซับไทย",
           "image": "https://tvallseries.co/wp-content/uploads/2021/06/2ST6l4WP7ZfqAetuttBqx8F3AAH-185x278.jpg",
-          "url": "https://playcdn.tvallseries.com/835421cf-2ab6-4543-af19-0de0a5a2b5ff/0"
+          "url": "https://playcdn.tvallseries.com/5e31e403-1123-4ca5-a165-afd1a8ce9b7e/_"
         },
         {
           "name": "ซีซั่น 2 ตอนที่ 3",
@@ -11034,7 +11223,7 @@
           "name": "ซีซั่น 1 ตอนที่ 3",
           "info": "พากย์ไทย",
           "image": "https://tvallseries.co/wp-content/uploads/2023/01/rDFy1fUU6OC3Mm0CLFB7u0fGwVN-185x278.jpg",
-          "url": "https://playcdn.tvallseries.com/219d8183-2a99-48df-a52f-250ed0bd1a63/0"
+          "url": "https://playcdn.tvallseries.com/ca9e5aa0-2464-4ddc-850d-c11a95e1eef7/_"
         },
         {
           "name": "ซีซั่น 1 ตอนที่ 4",
@@ -12040,7 +12229,7 @@
           "name": "ซีซั่น 1 ตอนที่ 8 (ตอนจบ)",
           "info": "พากย์ไทย",
           "image": "https://tvallseries.co/wp-content/uploads/2022/12/20mOwAAPwZ1vLQkw0fvuQHiG7bO-185x278.jpg",
-          "url": "https://playcdn.tvallseries.com/09b665a2-d9b8-4468-a700-ce0bb666475e/0"
+          "url": "https://playcdn.tvallseries.com/f4b8b3f2-5ac6-4312-9419-17d87d2d5e17/_"
         },
         {
           "name": "ซีซั่น 2 ตอนที่ 1",
@@ -12497,7 +12686,7 @@
           "name": "ซีซั่น 1 1 ตอนที่ 5",
           "info": "พากย์ไทย",
           "image": "https://tvallseries.co/wp-content/uploads/2022/12/3NTAbAiao4JLzFQw6YxP1YZppM8-185x278.jpg",
-          "url": "https://playcdn.tvallseries.com/ed1d3549-2a0a-4d5d-b9c1-0067e9454ebc/0"
+          "url": "https://playcdn.tvallseries.com/a58867fd-5733-4378-a963-55b7d0c545a0/_"
         },
         {
           "name": "ซีซั่น 1 1 ตอนที่ 6",
@@ -13071,7 +13260,7 @@
           "name": "ตอนที่ 1",
           "info": "พากย์ไทย",
           "image": "https://tvallseries.co/wp-content/uploads/2022/11/jeGtaMwGxPmQN5xM4ClnwPQcNQz-185x278.jpg",
-          "url": "https://playcdn.tvallseries.com/58d6c471-9246-4d17-a42a-e6a029c1fdd4/0"
+          "url": "https://playcdn.tvallseries.com/761a712f-ac26-4f1a-9a2a-f4d55b0819a2/_"
         },
         {
           "name": "ตอนที่ 2",
@@ -14024,7 +14213,7 @@
           "name": "ตอนที่ 1",
           "info": "Soundtrack",
           "image": "https://tvallseries.co/wp-content/uploads/2022/10/5BTn4GxWL48BP8OkfiatxZ6qpuE-185x278.jpg",
-          "url": "https://playcdn.tvallseries.com/25f2c9ff-d398-415a-a1b6-17ee0761b5a3/0"
+          "url": "https://playcdn.tvallseries.com/851d892a-a9c5-47b6-9613-2be6ad20637f/0"
         },
         {
           "name": "ตอนที่ 2",
@@ -14508,7 +14697,7 @@
           "name": "ตอนที่ 1",
           "info": "พากย์ไทย",
           "image": "https://tvallseries.co/wp-content/uploads/2022/09/psnYuOZ2cRrBSwl9QbHOphbMEaz-185x278.jpg",
-          "url": "https://playcdn.tvallseries.com/6a96b415-1320-4cbe-9afe-fa4242cf5992/0"
+          "url": "https://playcdn.tvallseries.com/2a14181a-adb9-4262-bdfe-592dbcfc9370/0"
         },
         {
           "name": "ตอนที่ 2",
@@ -16018,7 +16207,7 @@
           "name": "ตอนที่ 7 (ตอนจบ)",
           "info": "พากย์ไทย",
           "image": "https://tvallseries.co/wp-content/uploads/2022/07/zaPSsdJrRZFtMRNrS4OqTpSkGFo-185x278.jpg",
-          "url": "https://playcdn.tvallseries.com/51317361-2f9e-4108-855f-5c1cd1ccf122/0"
+          "url": "https://playcdn.tvallseries.com/debf060f-3f95-4dc9-a493-32a48d6e15e8/_"
         }
       ]
     },
@@ -18569,7 +18758,7 @@
           "name": "ตอนที่ 9",
           "info": "ซับไทย",
           "image": "https://tvallseries.co/wp-content/uploads/2022/02/5JqmQ3EbQ6B3tQoMx1SFIbbhVuJ-185x278.jpg",
-          "url": "https://playcdn.tvallseries.com/f316dc84-6d63-4604-a745-65471fddede2/0"
+          "url": "https://playcdn.tvallseries.com/a5a8321a-15fe-4eb8-a086-303d23f62843/_"
         },
         {
           "name": "ตอนที่ 10",
@@ -20611,85 +20800,6 @@
       ]
     },
     {
-      "name": "Dive Club ตอนที่ 1-12 (จบ)",
-      "info": "พากย์ไทย",
-      "image": "https://tvallseries.co/wp-content/uploads/2021/09/n0pmXgbBepjIcE93g5OeqdCfZ60-185x278.jpg",
-      "stations": [
-        {
-          "name": "ตอนที่ 1",
-          "info": "พากย์ไทย",
-          "image": "https://tvallseries.co/wp-content/uploads/2021/09/n0pmXgbBepjIcE93g5OeqdCfZ60-185x278.jpg",
-          "url": "https://playcdn.tvallseries.com/2cbcf184-e254-4048-97db-cc3a91f6b12a/0"
-        },
-        {
-          "name": "ตอนที่ 2",
-          "info": "พากย์ไทย",
-          "image": "https://tvallseries.co/wp-content/uploads/2021/09/n0pmXgbBepjIcE93g5OeqdCfZ60-185x278.jpg",
-          "url": "https://playcdn.tvallseries.com/bb718f70-643f-4bb6-af53-7f19e3ea5f3d/0"
-        },
-        {
-          "name": "ตอนที่ 3",
-          "info": "พากย์ไทย",
-          "image": "https://tvallseries.co/wp-content/uploads/2021/09/n0pmXgbBepjIcE93g5OeqdCfZ60-185x278.jpg",
-          "url": "https://playcdn.tvallseries.com/ffa76f60-0322-4f4a-b813-24316e7fdef7/0"
-        },
-        {
-          "name": "ตอนที่ 4",
-          "info": "พากย์ไทย",
-          "image": "https://tvallseries.co/wp-content/uploads/2021/09/n0pmXgbBepjIcE93g5OeqdCfZ60-185x278.jpg",
-          "url": "https://playcdn.tvallseries.com/3d67b672-5510-489f-b44c-85025af5d26a/0"
-        },
-        {
-          "name": "ตอนที่ 5",
-          "info": "พากย์ไทย",
-          "image": "https://tvallseries.co/wp-content/uploads/2021/09/n0pmXgbBepjIcE93g5OeqdCfZ60-185x278.jpg",
-          "url": "https://playcdn.tvallseries.com/0ef8e021-fd8a-40b4-8b4c-0d295e7bfcc7/0"
-        },
-        {
-          "name": "ตอนที่ 6",
-          "info": "พากย์ไทย",
-          "image": "https://tvallseries.co/wp-content/uploads/2021/09/n0pmXgbBepjIcE93g5OeqdCfZ60-185x278.jpg",
-          "url": "https://playcdn.tvallseries.com/28a1d042-5afc-409c-b808-80e699d94741/0"
-        },
-        {
-          "name": "ตอนที่ 7",
-          "info": "พากย์ไทย",
-          "image": "https://tvallseries.co/wp-content/uploads/2021/09/n0pmXgbBepjIcE93g5OeqdCfZ60-185x278.jpg",
-          "url": "https://playcdn.tvallseries.com/0013163e-6487-4e45-902f-45dae09b81ec/0"
-        },
-        {
-          "name": "ตอนที่ 8",
-          "info": "พากย์ไทย",
-          "image": "https://tvallseries.co/wp-content/uploads/2021/09/n0pmXgbBepjIcE93g5OeqdCfZ60-185x278.jpg",
-          "url": "https://playcdn.tvallseries.com/f502173f-d5b7-4716-b19d-e803bb82a324/0"
-        },
-        {
-          "name": "ตอนที่ 9",
-          "info": "พากย์ไทย",
-          "image": "https://tvallseries.co/wp-content/uploads/2021/09/n0pmXgbBepjIcE93g5OeqdCfZ60-185x278.jpg",
-          "url": "https://playcdn.tvallseries.com/6e3b48a5-d94b-45db-8546-0c303bea3e74/0"
-        },
-        {
-          "name": "ตอนที่ 10",
-          "info": "พากย์ไทย",
-          "image": "https://tvallseries.co/wp-content/uploads/2021/09/n0pmXgbBepjIcE93g5OeqdCfZ60-185x278.jpg",
-          "url": "https://playcdn.tvallseries.com/65b2dbd6-84cf-4b97-ac57-9807c12e02ac/0"
-        },
-        {
-          "name": "ตอนที่ 11",
-          "info": "พากย์ไทย",
-          "image": "https://tvallseries.co/wp-content/uploads/2021/09/n0pmXgbBepjIcE93g5OeqdCfZ60-185x278.jpg",
-          "url": "https://playcdn.tvallseries.com/29eb2ff5-d744-4eed-b340-0d6ba3195429/0"
-        },
-        {
-          "name": "ตอนที่ 12 ตอนจบ",
-          "info": "พากย์ไทย",
-          "image": "https://tvallseries.co/wp-content/uploads/2021/09/n0pmXgbBepjIcE93g5OeqdCfZ60-185x278.jpg",
-          "url": "https://playcdn.tvallseries.com/fb6a72dc-553b-42bb-a74f-790e369071ca/0"
-        }
-      ]
-    },
-    {
       "name": "Control Z 2021 Season 1-2 (จบ)",
       "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/09/fl6S0hvaYvFeRYGniMm9KzNg3AN-185x278.jpg",
@@ -20789,6 +20899,85 @@
           "info": "ซับไทย",
           "image": "https://tvallseries.co/wp-content/uploads/2021/09/fl6S0hvaYvFeRYGniMm9KzNg3AN-185x278.jpg",
           "url": "https://playcdn.tvallseries.com/5fea3f5b-c049-4edc-b6de-beebb1e3dfa1/0"
+        }
+      ]
+    },
+    {
+      "name": "Dive Club ตอนที่ 1-12 (จบ)",
+      "info": "พากย์ไทย",
+      "image": "https://tvallseries.co/wp-content/uploads/2021/09/n0pmXgbBepjIcE93g5OeqdCfZ60-185x278.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2021/09/n0pmXgbBepjIcE93g5OeqdCfZ60-185x278.jpg",
+          "url": "https://playcdn.tvallseries.com/2cbcf184-e254-4048-97db-cc3a91f6b12a/0"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2021/09/n0pmXgbBepjIcE93g5OeqdCfZ60-185x278.jpg",
+          "url": "https://playcdn.tvallseries.com/bb718f70-643f-4bb6-af53-7f19e3ea5f3d/0"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2021/09/n0pmXgbBepjIcE93g5OeqdCfZ60-185x278.jpg",
+          "url": "https://playcdn.tvallseries.com/ffa76f60-0322-4f4a-b813-24316e7fdef7/0"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2021/09/n0pmXgbBepjIcE93g5OeqdCfZ60-185x278.jpg",
+          "url": "https://playcdn.tvallseries.com/3d67b672-5510-489f-b44c-85025af5d26a/0"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2021/09/n0pmXgbBepjIcE93g5OeqdCfZ60-185x278.jpg",
+          "url": "https://playcdn.tvallseries.com/0ef8e021-fd8a-40b4-8b4c-0d295e7bfcc7/0"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2021/09/n0pmXgbBepjIcE93g5OeqdCfZ60-185x278.jpg",
+          "url": "https://playcdn.tvallseries.com/28a1d042-5afc-409c-b808-80e699d94741/0"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2021/09/n0pmXgbBepjIcE93g5OeqdCfZ60-185x278.jpg",
+          "url": "https://playcdn.tvallseries.com/0013163e-6487-4e45-902f-45dae09b81ec/0"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2021/09/n0pmXgbBepjIcE93g5OeqdCfZ60-185x278.jpg",
+          "url": "https://playcdn.tvallseries.com/f502173f-d5b7-4716-b19d-e803bb82a324/0"
+        },
+        {
+          "name": "ตอนที่ 9",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2021/09/n0pmXgbBepjIcE93g5OeqdCfZ60-185x278.jpg",
+          "url": "https://playcdn.tvallseries.com/6e3b48a5-d94b-45db-8546-0c303bea3e74/0"
+        },
+        {
+          "name": "ตอนที่ 10",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2021/09/n0pmXgbBepjIcE93g5OeqdCfZ60-185x278.jpg",
+          "url": "https://playcdn.tvallseries.com/65b2dbd6-84cf-4b97-ac57-9807c12e02ac/0"
+        },
+        {
+          "name": "ตอนที่ 11",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2021/09/n0pmXgbBepjIcE93g5OeqdCfZ60-185x278.jpg",
+          "url": "https://playcdn.tvallseries.com/29eb2ff5-d744-4eed-b340-0d6ba3195429/0"
+        },
+        {
+          "name": "ตอนที่ 12 ตอนจบ",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2021/09/n0pmXgbBepjIcE93g5OeqdCfZ60-185x278.jpg",
+          "url": "https://playcdn.tvallseries.com/fb6a72dc-553b-42bb-a74f-790e369071ca/0"
         }
       ]
     },
@@ -24090,7 +24279,7 @@
           "name": "ตอนที่ 7",
           "info": "พากย์ไทย",
           "image": "https://tvallseries.co/wp-content/uploads/2021/06/zdopgBFVozX2d1pIUmMZlfWj5t1-185x278.jpg",
-          "url": "https://playcdn.tvallseries.com/e6bfdc54-6678-4775-8ff2-17fe281ec54a/0"
+          "url": "https://playcdn.tvallseries.com/68dac97c-27da-42f9-a47c-eba60163e18a/_"
         },
         {
           "name": "ตอนที่ 8",
@@ -25091,7 +25280,7 @@
           "name": "ตอนที่ 16 ตอนจบ",
           "info": "พากย์ไทย",
           "image": "https://tvallseries.co/wp-content/uploads/2021/06/Sisyphus-The-Myth-185x278.jpg",
-          "url": "https://playcdn.tvallseries.com/342f7b6d-ddf1-4c2f-818f-0edaea903336/0"
+          "url": "https://playcdn.tvallseries.com/cabed82e-6cb1-4804-addc-3a8a6eddf637/_"
         }
       ]
     },
@@ -25555,7 +25744,7 @@
           "name": "ตอนที่ 63",
           "info": "ซับไทย",
           "image": "https://tvallseries.co/wp-content/uploads/2021/06/oClpkfN2ath0GLZFstW1P7wMlan-185x278.jpg",
-          "url": "https://playcdn.tvallseries.com/c1e94e5a-ec45-4b33-899d-54ebc238052a/0"
+          "url": "https://playcdn.tvallseries.com/cb9fc41d-f7a8-49d6-8cd1-69d3ff78c801/_"
         },
         {
           "name": "ตอนที่ 64",
@@ -25579,7 +25768,7 @@
           "name": "ตอนที่ 67",
           "info": "ซับไทย",
           "image": "https://tvallseries.co/wp-content/uploads/2021/06/oClpkfN2ath0GLZFstW1P7wMlan-185x278.jpg",
-          "url": "https://playcdn.tvallseries.com/d379d623-dced-450a-9be3-0d274be40136/0"
+          "url": "https://playcdn.tvallseries.com/9084f6d3-fab0-4ac3-acad-49ac2a9baec9/_"
         },
         {
           "name": "ตอนที่ 68",
@@ -31161,7 +31350,7 @@
           "name": "ซีซั่น 5 ตอนที่ 1",
           "info": "ซับไทย",
           "image": "https://tvallseries.co/wp-content/uploads/2021/03/6PX0r5TRRU5y0jZ70y1OtbLYmoD-185x278.jpg",
-          "url": "https://playcdn.tvallseries.com/2699ae45-ace1-4fe2-8d0c-5bb3704197a5/0"
+          "url": "https://playcdn.tvallseries.com/cb60da20-ead0-48cb-b24b-aedd4e6fb135/_"
         },
         {
           "name": "ซีซั่น 5 ตอนที่ 2",
@@ -34555,7 +34744,7 @@
           "name": "ซีซั่น 4 ตอนที่ 6",
           "info": "ซับไทย",
           "image": "https://tvallseries.co/wp-content/uploads/2021/02/ekaa7YjGPTkFLcPhwWXTnARuCEU-185x278.jpg",
-          "url": "https://playcdn.tvallseries.com/52461eb2-b043-44c4-8dfc-beba986d211f/0"
+          "url": "https://playcdn.tvallseries.com/7080820a-98f6-4782-b5b5-8ab385069fd7/_"
         },
         {
           "name": "ซีซั่น 4 ตอนที่ 7",
@@ -35400,7 +35589,7 @@
           "name": "ซีซั่น 2 ตอนที่ 10 ตอนจบ",
           "info": "ซับไทย",
           "image": "https://tvallseries.co/wp-content/uploads/2021/01/83mK4CnvRPFSqcyO3s3lq6aDy1x-185x278.jpg",
-          "url": "https://playcdn.tvallseries.com/b84f458e-33d9-47ac-a325-6feb014bb0ad/0"
+          "url": "https://playcdn.tvallseries.com/ab627796-7a0b-40e4-b54e-0d423fa9b13e/_"
         }
       ]
     },

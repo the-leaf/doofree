@@ -1,9 +1,149 @@
 {
   "name": "ซีรีย์การ์ตูน",
-  "author": "เจียว เจียว อัพวันที่ 28 กุมภาพันธ์ 2567",
+  "author": "เจียว เจียว อัพวันที่ 31 มีนาคม 2567",
   "info": "อยู่ในมุมที่ตัวเองมีความสุข ไม่จำเป็นต้องโดดเด่น ไม่จำเป็นต้องเหมือนใคร",
   "image": "https://tvallseries.co/wp-content/uploads/2021/01/logotvseries.png.webp",
   "groups": [
+    {
+      "name": "Marvel Animations X-Men 97 (2024) EP.1-10 (กำลังรอฉาย)",
+      "info": "ซับไทย",
+      "image": "https://tvallseries.co/wp-content/uploads/2024/03/Marvel-Animations-X-Men-97-2024-185x278.webp",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "ซับไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/03/Marvel-Animations-X-Men-97-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/eeefc68a-320a-4d9a-9591-1fd8e0637972/0"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "ซับไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/03/Marvel-Animations-X-Men-97-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/0f38ea0e-b13c-4ed3-989c-96bc21fea523/0"
+        }
+      ]
+    },
+    {
+      "name": "My Dad the Bounty Hunter คุณพ่อฉันเป็นนักล่าค่าหัว Season 1-2 (จบ)",
+      "info": "พากย์ไทย",
+      "image": "https://tvallseries.co/wp-content/uploads/2023/09/My-Dad-the-Bounty-Hunter-2023-185x278.webp",
+      "stations": [
+        {
+          "name": "ซีซั่น 1 ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2023/09/My-Dad-the-Bounty-Hunter-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/cd8a6d65-a239-4acf-a133-7966d992e5d5/0"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2023/09/My-Dad-the-Bounty-Hunter-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/ee895a7a-cc07-4ae8-a169-8425cb8b1e5c/0"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2023/09/My-Dad-the-Bounty-Hunter-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/7d90dabd-da03-4f10-99b8-eff38c78af48/0"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2023/09/My-Dad-the-Bounty-Hunter-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/f9a931d7-4096-4211-b67a-b0f636ee70aa/0"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2023/09/My-Dad-the-Bounty-Hunter-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/4015f296-c7fb-4781-bd68-0dd3cfb4f101/0"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2023/09/My-Dad-the-Bounty-Hunter-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/da68e594-b6cf-41cc-94be-0e962ced6a50/0"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2023/09/My-Dad-the-Bounty-Hunter-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/ee22aa40-f7c9-4ac0-bfd2-c6fecc9a1fd4/0"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 8",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2023/09/My-Dad-the-Bounty-Hunter-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/29be2c8a-e365-4913-8326-38624ed18de4/0"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 9",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2023/09/My-Dad-the-Bounty-Hunter-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/7d099fc3-bda5-4d28-ba1c-e6f11b70db04/0"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 10 (ตอนจบ)",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2023/09/My-Dad-the-Bounty-Hunter-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/3e7986ed-8c20-4965-b0d8-91a0ddc8703c/0"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2023/09/My-Dad-the-Bounty-Hunter-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/971fc764-3f8f-48a2-a725-0e8aac08d187/0"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2023/09/My-Dad-the-Bounty-Hunter-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/4d9d5646-39c2-4894-bc2a-42804fca33cf/0"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2023/09/My-Dad-the-Bounty-Hunter-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/c92f58fa-3d1b-4f6b-b5a7-f30cefb8a1fc/0"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2023/09/My-Dad-the-Bounty-Hunter-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/c34d9ac1-edc3-4030-aa1a-68d153fdfd14/0"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2023/09/My-Dad-the-Bounty-Hunter-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/39925dcd-2874-4731-ad39-5c1f62fbd7c7/0"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2023/09/My-Dad-the-Bounty-Hunter-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/20cf52a2-bf71-40bb-94c1-bfd3b2f65f04/0"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2023/09/My-Dad-the-Bounty-Hunter-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/6b2a2083-9e29-4488-968d-7910620a4924/0"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 8",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2023/09/My-Dad-the-Bounty-Hunter-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/9735eab3-83b1-4046-b23f-0bbe4420c3a5/0"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 9 (ตอนจบ)",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2023/09/My-Dad-the-Bounty-Hunter-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/a0d943cc-e20b-4fa5-9d1e-c6c68d8e84f6/0"
+        }
+      ]
+    },
     {
       "name": "Hazbin Hotel (2024) โรงแรมนรกป่วน EP.1-8 (กำลังรอฉาย)",
       "info": "พากย์ไทย",
@@ -41,6 +181,78 @@
       "image": "https://tvallseries.co/wp-content/uploads/2023/04/lMqruIEov5PSA7eu8mF0I4IiKda-185x278.jpg",
       "stations": [
         {
+          "name": "ซีซั่น 1 ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2023/04/lMqruIEov5PSA7eu8mF0I4IiKda-185x278.jpg",
+          "url": "https://playcdn.tvallseries.com/30fc4cde-0f9c-4734-994f-313078b02152/0"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2023/04/lMqruIEov5PSA7eu8mF0I4IiKda-185x278.jpg",
+          "url": "https://playcdn.tvallseries.com/e886d43b-793a-468d-9f17-3e3376d9f00e/0"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2023/04/lMqruIEov5PSA7eu8mF0I4IiKda-185x278.jpg",
+          "url": "https://playcdn.tvallseries.com/5237a8eb-74ff-4d82-87c5-bcebc442c4ee/0"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2023/04/lMqruIEov5PSA7eu8mF0I4IiKda-185x278.jpg",
+          "url": "https://playcdn.tvallseries.com/a4790088-0287-4b17-bfd7-1ce593a1bfe1/0"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2023/04/lMqruIEov5PSA7eu8mF0I4IiKda-185x278.jpg",
+          "url": "https://playcdn.tvallseries.com/1e4887fe-31d4-40e8-ad51-21a8868a8149/0"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2023/04/lMqruIEov5PSA7eu8mF0I4IiKda-185x278.jpg",
+          "url": "https://playcdn.tvallseries.com/64eaa7ce-ac52-4362-97a6-285008071f90/0"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2023/04/lMqruIEov5PSA7eu8mF0I4IiKda-185x278.jpg",
+          "url": "https://playcdn.tvallseries.com/0e4fc341-a402-4d4a-a357-b572630ee13d/0"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 8 (ตอนจบ)",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2023/04/lMqruIEov5PSA7eu8mF0I4IiKda-185x278.jpg",
+          "url": "https://playcdn.tvallseries.com/703d1e25-3f04-4ea0-ae86-badcfad71834/0"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2023/04/lMqruIEov5PSA7eu8mF0I4IiKda-185x278.jpg",
+          "url": "https://playcdn.tvallseries.com/7e8d006d-9333-4262-9012-119b1885cd27/0"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2023/04/lMqruIEov5PSA7eu8mF0I4IiKda-185x278.jpg",
+          "url": "https://playcdn.tvallseries.com/dfaf5342-1f6a-4b7e-93f2-b13e1733051f/0"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2023/04/lMqruIEov5PSA7eu8mF0I4IiKda-185x278.jpg",
+          "url": "https://playcdn.tvallseries.com/7e0b1086-daff-473d-9e67-b1d26b98912e/0"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2023/04/lMqruIEov5PSA7eu8mF0I4IiKda-185x278.jpg",
+          "url": "https://playcdn.tvallseries.com/bf9e5aa5-c570-4704-bc39-7775a94233c1/0"
+        },
+        {
           "name": "ซีซั่น 2 ตอนที่ 5",
           "info": "พากย์ไทย",
           "image": "https://tvallseries.co/wp-content/uploads/2023/04/lMqruIEov5PSA7eu8mF0I4IiKda-185x278.jpg",
@@ -71,6 +283,12 @@
       "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2024/01/Gamera-Rebirth-2023-185x278.webp",
       "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/01/Gamera-Rebirth-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/a1a83ab2-a569-4564-b98f-53f5bae2ab5e/0"
+        },
         {
           "name": "ตอนที่ 2",
           "info": "พากย์ไทย",
@@ -940,67 +1158,6 @@
       ]
     },
     {
-      "name": "My Dad the Bounty Hunter (2023) คุณพ่อฉันเป็นนักล่าค่าหัว EP.1-9 (จบ)",
-      "info": "พากย์ไทย",
-      "image": "https://tvallseries.co/wp-content/uploads/2023/09/My-Dad-the-Bounty-Hunter-2023-185x278.webp",
-      "stations": [
-        {
-          "name": "ตอนที่ 1",
-          "info": "พากย์ไทย",
-          "image": "https://tvallseries.co/wp-content/uploads/2023/09/My-Dad-the-Bounty-Hunter-2023-185x278.webp",
-          "url": "https://playcdn.tvallseries.com/971fc764-3f8f-48a2-a725-0e8aac08d187/0"
-        },
-        {
-          "name": "ตอนที่ 2",
-          "info": "พากย์ไทย",
-          "image": "https://tvallseries.co/wp-content/uploads/2023/09/My-Dad-the-Bounty-Hunter-2023-185x278.webp",
-          "url": "https://playcdn.tvallseries.com/4d9d5646-39c2-4894-bc2a-42804fca33cf/0"
-        },
-        {
-          "name": "ตอนที่ 3",
-          "info": "พากย์ไทย",
-          "image": "https://tvallseries.co/wp-content/uploads/2023/09/My-Dad-the-Bounty-Hunter-2023-185x278.webp",
-          "url": "https://playcdn.tvallseries.com/c92f58fa-3d1b-4f6b-b5a7-f30cefb8a1fc/0"
-        },
-        {
-          "name": "ตอนที่ 4",
-          "info": "พากย์ไทย",
-          "image": "https://tvallseries.co/wp-content/uploads/2023/09/My-Dad-the-Bounty-Hunter-2023-185x278.webp",
-          "url": "https://playcdn.tvallseries.com/c34d9ac1-edc3-4030-aa1a-68d153fdfd14/0"
-        },
-        {
-          "name": "ตอนที่ 5",
-          "info": "พากย์ไทย",
-          "image": "https://tvallseries.co/wp-content/uploads/2023/09/My-Dad-the-Bounty-Hunter-2023-185x278.webp",
-          "url": "https://playcdn.tvallseries.com/39925dcd-2874-4731-ad39-5c1f62fbd7c7/0"
-        },
-        {
-          "name": "ตอนที่ 6",
-          "info": "พากย์ไทย",
-          "image": "https://tvallseries.co/wp-content/uploads/2023/09/My-Dad-the-Bounty-Hunter-2023-185x278.webp",
-          "url": "https://playcdn.tvallseries.com/20cf52a2-bf71-40bb-94c1-bfd3b2f65f04/0"
-        },
-        {
-          "name": "ตอนที่ 7",
-          "info": "พากย์ไทย",
-          "image": "https://tvallseries.co/wp-content/uploads/2023/09/My-Dad-the-Bounty-Hunter-2023-185x278.webp",
-          "url": "https://playcdn.tvallseries.com/6b2a2083-9e29-4488-968d-7910620a4924/0"
-        },
-        {
-          "name": "ตอนที่ 8",
-          "info": "พากย์ไทย",
-          "image": "https://tvallseries.co/wp-content/uploads/2023/09/My-Dad-the-Bounty-Hunter-2023-185x278.webp",
-          "url": "https://playcdn.tvallseries.com/9735eab3-83b1-4046-b23f-0bbe4420c3a5/0"
-        },
-        {
-          "name": "ตอนที่ 9 (ตอนจบ)",
-          "info": "พากย์ไทย",
-          "image": "https://tvallseries.co/wp-content/uploads/2023/09/My-Dad-the-Bounty-Hunter-2023-185x278.webp",
-          "url": "https://playcdn.tvallseries.com/a0d943cc-e20b-4fa5-9d1e-c6c68d8e84f6/0"
-        }
-      ]
-    },
-    {
       "name": "The Fire Hunter (2023) ราชานักล่าอัคคี EP.1-10 (จบ)",
       "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/09/The-Fire-Hunter-2023.webp",
@@ -1124,25 +1281,25 @@
           "name": "ตอนที่ 9",
           "info": "พากย์ไทย/ซับไทย",
           "image": "https://tvallseries.co/wp-content/uploads/2023/08/Nier-Automata-Ver1.1a-2023-185x278.webp",
-          "url": "https://playcdn.tvallseries.com/8c4aa7b7-3de5-491c-bdad-dff8fcb19423/0"
+          "url": "https://playcdn.tvallseries.com/00cdce04-7fe3-4294-b461-555297ea7720/0"
         },
         {
           "name": "ตอนที่ 10",
           "info": "พากย์ไทย/ซับไทย",
           "image": "https://tvallseries.co/wp-content/uploads/2023/08/Nier-Automata-Ver1.1a-2023-185x278.webp",
-          "url": "https://playcdn.tvallseries.com/8d8d9c15-9bf8-4d2c-b404-d99228a86b5a/0"
+          "url": "https://playcdn.tvallseries.com/c250556e-6c5c-49d7-a207-81927687137e/0"
         },
         {
           "name": "ตอนที่ 11",
           "info": "พากย์ไทย/ซับไทย",
           "image": "https://tvallseries.co/wp-content/uploads/2023/08/Nier-Automata-Ver1.1a-2023-185x278.webp",
-          "url": "https://playcdn.tvallseries.com/6827a144-705d-41fa-9245-45e5f6f37165/0"
+          "url": "https://playcdn.tvallseries.com/902d1c7a-d9e3-4152-9747-5d20727c8e09/0"
         },
         {
           "name": "ตอนที่ 12 (ตอนจบ)",
           "info": "พากย์ไทย/ซับไทย",
           "image": "https://tvallseries.co/wp-content/uploads/2023/08/Nier-Automata-Ver1.1a-2023-185x278.webp",
-          "url": "https://playcdn.tvallseries.com/6fab3e88-eba7-400e-b498-a12bb0b3e0f8/0"
+          "url": "https://playcdn.tvallseries.com/836f8dc7-3356-4267-bb22-fcd58454b19b/0"
         }
       ]
     },
@@ -1222,7 +1379,7 @@
           "name": "ตอนที่ 8",
           "info": "ซับไทย",
           "image": "https://tvallseries.co/wp-content/uploads/2023/07/Blades-of-the-Guardians-2023-e1690359193967-185x278.webp",
-          "url": "https://playcdn.tvallseries.com/b5f10625-83f6-4a32-a0c5-aa6cb3f15c0d/0"
+          "url": "https://playcdn.tvallseries.com/42fd90aa-49ac-45e9-9fc4-a9a673540ff5/_"
         },
         {
           "name": "ตอนที่ 9",
@@ -3599,7 +3756,7 @@
           "name": "ตอนที่ 8",
           "info": "พากย์ไทย",
           "image": "https://tvallseries.co/wp-content/uploads/2022/11/npdB6eFzizki0WaZ1OvKcJrWe97-185x278.jpg",
-          "url": "https://playcdn.tvallseries.com/c5c4a5d5-5ad3-4c57-9161-8f4b0700c80e/0"
+          "url": "https://playcdn.tvallseries.com/2dce85ef-49f4-42f3-a897-16b0a6bdf8e5/_"
         },
         {
           "name": "ตอนที่ 9",
