@@ -1,250 +1,551 @@
 {
  "name": "2024",
- "author": "เจียว เจียว อัพวันที่ 31 มีนาคม 2567",
+ "author": "เจียว เจียว อัพวันที่ 03 เมษายน 2567",
  "info": "ชีวิตไม่ได้ให้เราสิ่งที่ต้องการเสมอไป แต่มันจะให้เราสิ่งที่เราจำเป็นต้องการ",
  "image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
  "groups": [
   {
-   "name": "Godzilla x Kong: The New Empire (2024) ก็อดซิลล่า ปะทะ คอง 2 อาณาจักรใหม่",
-   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Godzilla-x-Kong-The-New-Empire.jpg",
-   "stations": [
-    {
-     "name": "Godzilla x Kong: The New Empire (2024) ก็อดซิลล่า ปะทะ คอง 2 อาณาจักรใหม่",
-     "info": "ตัวเล่นหลัก พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Godzilla-x-Kong-The-New-Empire.jpg",
-     "url": "https://play.kakjeawplay.xyz/7399dd12-c012-4fc9-b6c2-d2e444476db3/_",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "Godzilla x Kong: The New Empire (2024) ก็อดซิลล่า ปะทะ คอง 2 อาณาจักรใหม่",
-     "info": "ตัวเล่นสำรอง พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Godzilla-x-Kong-The-New-Empire.jpg",
-     "url": "https://streamhls.com/view/14d1e782-c83d-5afc-86da-2dcb833e8ae4.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    }
-   ]
-  },
-  {
-   "name": "The Believers สาธุ (2024)",
-   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/The-Believers.jpg",
+   "name": "The Legend of ShenLi ปฐพีไร้พ่าย (2024)",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/The-Legend-of-ShenLi-2024.jpg",
    "stations": [
     {
      "name": "ตอนที่ 1",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/The-Believers.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/a92098de-1182-5796-9d4a-7ff78952e5aa.m3u8",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/The-Legend-of-ShenLi-2024.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/4f69151a-f82f-5819-bdb3-b7dde328d7df.m3u8",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "ตอนที่ 2",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/The-Believers.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/5ed901eb-6734-5bfa-b96a-b1d1e81efe66.m3u8",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/The-Legend-of-ShenLi-2024.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/ef85d089-b6c1-5f35-8212-83fa35d61fef.m3u8",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "ตอนที่ 3",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/The-Believers.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/e4585582-81d2-58ef-b7b6-dbb20c15e6fa.m3u8",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/The-Legend-of-ShenLi-2024.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/b4af08b1-db86-5012-8c7b-baecd187714d.m3u8",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "ตอนที่ 4",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/The-Believers.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/9789dd46-6f97-515c-80d3-b1cff6f7c89a.m3u8",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/The-Legend-of-ShenLi-2024.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/46f5e43b-0e51-5a89-baf7-42a1ba5c3248.m3u8",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "ตอนที่ 5",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/The-Believers.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/a757ef07-99b7-53d6-911c-ad84547d58a6.m3u8",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/The-Legend-of-ShenLi-2024.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/5b2139be-3b0f-511c-a47d-2a93ede673e9.m3u8",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "ตอนที่ 6",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/The-Believers.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/5e282810-be7f-5c65-9a0c-631ba008f5b5.m3u8",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/The-Legend-of-ShenLi-2024.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/c3c22bc2-38cb-5564-b865-13232ac0ee37.m3u8",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "ตอนที่ 7",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/The-Believers.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/40ae3974-8df9-5562-8c5a-352a389fe1f2.m3u8",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/The-Legend-of-ShenLi-2024.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/c8f5b9e9-583a-5d40-9dea-b2811e41b159.m3u8",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "ตอนที่ 8",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/The-Believers.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/dd4425e1-21c0-5dd5-ba15-c210fba974fb.m3u8",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/The-Legend-of-ShenLi-2024.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/650cfd56-ed0f-5893-bd84-c3fb48d841e3.m3u8",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "ตอนที่ 9",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/The-Believers.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/b4010bbe-fc0b-584c-b1f5-e7c75d71b0bb.m3u8",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/The-Legend-of-ShenLi-2024.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/9309b319-001d-5640-8f51-315f157e564b.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 10",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/The-Legend-of-ShenLi-2024.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/577a7cfb-d717-5209-b8d5-733c7bbccfd9.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 11",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/The-Legend-of-ShenLi-2024.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/a77debb4-0bc2-5509-82d3-9b3f71f73618.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 12",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/The-Legend-of-ShenLi-2024.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/ababcec9-4af6-55ca-96dd-ccddbb03c2ab.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 13",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/The-Legend-of-ShenLi-2024.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/339a6794-2ef7-54eb-a641-699312808d78.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 14",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/The-Legend-of-ShenLi-2024.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/8f7900f0-d351-598f-9a75-0ef2c09369b0.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 15",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/The-Legend-of-ShenLi-2024.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/d8aeb759-896f-59f4-9ca7-e7d7b6ce67ca.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 16",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/The-Legend-of-ShenLi-2024.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/75bb9db8-621b-5d71-ac8b-8247dc28982c.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 17",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/The-Legend-of-ShenLi-2024.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/14fecfa3-b5fc-53c3-820b-b1d502c7a2c4.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 18",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/The-Legend-of-ShenLi-2024.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/a3a93745-d8f6-5fa8-9d42-ab2a605959da.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 19",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/The-Legend-of-ShenLi-2024.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/4b816abc-4016-5597-84c2-1e7b063f0a79.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 20",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/The-Legend-of-ShenLi-2024.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/c17f5452-ccba-53c8-a22c-19fc51f151c9.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 21",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/The-Legend-of-ShenLi-2024.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/eb34b2fd-028f-57bd-a80c-cb8a3b36da92.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 22",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/The-Legend-of-ShenLi-2024.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/87482322-9952-505c-80b3-478f9c71c368.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 23",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/The-Legend-of-ShenLi-2024.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/5fbca22e-2a74-5663-a647-eae5ad973542.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 24",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/The-Legend-of-ShenLi-2024.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/ed078ac0-903f-576b-b74c-f8e87b066b27.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 25",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/The-Legend-of-ShenLi-2024.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/49f2b377-6ef0-5ea1-b9b4-27fbe40c1282.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 26",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/The-Legend-of-ShenLi-2024.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/916b4502-2839-56cc-a5ef-bf34245e3785.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 27",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/The-Legend-of-ShenLi-2024.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/54098c0e-1690-569f-a1d5-ad1e5eae3172.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 28",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/The-Legend-of-ShenLi-2024.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/26e718db-6399-5793-9fde-3d42be593ef9.m3u8",
      "referer": "https://www.nung2hdd.com/"
     }
    ]
   },
   {
-   "name": "The Wages of Fear (2024)",
-   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Le-salaire-de-la-peur.png",
+   "name": "Burning Flames เทพยุทธ์สะบั้นฟ้าท้าสวรรค์ (2024)",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Burning-Flames.jpg",
    "stations": [
     {
-     "name": "The Wages of Fear (2024)",
-     "info": "ตัวเล่นหลัก พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Le-salaire-de-la-peur.png",
-     "url": "https://play.kakjeawplay.xyz/30a0ad58-4881-4008-8ba0-35e7264b4f6e/_",
+     "name": "ตอนที่ 1",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Burning-Flames.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/cd654d1f-728c-5106-9c60-55a40c265b26.m3u8",
      "referer": "https://www.nung2hdd.com/"
     },
     {
-     "name": "The Wages of Fear (2024)",
-     "info": "ตัวเล่นสำรอง พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Le-salaire-de-la-peur.png",
-     "url": "https://streamhls.com/view/ba5c7f98-c0a5-5adf-a19f-9b924c1c56e8.m3u8",
+     "name": "ตอนที่ 2",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Burning-Flames.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/cb8b2a29-bc5f-51d1-bff0-8e4d2842241d.m3u8",
      "referer": "https://www.nung2hdd.com/"
     },
     {
-     "name": "The Wages of Fear (2024)",
-     "info": "ตัวเล่นหลัก ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Le-salaire-de-la-peur.png",
-     "url": "https://play.kakjeawplay.xyz/e1383dc1-73d0-45b5-99cc-2ba053bbdcde/_",
+     "name": "ตอนที่ 3",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Burning-Flames.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/377c5219-1ce5-5e22-85a1-b98b786d91e7.m3u8",
      "referer": "https://www.nung2hdd.com/"
     },
     {
-     "name": "The Wages of Fear (2024)",
-     "info": "ตัวเล่นสำรอง ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Le-salaire-de-la-peur.png",
-     "url": "https://streamhls.com/view/8a2d0484-b12b-5087-a152-e873a3bcf913.m3u8",
+     "name": "ตอนที่ 4",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Burning-Flames.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/174288dd-6fc3-549c-9e5c-65de79292eb1.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 5",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Burning-Flames.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/910051cc-44ad-54a1-95fa-69bb69238f8f.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Burning-Flames.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/0ea1ac92-6db5-552a-8a9a-1ee7e73a411a.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 7",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Burning-Flames.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/ddc5c3de-44e2-594d-a172-8f1a49ce2abf.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 8",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Burning-Flames.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/766902c1-9a7c-5ee4-b3da-9a184513f9f8.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 9",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Burning-Flames.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/1c2d8c45-c52f-59e2-bf44-20e438fb90fc.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 10",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Burning-Flames.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/7bae9390-5c61-5b5d-8c39-09d5b3e4489c.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 11",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Burning-Flames.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/a91b1b90-b147-5baf-b958-a0aa1be47e10.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 12",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Burning-Flames.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/cd67e0d1-b3f2-5c6f-9734-6975d87b1e9f.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 13",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Burning-Flames.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/e85337f4-4f87-5e96-8a25-b3ded6fe4979.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 14",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Burning-Flames.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/5ccf5c13-7634-5be8-a14d-096d00763c4b.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 15",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Burning-Flames.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/4740afc3-6d52-52c9-ae6a-67d3782f6794.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 16",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Burning-Flames.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/90483c97-ee0f-5532-9461-ff8cb540290f.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 17",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Burning-Flames.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/9a52fab0-9822-506e-9a6f-99687f1da8a1.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 18",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Burning-Flames.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/b9d8e21f-8a21-5b70-966b-f9a0c766f757.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 19",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Burning-Flames.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/34010cb1-20c1-54b2-8c53-c1e99168bc90.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 20",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Burning-Flames.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/7354418d-bf88-5dc8-9d10-4b6683280c96.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 21",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Burning-Flames.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/0356d0ad-da03-5752-b9e0-c095c4dd39b9.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 22",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Burning-Flames.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/d03e2bb8-8fe8-54a5-bdca-28f214f8c102.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 23",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Burning-Flames.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/db184031-ec3b-5d9c-82cf-a7fbae5b55de.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 24",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Burning-Flames.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/c955bff1-0ac7-5897-8d05-fea94d5022d6.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 25",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Burning-Flames.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/8d3cf13c-36d9-5720-80f8-979e66c01a3e.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 26",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Burning-Flames.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/0884bf7d-36ec-5ccc-bdf6-3d35fc738311.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 27",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Burning-Flames.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/f1e53c6d-7cb7-5cf3-b5c4-e0d176b307f7.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 28",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Burning-Flames.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/82463d88-2e07-5f85-8eb6-8d768c646596.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 29",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Burning-Flames.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/18c991f4-6287-52ef-8d08-3a10d2f41e17.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 30",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Burning-Flames.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/79011992-62f4-5650-b897-352a48a928dc.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 31",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Burning-Flames.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/df759ad9-199e-5031-8ead-542d3adb4930.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 32",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Burning-Flames.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/24c0f11b-090a-5132-9624-1062f5a0aad0.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 33",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Burning-Flames.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/bf4bb8cb-f9ad-51f1-a1e7-8272efb7b30e.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 34",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Burning-Flames.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/9e7c0470-58c4-5aab-8205-9df5ad3f60ac.m3u8",
      "referer": "https://www.nung2hdd.com/"
     }
    ]
   },
   {
-   "name": "The Beautiful Game (2024) เดอะ บิวตี้ฟูล เกม",
-   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/The-Beautiful-Game.png",
+   "name": "Ae Watan Mere Watan (2024) อินเดียที่รัก",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Ae-Watan-Mere-Watan-2024.jpg",
    "stations": [
     {
-     "name": "The Beautiful Game (2024) เดอะ บิวตี้ฟูล เกม",
-     "info": "ตัวเล่นหลัก พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/The-Beautiful-Game.png",
-     "url": "https://play.kakjeawplay.xyz/a8e3702e-d1bd-4525-bbdd-a665d70d1f09/_",
+     "name": "Ae Watan Mere Watan (2024) อินเดียที่รัก",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Ae-Watan-Mere-Watan-2024.jpg",
+     "url": "https://play.kakjeawplay.xyz/103bfcf5-d176-4f6b-8070-3d4c923d56d7/_",
      "referer": "https://www.nung2hdd.com/"
     },
     {
-     "name": "The Beautiful Game (2024) เดอะ บิวตี้ฟูล เกม",
-     "info": "ตัวเล่นสำรอง พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/The-Beautiful-Game.png",
-     "url": "https://streamhls.com/view/fc515445-987d-5207-94af-3822f7afd304.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "The Beautiful Game (2024) เดอะ บิวตี้ฟูล เกม",
-     "info": "ตัวเล่นหลัก ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/The-Beautiful-Game.png",
-     "url": "https://play.kakjeawplay.xyz/bfd42868-f4e1-4be8-878b-a0fb96883874/_",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "The Beautiful Game (2024) เดอะ บิวตี้ฟูล เกม",
+     "name": "Ae Watan Mere Watan (2024) อินเดียที่รัก",
      "info": "ตัวเล่นสำรอง ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/The-Beautiful-Game.png",
-     "url": "https://streamhls.com/view/bf17a615-3c31-55ea-8657-32ad65e0d744.m3u8",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Ae-Watan-Mere-Watan-2024.jpg",
+     "url": "https://streamhls.com/view/b58056ba-f4f9-518f-aefd-c82125d1217f.m3u8",
      "referer": "https://www.nung2hdd.com/"
     }
    ]
   },
   {
-   "name": "Heart of the Hunter (2024) หัวใจนักล่า",
-   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Heart-of-the-Hunter.png",
+   "name": "Bob Marley One Love (2024) บ็อบ มาร์เลย์ วัน เลิฟ",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Bob-Marley-One-Love-2024.jpg",
    "stations": [
     {
-     "name": "Heart of the Hunter (2024) หัวใจนักล่า",
-     "info": "ตัวเล่นหลัก พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Heart-of-the-Hunter.png",
-     "url": "https://play.kakjeawplay.xyz/8a32b432-cc95-4cb8-93cc-67fe08c6f3f1/_",
+     "name": "Bob Marley One Love (2024) บ็อบ มาร์เลย์ วัน เลิฟ",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Bob-Marley-One-Love-2024.jpg",
+     "url": "https://play.kakjeawplay.xyz/4b8b1552-96f6-4ac9-8a1e-53ccd39938b8/_",
      "referer": "https://www.nung2hdd.com/"
     },
     {
-     "name": "Heart of the Hunter (2024) หัวใจนักล่า",
-     "info": "ตัวเล่นสำรอง พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Heart-of-the-Hunter.png",
-     "url": "https://streamhls.com/view/4b145123-4e02-5842-bf82-c7f8fa79785d.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "Heart of the Hunter (2024) หัวใจนักล่า",
-     "info": "ตัวเล่นหลัก ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Heart-of-the-Hunter.png",
-     "url": "https://play.kakjeawplay.xyz/17eea244-b17a-4cb7-8ab3-0292be580335/_",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "Heart of the Hunter (2024) หัวใจนักล่า",
+     "name": "Bob Marley One Love (2024) บ็อบ มาร์เลย์ วัน เลิฟ",
      "info": "ตัวเล่นสำรอง ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Heart-of-the-Hunter.png",
-     "url": "https://streamhls.com/view/c982385d-bd80-581e-a5d2-5ce76a58af8e.m3u8",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Bob-Marley-One-Love-2024.jpg",
+     "url": "https://streamhls.com/view/5ae499e9-f97e-5d5a-8d75-efe0a06ba1c5.m3u8",
      "referer": "https://www.nung2hdd.com/"
     }
    ]
   },
   {
-   "name": "Rest In Peace (2024) สู่สุคติ",
-   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Descansar-en-paz.png",
+   "name": "Guntur Kaaram (2024) เจ้าพ่อกุนตูร์",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Guntur-Kaaram-2024.jpg",
    "stations": [
     {
-     "name": "Rest In Peace (2024) สู่สุคติ",
-     "info": "ตัวเล่นหลัก พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Descansar-en-paz.png",
-     "url": "https://play.kakjeawplay.xyz/3206aa3c-61c4-48f9-b3f6-daf0dd7c2bd5/_",
+     "name": "Guntur Kaaram (2024) เจ้าพ่อกุนตูร์",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Guntur-Kaaram-2024.jpg",
+     "url": "https://play.kakjeawplay.xyz/8f6ae261-8c5a-44b4-b8dd-2a29b3d88159/_",
      "referer": "https://www.nung2hdd.com/"
     },
     {
-     "name": "Rest In Peace (2024) สู่สุคติ",
-     "info": "ตัวเล่นสำรอง พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Descansar-en-paz.png",
-     "url": "https://streamhls.com/view/1e2b285d-90cd-534a-a97d-3dafcdef1242.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "Rest In Peace (2024) สู่สุคติ",
-     "info": "ตัวเล่นหลัก ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Descansar-en-paz.png",
-     "url": "https://play.kakjeawplay.xyz/8fb6a0a0-5774-4a9f-a95b-ebe5b973f136/_",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "Rest In Peace (2024) สู่สุคติ",
+     "name": "Guntur Kaaram (2024) เจ้าพ่อกุนตูร์",
      "info": "ตัวเล่นสำรอง ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Descansar-en-paz.png",
-     "url": "https://streamhls.com/view/2ef77a40-ab4a-59f4-8570-9e6269fe8454.m3u8",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Guntur-Kaaram-2024.jpg",
+     "url": "https://streamhls.com/view/15183de0-f7c3-505e-9fa3-fd733277a3c3.m3u8",
      "referer": "https://www.nung2hdd.com/"
     }
    ]
   },
   {
-   "name": "No Pressure (2024) รักไม่กดดัน",
-   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/No-Pressure-2024.png",
+   "name": "Madu (2024)",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Madu-2024.jpg",
    "stations": [
     {
-     "name": "No Pressure (2024) รักไม่กดดัน",
-     "info": "ตัวเล่นหลัก ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/No-Pressure-2024.png",
-     "url": "https://play.kakjeawplay.xyz/14a29162-721a-42e3-88d8-583d0f67f48d/_",
+     "name": "Madu (2024)",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Madu-2024.jpg",
+     "url": "https://play.kakjeawplay.xyz/130d8317-abfd-4b5a-8efb-76550e250674/_",
      "referer": "https://www.nung2hdd.com/"
     },
     {
-     "name": "No Pressure (2024) รักไม่กดดัน",
+     "name": "Madu (2024)",
      "info": "ตัวเล่นสำรอง ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/No-Pressure-2024.png",
-     "url": "https://streamhls.com/view/3c561600-902c-5c61-8425-e00a9fd59b6e.m3u8",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Madu-2024.jpg",
+     "url": "https://streamhls.com/view/00a0ab59-a67b-5ea1-a84e-fca5644a8861.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    }
+   ]
+  },
+  {
+   "name": "To Kill a Tiger (2024) เมื่อต้องฆ่าเสือ",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/To-Kill-a-Tiger-2024.jpg",
+   "stations": [
+    {
+     "name": "To Kill a Tiger (2024) เมื่อต้องฆ่าเสือ",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/To-Kill-a-Tiger-2024.jpg",
+     "url": "https://play.kakjeawplay.xyz/3b37f381-b463-4340-8a5c-fe1cf01d556c/_",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "To Kill a Tiger (2024) เมื่อต้องฆ่าเสือ",
+     "info": "ตัวเล่นสำรอง ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/To-Kill-a-Tiger-2024.jpg",
+     "url": "https://streamhls.com/view/b041ed71-8052-52e2-94fe-8069a2ca55ef.m3u8",
      "referer": "https://www.nung2hdd.com/"
     }
    ]
@@ -368,12 +669,257 @@
    ]
   },
   {
+   "name": "Godzilla x Kong: The New Empire (2024) ก็อดซิลล่า ปะทะ คอง 2 อาณาจักรใหม่",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Godzilla-x-Kong-The-New-Empire.jpg",
+   "stations": [
+    {
+     "name": "Godzilla x Kong: The New Empire (2024) ก็อดซิลล่า ปะทะ คอง 2 อาณาจักรใหม่",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Godzilla-x-Kong-The-New-Empire.jpg",
+     "url": "https://play.kakjeawplay.xyz/7399dd12-c012-4fc9-b6c2-d2e444476db3/_",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Godzilla x Kong: The New Empire (2024) ก็อดซิลล่า ปะทะ คอง 2 อาณาจักรใหม่",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Godzilla-x-Kong-The-New-Empire.jpg",
+     "url": "https://streamhls.com/view/14d1e782-c83d-5afc-86da-2dcb833e8ae4.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    }
+   ]
+  },
+  {
+   "name": "The Believers สาธุ (2024)",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/The-Believers.jpg",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/The-Believers.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/a92098de-1182-5796-9d4a-7ff78952e5aa.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/The-Believers.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/5ed901eb-6734-5bfa-b96a-b1d1e81efe66.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 3",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/The-Believers.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/e4585582-81d2-58ef-b7b6-dbb20c15e6fa.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/The-Believers.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/9789dd46-6f97-515c-80d3-b1cff6f7c89a.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 5",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/The-Believers.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/a757ef07-99b7-53d6-911c-ad84547d58a6.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/The-Believers.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/5e282810-be7f-5c65-9a0c-631ba008f5b5.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 7",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/The-Believers.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/40ae3974-8df9-5562-8c5a-352a389fe1f2.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 8",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/The-Believers.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/dd4425e1-21c0-5dd5-ba15-c210fba974fb.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตอนที่ 9",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/The-Believers.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/b4010bbe-fc0b-584c-b1f5-e7c75d71b0bb.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    }
+   ]
+  },
+  {
+   "name": "The Wages of Fear (2024)",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Le-salaire-de-la-peur.png",
+   "stations": [
+    {
+     "name": "The Wages of Fear (2024)",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Le-salaire-de-la-peur.png",
+     "url": "https://play.kakjeawplay.xyz/30a0ad58-4881-4008-8ba0-35e7264b4f6e/_",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "The Wages of Fear (2024)",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Le-salaire-de-la-peur.png",
+     "url": "https://streamhls.com/view/ba5c7f98-c0a5-5adf-a19f-9b924c1c56e8.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "The Wages of Fear (2024)",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Le-salaire-de-la-peur.png",
+     "url": "https://play.kakjeawplay.xyz/e1383dc1-73d0-45b5-99cc-2ba053bbdcde/_",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "The Wages of Fear (2024)",
+     "info": "ตัวเล่นสำรอง ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Le-salaire-de-la-peur.png",
+     "url": "https://streamhls.com/view/8a2d0484-b12b-5087-a152-e873a3bcf913.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    }
+   ]
+  },
+  {
+   "name": "The Beautiful Game (2024) เดอะ บิวตี้ฟูล เกม",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/The-Beautiful-Game.png",
+   "stations": [
+    {
+     "name": "The Beautiful Game (2024) เดอะ บิวตี้ฟูล เกม",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/The-Beautiful-Game.png",
+     "url": "https://play.kakjeawplay.xyz/a8e3702e-d1bd-4525-bbdd-a665d70d1f09/_",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "The Beautiful Game (2024) เดอะ บิวตี้ฟูล เกม",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/The-Beautiful-Game.png",
+     "url": "https://streamhls.com/view/fc515445-987d-5207-94af-3822f7afd304.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "The Beautiful Game (2024) เดอะ บิวตี้ฟูล เกม",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/The-Beautiful-Game.png",
+     "url": "https://play.kakjeawplay.xyz/bfd42868-f4e1-4be8-878b-a0fb96883874/_",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "The Beautiful Game (2024) เดอะ บิวตี้ฟูล เกม",
+     "info": "ตัวเล่นสำรอง ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/The-Beautiful-Game.png",
+     "url": "https://streamhls.com/view/bf17a615-3c31-55ea-8657-32ad65e0d744.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Heart of the Hunter (2024) หัวใจนักล่า",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Heart-of-the-Hunter.png",
+   "stations": [
+    {
+     "name": "Heart of the Hunter (2024) หัวใจนักล่า",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Heart-of-the-Hunter.png",
+     "url": "https://play.kakjeawplay.xyz/8a32b432-cc95-4cb8-93cc-67fe08c6f3f1/_",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Heart of the Hunter (2024) หัวใจนักล่า",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Heart-of-the-Hunter.png",
+     "url": "https://streamhls.com/view/4b145123-4e02-5842-bf82-c7f8fa79785d.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Heart of the Hunter (2024) หัวใจนักล่า",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Heart-of-the-Hunter.png",
+     "url": "https://play.kakjeawplay.xyz/17eea244-b17a-4cb7-8ab3-0292be580335/_",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Heart of the Hunter (2024) หัวใจนักล่า",
+     "info": "ตัวเล่นสำรอง ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Heart-of-the-Hunter.png",
+     "url": "https://streamhls.com/view/c982385d-bd80-581e-a5d2-5ce76a58af8e.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Rest In Peace (2024) สู่สุคติ",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Descansar-en-paz.png",
+   "stations": [
+    {
+     "name": "Rest In Peace (2024) สู่สุคติ",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Descansar-en-paz.png",
+     "url": "https://play.kakjeawplay.xyz/3206aa3c-61c4-48f9-b3f6-daf0dd7c2bd5/_",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Rest In Peace (2024) สู่สุคติ",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Descansar-en-paz.png",
+     "url": "https://streamhls.com/view/1e2b285d-90cd-534a-a97d-3dafcdef1242.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Rest In Peace (2024) สู่สุคติ",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Descansar-en-paz.png",
+     "url": "https://play.kakjeawplay.xyz/8fb6a0a0-5774-4a9f-a95b-ebe5b973f136/_",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Rest In Peace (2024) สู่สุคติ",
+     "info": "ตัวเล่นสำรอง ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Descansar-en-paz.png",
+     "url": "https://streamhls.com/view/2ef77a40-ab4a-59f4-8570-9e6269fe8454.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    }
+   ]
+  },
+  {
+   "name": "No Pressure (2024) รักไม่กดดัน",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/No-Pressure-2024.png",
+   "stations": [
+    {
+     "name": "No Pressure (2024) รักไม่กดดัน",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/No-Pressure-2024.png",
+     "url": "https://play.kakjeawplay.xyz/14a29162-721a-42e3-88d8-583d0f67f48d/_",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "No Pressure (2024) รักไม่กดดัน",
+     "info": "ตัวเล่นสำรอง ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/No-Pressure-2024.png",
+     "url": "https://streamhls.com/view/3c561600-902c-5c61-8425-e00a9fd59b6e.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    }
+   ]
+  },
+  {
    "name": "The Casagrandes Movie (2024) เดอะ คาซากรานเดส์ มูฟวี่",
    "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/The-Casagrandes-Movie.png",
    "stations": [
     {
      "name": "The Casagrandes Movie (2024) เดอะ คาซากรานเดส์ มูฟวี่",
-     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "info": "พากย์ไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/The-Casagrandes-Movie.png",
      "url": "https://play.kakjeawplay.xyz/f7f35182-0006-49cf-b998-68336bb80538/_",
      "referer": "https://www.nung2hdd.com/"
@@ -387,7 +933,7 @@
     },
     {
      "name": "The Casagrandes Movie (2024) เดอะ คาซากรานเดส์ มูฟวี่",
-     "info": "ตัวเล่นหลัก ซับไทย",
+     "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/The-Casagrandes-Movie.png",
      "url": "https://play.kakjeawplay.xyz/d5d0e659-c1fe-4632-a07c-45d7bf87680b/_",
      "referer": "https://www.nung2hdd.com/"
@@ -407,7 +953,7 @@
    "stations": [
     {
      "name": "Demon Slayer: Kimetsu no Yaiba -To the Hashira Training- (2024) ดาบพิฆาตอสูร เดอะมูฟวี่ ปาฏิหาริย์แห่งสายสัมพันธ์ สู่การสั่งสอนของเสาหลัก",
-     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "info": "พากย์ไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Demon-Slayer-Kimetsu-no-Yaiba-To-the-Hashira-Training.png",
      "url": "https://play.kakjeawplay.xyz/ec94de20-edf4-4ff2-b0b6-f1953bd56930/_",
      "referer": "https://www.nung2hdd.com/"
@@ -427,7 +973,7 @@
    "stations": [
     {
      "name": "Rob N Roll (2024) มหากาพย์ปล้นจารชน",
-     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "info": "พากย์ไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Rob-N-Roll.png",
      "url": "https://play.kakjeawplay.xyz/b387c531-6b79-435a-aca6-fe3faaa80f8f/_",
      "referer": "https://www.nung2hdd.com/"
@@ -447,7 +993,7 @@
    "stations": [
     {
      "name": "Love Lies Bleeding (2024) รัก ร้าย ร้าย",
-     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "info": "พากย์ไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Love-Lies-Bleeding.png",
      "url": "https://play.kakjeawplay.xyz/fc75428d-6c74-499c-9677-d277be4931dd/_",
      "referer": "https://www.nung2hdd.com/"
@@ -467,7 +1013,7 @@
    "stations": [
     {
      "name": "Marmalade (2024) แผนปล้นยัยส้มซ่า",
-     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "info": "พากย์ไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Marmalade-2024.png",
      "url": "https://play.kakjeawplay.xyz/0ca4e5e2-01f1-491c-a166-84c4f5ab8acf/_",
      "referer": "https://www.nung2hdd.com/"
@@ -487,7 +1033,7 @@
    "stations": [
     {
      "name": "Argylle (2024) อาร์ไกล์ ยอดสายลับ",
-     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "info": "พากย์ไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Argylle-2024.png",
      "url": "https://play.kakjeawplay.xyz/52b21b46-745a-4884-a835-b7ad9321ca99/_",
      "referer": "https://www.nung2hdd.com/"
@@ -501,7 +1047,7 @@
     },
     {
      "name": "Argylle (2024) อาร์ไกล์ ยอดสายลับ",
-     "info": "ตัวเล่นหลัก ซับไทย",
+     "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Argylle-2024.png",
      "url": "https://play.kakjeawplay.xyz/6d2ca1b1-b086-476b-be14-d050752a6a3e/_",
      "referer": "https://www.nung2hdd.com/"
@@ -583,7 +1129,7 @@
    "stations": [
     {
      "name": "Punish Evil (2024) บทลงโทษความชั่วร้าย",
-     "info": "ตัวเล่นหลัก ซับไทย",
+     "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Punish-Evil.png",
      "url": "https://play.kakjeawplay.xyz/bf71fc73-f93f-4ca5-9f4f-a7a5cd22c710/_",
      "referer": "https://www.nung2hdd.com/"
@@ -603,7 +1149,7 @@
    "stations": [
     {
      "name": "2475 Dawn of Revolution (2024) 2475 รุ่งอรุณแห่งการปฏิวัติ",
-     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "info": "พากย์ไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/2475-Dawn-of-Revolution.png",
      "url": "https://play.kakjeawplay.xyz/75d9f1a7-ad82-4b53-873c-8e6b64b78f98/_",
      "referer": "https://www.nung2hdd.com/"
@@ -623,7 +1169,7 @@
    "stations": [
     {
      "name": "Shirley (2024) เชอร์ลีย์ หญิงแกร่งสภาเหล็ก",
-     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "info": "พากย์ไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Shirley.png",
      "url": "https://play.kakjeawplay.xyz/e8bb7180-e2a7-409b-bc4c-94bce77df394/_",
      "referer": "https://www.nung2hdd.com/"
@@ -637,7 +1183,7 @@
     },
     {
      "name": "Shirley (2024) เชอร์ลีย์ หญิงแกร่งสภาเหล็ก",
-     "info": "ตัวเล่นหลัก ซับไทย",
+     "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Shirley.png",
      "url": "https://play.kakjeawplay.xyz/0b7e5ed7-21ec-428a-8284-4597892c3fef/_",
      "referer": "https://www.nung2hdd.com/"
@@ -657,7 +1203,7 @@
    "stations": [
     {
      "name": "Fighter (2024) นักสู้ปีกเหล็ก",
-     "info": "ตัวเล่นหลัก ซับไทย",
+     "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Fighter-2024.jpg",
      "url": "https://play.kakjeawplay.xyz/02baf832-bba7-426c-9586-2ecdd4c05af7/_",
      "referer": "https://www.nung2hdd.com/"
@@ -677,7 +1223,7 @@
    "stations": [
     {
      "name": "Road House (2024) คนเดือดบวกเมืองเถื่อน",
-     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "info": "พากย์ไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Road-House.png",
      "url": "https://play.kakjeawplay.xyz/2f2889a5-4a42-41b9-a7cd-6f857ba3ed82/_",
      "referer": "https://www.nung2hdd.com/"
@@ -691,7 +1237,7 @@
     },
     {
      "name": "Road House (2024) คนเดือดบวกเมืองเถื่อน",
-     "info": "ตัวเล่นหลัก ซับไทย",
+     "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Road-House.png",
      "url": "https://play.kakjeawplay.xyz/403500b0-ff9c-49eb-b545-fadbac7b9d23/_",
      "referer": "https://www.nung2hdd.com/"
@@ -989,7 +1535,7 @@
    "stations": [
     {
      "name": "Hunt the Wicked (2024) ไล่ล่าวายร้าย",
-     "info": "ตัวเล่นหลัก ซับไทย",
+     "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/HUNT-THE-WICKED.png",
      "url": "https://play.kakjeawplay.xyz/f0df85e1-9e7a-429f-a950-79848723ff9a/_",
      "referer": "https://www.nung2hdd.com/"
@@ -1009,7 +1555,7 @@
    "stations": [
     {
      "name": "The Lost Man (2024) ศึกท้าดวลเดือด",
-     "info": "ตัวเล่นหลัก ซับไทย",
+     "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/The-Lost-Man.png",
      "url": "https://play.kakjeawplay.xyz/3ed09450-6a2a-443b-b9e3-7048614ec010/_",
      "referer": "https://www.nung2hdd.com/"
@@ -1029,7 +1575,7 @@
    "stations": [
     {
      "name": "Out of Darkness (2024)",
-     "info": "ตัวเล่นหลัก ซับไทย",
+     "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Out-of-Darkness.png",
      "url": "https://play.kakjeawplay.xyz/6c2ec581-cc3d-4347-9d26-cc05cdc79437/_",
      "referer": "https://www.nung2hdd.com/"
@@ -1049,7 +1595,7 @@
    "stations": [
     {
      "name": "5lbs of Pressure (2024)",
-     "info": "ตัวเล่นหลัก ซับไทย",
+     "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/5lbs-of-Pressure.png",
      "url": "https://play.kakjeawplay.xyz/b731b8bc-2556-40d0-a3e6-dd5d1142c1e8/_",
      "referer": "https://www.nung2hdd.com/"
@@ -1069,7 +1615,7 @@
    "stations": [
     {
      "name": "Dog Days (Dogeudeijeu) (2024) ด็อกเดย์ สี่ขาว้าวุ่น",
-     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "info": "พากย์ไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Dog-Days.png",
      "url": "https://play.kakjeawplay.xyz/591190fe-308d-47e0-8919-e46d573bf20c/_",
      "referer": "https://www.nung2hdd.com/"
@@ -1089,7 +1635,7 @@
    "stations": [
     {
      "name": "No Way Up (2024) งาบคลั่งไฟลต์",
-     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "info": "พากย์ไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/No-Way-Up.png",
      "url": "https://play.kakjeawplay.xyz/6bde8862-33e5-4968-8747-af73d2869e0f/_",
      "referer": "https://www.nung2hdd.com/"
@@ -1103,7 +1649,7 @@
     },
     {
      "name": "No Way Up (2024) งาบคลั่งไฟลต์",
-     "info": "ตัวเล่นหลัก ซับไทย",
+     "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/No-Way-Up.png",
      "url": "https://play.kakjeawplay.xyz/78ca0216-6f3c-4b2e-b6a3-f0b2b7806821/_",
      "referer": "https://www.nung2hdd.com/"
@@ -1123,7 +1669,7 @@
    "stations": [
     {
      "name": "The Bloody Hundredth (2024)",
-     "info": "ตัวเล่นหลัก ซับไทย",
+     "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/The-Bloody-Hundredth-2024.jpg",
      "url": "https://play.kakjeawplay.xyz/c43b4e33-e580-4279-8450-65bf97da5a69/_",
      "referer": "https://www.nung2hdd.com/"
@@ -1143,7 +1689,7 @@
    "stations": [
     {
      "name": "Barbie in Princess Power (2015) บาร์บี้ เจ้าหญิงพลังมหัศจรรย์",
-     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "info": "พากย์ไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2015/04/2k2V30CkllGKIwZ5BygMviJzYuF.jpg",
      "url": "https://play.kakjeawplay.xyz/c5f76faf-149d-4b28-9431-27d805d566ef/_",
      "referer": "https://www.nung2hdd.com/"
@@ -1157,7 +1703,7 @@
     },
     {
      "name": "Barbie in Rock ‘N Royals (2015) บาร์บี้ กับแคมป์ร็อคเจ้าหญิงซูเปอร์สตาร์",
-     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "info": "พากย์ไทย",
      "image": "https://1.bp.blogspot.com/-KIK7b-QNaqk/VgzHTFOq0II/AAAAAAAAYpQ/OpuY52Y5Uw4/s320/917sz5URPBL._SY550_.jpg",
      "url": "https://play.kakjeawplay.xyz/85ac4e21-e802-4434-8fe1-6d023507c292/_",
      "referer": "https://www.nung2hdd.com/"
@@ -1171,7 +1717,7 @@
     },
     {
      "name": "Barbie & Her Sisters in The Great Puppy Adventure (2015) บาร์บี้ ตอนการผจญภัยครั้งยิ่งใหญ่ของน้องหมาผู้น่ารัก",
-     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "info": "พากย์ไทย",
      "image": "https://1.bp.blogspot.com/-rv6VO8pgJjc/Voa0IQiWhbI/AAAAAAAABC8/8ChvV-11pak/s1600/O2KF4GH.jpg",
      "url": "https://play.kakjeawplay.xyz/64a52cf9-d0b3-4f5d-a611-8b13ce313c19/_",
      "referer": "https://www.nung2hdd.com/"
@@ -1185,7 +1731,7 @@
     },
     {
      "name": "Barbie Spy Squad (2016) บาร์บี้สายลับเจ้าเสน่ห์",
-     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "info": "พากย์ไทย",
      "image": "https://3.bp.blogspot.com/-A6kzvYUd1EA/VtHTd4bM1QI/AAAAAAAAC7A/J-kdVL5ux5E/s400/Barbie%2BSpy%2BSquad%2B%25282016%2529.jpg",
      "url": "https://play.kakjeawplay.xyz/c526576e-1cc7-43ee-ad01-64b0e4efb825/_",
      "referer": "https://www.nung2hdd.com/"
@@ -1199,7 +1745,7 @@
     },
     {
      "name": "Barbie Spy Squad (2016) บาร์บี้สายลับเจ้าเสน่ห์",
-     "info": "ตัวเล่นหลัก ซับไทย",
+     "info": "ซับไทย",
      "image": "https://3.bp.blogspot.com/-A6kzvYUd1EA/VtHTd4bM1QI/AAAAAAAAC7A/J-kdVL5ux5E/s400/Barbie%2BSpy%2BSquad%2B%25282016%2529.jpg",
      "url": "https://play.kakjeawplay.xyz/bda85898-ac72-4c28-82e0-2ff0b0792ecf/_",
      "referer": "https://www.nung2hdd.com/"
@@ -1213,7 +1759,7 @@
     },
     {
      "name": "Barbie Star Light Adventure (2016) บาร์บี้ ผจญภัยในหมู่ดาว",
-     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "info": "พากย์ไทย",
      "image": "https://4.bp.blogspot.com/-UaYu4-URLRk/V9toy1dBfxI/AAAAAAAAp34/Kf3wKZDM2zUISE8GzcyvEnDTG_9iTQ7eQCLcB/s320/Barbie%2BStar%2BLight%2BAdventure%2B%25282016%2529.jpg",
      "url": "https://play.kakjeawplay.xyz/1e81f767-05e9-4a40-b92c-bdd768887066/_",
      "referer": "https://www.nung2hdd.com/"
@@ -1227,7 +1773,7 @@
     },
     {
      "name": "Barbie Video Game Hero (2017) บาร์บี้ ผจญภัยในวิดีโอเกมส์",
-     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "info": "พากย์ไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/Barbie-Video-Game-Hero-2017.jpg",
      "url": "https://play.kakjeawplay.xyz/10c5eb87-c521-4752-b4d0-4257c094ca39/_",
      "referer": "https://www.nung2hdd.com/"
@@ -1241,7 +1787,7 @@
     },
     {
      "name": "Barbie Dolphin Magic (2017) บาร์บี้ โลมา มหัศจรรย์",
-     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "info": "พากย์ไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2018/01/Barbie-Dolphin-Magic-2017.jpg",
      "url": "https://play.kakjeawplay.xyz/adee2235-8311-4739-957d-8f93d23096bc/_",
      "referer": "https://www.nung2hdd.com/"
@@ -1255,7 +1801,7 @@
     },
     {
      "name": "Barbie The Pearl Princess (2014) บาร์บี้เจ้าหญิงเงือกน้อยกับไข่มุกวิเศษ",
-     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "info": "พากย์ไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2014/09/Barbie-The-Pearl-Princess-2014.jpg",
      "url": "https://play.kakjeawplay.xyz/935e3360-2d34-49b4-ae2b-ac60a11f078d/_",
      "referer": "https://www.nung2hdd.com/"
@@ -1269,7 +1815,7 @@
     },
     {
      "name": "Barbie And The Secret Door (2014) บาร์บี้ กับประตูพิศวง",
-     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "info": "พากย์ไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2014/09/5lUo3LmyLZsg1g9rQv5UMXnVkiq.jpg",
      "url": "https://play.kakjeawplay.xyz/782fbc91-fd3e-43b2-914d-818e0442ff6f/_",
      "referer": "https://www.nung2hdd.com/"
@@ -1283,7 +1829,7 @@
     },
     {
      "name": "Barbie in the Nutcracker (2001) บาร์บี้ อิน เดอะ นัทแครกเกอร์",
-     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "info": "พากย์ไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2020/04/201812041612331.jpg",
      "url": "https://play.kakjeawplay.xyz/7e20a9ef-981f-40c2-a5a7-b84cd4aa4bd5/_",
      "referer": "https://www.nung2hdd.com/"
@@ -1297,7 +1843,7 @@
     },
     {
      "name": "Barbie as Rapunzel (2002) บาร์บี้ เจ้าหญิงราพันเซล",
-     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "info": "พากย์ไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2020/04/201812041617451.jpg",
      "url": "https://play.kakjeawplay.xyz/88f794d2-f00f-44f9-a220-29ccd29129a4/_",
      "referer": "https://www.nung2hdd.com/"
@@ -1311,7 +1857,7 @@
     },
     {
      "name": "Barbie of Swan Lake (2003) บาร์บี้ เจ้าหญิงแห่งสวอนเลค",
-     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "info": "พากย์ไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2020/04/201812041621591.jpg",
      "url": "https://play.kakjeawplay.xyz/4990aa77-7b26-4c6f-b196-5fdf892e2194/_",
      "referer": "https://www.nung2hdd.com/"
@@ -1325,7 +1871,7 @@
     },
     {
      "name": "Barbie as the Princess and the Pauper (2004) เจ้าหญิงบาร์บี้และสาวผู้ยากไร้",
-     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "info": "พากย์ไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2020/04/201812041626001.jpg",
      "url": "https://play.kakjeawplay.xyz/8905b805-61d6-40f1-a5c5-6c3aada071ca/_",
      "referer": "https://www.nung2hdd.com/"
@@ -1339,7 +1885,7 @@
     },
     {
      "name": "Barbie Fairytopia (2005) บาร์บี้ นางฟ้าในโลกแห่งความฝัน",
-     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "info": "พากย์ไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2020/04/201812041630021.jpg",
      "url": "https://play.kakjeawplay.xyz/c59ddcb2-5a24-4f5f-b71a-aa42b4f8be4a/_",
      "referer": "https://www.nung2hdd.com/"
@@ -1353,7 +1899,7 @@
     },
     {
      "name": "Barbie and the Magic of Pegasus 3-D (2005) บาร์บี้กับเวทมนตร์แห่งพีกาซัส",
-     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "info": "พากย์ไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2020/04/201812041633071.jpg",
      "url": "https://play.kakjeawplay.xyz/58133ccd-ec30-4062-9020-1f6e6d2e35dc/_",
      "referer": "https://www.nung2hdd.com/"
@@ -1367,7 +1913,7 @@
     },
     {
      "name": "Barbie Fairytopia Mermaidia (2006) นางฟ้าบาร์บี้ในดินแดนใต้สมุทร",
-     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "info": "พากย์ไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2020/04/201812041637571.jpg",
      "url": "https://play.kakjeawplay.xyz/9405a888-5728-451e-af7d-8f2992dadca6/_",
      "referer": "https://www.nung2hdd.com/"
@@ -1381,7 +1927,7 @@
     },
     {
      "name": "Barbie Diaries (2006) บาร์บี้ บันทึกสาววัยใส",
-     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "info": "พากย์ไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2020/04/201812041642051.jpg",
      "url": "https://play.kakjeawplay.xyz/8b00931d-aace-4893-95cb-6bb47f96544d/_",
      "referer": "https://www.nung2hdd.com/"
@@ -1395,7 +1941,7 @@
     },
     {
      "name": "Barbie in the 12 Dancing Princesses (2006) บาร์บี้ ใน 12 เจ้าหญิงเริงระบำ",
-     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "info": "พากย์ไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2020/04/201812041645121.jpg",
      "url": "https://play.kakjeawplay.xyz/90af4290-34b2-4559-9f16-4aad86602c9d/_",
      "referer": "https://www.nung2hdd.com/"
@@ -1409,7 +1955,7 @@
     },
     {
      "name": "Barbie Fairytopia Magic of the Rainbow (2007) นางฟ้าบาร์บี้กับเวทมนตร์แห่งสายรุ้ง",
-     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "info": "พากย์ไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2020/04/20181204165107156165156.jpg",
      "url": "https://play.kakjeawplay.xyz/f51d2462-f328-45ba-bf43-058fd3d63c22/_",
      "referer": "https://www.nung2hdd.com/"
@@ -1423,7 +1969,7 @@
     },
     {
      "name": "Barbie: Mermaid Power (2022)",
-     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "info": "พากย์ไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/03/Barbie-Mermaid-Power-2022.jpg",
      "url": "https://play.kakjeawplay.xyz/59079183-db02-4d3d-94f3-18e29ed2e335/_",
      "referer": "https://www.nung2hdd.com/"
@@ -1437,7 +1983,7 @@
     },
     {
      "name": "Barbie: Mermaid Power (2022)",
-     "info": "ตัวเล่นหลัก ซับไทย",
+     "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/03/Barbie-Mermaid-Power-2022.jpg",
      "url": "https://play.kakjeawplay.xyz/a4340c8d-3706-4215-a732-04756fc2f3f7/_",
      "referer": "https://www.nung2hdd.com/"
@@ -1451,7 +1997,7 @@
     },
     {
      "name": "Barbie Big City Big Dreams (2021)",
-     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "info": "พากย์ไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2021/10/8PCeAhmRkiWYLBq0quetaFrHZp3.jpg",
      "url": "https://play.kakjeawplay.xyz/8d8ed502-cc53-4d94-b8ee-8678a6b020df/_",
      "referer": "https://www.nung2hdd.com/"
@@ -1465,7 +2011,7 @@
     },
     {
      "name": "Barbie Big City Big Dreams (2021)",
-     "info": "ตัวเล่นหลัก ซับไทย",
+     "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2021/10/8PCeAhmRkiWYLBq0quetaFrHZp3.jpg",
      "url": "https://play.kakjeawplay.xyz/d23aefaa-1efe-4239-80f3-f4c1e47f6b2c/_",
      "referer": "https://www.nung2hdd.com/"
@@ -1479,7 +2025,7 @@
     },
     {
      "name": "Barbie: Epic Road Trip (2022) บาร์บี้ โร้ดทริปมหัศจรรย์",
-     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "info": "พากย์ไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/03/Barbie-Epic-Road-Trip-2022.jpg",
      "url": "https://play.kakjeawplay.xyz/937126b5-5936-4bb9-a56d-8d86a91b018d/_",
      "referer": "https://www.nung2hdd.com/"
@@ -1493,7 +2039,7 @@
     },
     {
      "name": "Barbie: Epic Road Trip (2022) บาร์บี้ โร้ดทริปมหัศจรรย์",
-     "info": "ตัวเล่นหลัก ซับไทย",
+     "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/03/Barbie-Epic-Road-Trip-2022.jpg",
      "url": "https://play.kakjeawplay.xyz/5613b408-da08-4408-ab5e-95fae3a8638c/_",
      "referer": "https://www.nung2hdd.com/"
@@ -1507,7 +2053,7 @@
     },
     {
      "name": "Barbie & Chelsea The Lost Birthday (2021) บาร์บี้กับเชลซี วันเกิดที่หายไป",
-     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "info": "พากย์ไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2021/07/esS12yF3CDuk5juvdFvi4PIwOuW.jpg",
      "url": "https://play.kakjeawplay.xyz/0540cbb2-eb72-4444-a5e4-4f3a9f60795e/_",
      "referer": "https://www.nung2hdd.com/"
@@ -1521,7 +2067,7 @@
     },
     {
      "name": "Barbie & Chelsea The Lost Birthday (2021) บาร์บี้กับเชลซี วันเกิดที่หายไป",
-     "info": "ตัวเล่นหลัก ซับไทย",
+     "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2021/07/esS12yF3CDuk5juvdFvi4PIwOuW.jpg",
      "url": "https://play.kakjeawplay.xyz/cbcf8acf-9c46-4089-aa14-15f92e2a7613/_",
      "referer": "https://www.nung2hdd.com/"
@@ -1535,7 +2081,7 @@
     },
     {
      "name": "Barbie Princess Adventure (2020) บาร์บี้ ภารกิจลับฉบับเจ้าหญิง",
-     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "info": "พากย์ไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/AwkmMTKJBAatbeAVhTwhcU3Pyp4.jpg",
      "url": "https://play.kakjeawplay.xyz/e9dd13a8-8c06-488a-8c57-a4896a2299ae/_",
      "referer": "https://www.nung2hdd.com/"
@@ -1549,7 +2095,7 @@
     },
     {
      "name": "Barbie Princess Adventure (2020) บาร์บี้ ภารกิจลับฉบับเจ้าหญิง",
-     "info": "ตัวเล่นหลัก ซับไทย",
+     "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/AwkmMTKJBAatbeAVhTwhcU3Pyp4.jpg",
      "url": "https://play.kakjeawplay.xyz/691b6fff-d8d7-4e98-8e8c-2b0e156b6471/_",
      "referer": "https://www.nung2hdd.com/"
@@ -1563,7 +2109,7 @@
     },
     {
      "name": "Barbie: Skipper and the Big Babysitting Adventure (2023)",
-     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "info": "พากย์ไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/03/Barbie-Skipper-And-The-Big-Babysitting-Adventure-2023.jpg",
      "url": "https://play.kakjeawplay.xyz/fbc411f7-690d-4ee0-b458-f255773290e4/_",
      "referer": "https://www.nung2hdd.com/"
@@ -1577,7 +2123,7 @@
     },
     {
      "name": "Barbie: Skipper and the Big Babysitting Adventure (2023)",
-     "info": "ตัวเล่นหลัก ซับไทย",
+     "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/03/Barbie-Skipper-And-The-Big-Babysitting-Adventure-2023.jpg",
      "url": "https://play.kakjeawplay.xyz/5da34806-3419-4122-88ab-613de4af695a/_",
      "referer": "https://www.nung2hdd.com/"
@@ -1591,7 +2137,7 @@
     },
     {
      "name": "Barbie (2023) บาร์บี้",
-     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "info": "พากย์ไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/09/Barbie-2023.jpg",
      "url": "https://play.kakjeawplay.xyz/d51be270-a11c-4ec4-8bd5-e3d5dcef233d/_",
      "referer": "https://www.nung2hdd.com/"
@@ -1605,7 +2151,7 @@
     },
     {
      "name": "Barbie (2023) บาร์บี้",
-     "info": "ตัวเล่นหลัก ซับไทย",
+     "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/09/Barbie-2023.jpg",
      "url": "https://play.kakjeawplay.xyz/93ce144d-484b-424a-a698-f1e72c3eac1b/_",
      "referer": "https://www.nung2hdd.com/"
@@ -1619,7 +2165,7 @@
     },
     {
      "name": "Barbie and Stacie to the Rescue (2024)",
-     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "info": "พากย์ไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Barbie-and-Stacie-to-the-Rescue.jpg",
      "url": "https://play.kakjeawplay.xyz/8a31d07a-3d44-41b4-a924-8fd82e84d76a/_",
      "referer": "https://www.nung2hdd.com/"
@@ -1633,7 +2179,7 @@
     },
     {
      "name": "Barbie and Stacie to the Rescue (2024)",
-     "info": "ตัวเล่นหลัก ซับไทย",
+     "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Barbie-and-Stacie-to-the-Rescue.jpg",
      "url": "https://play.kakjeawplay.xyz/0ff071ba-788d-4cf1-9d11-a07cb3164049/_",
      "referer": "https://www.nung2hdd.com/"
@@ -1791,7 +2337,7 @@
    "stations": [
     {
      "name": "Murder Mubarak (2024) ทีมสืบคดีแปลก",
-     "info": "ตัวเล่นหลัก ซับไทย",
+     "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Murder-Mubarak-2024.png",
      "url": "https://play.kakjeawplay.xyz/c378cea9-61fe-41f5-b93c-4d5feba39180/_",
      "referer": "https://www.nung2hdd.com/"
@@ -1811,7 +2357,7 @@
    "stations": [
     {
      "name": "Irish Wish (2024) ฝันรักไอร์แลนด์",
-     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "info": "พากย์ไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Irish-Wish-2024.png",
      "url": "https://play.kakjeawplay.xyz/7aa4f12a-3833-4117-abd9-fac129abede9/_",
      "referer": "https://www.nung2hdd.com/"
@@ -1825,7 +2371,7 @@
     },
     {
      "name": "Irish Wish (2024) ฝันรักไอร์แลนด์",
-     "info": "ตัวเล่นหลัก ซับไทย",
+     "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Irish-Wish-2024.png",
      "url": "https://play.kakjeawplay.xyz/19f58912-6d5d-4572-94a6-5bf2b7a92f8c/_",
      "referer": "https://www.nung2hdd.com/"
@@ -1845,7 +2391,7 @@
    "stations": [
     {
      "name": "The Wonderful Story of Henry Sugar and Three More (2024) เรื่องเล่าหรรษาของเฮนรี่ ชูการ์ และอีกสามเรื่อง",
-     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "info": "พากย์ไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/The-Wonderful-Story-of-Henry-Sugar-and-Three-More-2024.jpg",
      "url": "https://play.kakjeawplay.xyz/161071a0-8cbf-4c35-a825-a4f988480f45/_",
      "referer": "https://www.nung2hdd.com/"
@@ -1859,7 +2405,7 @@
     },
     {
      "name": "The Wonderful Story of Henry Sugar and Three More (2024) เรื่องเล่าหรรษาของเฮนรี่ ชูการ์ และอีกสามเรื่อง",
-     "info": "ตัวเล่นหลัก ซับไทย",
+     "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/The-Wonderful-Story-of-Henry-Sugar-and-Three-More-2024.jpg",
      "url": "https://play.kakjeawplay.xyz/d3c5d039-f7a7-4c3e-ab24-05b2d4d357b0/_",
      "referer": "https://www.nung2hdd.com/"
@@ -2115,7 +2661,7 @@
    "stations": [
     {
      "name": "24 Hours with Gaspar (2024) 24 ชั่วโมงกับแกสปาร์",
-     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "info": "พากย์ไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/24-Jam-Bersama-Gaspar.png",
      "url": "https://play.kakjeawplay.xyz/aaf9eebd-09ed-4490-9b93-ba1b2f581336/_",
      "referer": "https://www.nung2hdd.com/"
@@ -2129,7 +2675,7 @@
     },
     {
      "name": "24 Hours with Gaspar (2024) 24 ชั่วโมงกับแกสปาร์",
-     "info": "ตัวเล่นหลัก ซับไทย",
+     "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/24-Jam-Bersama-Gaspar.png",
      "url": "https://play.kakjeawplay.xyz/cf71c60b-c813-4766-8f2b-f1117f24d33a/_",
      "referer": "https://www.nung2hdd.com/"
@@ -2149,7 +2695,7 @@
    "stations": [
     {
      "name": "Art of Love (2024) ศิลปะแห่งรัก",
-     "info": "ตัวเล่นหลัก ซับไทย",
+     "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Romantik-Hirsiz.png",
      "url": "https://play.kakjeawplay.xyz/32ab3302-e94d-47dd-a4bd-fd7cad88ab26/_",
      "referer": "https://www.nung2hdd.com/"
@@ -2169,7 +2715,7 @@
    "stations": [
     {
      "name": "Night Rain and Autumn Lantern Hear Strange Stories (2024) เรื่องลึกลับคืนฝนตกกับโคมไฟฤดูใบไม้ผลิ",
-     "info": "ตัวเล่นหลัก ซับไทย",
+     "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Night-Rain-and-Autumn-Lantern-Hear-Strange-Stories-2024.png",
      "url": "https://play.kakjeawplay.xyz/8f7d2719-21ed-433b-a7ed-9a7e5d460a23/_",
      "referer": "https://www.nung2hdd.com/"
@@ -2189,7 +2735,7 @@
    "stations": [
     {
      "name": "Dune Part Two (2024) ดูน ภาคสอง",
-     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "info": "พากย์ไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Dune-Part-Two-2024v2b.jpg",
      "url": "https://play.kakjeawplay.xyz/17986310-be88-490d-91cd-9a8ab67ecf07/_",
      "referer": "https://www.nung2hdd.com/"
@@ -2209,7 +2755,7 @@
    "stations": [
     {
      "name": "Xiangxi Guishi (2024) เรื่องแปลกเซียงซี",
-     "info": "ตัวเล่นหลัก ซับไทย",
+     "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/XIANGXI-GUISHI-2024.png",
      "url": "https://play.kakjeawplay.xyz/633506c1-008c-448b-b68a-6bb269f35948/_",
      "referer": "https://www.nung2hdd.com/"
@@ -2229,7 +2775,7 @@
    "stations": [
     {
      "name": "Cruel War (2024) สงครามมหาโหด",
-     "info": "ตัวเล่นหลัก ซับไทย",
+     "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/CRUEL-WAR-2024.jpg",
      "url": "https://play.kakjeawplay.xyz/c355b610-8241-4320-8a1f-855e62812b12/_",
      "referer": "https://www.nung2hdd.com/"
@@ -2249,7 +2795,7 @@
    "stations": [
     {
      "name": "The Wild Blade of Strangers (2024) นักดาบคนแปลกหน้า",
-     "info": "ตัวเล่นหลัก ซับไทย",
+     "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/The-Wild-Blade-of-Strangers-2024.jpg",
      "url": "https://play.kakjeawplay.xyz/ec6592c9-ff22-4467-8224-4fb395d5e25b/_",
      "referer": "https://www.nung2hdd.com/"
@@ -2269,7 +2815,7 @@
    "stations": [
     {
      "name": "Kung Fu Panda 4 (2024) กังฟูแพนด้า 4",
-     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "info": "พากย์ไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Kung-Fu-Panda-4-2024.jpg",
      "url": "https://play.kakjeawplay.xyz/f6fed282-dbf9-4436-84f3-544613fde214/_",
      "referer": "https://www.nung2hdd.com/"
@@ -2385,7 +2931,7 @@
    "stations": [
     {
      "name": "Damsel (2024) ดรุณีผู้พิชิต",
-     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "info": "พากย์ไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Damsel-2024.jpg",
      "url": "https://play.kakjeawplay.xyz/08173765-4cf8-4225-968a-8baae44107dd/_",
      "referer": "https://www.nung2hdd.com/"
@@ -2399,7 +2945,7 @@
     },
     {
      "name": "Damsel (2024) ดรุณีผู้พิชิต",
-     "info": "ตัวเล่นหลัก ซับไทย",
+     "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Damsel-2024.jpg",
      "url": "https://play.kakjeawplay.xyz/0b7ea892-1c8c-42aa-b3b4-60675a4b68b9/_",
      "referer": "https://www.nung2hdd.com/"
@@ -2419,7 +2965,7 @@
    "stations": [
     {
      "name": "Ricky Stanicky (2024) ริคกี้ สแตนนิคกี้ เพื่อนซี้กำมะลอ",
-     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "info": "พากย์ไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Rocky.jpg",
      "url": "https://play.kakjeawplay.xyz/bc287352-1188-4f2c-bd15-48cda58ea76f/_",
      "referer": "https://www.nung2hdd.com/"
@@ -2433,7 +2979,7 @@
     },
     {
      "name": "Ricky Stanicky (2024) ริคกี้ สแตนนิคกี้ เพื่อนซี้กำมะลอ",
-     "info": "ตัวเล่นหลัก ซับไทย",
+     "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Rocky.jpg",
      "url": "https://play.kakjeawplay.xyz/9b0a6642-741b-4306-9b4a-44526befb54e/_",
      "referer": "https://www.nung2hdd.com/"
@@ -2453,7 +2999,7 @@
    "stations": [
     {
      "name": "Ancient Building Town Mausoleum Palace (2024) สุสานเมืองกู่โหลว",
-     "info": "ตัวเล่นหลัก ซับไทย",
+     "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Ancient-Building-Town-Mausoleum-Palace-2024.jpg",
      "url": "https://play.kakjeawplay.xyz/c5ce6b33-befc-42ba-9249-8452901fce75/_",
      "referer": "https://www.nung2hdd.com/"
@@ -2473,7 +3019,7 @@
    "stations": [
     {
      "name": "Blocking The Horse (2024) ขวางม้าและคว้าดาบ",
-     "info": "ตัวเล่นหลัก ซับไทย",
+     "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/BLOCKING-THE-HORSE-2024.jpg",
      "url": "https://play.kakjeawplay.xyz/136161da-8914-4474-b44c-cbe42b5cc227/_",
      "referer": "https://www.nung2hdd.com/"
@@ -2673,7 +3219,7 @@
    "stations": [
     {
      "name": "Mean Girls (2024) ก๊วนสาวซ่าส์ วีนซะไม่มี",
-     "info": "ตัวเล่นหลัก ซับไทย",
+     "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Mean-Girls-2024.png",
      "url": "https://play.kakjeawplay.xyz/6a567d96-7f7d-4c54-8434-40e46c69ed2b/_",
      "referer": "https://www.nung2hdd.com/"
@@ -3459,7 +4005,7 @@
    "stations": [
     {
      "name": "นักรบมนตรา: ตำนานแปดดวงจันทร์ (2024) Mantra Warrior: The Legend of The Eight Moons",
-     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "info": "พากย์ไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/montrawarrir.png",
      "url": "https://play.kakjeawplay.xyz/699c2b24-c30d-4612-891a-30f817bdc3f2/_",
      "referer": "https://www.nung2hdd.com/"
@@ -3479,7 +4025,7 @@
    "stations": [
     {
      "name": "My Name Is Loh Kiwan (2024) ผมชื่อโรกีวาน",
-     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "info": "พากย์ไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/My-Name-Is-Loh-Kiwan-2024.png",
      "url": "https://play.kakjeawplay.xyz/c577e4db-02e2-4572-ac36-cde1185a7ecf/_",
      "referer": "https://www.nung2hdd.com/"
@@ -3493,7 +4039,7 @@
     },
     {
      "name": "My Name Is Loh Kiwan (2024) ผมชื่อโรกีวาน",
-     "info": "ตัวเล่นหลัก ซับไทย",
+     "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/My-Name-Is-Loh-Kiwan-2024.png",
      "url": "https://play.kakjeawplay.xyz/1e203b5d-b799-449e-a71f-7480b04aab77/_",
      "referer": "https://www.nung2hdd.com/"
@@ -3513,7 +4059,7 @@
    "stations": [
     {
      "name": "Spaceman (2024) สเปซแมน",
-     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "info": "พากย์ไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Spaceman.png",
      "url": "https://play.kakjeawplay.xyz/aa5a27df-69fb-4a3a-bbc1-8f1eaaab9487/_",
      "referer": "https://www.nung2hdd.com/"
@@ -3527,7 +4073,7 @@
     },
     {
      "name": "Spaceman (2024) สเปซแมน",
-     "info": "ตัวเล่นหลัก ซับไทย",
+     "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Spaceman.png",
      "url": "https://play.kakjeawplay.xyz/da3a5b0b-8217-4a9d-a82d-02d1f874ce0d/_",
      "referer": "https://www.nung2hdd.com/"
@@ -3547,7 +4093,7 @@
    "stations": [
     {
      "name": "Detective Dee and the Phantom of Waning Moon (2024) ตี๋เหรินเจี๋ยปีศาจแห่งจันทร์",
-     "info": "ตัวเล่นหลัก ซับไทย",
+     "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/02/Detective-Dee-and-the-Phantom-of-Waning-Moon-2024.png",
      "url": "https://play.kakjeawplay.xyz/80c71999-82c0-4117-9eea-32757bcc487d/_",
      "referer": "https://www.nung2hdd.com/"
@@ -3567,7 +4113,7 @@
    "stations": [
     {
      "name": "The Parades (2024) เดอะ พาเหรด",
-     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "info": "พากย์ไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/02/The-Parades.png",
      "url": "https://play.kakjeawplay.xyz/cd501ddd-95ee-442d-9daa-00db71026c44/_",
      "referer": "https://www.nung2hdd.com/"
@@ -3581,7 +4127,7 @@
     },
     {
      "name": "The Parades (2024) เดอะ พาเหรด",
-     "info": "ตัวเล่นหลัก ซับไทย",
+     "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/02/The-Parades.png",
      "url": "https://play.kakjeawplay.xyz/6065f1ed-66db-4959-b798-01e6822071f7/_",
      "referer": "https://www.nung2hdd.com/"
@@ -3601,7 +4147,7 @@
    "stations": [
     {
      "name": "Snoopy Presents: It’s the Small Things, Charlie Brown (2022) พากย์ไทย",
-     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "info": "พากย์ไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2022/08/Charlie-Brown-2022-200x300.jpg",
      "url": "https://play.kakjeawplay.xyz/46ad1a30-ba38-42fd-8259-1bb54065de96/_",
      "referer": "https://www.nung2hdd.com/"
@@ -3615,7 +4161,7 @@
     },
     {
      "name": "Snoopy Presents: It’s the Small Things, Charlie Brown (2022) พากย์ไทย",
-     "info": "ตัวเล่นหลัก ซับไทย",
+     "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2022/08/Charlie-Brown-2022-200x300.jpg",
      "url": "https://play.kakjeawplay.xyz/32dd0b12-84f1-4bb2-8572-53ca89236a2e/_",
      "referer": "https://www.nung2hdd.com/"
@@ -3629,7 +4175,7 @@
     },
     {
      "name": "Snoopy Presents: To Mom (and Dad), with Love (2022) พากย์ไทย",
-     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "info": "พากย์ไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2022/05/Snoopy-Presents-To-Mom-and-Dad-with-Love-2022-200x300.jpg",
      "url": "https://play.kakjeawplay.xyz/fcd80db2-35f4-41dc-a9e2-58648adb4acb/_",
      "referer": "https://www.nung2hdd.com/"
@@ -3643,7 +4189,7 @@
     },
     {
      "name": "Snoopy Presents: To Mom (and Dad), with Love (2022) พากย์ไทย",
-     "info": "ตัวเล่นหลัก ซับไทย",
+     "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2022/05/Snoopy-Presents-To-Mom-and-Dad-with-Love-2022-200x300.jpg",
      "url": "https://play.kakjeawplay.xyz/6eee275f-c5ba-4d59-bc4d-f6d16d486f4b/_",
      "referer": "https://www.nung2hdd.com/"
@@ -3657,7 +4203,7 @@
     },
     {
      "name": "Snoopy Presents: Lucy’s School (2022) พากย์ไทย",
-     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "info": "พากย์ไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2022/08/Snoopy-Presents-Lucys-School-2022-200x300.jpg",
      "url": "https://play.kakjeawplay.xyz/5ec36510-06c3-43c3-a4af-c28cbb5869d5/_",
      "referer": "https://www.nung2hdd.com/"
@@ -3671,7 +4217,7 @@
     },
     {
      "name": "Snoopy Presents: Lucy’s School (2022) พากย์ไทย",
-     "info": "ตัวเล่นหลัก ซับไทย",
+     "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2022/08/Snoopy-Presents-Lucys-School-2022-200x300.jpg",
      "url": "https://play.kakjeawplay.xyz/5a57a222-be9e-461c-8ce9-6f8a51dc85f5/_",
      "referer": "https://www.nung2hdd.com/"
@@ -3685,7 +4231,7 @@
     },
     {
      "name": "Snoopy Presents For Auld Lang Syne (2021)",
-     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "info": "พากย์ไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2021/12/p0ONYt2cw0vPEnZIoOHq1Ki7Ifm.jpg",
      "url": "https://play.kakjeawplay.xyz/79e02844-61bb-4570-bf67-c63c27145948/_",
      "referer": "https://www.nung2hdd.com/"
@@ -3699,7 +4245,7 @@
     },
     {
      "name": "Snoopy Presents For Auld Lang Syne (2021)",
-     "info": "ตัวเล่นหลัก ซับไทย",
+     "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2021/12/p0ONYt2cw0vPEnZIoOHq1Ki7Ifm.jpg",
      "url": "https://play.kakjeawplay.xyz/1caa8d0b-724d-4102-acd9-2ca794bc70b1/_",
      "referer": "https://www.nung2hdd.com/"
@@ -3713,7 +4259,7 @@
     },
     {
      "name": "Snoopy Presents: Welcome Home, Franklin (2024)",
-     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "info": "พากย์ไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Snoopy-Presents.png",
      "url": "https://play.kakjeawplay.xyz/5d280057-3993-4842-8eea-401f56ae6bae/_",
      "referer": "https://www.nung2hdd.com/"
@@ -3727,7 +4273,7 @@
     },
     {
      "name": "Snoopy Presents: Welcome Home, Franklin (2024)",
-     "info": "ตัวเล่นหลัก ซับไทย",
+     "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Snoopy-Presents.png",
      "url": "https://play.kakjeawplay.xyz/83a43b38-4185-434f-89ff-021db65e9252/_",
      "referer": "https://www.nung2hdd.com/"
@@ -3747,7 +4293,7 @@
    "stations": [
     {
      "name": "Code 8 (2019) ล่าคนโคตรพลัง",
-     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "info": "พากย์ไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2020/02/mz3pXqYkajrHFl1RbuXJZ1GzSsu.jpg",
      "url": "https://play.kakjeawplay.xyz/6acd2d4c-e732-42a9-a3fb-0cf8d8ae45f3/_",
      "referer": "https://www.nung2hdd.com/"
@@ -3761,7 +4307,7 @@
     },
     {
      "name": "Code 8 (2019) ล่าคนโคตรพลัง",
-     "info": "ตัวเล่นหลัก ซับไทย",
+     "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2020/02/mz3pXqYkajrHFl1RbuXJZ1GzSsu.jpg",
      "url": "https://play.kakjeawplay.xyz/a04a0ab1-d66f-4ab0-8c65-3ff0ee731243/_",
      "referer": "https://www.nung2hdd.com/"
@@ -3775,7 +4321,7 @@
     },
     {
      "name": "Code 8 Part II (2024) ล่าคนโคตรพลัง ภาค 2",
-     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "info": "พากย์ไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Code-8-pt2.png",
      "url": "https://play.kakjeawplay.xyz/e2dc7f9c-4a90-4169-8db5-d5ba9c0936aa/_",
      "referer": "https://www.nung2hdd.com/"
@@ -3789,7 +4335,7 @@
     },
     {
      "name": "Code 8 Part II (2024) ล่าคนโคตรพลัง ภาค 2",
-     "info": "ตัวเล่นหลัก ซับไทย",
+     "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Code-8-pt2.png",
      "url": "https://play.kakjeawplay.xyz/702b462b-5205-4918-b5bf-54f3410565cb/_",
      "referer": "https://www.nung2hdd.com/"
@@ -3809,7 +4355,7 @@
    "stations": [
     {
      "name": "The Greatest Love Story Never Told (2024)",
-     "info": "ตัวเล่นหลัก ซับไทย",
+     "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/The-Greatest-Love-Story-Never-Told.png",
      "url": "https://play.kakjeawplay.xyz/678b15ba-e81d-4d20-9148-b00b7315e107/_",
      "referer": "https://www.nung2hdd.com/"
@@ -3829,7 +4375,7 @@
    "stations": [
     {
      "name": "Red Right Hand (2024)",
-     "info": "ตัวเล่นหลัก ซับไทย",
+     "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Red-Right-Hand.png",
      "url": "https://play.kakjeawplay.xyz/db57c9e8-de43-4e31-a958-697d813b11f4/_",
      "referer": "https://www.nung2hdd.com/"
@@ -3849,7 +4395,7 @@
    "stations": [
     {
      "name": "Sword E Flag (2024) บันทึกดาบโบราณ",
-     "info": "ตัวเล่นหลัก ซับไทย",
+     "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Sword-E-Flag-2024.png",
      "url": "https://play.kakjeawplay.xyz/e3efe3ff-aa35-4145-81e7-ebc69f567987/_",
      "referer": "https://www.nung2hdd.com/"
@@ -3869,7 +4415,7 @@
    "stations": [
     {
      "name": "Wolf Hiding (2024) แก๊งโฉด โคตรระห่ำ",
-     "info": "ตัวเล่นหลัก ซับไทย",
+     "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Wolf-Hiding-2023.png",
      "url": "https://play.kakjeawplay.xyz/a63c161d-d418-4995-bc19-4a5baea6691d/_",
      "referer": "https://www.nung2hdd.com/"
@@ -3889,7 +4435,7 @@
    "stations": [
     {
      "name": "Mea Culpa (2024) ทนายคดีฆ่า",
-     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "info": "พากย์ไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Mea-Culpa.jpg",
      "url": "https://play.kakjeawplay.xyz/5a8e0b5b-7a4e-49d5-9075-4888db01a47c/_",
      "referer": "https://www.nung2hdd.com/"
@@ -3903,7 +4449,7 @@
     },
     {
      "name": "Mea Culpa (2024) ทนายคดีฆ่า",
-     "info": "ตัวเล่นหลัก ซับไทย",
+     "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Mea-Culpa.jpg",
      "url": "https://play.kakjeawplay.xyz/94cf4ec0-5ec6-4820-9107-c05388408c97/_",
      "referer": "https://www.nung2hdd.com/"
@@ -3923,7 +4469,7 @@
    "stations": [
     {
      "name": "Through My Window 3: Looking at You (2024) รักผ่านหน้าต่าง: ดวงตาจ้องมองเธอ",
-     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "info": "พากย์ไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Through-My-Window-3-Looking-at-You-2024.jpg",
      "url": "https://play.kakjeawplay.xyz/6a180c49-2b0b-4ad3-ace1-2a7a0e595ffb/_",
      "referer": "https://www.nung2hdd.com/"
@@ -3937,7 +4483,7 @@
     },
     {
      "name": "Through My Window 3: Looking at You (2024) รักผ่านหน้าต่าง: ดวงตาจ้องมองเธอ",
-     "info": "ตัวเล่นหลัก ซับไทย",
+     "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Through-My-Window-3-Looking-at-You-2024.jpg",
      "url": "https://play.kakjeawplay.xyz/0f296730-38b5-44f9-80aa-084d18f74d13/_",
      "referer": "https://www.nung2hdd.com/"
@@ -3957,7 +4503,7 @@
    "stations": [
     {
      "name": "The Tiger’s Apprentice (2024)",
-     "info": "ตัวเล่นหลัก ซับไทย",
+     "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/The-Tiger-s-Apprentice-2024.jpg",
      "url": "https://play.kakjeawplay.xyz/5abe0177-255f-44d7-ad28-9891290c3909/_",
      "referer": "https://www.nung2hdd.com/"
@@ -3977,7 +4523,7 @@
    "stations": [
     {
      "name": "Break War (2024) สงครามพินาศ",
-     "info": "ตัวเล่นหลัก ซับไทย",
+     "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Break-War.jpg",
      "url": "https://play.kakjeawplay.xyz/2396ddca-d93b-42c6-9bc6-b864301da49a/_",
      "referer": "https://www.nung2hdd.com/"
@@ -3997,7 +4543,7 @@
    "stations": [
     {
      "name": "Lights Out (2024)",
-     "info": "ตัวเล่นหลัก ซับไทย",
+     "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Lights-Out-2024.jpg",
      "url": "https://play.kakjeawplay.xyz/d2e7491e-fc70-4512-b65d-5a247f81ccb0/_",
      "referer": "https://www.nung2hdd.com/"
@@ -5143,7 +5689,7 @@
    "stations": [
     {
      "name": "Double Blind (2024)",
-     "info": "ตัวเล่นหลัก ซับไทย",
+     "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Double-Blind-2024.png",
      "url": "https://play.kakjeawplay.xyz/6324af86-34bb-469d-8917-4a6759f8a16d/_",
      "referer": "https://www.nung2hdd.com/"
@@ -5163,7 +5709,7 @@
    "stations": [
     {
      "name": "Einstein and the Bomb (2024) ไอน์สไตน์และระเบิด",
-     "info": "ตัวเล่นหลัก ซับไทย",
+     "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Einstein-and-the-Bomb.png",
      "url": "https://play.kakjeawplay.xyz/5dd9474e-bd40-4d47-b6fd-0061e27e4fb4/_",
      "referer": "https://www.nung2hdd.com/"
@@ -5183,7 +5729,7 @@
    "stations": [
     {
      "name": "The Longcheng Mystery Case (2024) ความลับเมืองหลงเฉิง",
-     "info": "ตัวเล่นหลัก ซับไทย",
+     "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/The-Longcheng-Mystery-Case-2024.png",
      "url": "https://play.kakjeawplay.xyz/a8f456a9-d178-4d48-8994-9ca83175a6c5/_",
      "referer": "https://www.nung2hdd.com/"
@@ -5203,7 +5749,7 @@
    "stations": [
     {
      "name": "This Is Me…Now (2024) ดิส อิส มี นาว เรื่องราวความรัก",
-     "info": "ตัวเล่นหลัก ซับไทย",
+     "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/This-Is-Me-Now.jpg",
      "url": "https://play.kakjeawplay.xyz/f7b59ec8-dd91-4b54-a8f0-085df232c9b6/_",
      "referer": "https://www.nung2hdd.com/"
@@ -5333,7 +5879,7 @@
    "stations": [
     {
      "name": "A Soweto Love Story (2024) ความรักสไตล์โซเวโต",
-     "info": "ตัวเล่นหลัก ซับไทย",
+     "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/A-Soweto-Love-Story.png",
      "url": "https://play.kakjeawplay.xyz/911e1655-72c9-4f0d-8ab3-1fe898dbb141/_",
      "referer": "https://www.nung2hdd.com/"
@@ -5353,7 +5899,7 @@
    "stations": [
     {
      "name": "Lover, Stalker, Killer (2024) คนรัก สตอล์กเกอร์ ฆาตกร",
-     "info": "ตัวเล่นหลัก ซับไทย",
+     "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Lover-StalkerKiller.png",
      "url": "https://play.kakjeawplay.xyz/fedc1ad9-1f94-4851-828b-7fc5ab46a7cf/_",
      "referer": "https://www.nung2hdd.com/"
@@ -5373,7 +5919,7 @@
    "stations": [
     {
      "name": "Players (2024) เลิกเล่นมาเริ่มรัก",
-     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "info": "พากย์ไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Players.png",
      "url": "https://play.kakjeawplay.xyz/10cc8a08-e474-4cda-a84a-db40a110050a/_",
      "referer": "https://www.nung2hdd.com/"
@@ -5387,7 +5933,7 @@
     },
     {
      "name": "Players (2024) เลิกเล่นมาเริ่มรัก",
-     "info": "ตัวเล่นหลัก ซับไทย",
+     "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Players.png",
      "url": "https://play.kakjeawplay.xyz/60275311-a9ab-479b-8dca-9b12ccbfd749/_",
      "referer": "https://www.nung2hdd.com/"
@@ -5407,7 +5953,7 @@
    "stations": [
     {
      "name": "The Heartbreak Agency (2024) คลินิกบำบัดไข้ใจ",
-     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "info": "พากย์ไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Die-Liebeskummerer.png",
      "url": "https://play.kakjeawplay.xyz/b160ef85-d1a9-42fd-a6c0-94e5b90ba104/_",
      "referer": "https://www.nung2hdd.com/"
@@ -5421,7 +5967,7 @@
     },
     {
      "name": "The Heartbreak Agency (2024) คลินิกบำบัดไข้ใจ",
-     "info": "ตัวเล่นหลัก ซับไทย",
+     "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Die-Liebeskummerer.png",
      "url": "https://play.kakjeawplay.xyz/8aaf48bb-0dc7-4047-a4d2-4f4c56442070/_",
      "referer": "https://www.nung2hdd.com/"
@@ -5441,7 +5987,7 @@
    "stations": [
     {
      "name": "Bhakshak (2024) เปิดหน้ากากความจริง",
-     "info": "ตัวเล่นหลัก ซับไทย",
+     "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Bhakshak-2024.png",
      "url": "https://play.kakjeawplay.xyz/157825b6-121a-4d40-af0f-0bd1b5920293/_",
      "referer": "https://www.nung2hdd.com/"
@@ -5461,7 +6007,7 @@
    "stations": [
     {
      "name": "Kill Me If You Dare (2024) ถ้ากล้า ก็ฆ่าเลย",
-     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "info": "พากย์ไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Kill-Me-If-You-Dare.png",
      "url": "https://play.kakjeawplay.xyz/40728363-ed57-4861-9d63-b88fd9d72acd/_",
      "referer": "https://www.nung2hdd.com/"
@@ -5475,7 +6021,7 @@
     },
     {
      "name": "Kill Me If You Dare (2024) ถ้ากล้า ก็ฆ่าเลย",
-     "info": "ตัวเล่นหลัก ซับไทย",
+     "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Kill-Me-If-You-Dare.png",
      "url": "https://play.kakjeawplay.xyz/730119f8-44bc-4b72-a70b-709d356adf02/_",
      "referer": "https://www.nung2hdd.com/"
@@ -5495,7 +6041,7 @@
    "stations": [
     {
      "name": "Five Blind Dates (2024) ห้าเดทวุ่น ลุ้นพบรัก",
-     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "info": "พากย์ไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Five-Blind-Dates-2024.png",
      "url": "https://play.kakjeawplay.xyz/71f1e241-5930-4861-8b60-b57aaf0881e5/_",
      "referer": "https://www.nung2hdd.com/"
@@ -5509,7 +6055,7 @@
     },
     {
      "name": "Five Blind Dates (2024) ห้าเดทวุ่น ลุ้นพบรัก",
-     "info": "ตัวเล่นหลัก ซับไทย",
+     "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Five-Blind-Dates-2024.png",
      "url": "https://play.kakjeawplay.xyz/b98e7c27-ee5e-4337-851e-98beb98d25ef/_",
      "referer": "https://www.nung2hdd.com/"
@@ -6233,7 +6779,7 @@
    "stations": [
     {
      "name": "Cult Killer (2024)",
-     "info": "ตัวเล่นหลัก ซับไทย",
+     "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Cult-Killer-2024.png",
      "url": "https://play.kakjeawplay.xyz/bcbfe9f6-c751-4386-9725-a8f9f827339a/_",
      "referer": "https://www.nung2hdd.com/"
@@ -6253,7 +6799,7 @@
    "stations": [
     {
      "name": "Suncoast (2024)",
-     "info": "ตัวเล่นหลัก ซับไทย",
+     "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Suncoast-2024.png",
      "url": "https://play.kakjeawplay.xyz/44a54cb2-fed5-48fc-bbeb-64f45408f69c/_",
      "referer": "https://www.nung2hdd.com/"
@@ -6273,7 +6819,7 @@
    "stations": [
     {
      "name": "Ashes (2024) เถ้าถ่าน",
-     "info": "ตัวเล่นหลัก ซับไทย",
+     "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Ashes-2024.png",
      "url": "https://play.kakjeawplay.xyz/07d10aa0-8020-497c-811e-7257f13878c1/_",
      "referer": "https://www.nung2hdd.com/"
@@ -6355,7 +6901,7 @@
    "stations": [
     {
      "name": "Upgraded (2024) รักฉบับอัปเกรด",
-     "info": "ตัวเล่นหลัก ซับไทย",
+     "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Upgraded-2024.jpg",
      "url": "https://play.kakjeawplay.xyz/b365497a-6a4e-4002-b2e5-172b090d3842/_",
      "referer": "https://www.nung2hdd.com/"
@@ -6437,7 +6983,7 @@
    "stations": [
     {
      "name": "I.S.S. (2024)",
-     "info": "ตัวเล่นหลัก ซับไทย",
+     "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/ISS-2024.png",
      "url": "https://play.kakjeawplay.xyz/8c7a43af-f416-4b13-bb9f-36674ae6b7b7/_",
      "referer": "https://www.nung2hdd.com/"
@@ -6457,7 +7003,7 @@
    "stations": [
     {
      "name": "The Underdoggs (2024) ดิอันเดอร์ด็อกส์",
-     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "info": "พากย์ไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/The-Underdoggs-2024.png",
      "url": "https://play.kakjeawplay.xyz/200d0476-33e0-435f-bc39-bca0d0fbc939/_",
      "referer": "https://www.nung2hdd.com/"
@@ -6471,7 +7017,7 @@
     },
     {
      "name": "The Underdoggs (2024) ดิอันเดอร์ด็อกส์",
-     "info": "ตัวเล่นหลัก ซับไทย",
+     "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/The-Underdoggs-2024.png",
      "url": "https://play.kakjeawplay.xyz/11b2bc38-0e2f-4950-b9c5-a8d6fb13e925/_",
      "referer": "https://www.nung2hdd.com/"
@@ -6491,7 +7037,7 @@
    "stations": [
     {
      "name": "The Greatest Night in Pop (2024) คืนแห่งประวัติศาสตร์เพลงป๊อป",
-     "info": "ตัวเล่นหลัก ซับไทย",
+     "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/SThe-Greatest-Night-in-Pop-2024.png",
      "url": "https://play.kakjeawplay.xyz/9bce05d3-0d4b-41d3-bec3-f8b2d021cdf2/_",
      "referer": "https://www.nung2hdd.com/"
@@ -6511,7 +7057,7 @@
    "stations": [
     {
      "name": "The Land of Women (2024) ในแดนราชินี",
-     "info": "ตัวเล่นหลัก ซับไทย",
+     "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/The-Land-of-Women-2024.png",
      "url": "https://play.kakjeawplay.xyz/f49209e2-6512-4ab7-a937-a30781a57f11/_",
      "referer": "https://www.nung2hdd.com/"
@@ -6641,7 +7187,7 @@
    "stations": [
     {
      "name": "Orion and the Dark (2024) โอไรออนท่องแดนมหัศจรรย์รัตติกาล",
-     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "info": "พากย์ไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Orion-and-the-Dark.png",
      "url": "https://play.kakjeawplay.xyz/54c2d81c-12a3-4f00-b8ee-a339a3958550/_",
      "referer": "https://www.nung2hdd.com/"
@@ -6655,7 +7201,7 @@
     },
     {
      "name": "Orion and the Dark (2024) โอไรออนท่องแดนมหัศจรรย์รัตติกาล",
-     "info": "ตัวเล่นหลัก ซับไทย",
+     "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Orion-and-the-Dark.png",
      "url": "https://play.kakjeawplay.xyz/4990b116-1262-44a2-af41-2a1e9993e1e1/_",
      "referer": "https://www.nung2hdd.com/"
@@ -6675,7 +7221,7 @@
    "stations": [
     {
      "name": "WIL (2024) วิล",
-     "info": "ตัวเล่นหลัก ซับไทย",
+     "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Will-2023.png",
      "url": "https://play.kakjeawplay.xyz/957919b6-bd20-4718-9b2b-52e495cbc19b/_",
      "referer": "https://www.nung2hdd.com/"
@@ -6695,7 +7241,7 @@
    "stations": [
     {
      "name": "After Everything (2024) อาฟเตอร์ เอเวอรี่ธิง",
-     "info": "ตัวเล่นหลัก ซับไทย",
+     "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/After-Everything.png",
      "url": "https://play.kakjeawplay.xyz/081c84b9-7581-4e73-8a25-f5c32f14467c/_",
      "referer": "https://www.nung2hdd.com/"
@@ -6715,7 +7261,7 @@
    "stations": [
     {
      "name": "อีสานตุ๊ดซี่ ภาค 1 (2024) E-Sarn Tootsie Part 1",
-     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "info": "พากย์ไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/E-Sarn-Tootsie-Part-1.png",
      "url": "https://play.kakjeawplay.xyz/1d1e4ab3-07e5-4541-9fbc-2f06437cb27d/_",
      "referer": "https://www.nung2hdd.com/"
@@ -6729,7 +7275,7 @@
     },
     {
      "name": "อีสานตุ๊ดซี่ ภาค 2 (2024) E-Sarn Tootsie Part 2",
-     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "info": "พากย์ไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/E-Sarn-Tootsie-Part-2.png",
      "url": "https://play.kakjeawplay.xyz/3413417c-3e25-413c-a9a6-03b2c76f99f9/_",
      "referer": "https://www.nung2hdd.com/"
@@ -6749,7 +7295,7 @@
    "stations": [
     {
      "name": "อีสานตุ๊ดซี่ ภาค 1 (2024) E-Sarn Tootsie Part 1",
-     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "info": "พากย์ไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/E-Sarn-Tootsie-Part-1.png",
      "url": "https://play.kakjeawplay.xyz/1d1e4ab3-07e5-4541-9fbc-2f06437cb27d/_",
      "referer": "https://www.nung2hdd.com/"
@@ -6763,7 +7309,7 @@
     },
     {
      "name": "อีสานตุ๊ดซี่ ภาค 2 (2024) E-Sarn Tootsie Part 2",
-     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "info": "พากย์ไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/E-Sarn-Tootsie-Part-2.png",
      "url": "https://play.kakjeawplay.xyz/3413417c-3e25-413c-a9a6-03b2c76f99f9/_",
      "referer": "https://www.nung2hdd.com/"
@@ -6783,7 +7329,7 @@
    "stations": [
     {
      "name": "The Story of Yuan Tiangang (2024) ยุทธจักรของคนเลว",
-     "info": "ตัวเล่นหลัก ซับไทย",
+     "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/The-Story-of-Yuan-Tiangang-2024.jpg",
      "url": "https://play.kakjeawplay.xyz/df02e20f-00de-4013-b05d-2ec1f86edb9a/_",
      "referer": "https://www.nung2hdd.com/"
@@ -6803,7 +7349,7 @@
    "stations": [
     {
      "name": "The Legend of Bayi’s Grandpa (2024) เรื่องประหลาดฉางเล่อ",
-     "info": "ตัวเล่นหลัก ซับไทย",
+     "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/The-Legend-of-Bayi-s-Grandpa-2024.png",
      "url": "https://play.kakjeawplay.xyz/1ffa7051-3c86-4b0e-9ea2-e167d58462ee/_",
      "referer": "https://www.nung2hdd.com/"
@@ -6823,7 +7369,7 @@
    "stations": [
     {
      "name": "The Beekeeper (2024) นรกเรียกพ่อ",
-     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "info": "พากย์ไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/The-Beekeeper-2024.png",
      "url": "https://play.kakjeawplay.xyz/11a702ec-127f-48e4-a7af-20b66f88adc6/_",
      "referer": "https://www.nung2hdd.com/"
@@ -6843,7 +7389,7 @@
    "stations": [
     {
      "name": "ซิทดาวน์ วิท สแตนด์อัพ อุดม แต้พานิช (2024) Sit Down",
-     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "info": "พากย์ไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Sit-Down-with-Stand.png",
      "url": "https://play.kakjeawplay.xyz/a9ae7e2b-820d-4cc4-bca0-342fbd6067e2/_",
      "referer": "https://www.nung2hdd.com/"
@@ -6863,7 +7409,7 @@
    "stations": [
     {
      "name": "Blue Giant (2024) เป่าฝันให้เต็มฟ้า",
-     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "info": "พากย์ไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Blue-Giant.png",
      "url": "https://play.kakjeawplay.xyz/853f3bf0-80fd-4dd0-8982-30fe4760f3ce/_",
      "referer": "https://www.nung2hdd.com/"
@@ -6931,7 +7477,7 @@
    "stations": [
     {
      "name": "Badland Hunters (2024) นักล่ากลางนรก",
-     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "info": "พากย์ไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Badland-Hunters.png",
      "url": "https://play.kakjeawplay.xyz/b9579592-fe63-4a23-8b84-b6c4a3172dd8/_",
      "referer": "https://www.nung2hdd.com/"
@@ -6945,7 +7491,7 @@
     },
     {
      "name": "Badland Hunters (2024) นักล่ากลางนรก",
-     "info": "ตัวเล่นหลัก ซับไทย",
+     "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Badland-Hunters.png",
      "url": "https://play.kakjeawplay.xyz/606261a2-2ce1-4563-b75e-fb22300ea524/_",
      "referer": "https://www.nung2hdd.com/"
@@ -6965,7 +7511,7 @@
    "stations": [
     {
      "name": "Desperado (2024) อาชญากรระห่ำ",
-     "info": "ตัวเล่นหลัก ซับไทย",
+     "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Desperado-2024-IQIYI.png",
      "url": "https://play.kakjeawplay.xyz/6fda9659-9a7a-43ab-9ce2-cf6aa5af338a/_",
      "referer": "https://www.nung2hdd.com/"
@@ -6985,7 +7531,7 @@
    "stations": [
     {
      "name": "Night Swim (2024) ค่ำคืนอย่าแหวกว่าย",
-     "info": "ตัวเล่นหลัก ซับไทย",
+     "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Night-Swim.png",
      "url": "https://play.kakjeawplay.xyz/61c77b5e-ff5d-496c-8872-627d2207cd38/_",
      "referer": "https://www.nung2hdd.com/"
@@ -7179,7 +7725,7 @@
    "stations": [
     {
      "name": "Trespassers (2024) บุกมาปล้น",
-     "info": "ตัวเล่นหลัก ซับไทย",
+     "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Trespassers.png",
      "url": "https://play.kakjeawplay.xyz/f8334305-bfd8-41e8-b4ef-6bf750705aaf/_",
      "referer": "https://www.nung2hdd.com/"
@@ -7302,7 +7848,7 @@
    "stations": [
     {
      "name": "Sixty Minutes (2024) 60 นาที",
-     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "info": "พากย์ไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Sixty-Minutes.png",
      "url": "https://play.kakjeawplay.xyz/9704d293-0084-4d17-ab43-54e85bf1bf37/_",
      "referer": "https://www.nung2hdd.com/"
@@ -7316,7 +7862,7 @@
     },
     {
      "name": "Sixty Minutes (2024) 60 นาที",
-     "info": "ตัวเล่นหลัก ซับไทย",
+     "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Sixty-Minutes.png",
      "url": "https://play.kakjeawplay.xyz/6c3a215d-be96-4be4-aa8a-bfb927251e3e/_",
      "referer": "https://www.nung2hdd.com/"
@@ -7336,7 +7882,7 @@
    "stations": [
     {
      "name": "The Kitchen (2024) เดอะ คิทเช่น",
-     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "info": "พากย์ไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/The-Kitchen-2024.png",
      "url": "https://play.kakjeawplay.xyz/7ffcb1c6-9966-40e5-963d-33682fd6e942/_",
      "referer": "https://www.nung2hdd.com/"
@@ -7350,7 +7896,7 @@
     },
     {
      "name": "The Kitchen (2024) เดอะ คิทเช่น",
-     "info": "ตัวเล่นหลัก ซับไทย",
+     "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/The-Kitchen-2024.png",
      "url": "https://play.kakjeawplay.xyz/6ca5854c-6f84-4be0-8e5b-87b7faec3e67/_",
      "referer": "https://www.nung2hdd.com/"
@@ -7370,7 +7916,7 @@
    "stations": [
     {
      "name": "ไปรษณีย์ 4 โลก (2024) Postman",
-     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "info": "พากย์ไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Postman.png",
      "url": "https://play.kakjeawplay.xyz/8c9c65c5-1fc5-4136-b0f5-7158299d1a6d/_",
      "referer": "https://www.nung2hdd.com/"
@@ -7424,7 +7970,7 @@
    "stations": [
     {
      "name": "Maboroshi (2024) มาโบโรชิ",
-     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "info": "พากย์ไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Maboroshi.png",
      "url": "https://play.kakjeawplay.xyz/b00555ff-f35a-4ce1-a7a2-075d560eefe2/_",
      "referer": "https://www.nung2hdd.com/"
@@ -7438,7 +7984,7 @@
     },
     {
      "name": "Maboroshi (2024) มาโบโรชิ",
-     "info": "ตัวเล่นหลัก ซับไทย",
+     "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Maboroshi.png",
      "url": "https://play.kakjeawplay.xyz/65808099-af0a-4d80-8000-8688e0496620/_",
      "referer": "https://www.nung2hdd.com/"
@@ -7458,7 +8004,7 @@
    "stations": [
     {
      "name": "Role Play (2024) โรลเพลย์ สวมรอยมารัก",
-     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "info": "พากย์ไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Role-Play-2023.jpg",
      "url": "https://play.kakjeawplay.xyz/83da2b7f-9834-455c-88fb-98735806d20b/_",
      "referer": "https://www.nung2hdd.com/"
@@ -7472,7 +8018,7 @@
     },
     {
      "name": "Role Play (2024) โรลเพลย์ สวมรอยมารัก",
-     "info": "ตัวเล่นหลัก ซับไทย",
+     "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Role-Play-2023.jpg",
      "url": "https://play.kakjeawplay.xyz/7a393851-915e-430d-9dd0-b4595da12c62/_",
      "referer": "https://www.nung2hdd.com/"
@@ -7526,7 +8072,7 @@
    "stations": [
     {
      "name": "Kingdom (2019) สงครามบัลลังก์ผงาดจิ๋นซี",
-     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "info": "พากย์ไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2019/12/kingdom-2019.jpg",
      "url": "https://play.kakjeawplay.xyz/76dffc1e-fcee-4ce2-9d45-37d77da8a047/_",
      "referer": "https://www.nung2hdd.com/"
@@ -7540,7 +8086,7 @@
     },
     {
      "name": "Kingdom (2019) สงครามบัลลังก์ผงาดจิ๋นซี",
-     "info": "ตัวเล่นหลัก ซับไทย",
+     "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2019/12/kingdom-2019.jpg",
      "url": "https://play.kakjeawplay.xyz/054785a2-3118-4371-9ad0-e146ff6e2395/_",
      "referer": "https://www.nung2hdd.com/"
@@ -7554,7 +8100,7 @@
     },
     {
      "name": "Kingdom 2: Far and Away (2022) สงครามบัลลังก์ผงาดจิ๋นซี 2",
-     "info": "ตัวเล่นหลัก ซับไทย",
+     "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/03/kingdom-2022.jpg",
      "url": "https://play.kakjeawplay.xyz/c3b98ff9-5ae0-417e-bc4f-ce3bd6716357/_",
      "referer": "https://www.nung2hdd.com/"
@@ -7568,7 +8114,7 @@
     },
     {
      "name": "Kingdom 3: The Flame of Destiny (2024) สงครามบัลลังก์ผงาดจิ๋นซี 3",
-     "info": "ตัวเล่นหลัก ซับไทย",
+     "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Kingdom-III-The-Flame-of-Destiny-2023.jpg",
      "url": "https://play.kakjeawplay.xyz/48379a44-1a84-4825-9a1d-0333ecacfc47/_",
      "referer": "https://www.nung2hdd.com/"
@@ -7629,7 +8175,7 @@
    "stations": [
     {
      "name": "One More Shot (2024)",
-     "info": "ตัวเล่นหลัก ซับไทย",
+     "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/One-More-Shot-2024.jpg",
      "url": "https://play.kakjeawplay.xyz/e2a2b919-2be5-4ab2-a873-1268c657e8e9/_",
      "referer": "https://www.nung2hdd.com/"
@@ -7649,7 +8195,7 @@
    "stations": [
     {
      "name": "Ek Tha Tiger (2012) เรียกข้าว่า…เสือ",
-     "info": "ตัวเล่นหลัก ซับไทย",
+     "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Ek-Tha-Tiger.jpg",
      "url": "https://play.kakjeawplay.xyz/e178294c-4a83-486d-b2ac-f10d099ff68a/_",
      "referer": "https://www.nung2hdd.com/"
@@ -7663,7 +8209,7 @@
     },
     {
      "name": "Tiger Zinda Hai (2017) ไทเกอร์ซินดาไฮ",
-     "info": "ตัวเล่นหลัก ซับไทย",
+     "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Tiger-Zinda-Hai.jpg",
      "url": "https://play.kakjeawplay.xyz/d09036a1-8525-491e-92fb-23158fea35b5/_",
      "referer": "https://www.nung2hdd.com/"
@@ -7677,7 +8223,7 @@
     },
     {
      "name": "Tiger 3 (2024) เรียกข้าว่าเสือ 3",
-     "info": "ตัวเล่นหลัก ซับไทย",
+     "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Tiger-3.jpg",
      "url": "https://play.kakjeawplay.xyz/764149ab-faa9-42f3-9e5b-fb53b0b455e2/_",
      "referer": "https://www.nung2hdd.com/"
@@ -7697,7 +8243,7 @@
    "stations": [
     {
      "name": "Foe (2024) อมิตร",
-     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "info": "พากย์ไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Foe-2024.jpg",
      "url": "https://play.kakjeawplay.xyz/da921f16-3969-40ac-84fd-9d9d0f9690bc/_",
      "referer": "https://www.nung2hdd.com/"
@@ -7711,7 +8257,7 @@
     },
     {
      "name": "Foe (2024) อมิตร",
-     "info": "ตัวเล่นหลัก ซับไทย",
+     "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Foe-2024.jpg",
      "url": "https://play.kakjeawplay.xyz/9bfeb30b-b20a-4d57-9bff-eb0fad409a34/_",
      "referer": "https://www.nung2hdd.com/"
@@ -7731,7 +8277,7 @@
    "stations": [
     {
      "name": "Good Grief (2024) ให้ตายเถอะความโศก",
-     "info": "ตัวเล่นหลัก ซับไทย",
+     "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Good-Grief.jpg",
      "url": "https://play.kakjeawplay.xyz/1001b25b-8df2-4b2f-a53f-9ac2a4fef2f4/_",
      "referer": "https://www.nung2hdd.com/"
@@ -7813,7 +8359,7 @@
    "stations": [
     {
      "name": "Society of the Snow (2024) หิมะโหด คนทรหด",
-     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "info": "พากย์ไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Society-of-the-Snow-1.jpg",
      "url": "https://play.kakjeawplay.xyz/0f5565de-7d76-496a-b964-32943e3f338e/_",
      "referer": "https://www.nung2hdd.com/"
@@ -7827,7 +8373,7 @@
     },
     {
      "name": "Society of the Snow (2024) หิมะโหด คนทรหด",
-     "info": "ตัวเล่นหลัก ซับไทย",
+     "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Society-of-the-Snow-1.jpg",
      "url": "https://play.kakjeawplay.xyz/b991974a-c5c3-4e69-a2d0-30d5b9ff5990/_",
      "referer": "https://www.nung2hdd.com/"
