@@ -1,208 +1,509 @@
 {
   "name": "ดูซีรีย์ 2024",
-  "author": "เจียว เจียว อัพวันที่ 03 เมษายน 2567",
+  "author": "เจียว เจียว อัพวันที่ 04 เมษายน 2567",
   "info": "ชีวิตไม่ได้ให้เราสิ่งที่ต้องการเสมอไป แต่มันจะให้เราสิ่งที่เราจำเป็นต้องการ",
   "image": "https://www.dooseries4k.com/wp-content/themes/dooseries4k/logo/logo.png",
   "groups": [
     {
-      "name": "The Legend of ShenLi (2024) ปฐพีไร้พ่าย",
+      "name": "Iwájú (2024)",
+      "info": "HD",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Iwaju-220x300-c-default.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Iwaju-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/2547f546-7e94-5cd4-8567-e468d63495b5.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Iwaju-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/a0d016e3-1219-54a2-b56f-eb8b7f0cc3fc.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Iwaju-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/15254312-5596-52dc-9adc-5ffe39c80e21.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Iwaju-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/fe50719b-3f6b-58f7-8348-5a23eb6f5fc2.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Iwaju-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/bc691126-6c31-5bbc-ac8f-784d17d692f7.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Iwaju-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/623695b4-5d68-53ce-9266-6547ce5609b8.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        }
+      ]
+    },
+    {
+      "name": "In Blossom (2024) บุปผารักอลวน",
       "info": "SUB",
-      "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/The-Legend-of-ShenLi-2024-220x300-c-default.jpg",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/In-Blossom-2024-220x300-c-default.jpg",
       "stations": [
         {
           "name": "ตอนที่ 1",
           "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/The-Legend-of-ShenLi-2024-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/4f69151a-f82f-5819-bdb3-b7dde328d7df.m3u8",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/In-Blossom-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/544b266a-2b95-5776-a7ae-8057bf6915a8.m3u8",
           "referer": "https://www.dooseries4k.com/"
         },
         {
           "name": "ตอนที่ 2",
           "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/The-Legend-of-ShenLi-2024-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/ef85d089-b6c1-5f35-8212-83fa35d61fef.m3u8",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/In-Blossom-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/aeeaaa19-e67f-5d41-b4a2-2a6b54a1082e.m3u8",
           "referer": "https://www.dooseries4k.com/"
         },
         {
           "name": "ตอนที่ 3",
           "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/The-Legend-of-ShenLi-2024-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/b4af08b1-db86-5012-8c7b-baecd187714d.m3u8",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/In-Blossom-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/7fb1b7b4-a993-5021-86ee-2f5a1c7e4951.m3u8",
           "referer": "https://www.dooseries4k.com/"
         },
         {
           "name": "ตอนที่ 4",
           "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/The-Legend-of-ShenLi-2024-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/46f5e43b-0e51-5a89-baf7-42a1ba5c3248.m3u8",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/In-Blossom-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/7eeb209a-531c-5f0a-b032-b2afd8698d92.m3u8",
           "referer": "https://www.dooseries4k.com/"
         },
         {
           "name": "ตอนที่ 5",
           "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/The-Legend-of-ShenLi-2024-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/5b2139be-3b0f-511c-a47d-2a93ede673e9.m3u8",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/In-Blossom-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/99d229c7-438c-5c2f-9068-da47a345dfd2.m3u8",
           "referer": "https://www.dooseries4k.com/"
         },
         {
           "name": "ตอนที่ 6",
           "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/The-Legend-of-ShenLi-2024-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/c3c22bc2-38cb-5564-b865-13232ac0ee37.m3u8",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/In-Blossom-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/709e5f91-afd8-5d1d-abb4-7d796258dd27.m3u8",
           "referer": "https://www.dooseries4k.com/"
         },
         {
           "name": "ตอนที่ 7",
           "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/The-Legend-of-ShenLi-2024-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/c8f5b9e9-583a-5d40-9dea-b2811e41b159.m3u8",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/In-Blossom-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/2b4286ab-495a-5b12-bdf9-1424949d4d2c.m3u8",
           "referer": "https://www.dooseries4k.com/"
         },
         {
           "name": "ตอนที่ 8",
           "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/The-Legend-of-ShenLi-2024-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/650cfd56-ed0f-5893-bd84-c3fb48d841e3.m3u8",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/In-Blossom-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/01e603bd-bf33-534c-a60f-c7c8ba3dabca.m3u8",
           "referer": "https://www.dooseries4k.com/"
         },
         {
           "name": "ตอนที่ 9",
           "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/The-Legend-of-ShenLi-2024-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/9309b319-001d-5640-8f51-315f157e564b.m3u8",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/In-Blossom-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/65b6fc5b-b216-59c3-a7bb-7c890ed472e9.m3u8",
           "referer": "https://www.dooseries4k.com/"
         },
         {
           "name": "ตอนที่ 10",
           "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/The-Legend-of-ShenLi-2024-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/577a7cfb-d717-5209-b8d5-733c7bbccfd9.m3u8",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/In-Blossom-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/a5f1b23c-4dd1-5d6e-a30d-c5d954392cdc.m3u8",
           "referer": "https://www.dooseries4k.com/"
         },
         {
           "name": "ตอนที่ 11",
           "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/The-Legend-of-ShenLi-2024-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/a77debb4-0bc2-5509-82d3-9b3f71f73618.m3u8",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/In-Blossom-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/6337efe1-5a9b-5b7d-b876-e300587868e0.m3u8",
           "referer": "https://www.dooseries4k.com/"
         },
         {
           "name": "ตอนที่ 12",
           "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/The-Legend-of-ShenLi-2024-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/ababcec9-4af6-55ca-96dd-ccddbb03c2ab.m3u8",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/In-Blossom-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/0aaa95ed-4f21-5bd4-aa9b-250bbf2962d7.m3u8",
           "referer": "https://www.dooseries4k.com/"
         },
         {
           "name": "ตอนที่ 13",
           "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/The-Legend-of-ShenLi-2024-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/339a6794-2ef7-54eb-a641-699312808d78.m3u8",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/In-Blossom-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/2583d06d-61e7-56b0-8810-ef60e3b5be80.m3u8",
           "referer": "https://www.dooseries4k.com/"
         },
         {
           "name": "ตอนที่ 14",
           "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/The-Legend-of-ShenLi-2024-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/8f7900f0-d351-598f-9a75-0ef2c09369b0.m3u8",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/In-Blossom-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/16678cdd-8d16-5a3c-a43c-db2a28e5b262.m3u8",
           "referer": "https://www.dooseries4k.com/"
         },
         {
           "name": "ตอนที่ 15",
           "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/The-Legend-of-ShenLi-2024-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/d8aeb759-896f-59f4-9ca7-e7d7b6ce67ca.m3u8",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/In-Blossom-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/69227c77-e1fb-5825-8afc-cf13de8a2a97.m3u8",
           "referer": "https://www.dooseries4k.com/"
         },
         {
           "name": "ตอนที่ 16",
           "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/The-Legend-of-ShenLi-2024-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/75bb9db8-621b-5d71-ac8b-8247dc28982c.m3u8",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/In-Blossom-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/0bb43ac7-1c5a-5eeb-a0ff-899dbf542edd.m3u8",
           "referer": "https://www.dooseries4k.com/"
         },
         {
           "name": "ตอนที่ 17",
           "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/The-Legend-of-ShenLi-2024-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/14fecfa3-b5fc-53c3-820b-b1d502c7a2c4.m3u8",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/In-Blossom-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/b3e00603-863e-51e7-8286-715c4e0d91b3.m3u8",
           "referer": "https://www.dooseries4k.com/"
         },
         {
           "name": "ตอนที่ 18",
           "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/The-Legend-of-ShenLi-2024-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/a3a93745-d8f6-5fa8-9d42-ab2a605959da.m3u8",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/In-Blossom-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/c49c6d69-f058-5a93-9479-e183c3505449.m3u8",
           "referer": "https://www.dooseries4k.com/"
         },
         {
           "name": "ตอนที่ 19",
           "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/The-Legend-of-ShenLi-2024-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/4b816abc-4016-5597-84c2-1e7b063f0a79.m3u8",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/In-Blossom-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/f95d7eb2-1279-5b72-a8bb-12f00066f12f.m3u8",
           "referer": "https://www.dooseries4k.com/"
         },
         {
           "name": "ตอนที่ 20",
           "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/The-Legend-of-ShenLi-2024-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/c17f5452-ccba-53c8-a22c-19fc51f151c9.m3u8",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/In-Blossom-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/50905116-49b0-5179-b04b-d1981b493608.m3u8",
           "referer": "https://www.dooseries4k.com/"
         },
         {
           "name": "ตอนที่ 21",
           "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/The-Legend-of-ShenLi-2024-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/eb34b2fd-028f-57bd-a80c-cb8a3b36da92.m3u8",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/In-Blossom-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/c8692dd3-63f4-53d4-898c-33d31e13fa1a.m3u8",
           "referer": "https://www.dooseries4k.com/"
         },
         {
           "name": "ตอนที่ 22",
           "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/The-Legend-of-ShenLi-2024-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/87482322-9952-505c-80b3-478f9c71c368.m3u8",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/In-Blossom-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/19bd7884-77c8-5339-b375-bacac124e600.m3u8",
           "referer": "https://www.dooseries4k.com/"
         },
         {
           "name": "ตอนที่ 23",
           "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/The-Legend-of-ShenLi-2024-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/5fbca22e-2a74-5663-a647-eae5ad973542.m3u8",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/In-Blossom-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/338d5df5-52cb-54d7-a71c-d3908d3723aa.m3u8",
           "referer": "https://www.dooseries4k.com/"
         },
         {
           "name": "ตอนที่ 24",
           "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/The-Legend-of-ShenLi-2024-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/ed078ac0-903f-576b-b74c-f8e87b066b27.m3u8",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/In-Blossom-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/2f055037-cac2-5113-b7e0-6b6345903f8c.m3u8",
           "referer": "https://www.dooseries4k.com/"
         },
         {
           "name": "ตอนที่ 25",
           "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/The-Legend-of-ShenLi-2024-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/49f2b377-6ef0-5ea1-b9b4-27fbe40c1282.m3u8",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/In-Blossom-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/f326c850-667b-5344-97a2-9aa0dd5732fc.m3u8",
           "referer": "https://www.dooseries4k.com/"
         },
         {
           "name": "ตอนที่ 26",
           "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/The-Legend-of-ShenLi-2024-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/916b4502-2839-56cc-a5ef-bf34245e3785.m3u8",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/In-Blossom-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/5dd527a7-9b92-5436-8a0c-933c07289ecf.m3u8",
           "referer": "https://www.dooseries4k.com/"
         },
         {
           "name": "ตอนที่ 27",
           "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/The-Legend-of-ShenLi-2024-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/54098c0e-1690-569f-a1d5-ad1e5eae3172.m3u8",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/In-Blossom-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/1ea839cd-1e9c-5fc9-834a-9d8807742c77.m3u8",
           "referer": "https://www.dooseries4k.com/"
         },
         {
           "name": "ตอนที่ 28",
           "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/The-Legend-of-ShenLi-2024-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/26e718db-6399-5793-9fde-3d42be593ef9.m3u8",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/In-Blossom-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/de611814-1b39-5b26-bd40-10a4d0002de0.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 29",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/In-Blossom-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/cc75d697-74b2-526f-8eac-ecb9cdd56ee0.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        }
+      ]
+    },
+    {
+      "name": "Sword and Fairy 1 (2024) ตำนานเซียนกระบี่",
+      "info": "SUB",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Sword-and-Fairy-1-220x300-c-default.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Sword-and-Fairy-1-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/2157ff86-990f-53dd-a75a-210e98ad044b.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Sword-and-Fairy-1-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/7e8f2d1d-d911-56cc-bb14-0ba5f58e3c14.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Sword-and-Fairy-1-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/c547a1f2-3207-591f-b336-fbbd3823a814.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Sword-and-Fairy-1-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/dc5d55cd-ca6e-5ba8-9b3c-e41412e01f3a.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Sword-and-Fairy-1-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/ce0a27f9-c78f-5a16-a329-bb9b712f8e0f.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Sword-and-Fairy-1-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/37a6c748-34b5-55a1-b5d6-843506342490.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        }
+      ]
+    },
+    {
+      "name": "Pyramid Game (2024) เกมพีระมิด",
+      "info": "SUB",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Pyramid-Game-220x300-c-default.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Pyramid-Game-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/cbd23da6-bdbc-566e-b7ef-264054656cf3.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 1",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Pyramid-Game-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/b6a42f5c-30e2-5550-b956-d04729ac8304.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Pyramid-Game-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/62189f8d-bcd2-538e-9009-ae528e4a8eb3.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Pyramid-Game-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/eb75e828-1b5b-5925-a300-5cb800cb2ebc.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Pyramid-Game-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/d3813803-c188-5a5e-b3a5-e5ea81a20904.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Pyramid-Game-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/47d11984-f1f0-5e85-805d-eb563d0820b4.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Pyramid-Game-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/b5e969a8-dfdb-56b8-b8e1-80a4f5cc10d4.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Pyramid-Game-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/a30f1475-03e6-5514-9d3b-19090dddf199.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Pyramid-Game-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/82e151c4-2d8d-5b68-be1e-151dd5253764.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Pyramid-Game-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/70f089e2-2140-55bf-bdda-cec4b19ff0ea.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Pyramid-Game-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/5f985712-2c46-520b-a7f1-dc6b13cc8fdc.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Pyramid-Game-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/3fd4b4b4-60dd-5f7a-b083-f92eb7df5067.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Pyramid-Game-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/74401722-b96e-519f-8b95-126e990b9c83.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Pyramid-Game-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/909e54d0-7a9f-57a0-b866-63f89392c9c6.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 9",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Pyramid-Game-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/a105c2a9-3dc1-5370-87de-ca64f3fa034f.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 10",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Pyramid-Game-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/38958670-dc6d-59c3-ad1e-a8dbc82e233c.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        }
+      ]
+    },
+    {
+      "name": "Wonderful World (2024) วันเดอร์ฟูล เวิลด์",
+      "info": "SUB",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Wonderful-World-220x300-c-default.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Wonderful-World-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/45cb6afd-bfef-585d-9909-2c8f7a0af1ba.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Wonderful-World-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/8d29e6a0-15f1-51f2-8d95-0a1670022dc2.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Wonderful-World-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/502aa58a-dedb-5e38-b190-5e490212c9d6.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Wonderful-World-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/4673ca11-f23e-5538-924b-7237073d8390.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Wonderful-World-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/b12b611d-500f-5f78-a572-c8cf1dfa820a.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Wonderful-World-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/343ed253-ae58-5c1e-ac09-ed5ba6714176.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Wonderful-World-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/e2f8b541-dcbf-5010-bccc-3074f6f2b317.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Wonderful-World-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/cefce9ba-aa7d-5a2f-950e-07f8bc36c7f6.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 9",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Wonderful-World-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/8a1c0cb6-fb53-5642-9d3b-5bd7817c2406.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 10",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Wonderful-World-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/77681ff9-6d8e-5145-ae46-e256ed1ce2fc.m3u8",
           "referer": "https://www.dooseries4k.com/"
         }
       ]
@@ -449,96 +750,19 @@
           "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Burning-Flames-220x300-c-default.jpg",
           "url": "https://www.sgcdnseriesn.xyz/view/9e7c0470-58c4-5aab-8205-9df5ad3f60ac.m3u8",
           "referer": "https://www.dooseries4k.com/"
-        }
-      ]
-    },
-    {
-      "name": "Queen of Tears (2024) ราชินีแห่งน้ำตา",
-      "info": "SUB",
-      "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Queen-of-Tears-2024-220x300-c-default.jpg",
-      "stations": [
-        {
-          "name": "ตอนที่ 1",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Queen-of-Tears-2024-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/a88bc8be-594e-5f86-b6b1-32c066869321.m3u8",
-          "referer": "https://www.dooseries4k.com/"
         },
         {
-          "name": "ตอนที่ 1",
+          "name": "ตอนที่ 35",
           "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Queen-of-Tears-2024-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/9fc558b1-fffd-5ca9-b70c-7524fa279278.m3u8",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Burning-Flames-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/00a49869-8afa-5233-b264-7c8249638ce1.m3u8",
           "referer": "https://www.dooseries4k.com/"
         },
         {
-          "name": "ตอนที่ 2",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Queen-of-Tears-2024-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/34845765-3222-5a9e-b580-ff3134d1b50e.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ตอนที่ 2",
+          "name": "ตอนที่ 36",
           "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Queen-of-Tears-2024-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/77fe8497-1795-528d-9338-99f33ab3780e.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ตอนที่ 3",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Queen-of-Tears-2024-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/23736068-674b-51f3-9a20-ecdb4b425cad.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ตอนที่ 3",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Queen-of-Tears-2024-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/07d77bb9-4227-53e6-bcc0-3f721098dab8.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ตอนที่ 4",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Queen-of-Tears-2024-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/cdbdba7a-b0ff-506f-82cd-8f2932fe459f.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ตอนที่ 4",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Queen-of-Tears-2024-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/be1da660-4719-5e71-9c7a-31b1748c7375.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ตอนที่ 5",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Queen-of-Tears-2024-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/c9c6cdd3-5a3d-597d-88cc-2fb949ee8690.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ตอนที่ 6",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Queen-of-Tears-2024-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/e1e6d9d9-68e8-5e30-868c-80d3b1d150f5.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ตอนที่ 7",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Queen-of-Tears-2024-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/8d33c538-4ced-5d85-8f1b-eb676715f14c.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ตอนที่ 8",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Queen-of-Tears-2024-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/951b2991-c5ad-534c-923d-263d413f56be.m3u8",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Burning-Flames-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/cce71837-817a-5b61-8a9a-91730d3f7588.m3u8",
           "referer": "https://www.dooseries4k.com/"
         }
       ]
@@ -714,6 +938,314 @@
           "info": "พากย์ไทย",
           "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Legend-of-The-Hidden-Land-2024-220x300-c-default.jpg",
           "url": "https://www.sgcdnseriesn.xyz/view/ca101d31-1647-5639-8e34-1f135dcfee6c.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 25",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Legend-of-The-Hidden-Land-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/2742ccc0-f8be-573d-9e76-70830601a0eb.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 26",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Legend-of-The-Hidden-Land-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/6130692a-0f36-5cd3-bc42-5868fd6b2549.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        }
+      ]
+    },
+    {
+      "name": "The Legend of ShenLi (2024) ปฐพีไร้พ่าย",
+      "info": "SUB",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/The-Legend-of-ShenLi-2024-220x300-c-default.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/The-Legend-of-ShenLi-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/4f69151a-f82f-5819-bdb3-b7dde328d7df.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/The-Legend-of-ShenLi-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/ef85d089-b6c1-5f35-8212-83fa35d61fef.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/The-Legend-of-ShenLi-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/b4af08b1-db86-5012-8c7b-baecd187714d.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/The-Legend-of-ShenLi-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/46f5e43b-0e51-5a89-baf7-42a1ba5c3248.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/The-Legend-of-ShenLi-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/5b2139be-3b0f-511c-a47d-2a93ede673e9.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/The-Legend-of-ShenLi-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/c3c22bc2-38cb-5564-b865-13232ac0ee37.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/The-Legend-of-ShenLi-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/c8f5b9e9-583a-5d40-9dea-b2811e41b159.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/The-Legend-of-ShenLi-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/650cfd56-ed0f-5893-bd84-c3fb48d841e3.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 9",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/The-Legend-of-ShenLi-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/9309b319-001d-5640-8f51-315f157e564b.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 10",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/The-Legend-of-ShenLi-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/577a7cfb-d717-5209-b8d5-733c7bbccfd9.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 11",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/The-Legend-of-ShenLi-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/a77debb4-0bc2-5509-82d3-9b3f71f73618.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 12",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/The-Legend-of-ShenLi-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/ababcec9-4af6-55ca-96dd-ccddbb03c2ab.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 13",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/The-Legend-of-ShenLi-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/339a6794-2ef7-54eb-a641-699312808d78.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 14",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/The-Legend-of-ShenLi-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/8f7900f0-d351-598f-9a75-0ef2c09369b0.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 15",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/The-Legend-of-ShenLi-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/d8aeb759-896f-59f4-9ca7-e7d7b6ce67ca.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 16",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/The-Legend-of-ShenLi-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/75bb9db8-621b-5d71-ac8b-8247dc28982c.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 17",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/The-Legend-of-ShenLi-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/14fecfa3-b5fc-53c3-820b-b1d502c7a2c4.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 18",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/The-Legend-of-ShenLi-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/a3a93745-d8f6-5fa8-9d42-ab2a605959da.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 19",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/The-Legend-of-ShenLi-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/4b816abc-4016-5597-84c2-1e7b063f0a79.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 20",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/The-Legend-of-ShenLi-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/c17f5452-ccba-53c8-a22c-19fc51f151c9.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 21",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/The-Legend-of-ShenLi-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/eb34b2fd-028f-57bd-a80c-cb8a3b36da92.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 22",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/The-Legend-of-ShenLi-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/87482322-9952-505c-80b3-478f9c71c368.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 23",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/The-Legend-of-ShenLi-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/5fbca22e-2a74-5663-a647-eae5ad973542.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 24",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/The-Legend-of-ShenLi-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/ed078ac0-903f-576b-b74c-f8e87b066b27.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 25",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/The-Legend-of-ShenLi-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/49f2b377-6ef0-5ea1-b9b4-27fbe40c1282.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 26",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/The-Legend-of-ShenLi-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/916b4502-2839-56cc-a5ef-bf34245e3785.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 27",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/The-Legend-of-ShenLi-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/54098c0e-1690-569f-a1d5-ad1e5eae3172.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 28",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/The-Legend-of-ShenLi-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/26e718db-6399-5793-9fde-3d42be593ef9.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        }
+      ]
+    },
+    {
+      "name": "Queen of Tears (2024) ราชินีแห่งน้ำตา",
+      "info": "SUB",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Queen-of-Tears-2024-220x300-c-default.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Queen-of-Tears-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/a88bc8be-594e-5f86-b6b1-32c066869321.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 1",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Queen-of-Tears-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/9fc558b1-fffd-5ca9-b70c-7524fa279278.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Queen-of-Tears-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/34845765-3222-5a9e-b580-ff3134d1b50e.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Queen-of-Tears-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/77fe8497-1795-528d-9338-99f33ab3780e.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Queen-of-Tears-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/23736068-674b-51f3-9a20-ecdb4b425cad.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Queen-of-Tears-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/07d77bb9-4227-53e6-bcc0-3f721098dab8.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Queen-of-Tears-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/cdbdba7a-b0ff-506f-82cd-8f2932fe459f.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Queen-of-Tears-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/be1da660-4719-5e71-9c7a-31b1748c7375.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Queen-of-Tears-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/c9c6cdd3-5a3d-597d-88cc-2fb949ee8690.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Queen-of-Tears-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/e1e6d9d9-68e8-5e30-868c-80d3b1d150f5.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Queen-of-Tears-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/8d33c538-4ced-5d85-8f1b-eb676715f14c.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Queen-of-Tears-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/951b2991-c5ad-534c-923d-263d413f56be.m3u8",
           "referer": "https://www.dooseries4k.com/"
         }
       ]
@@ -1281,104 +1813,6 @@
           "info": "ซับไทย",
           "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Eternal-Brotherhood-220x300-c-default.jpg",
           "url": "https://www.sgcdnseriesn.xyz/view/96cb5fa2-2b85-516a-ad2f-3efa86616c08.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        }
-      ]
-    },
-    {
-      "name": "Pyramid Game (2024) เกมพีระมิด",
-      "info": "SUB",
-      "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Pyramid-Game-220x300-c-default.jpg",
-      "stations": [
-        {
-          "name": "ตอนที่ 1",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Pyramid-Game-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/b6a42f5c-30e2-5550-b956-d04729ac8304.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ตอนที่ 2",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Pyramid-Game-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/eb75e828-1b5b-5925-a300-5cb800cb2ebc.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ตอนที่ 3",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Pyramid-Game-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/47d11984-f1f0-5e85-805d-eb563d0820b4.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ตอนที่ 4",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Pyramid-Game-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/a30f1475-03e6-5514-9d3b-19090dddf199.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ตอนที่ 5",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Pyramid-Game-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/70f089e2-2140-55bf-bdda-cec4b19ff0ea.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ตอนที่ 6",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Pyramid-Game-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/3fd4b4b4-60dd-5f7a-b083-f92eb7df5067.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ตอนที่ 7",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Pyramid-Game-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/74401722-b96e-519f-8b95-126e990b9c83.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ตอนที่ 8",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Pyramid-Game-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/909e54d0-7a9f-57a0-b866-63f89392c9c6.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        }
-      ]
-    },
-    {
-      "name": "Wonderful World (2024) วันเดอร์ฟูล เวิลด์",
-      "info": "SUB",
-      "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Wonderful-World-220x300-c-default.jpg",
-      "stations": [
-        {
-          "name": "ตอนที่ 1",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Wonderful-World-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/45cb6afd-bfef-585d-9909-2c8f7a0af1ba.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ตอนที่ 2",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Wonderful-World-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/8d29e6a0-15f1-51f2-8d95-0a1670022dc2.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ตอนที่ 3",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Wonderful-World-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/502aa58a-dedb-5e38-b190-5e490212c9d6.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ตอนที่ 4",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Wonderful-World-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/4673ca11-f23e-5538-924b-7237073d8390.m3u8",
           "referer": "https://www.dooseries4k.com/"
         }
       ]
