@@ -1,9 +1,184 @@
 {
   "name": "Netflix",
-  "author": "เจียว เจียว อัพวันที่ 04 เมษายน 2567",
+  "author": "เจียว เจียว อัพวันที่ 06 เมษายน 2567",
   "info": "ชีวิตไม่ได้ให้เราสิ่งที่ต้องการเสมอไป แต่มันจะให้เราสิ่งที่เราจำเป็นต้องการ",
   "image": "https://www.dooseries4k.com/wp-content/themes/dooseries4k/logo/logo.png",
   "groups": [
+    {
+      "name": "Parasyte The Grey (2024) ปรสิต: เดอะ เกรย์",
+      "info": "HD",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Parasyte-The-Grey-220x300-c-default.png",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Parasyte-The-Grey-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/6b78042c-dee8-56c1-bfea-c19195d7546b.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Parasyte-The-Grey-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/6c41925a-5930-56c6-81ff-2de27fcd33a3.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Parasyte-The-Grey-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/1691d64e-978a-5012-9e67-38f3bd1a85e9.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Parasyte-The-Grey-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/9e4a31df-4ef8-543c-9e43-c2776883789b.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Parasyte-The-Grey-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/0f2025f1-9fdd-5f62-8652-85878ea38b5a.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Parasyte-The-Grey-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/265e3204-4d68-54cd-8ef4-a616abfc2709.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        }
+      ]
+    },
+    {
+      "name": "Crooks (2024) ทางโจร",
+      "info": "HD",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Crooks-220x300-c-default.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Crooks-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/7f0ba298-413c-5e35-93e5-1773612b4941.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Crooks-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/1e457df6-3709-51d7-9970-52ca59ce8a93.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Crooks-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/82ac8a58-32cc-589b-bdb1-b440feb26824.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Crooks-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/e8923b70-a124-5674-9817-3b9242c18d7e.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Crooks-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/331a958d-b79d-538b-a20f-e15ec8f448ff.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Crooks-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/43ca1c0f-627e-51fd-bc75-26a3c726d739.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Crooks-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/fce9cb00-0976-569c-af4b-6a0ca13fd35e.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Crooks-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/18b52a1f-c84c-59a4-b9ab-ae1dc4b3aa62.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        }
+      ]
+    },
+    {
+      "name": "RIPLEY (2024) ริปลีย์",
+      "info": "HD",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/RIPLEY-220x300-c-default.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/RIPLEY-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/f905bc80-404d-5068-992d-54130775a234.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/RIPLEY-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/4c5a9550-3151-5b99-a597-55b1b544ea0e.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/RIPLEY-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/4c4c076c-a6ee-58c1-b640-1d64a0046cca.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/RIPLEY-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/8339f2b0-70cf-507f-ab51-ccb5a4ef7875.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/RIPLEY-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/d834bf0b-d459-5bdd-824d-2641fa8a7cf9.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/RIPLEY-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/f1421828-1c31-5c8a-b9ab-8b94857a2bcb.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/RIPLEY-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/dc4fa700-4f01-5b87-ac73-86be66147250.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/RIPLEY-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/32555954-924b-51fe-9b4c-53ee2aa4b26a.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        }
+      ]
+    },
     {
       "name": "Queen of Tears (2024) ราชินีแห่งน้ำตา",
       "info": "SUB",
@@ -32624,6 +32799,356 @@
       ]
     },
     {
+      "name": "Vikings Season 1 (2013)",
+      "info": "SUB",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-1-220x300-c-default.jpg",
+      "stations": [
+        {
+          "name": "ซีซั่น 1 ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-1-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/deae3e74-2fb4-5927-8e8d-8287b6909ab5.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 1",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-1-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/8f03ba6c-8f24-5f27-899f-1806c5275d1a.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-1-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/30959ba8-d89a-5b82-bb9d-8999ba6f17d8.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 2",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-1-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/f8f4497a-8f6b-5bf0-9ceb-709f556364fb.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-1-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/a58e004c-dc17-5e37-9a07-672c754063b1.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 3",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-1-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/ddc13398-cf6c-574e-a25d-9e64b1b9b8dd.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-1-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/ee3f184d-11f3-5c27-afb0-bff74b7bde6f.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 4",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-1-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/54f7cdb2-8459-5623-a4e8-2ea5a6b1a914.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-1-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/f50c6940-aaa4-58bc-a5e8-b7e10c21d0dd.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 5",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-1-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/bed04312-4c92-59b4-af33-f2703117596a.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-1-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/9f923cb5-76b4-5f5a-a733-77590d82500e.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 6",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-1-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/716772b7-5672-53f3-b265-dd55b1afb608.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-1-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/06756720-37a5-5787-a378-caccd2021764.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 7",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-1-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/b20183b8-689f-5f14-a0fa-db14931593d5.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 8",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-1-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/85cdfaad-e31b-5905-ad9f-4894dc54beb7.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 8",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-1-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/b13619cf-7d69-5cb7-8dfd-79b2af6d80ac.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 9",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-1-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/b696c8ed-f464-5c11-a0d1-ecd064a369a6.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 9",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-1-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/d62e10da-d1e4-5f79-a279-3621098a6320.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 10",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-1-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/9a8f20aa-3677-56e6-9761-05ff8cf3373c.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        }
+      ]
+    },
+    {
+      "name": "Vikings Season 2 (2014)",
+      "info": "SUB",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-2-220x300-c-default.jpg",
+      "stations": [
+        {
+          "name": "ซีซั่น 2 ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-2-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/04e43148-947f-5791-b373-0fd73e79f1e4.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 1",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-2-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/4acc342c-6b0e-5568-a8f4-c0a800ea929a.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-2-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/abed66f8-1940-5398-bb9c-8e8686963bea.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 2",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-2-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/b2d6d1b8-aa90-5320-b3e2-e8f306ffeb23.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-2-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/31670563-d7f5-5900-9d60-942d444976f8.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 3",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-2-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/b53bac69-c40c-55b9-ac8e-4be16c9f6556.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-2-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/7e38ec79-40ad-5269-8255-34051aee821d.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 4",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-2-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/447e3999-e6ab-54dc-9704-b21f2c4a89c6.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-2-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/19295b75-11a3-5f71-84b4-5a367835383a.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 5",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-2-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/cb698b86-7a53-5663-bb9c-ef511dbcf812.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-2-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/e13f4faf-3c06-574e-a61d-3c6ff466cc54.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 6",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-2-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/76c884c5-8e06-5a75-a54f-78ca26438ede.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-2-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/ee0661d6-6efa-5b09-bd88-a28e1107d16c.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 7",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-2-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/3f915229-18db-5eb2-b350-716e6289444f.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 8",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-2-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/e391e5b3-22e6-5efe-b0fa-d17225266833.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 8",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-2-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/73c6c9e8-fb98-5fe8-8b13-fb33a369e4b4.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 9",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-2-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/00efe70f-2872-507e-b856-6ff41d26ded1.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 10",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-2-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/09a1f4e8-aed5-5d9f-ab13-ebe01ae902b7.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        }
+      ]
+    },
+    {
+      "name": "Vikings Season 3 (2015)",
+      "info": "SUB",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-3-220x300-c-default.jpg",
+      "stations": [
+        {
+          "name": "ซีซั่น 3 ตอนที่ 1",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-3-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/08c00411-49ae-516d-97af-1a3e89d174e7.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ซีซั่น 3 ตอนที่ 2",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-3-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/5cf1257d-d715-539b-8dca-90df7360beaa.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ซีซั่น 3 ตอนที่ 3",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-3-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/e37fc7eb-2d66-5ffd-8f06-fc7fcfbe0a43.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ซีซั่น 3 ตอนที่ 4",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-3-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/70fb0686-a8a4-5db0-a151-571126a2c8bc.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ซีซั่น 3 ตอนที่ 5",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-3-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/c6f04101-7732-5c3a-b89b-ab0dd8a02e00.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ซีซั่น 3 ตอนที่ 6",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-3-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/e4d11353-e4e3-51ae-b024-7f83ac46b0eb.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ซีซั่น 3 ตอนที่ 7",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-3-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/145caded-fdf3-5e86-beff-31906db3308a.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ซีซั่น 3 ตอนที่ 8",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-3-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/1829ccec-4e17-5cc3-9782-3199230dd462.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ซีซั่น 3 ตอนที่ 9",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-3-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/9198ffb5-5538-54ba-9957-620bfa981791.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ซีซั่น 3 ตอนที่ 10",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-3-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/c94ae634-782c-5717-8cae-bba58cdeb267.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        }
+      ]
+    },
+    {
       "name": "Vikings Season 4 (2016)",
       "info": "SUB",
       "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-4-220x300-c-default.jpg",
@@ -33072,351 +33597,50 @@
       ]
     },
     {
-      "name": "Vikings Season 1 (2013)",
+      "name": "The Lying Life of Adults ชีวิตโกหกของผู้ใหญ่ Season 1 (2023)",
       "info": "SUB",
-      "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-1-220x300-c-default.jpg",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/The-Lying-Life-of-Adults-2023-220x300-c-default.jpg",
       "stations": [
         {
-          "name": "ซีซั่น 1 ตอนที่ 1",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-1-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/deae3e74-2fb4-5927-8e8d-8287b6909ab5.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ซีซั่น 1 ตอนที่ 1",
+          "name": "ตอนที่ 1",
           "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-1-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/8f03ba6c-8f24-5f27-899f-1806c5275d1a.m3u8",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/The-Lying-Life-of-Adults-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/ee872db0-2a26-5208-b314-f370d3456c33.m3u8",
           "referer": "https://www.dooseries4k.com/"
         },
         {
-          "name": "ซีซั่น 1 ตอนที่ 2",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-1-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/30959ba8-d89a-5b82-bb9d-8999ba6f17d8.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ซีซั่น 1 ตอนที่ 2",
+          "name": "ตอนที่ 2",
           "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-1-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/f8f4497a-8f6b-5bf0-9ceb-709f556364fb.m3u8",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/The-Lying-Life-of-Adults-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/7b29a799-03ab-5538-96c9-ebc929313c28.m3u8",
           "referer": "https://www.dooseries4k.com/"
         },
         {
-          "name": "ซีซั่น 1 ตอนที่ 3",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-1-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/a58e004c-dc17-5e37-9a07-672c754063b1.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ซีซั่น 1 ตอนที่ 3",
+          "name": "ตอนที่ 3",
           "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-1-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/ddc13398-cf6c-574e-a25d-9e64b1b9b8dd.m3u8",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/The-Lying-Life-of-Adults-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/cfd7d15b-eea1-542b-94df-51892cfae2c5.m3u8",
           "referer": "https://www.dooseries4k.com/"
         },
         {
-          "name": "ซีซั่น 1 ตอนที่ 4",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-1-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/ee3f184d-11f3-5c27-afb0-bff74b7bde6f.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ซีซั่น 1 ตอนที่ 4",
+          "name": "ตอนที่ 4",
           "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-1-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/54f7cdb2-8459-5623-a4e8-2ea5a6b1a914.m3u8",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/The-Lying-Life-of-Adults-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/0a2bd4f6-f6bb-5328-afd4-60388feef6d1.m3u8",
           "referer": "https://www.dooseries4k.com/"
         },
         {
-          "name": "ซีซั่น 1 ตอนที่ 5",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-1-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/f50c6940-aaa4-58bc-a5e8-b7e10c21d0dd.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ซีซั่น 1 ตอนที่ 5",
+          "name": "ตอนที่ 5",
           "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-1-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/bed04312-4c92-59b4-af33-f2703117596a.m3u8",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/The-Lying-Life-of-Adults-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/5a0a76f6-3577-593d-82ab-87d00f846495.m3u8",
           "referer": "https://www.dooseries4k.com/"
         },
         {
-          "name": "ซีซั่น 1 ตอนที่ 6",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-1-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/9f923cb5-76b4-5f5a-a733-77590d82500e.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ซีซั่น 1 ตอนที่ 6",
+          "name": "ตอนที่ 6",
           "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-1-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/716772b7-5672-53f3-b265-dd55b1afb608.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ซีซั่น 1 ตอนที่ 7",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-1-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/06756720-37a5-5787-a378-caccd2021764.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ซีซั่น 1 ตอนที่ 7",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-1-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/b20183b8-689f-5f14-a0fa-db14931593d5.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ซีซั่น 1 ตอนที่ 8",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-1-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/85cdfaad-e31b-5905-ad9f-4894dc54beb7.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ซีซั่น 1 ตอนที่ 8",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-1-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/b13619cf-7d69-5cb7-8dfd-79b2af6d80ac.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ซีซั่น 1 ตอนที่ 9",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-1-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/b696c8ed-f464-5c11-a0d1-ecd064a369a6.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ซีซั่น 1 ตอนที่ 9",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-1-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/d62e10da-d1e4-5f79-a279-3621098a6320.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ซีซั่น 1 ตอนที่ 10",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-1-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/9a8f20aa-3677-56e6-9761-05ff8cf3373c.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        }
-      ]
-    },
-    {
-      "name": "Vikings Season 2 (2014)",
-      "info": "SUB",
-      "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-2-220x300-c-default.jpg",
-      "stations": [
-        {
-          "name": "ซีซั่น 2 ตอนที่ 1",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-2-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/04e43148-947f-5791-b373-0fd73e79f1e4.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ซีซั่น 2 ตอนที่ 1",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-2-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/4acc342c-6b0e-5568-a8f4-c0a800ea929a.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ซีซั่น 2 ตอนที่ 2",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-2-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/abed66f8-1940-5398-bb9c-8e8686963bea.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ซีซั่น 2 ตอนที่ 2",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-2-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/b2d6d1b8-aa90-5320-b3e2-e8f306ffeb23.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ซีซั่น 2 ตอนที่ 3",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-2-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/31670563-d7f5-5900-9d60-942d444976f8.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ซีซั่น 2 ตอนที่ 3",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-2-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/b53bac69-c40c-55b9-ac8e-4be16c9f6556.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ซีซั่น 2 ตอนที่ 4",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-2-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/7e38ec79-40ad-5269-8255-34051aee821d.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ซีซั่น 2 ตอนที่ 4",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-2-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/447e3999-e6ab-54dc-9704-b21f2c4a89c6.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ซีซั่น 2 ตอนที่ 5",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-2-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/19295b75-11a3-5f71-84b4-5a367835383a.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ซีซั่น 2 ตอนที่ 5",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-2-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/cb698b86-7a53-5663-bb9c-ef511dbcf812.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ซีซั่น 2 ตอนที่ 6",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-2-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/e13f4faf-3c06-574e-a61d-3c6ff466cc54.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ซีซั่น 2 ตอนที่ 6",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-2-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/76c884c5-8e06-5a75-a54f-78ca26438ede.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ซีซั่น 2 ตอนที่ 7",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-2-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/ee0661d6-6efa-5b09-bd88-a28e1107d16c.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ซีซั่น 2 ตอนที่ 7",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-2-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/3f915229-18db-5eb2-b350-716e6289444f.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ซีซั่น 2 ตอนที่ 8",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-2-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/e391e5b3-22e6-5efe-b0fa-d17225266833.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ซีซั่น 2 ตอนที่ 8",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-2-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/73c6c9e8-fb98-5fe8-8b13-fb33a369e4b4.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ซีซั่น 2 ตอนที่ 9",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-2-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/00efe70f-2872-507e-b856-6ff41d26ded1.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ซีซั่น 2 ตอนที่ 10",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-2-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/09a1f4e8-aed5-5d9f-ab13-ebe01ae902b7.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        }
-      ]
-    },
-    {
-      "name": "Vikings Season 3 (2015)",
-      "info": "SUB",
-      "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-3-220x300-c-default.jpg",
-      "stations": [
-        {
-          "name": "ซีซั่น 3 ตอนที่ 1",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-3-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/08c00411-49ae-516d-97af-1a3e89d174e7.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ซีซั่น 3 ตอนที่ 2",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-3-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/5cf1257d-d715-539b-8dca-90df7360beaa.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ซีซั่น 3 ตอนที่ 3",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-3-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/e37fc7eb-2d66-5ffd-8f06-fc7fcfbe0a43.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ซีซั่น 3 ตอนที่ 4",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-3-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/70fb0686-a8a4-5db0-a151-571126a2c8bc.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ซีซั่น 3 ตอนที่ 5",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-3-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/c6f04101-7732-5c3a-b89b-ab0dd8a02e00.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ซีซั่น 3 ตอนที่ 6",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-3-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/e4d11353-e4e3-51ae-b024-7f83ac46b0eb.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ซีซั่น 3 ตอนที่ 7",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-3-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/145caded-fdf3-5e86-beff-31906db3308a.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ซีซั่น 3 ตอนที่ 8",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-3-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/1829ccec-4e17-5cc3-9782-3199230dd462.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ซีซั่น 3 ตอนที่ 9",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-3-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/9198ffb5-5538-54ba-9957-620bfa981791.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ซีซั่น 3 ตอนที่ 10",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Vikings-Season-3-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/c94ae634-782c-5717-8cae-bba58cdeb267.m3u8",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/The-Lying-Life-of-Adults-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/c326cbab-4771-5190-b300-9228023d5b84.m3u8",
           "referer": "https://www.dooseries4k.com/"
         }
       ]
@@ -33501,55 +33725,6 @@
           "info": "ซับไทย",
           "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Madoff-The-Monster-Of-Wall-Street-2023-220x300-c-default.jpg",
           "url": "https://www.sgcdnseriesn.xyz/view/05918658-ff1d-53f5-982f-959f75a21c41.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        }
-      ]
-    },
-    {
-      "name": "The Lying Life of Adults ชีวิตโกหกของผู้ใหญ่ Season 1 (2023)",
-      "info": "SUB",
-      "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/The-Lying-Life-of-Adults-2023-220x300-c-default.jpg",
-      "stations": [
-        {
-          "name": "ตอนที่ 1",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/The-Lying-Life-of-Adults-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/ee872db0-2a26-5208-b314-f370d3456c33.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ตอนที่ 2",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/The-Lying-Life-of-Adults-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/7b29a799-03ab-5538-96c9-ebc929313c28.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ตอนที่ 3",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/The-Lying-Life-of-Adults-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/cfd7d15b-eea1-542b-94df-51892cfae2c5.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ตอนที่ 4",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/The-Lying-Life-of-Adults-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/0a2bd4f6-f6bb-5328-afd4-60388feef6d1.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ตอนที่ 5",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/The-Lying-Life-of-Adults-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/5a0a76f6-3577-593d-82ab-87d00f846495.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ตอนที่ 6",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/The-Lying-Life-of-Adults-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/c326cbab-4771-5190-b300-9228023d5b84.m3u8",
           "referer": "https://www.dooseries4k.com/"
         }
       ]
@@ -53775,6 +53950,202 @@
       ]
     },
     {
+      "name": "Queen of the South Season 2 (2017) ราชินีแดนใต้",
+      "info": "SUB",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/Queen-of-the-South-Season-2-2017-220x300-c-default.jpg",
+      "stations": [
+        {
+          "name": "ซีซั่น 2 ตอนที่ 1",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/Queen-of-the-South-Season-2-2017-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/508ed3b9-66be-576e-ab44-ddf184073124.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 2",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/Queen-of-the-South-Season-2-2017-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/9556161c-d4f9-5582-8f03-629ebc1e5a7a.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 3",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/Queen-of-the-South-Season-2-2017-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/7b815dcf-98d1-5c69-8b32-538733ac9926.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 4",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/Queen-of-the-South-Season-2-2017-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/18e4be8f-bd87-5967-b4e9-5a5fe1dc9fc7.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 5",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/Queen-of-the-South-Season-2-2017-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/b2d1ee6d-802c-55aa-8c8b-5a494ab9a166.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 6",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/Queen-of-the-South-Season-2-2017-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/b1bb3415-c265-5bbd-9152-67aaee88609d.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 7",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/Queen-of-the-South-Season-2-2017-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/3cf9835a-7d2c-5b17-8acc-1144088062db.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 8",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/Queen-of-the-South-Season-2-2017-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/996d6b75-09ed-5023-9cf0-f991e0a9622f.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 9",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/Queen-of-the-South-Season-2-2017-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/2222397f-0485-5d44-8873-3aa2e8f9e940.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 10",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/Queen-of-the-South-Season-2-2017-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/3d5c0eb6-66d9-5c56-87e4-4901e1705ad7.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 11",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/Queen-of-the-South-Season-2-2017-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/6c1791bb-0f50-5750-a3bf-f9bac3abc78e.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 12",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/Queen-of-the-South-Season-2-2017-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/5bce6cbc-b354-5a3c-8d25-b1a100b24fba.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 13",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/Queen-of-the-South-Season-2-2017-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/9dd7e3a1-3fb9-509a-81ca-51f789465df7.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        }
+      ]
+    },
+    {
+      "name": "Queen of the South Season 3 (2018) ราชินีแดนใต้",
+      "info": "SUB",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/Queen-of-the-South-Season-3-2018-220x300-c-default.jpg",
+      "stations": [
+        {
+          "name": "ซีซั่น 3 ตอนที่ 1",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/Queen-of-the-South-Season-3-2018-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/4a94be3c-18d9-558b-85cb-8ea1fccc2e22.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ซีซั่น 3 ตอนที่ 2",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/Queen-of-the-South-Season-3-2018-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/1e92a5e1-117b-5a49-9709-b5883af1a038.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ซีซั่น 3 ตอนที่ 3",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/Queen-of-the-South-Season-3-2018-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/1da4235e-df4e-5995-a5da-1f0fb01dbb04.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ซีซั่น 3 ตอนที่ 4",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/Queen-of-the-South-Season-3-2018-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/2c06398c-d39d-5ef6-8b50-46d2ffde3eee.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ซีซั่น 3 ตอนที่ 5",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/Queen-of-the-South-Season-3-2018-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/dce5ff9a-cfe1-5de8-a8cf-6eb5d8323eaa.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ซีซั่น 3 ตอนที่ 6",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/Queen-of-the-South-Season-3-2018-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/9f9a424f-9403-5184-871d-27669da6537e.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ซีซั่น 3 ตอนที่ 7",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/Queen-of-the-South-Season-3-2018-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/cc61b12e-5df3-5100-a4d8-b171b3abaed4.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ซีซั่น 3 ตอนที่ 8",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/Queen-of-the-South-Season-3-2018-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/cf2a90e0-5634-53b4-bce9-e66951b9bbbb.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ซีซั่น 3 ตอนที่ 9",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/Queen-of-the-South-Season-3-2018-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/ee633291-a23d-5ec3-bbf7-40c16bfb708e.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ซีซั่น 3 ตอนที่ 10",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/Queen-of-the-South-Season-3-2018-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/cc76c256-7b4c-577e-94bc-76f845efc13c.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ซีซั่น 3 ตอนที่ 11",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/Queen-of-the-South-Season-3-2018-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/f56ebfe4-22b4-5b02-9bb8-bb2ee22d9dbd.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ซีซั่น 3 ตอนที่ 12",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/Queen-of-the-South-Season-3-2018-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/1af93c92-e096-57f9-aa56-d5c7f693390b.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ซีซั่น 3 ตอนที่ 13",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/Queen-of-the-South-Season-3-2018-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/c886a2f0-4be7-5944-b593-f99e54b17c6e.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        }
+      ]
+    },
+    {
       "name": "Queen of the South Season 4 (2019) ราชินีแดนใต้",
       "info": "SUB",
       "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/Queen-of-the-South-Season-4-2019-220x300-c-default.jpg",
@@ -54461,197 +54832,99 @@
       ]
     },
     {
-      "name": "Queen of the South Season 2 (2017) ราชินีแดนใต้",
+      "name": "Queen of the South Season 1 (2016) ราชินีแดนใต้",
       "info": "SUB",
-      "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/Queen-of-the-South-Season-2-2017-220x300-c-default.jpg",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/Queen-of-the-South-Season-1-2016-220x300-c-default.jpg",
       "stations": [
         {
-          "name": "ซีซั่น 2 ตอนที่ 1",
+          "name": "ซีซั่น 1 ตอนที่ 1",
           "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/Queen-of-the-South-Season-2-2017-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/508ed3b9-66be-576e-ab44-ddf184073124.m3u8",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/Queen-of-the-South-Season-1-2016-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/76ace965-4a11-562b-9662-253e99a5300c.m3u8",
           "referer": "https://www.dooseries4k.com/"
         },
         {
-          "name": "ซีซั่น 2 ตอนที่ 2",
+          "name": "ซีซั่น 1 ตอนที่ 2",
           "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/Queen-of-the-South-Season-2-2017-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/9556161c-d4f9-5582-8f03-629ebc1e5a7a.m3u8",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/Queen-of-the-South-Season-1-2016-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/2be57adc-efcb-54a8-8baf-78f108b75aba.m3u8",
           "referer": "https://www.dooseries4k.com/"
         },
         {
-          "name": "ซีซั่น 2 ตอนที่ 3",
+          "name": "ซีซั่น 1 ตอนที่ 3",
           "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/Queen-of-the-South-Season-2-2017-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/7b815dcf-98d1-5c69-8b32-538733ac9926.m3u8",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/Queen-of-the-South-Season-1-2016-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/3d46b321-4ee7-5e6a-b608-612a6724bfdb.m3u8",
           "referer": "https://www.dooseries4k.com/"
         },
         {
-          "name": "ซีซั่น 2 ตอนที่ 4",
+          "name": "ซีซั่น 1 ตอนที่ 4",
           "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/Queen-of-the-South-Season-2-2017-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/18e4be8f-bd87-5967-b4e9-5a5fe1dc9fc7.m3u8",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/Queen-of-the-South-Season-1-2016-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/c7a1d659-a231-53aa-86c6-9631537b1da9.m3u8",
           "referer": "https://www.dooseries4k.com/"
         },
         {
-          "name": "ซีซั่น 2 ตอนที่ 5",
+          "name": "ซีซั่น 1 ตอนที่ 5",
           "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/Queen-of-the-South-Season-2-2017-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/b2d1ee6d-802c-55aa-8c8b-5a494ab9a166.m3u8",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/Queen-of-the-South-Season-1-2016-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/b30e3957-1f84-5677-8135-a6f1fecc3b04.m3u8",
           "referer": "https://www.dooseries4k.com/"
         },
         {
-          "name": "ซีซั่น 2 ตอนที่ 6",
+          "name": "ซีซั่น 1 ตอนที่ 6",
           "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/Queen-of-the-South-Season-2-2017-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/b1bb3415-c265-5bbd-9152-67aaee88609d.m3u8",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/Queen-of-the-South-Season-1-2016-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/05978476-6bed-51bf-abdd-5f8ad8bf055b.m3u8",
           "referer": "https://www.dooseries4k.com/"
         },
         {
-          "name": "ซีซั่น 2 ตอนที่ 7",
+          "name": "ซีซั่น 1 ตอนที่ 7",
           "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/Queen-of-the-South-Season-2-2017-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/3cf9835a-7d2c-5b17-8acc-1144088062db.m3u8",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/Queen-of-the-South-Season-1-2016-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/99cec8bc-5ca1-5651-939b-daf079ccfee7.m3u8",
           "referer": "https://www.dooseries4k.com/"
         },
         {
-          "name": "ซีซั่น 2 ตอนที่ 8",
+          "name": "ซีซั่น 1 ตอนที่ 8",
           "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/Queen-of-the-South-Season-2-2017-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/996d6b75-09ed-5023-9cf0-f991e0a9622f.m3u8",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/Queen-of-the-South-Season-1-2016-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/53c36ce5-5764-58b4-931e-139806077649.m3u8",
           "referer": "https://www.dooseries4k.com/"
         },
         {
-          "name": "ซีซั่น 2 ตอนที่ 9",
+          "name": "ซีซั่น 1 ตอนที่ 9",
           "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/Queen-of-the-South-Season-2-2017-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/2222397f-0485-5d44-8873-3aa2e8f9e940.m3u8",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/Queen-of-the-South-Season-1-2016-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/389065ab-52f6-5197-b9b1-8e702ec96604.m3u8",
           "referer": "https://www.dooseries4k.com/"
         },
         {
-          "name": "ซีซั่น 2 ตอนที่ 10",
+          "name": "ซีซั่น 1 ตอนที่ 10",
           "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/Queen-of-the-South-Season-2-2017-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/3d5c0eb6-66d9-5c56-87e4-4901e1705ad7.m3u8",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/Queen-of-the-South-Season-1-2016-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/f08ed2de-7e5e-5e94-b351-030909b92d4b.m3u8",
           "referer": "https://www.dooseries4k.com/"
         },
         {
-          "name": "ซีซั่น 2 ตอนที่ 11",
+          "name": "ซีซั่น 1 ตอนที่ 11",
           "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/Queen-of-the-South-Season-2-2017-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/6c1791bb-0f50-5750-a3bf-f9bac3abc78e.m3u8",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/Queen-of-the-South-Season-1-2016-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/e4f1c25f-95a1-5521-8682-1ec81e6fddef.m3u8",
           "referer": "https://www.dooseries4k.com/"
         },
         {
-          "name": "ซีซั่น 2 ตอนที่ 12",
+          "name": "ซีซั่น 1 ตอนที่ 12",
           "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/Queen-of-the-South-Season-2-2017-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/5bce6cbc-b354-5a3c-8d25-b1a100b24fba.m3u8",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/Queen-of-the-South-Season-1-2016-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/b569c46e-6d64-5d15-ba0b-b7a164c0badd.m3u8",
           "referer": "https://www.dooseries4k.com/"
         },
         {
-          "name": "ซีซั่น 2 ตอนที่ 13",
+          "name": "ซีซั่น 1 ตอนที่ 13",
           "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/Queen-of-the-South-Season-2-2017-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/9dd7e3a1-3fb9-509a-81ca-51f789465df7.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        }
-      ]
-    },
-    {
-      "name": "Queen of the South Season 3 (2018) ราชินีแดนใต้",
-      "info": "SUB",
-      "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/Queen-of-the-South-Season-3-2018-220x300-c-default.jpg",
-      "stations": [
-        {
-          "name": "ซีซั่น 3 ตอนที่ 1",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/Queen-of-the-South-Season-3-2018-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/4a94be3c-18d9-558b-85cb-8ea1fccc2e22.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ซีซั่น 3 ตอนที่ 2",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/Queen-of-the-South-Season-3-2018-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/1e92a5e1-117b-5a49-9709-b5883af1a038.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ซีซั่น 3 ตอนที่ 3",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/Queen-of-the-South-Season-3-2018-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/1da4235e-df4e-5995-a5da-1f0fb01dbb04.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ซีซั่น 3 ตอนที่ 4",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/Queen-of-the-South-Season-3-2018-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/2c06398c-d39d-5ef6-8b50-46d2ffde3eee.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ซีซั่น 3 ตอนที่ 5",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/Queen-of-the-South-Season-3-2018-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/dce5ff9a-cfe1-5de8-a8cf-6eb5d8323eaa.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ซีซั่น 3 ตอนที่ 6",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/Queen-of-the-South-Season-3-2018-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/9f9a424f-9403-5184-871d-27669da6537e.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ซีซั่น 3 ตอนที่ 7",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/Queen-of-the-South-Season-3-2018-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/cc61b12e-5df3-5100-a4d8-b171b3abaed4.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ซีซั่น 3 ตอนที่ 8",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/Queen-of-the-South-Season-3-2018-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/cf2a90e0-5634-53b4-bce9-e66951b9bbbb.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ซีซั่น 3 ตอนที่ 9",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/Queen-of-the-South-Season-3-2018-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/ee633291-a23d-5ec3-bbf7-40c16bfb708e.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ซีซั่น 3 ตอนที่ 10",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/Queen-of-the-South-Season-3-2018-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/cc76c256-7b4c-577e-94bc-76f845efc13c.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ซีซั่น 3 ตอนที่ 11",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/Queen-of-the-South-Season-3-2018-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/f56ebfe4-22b4-5b02-9bb8-bb2ee22d9dbd.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ซีซั่น 3 ตอนที่ 12",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/Queen-of-the-South-Season-3-2018-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/1af93c92-e096-57f9-aa56-d5c7f693390b.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ซีซั่น 3 ตอนที่ 13",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/Queen-of-the-South-Season-3-2018-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/c886a2f0-4be7-5944-b593-f99e54b17c6e.m3u8",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/Queen-of-the-South-Season-1-2016-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/b0e38415-eba8-563f-b69a-98a4b90e1ad4.m3u8",
           "referer": "https://www.dooseries4k.com/"
         }
       ]
@@ -54771,104 +55044,6 @@
           "info": "พากย์ไทย",
           "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/20210325192446photo-6038d28c2bb95-220x300-c-default.jpg",
           "url": "https://www.sgcdnseriesn.xyz/view/9d071d1c-a502-5902-9c03-1450edbab41e.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        }
-      ]
-    },
-    {
-      "name": "Queen of the South Season 1 (2016) ราชินีแดนใต้",
-      "info": "SUB",
-      "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/Queen-of-the-South-Season-1-2016-220x300-c-default.jpg",
-      "stations": [
-        {
-          "name": "ซีซั่น 1 ตอนที่ 1",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/Queen-of-the-South-Season-1-2016-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/76ace965-4a11-562b-9662-253e99a5300c.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ซีซั่น 1 ตอนที่ 2",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/Queen-of-the-South-Season-1-2016-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/2be57adc-efcb-54a8-8baf-78f108b75aba.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ซีซั่น 1 ตอนที่ 3",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/Queen-of-the-South-Season-1-2016-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/3d46b321-4ee7-5e6a-b608-612a6724bfdb.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ซีซั่น 1 ตอนที่ 4",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/Queen-of-the-South-Season-1-2016-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/c7a1d659-a231-53aa-86c6-9631537b1da9.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ซีซั่น 1 ตอนที่ 5",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/Queen-of-the-South-Season-1-2016-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/b30e3957-1f84-5677-8135-a6f1fecc3b04.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ซีซั่น 1 ตอนที่ 6",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/Queen-of-the-South-Season-1-2016-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/05978476-6bed-51bf-abdd-5f8ad8bf055b.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ซีซั่น 1 ตอนที่ 7",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/Queen-of-the-South-Season-1-2016-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/99cec8bc-5ca1-5651-939b-daf079ccfee7.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ซีซั่น 1 ตอนที่ 8",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/Queen-of-the-South-Season-1-2016-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/53c36ce5-5764-58b4-931e-139806077649.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ซีซั่น 1 ตอนที่ 9",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/Queen-of-the-South-Season-1-2016-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/389065ab-52f6-5197-b9b1-8e702ec96604.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ซีซั่น 1 ตอนที่ 10",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/Queen-of-the-South-Season-1-2016-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/f08ed2de-7e5e-5e94-b351-030909b92d4b.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ซีซั่น 1 ตอนที่ 11",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/Queen-of-the-South-Season-1-2016-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/e4f1c25f-95a1-5521-8682-1ec81e6fddef.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ซีซั่น 1 ตอนที่ 12",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/Queen-of-the-South-Season-1-2016-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/b569c46e-6d64-5d15-ba0b-b7a164c0badd.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ซีซั่น 1 ตอนที่ 13",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/Queen-of-the-South-Season-1-2016-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/b0e38415-eba8-563f-b69a-98a4b90e1ad4.m3u8",
           "referer": "https://www.dooseries4k.com/"
         }
       ]
