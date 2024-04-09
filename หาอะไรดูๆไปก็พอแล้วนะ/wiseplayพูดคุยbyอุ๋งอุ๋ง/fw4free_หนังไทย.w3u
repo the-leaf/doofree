@@ -1,9 +1,256 @@
 {
  "name": "หนังไทย",
- "author": "เจียว เจียว (=◍․̫◍=) ดูฟรีเพื่อความบันเทิงภายในที่พักอาศัย (=◍․̫◍=)วันที่ 15 กุมภาพันธ์ 2567",
+ "author": "เจียว เจียว (=◍․̫◍=) ดูฟรีเพื่อความบันเทิงภายในที่พักอาศัย (=◍․̫◍=)วันที่ 10 เมษายน 2567",
  "info": "เฉพาะเมื่อเราให้ความสุขโดยไม่ลังเลหรือคิดจะได้กำไรเราสามารถรู้ได้อย่างแท้จริงว่าความรักหมายถึงอะไร😊",
  "image": "https://fw4free.com/images/logo7.png",
  "groups": [
+  {
+   "name": "ธี่หยด Death Whisperer (2023)",
+   "image": "https://img.inwiptv.net/postor/20240410001304dsS99k66XydZP6lHStoda5DGtxd.jpg",
+   "stations": [
+    {
+     "name": "ธี่หยด Death Whisperer (2023)",
+     "info": " พากย์ไทย [1080p]",
+     "image": "https://img.inwiptv.net/postor/20240410001304dsS99k66XydZP6lHStoda5DGtxd.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie3/Death_Whisperer_2023/Death_Whisperer_2023_th_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
+  {
+   "name": "สมมติ Supposed (2023)",
+   "image": "https://img.inwiptv.net/postor/20240409200525bvGAoixS6f0xXvFvkGFRXvSRbmn.jpg",
+   "stations": [
+    {
+     "name": "สมมติ Supposed (2023)",
+     "info": " พากย์ไทย [1080p]",
+     "image": "https://img.inwiptv.net/postor/20240409200525bvGAoixS6f0xXvFvkGFRXvSRbmn.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie3/Supposed_2023/Supposed_2023_th_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
+  {
+   "name": "อานนเป็นนักเรียนตัวอย่าง Arnold Is a Model Student (2023)",
+   "image": "https://img.inwiptv.net/postor/20240403172409amuJuDNaZdVDSkbYBmBpcMJTvX3.jpg",
+   "stations": [
+    {
+     "name": "อานนเป็นนักเรียนตัวอย่าง Arnold Is a Model Student (2023)",
+     "info": " พากย์ไทย [1080p]",
+     "image": "https://img.inwiptv.net/postor/20240403172409amuJuDNaZdVDSkbYBmBpcMJTvX3.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie3/Arnold_Is_a_Model_Student_2023/Arnold_Is_a_Model_Student_2023_th_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
+  {
+   "name": "บังเอิญรัก ข่อยฮักเจ้า Loser Lover (2023)",
+   "image": "https://img.inwiptv.net/postor/20240323055850daBOJx3GAYU5rp8h6D9q3CwrNVn.jpg",
+   "stations": [
+    {
+     "name": "บังเอิญรัก ข่อยฮักเจ้า Loser Lover (2023)",
+     "info": " พากย์ไทย [1080p]",
+     "image": "https://img.inwiptv.net/postor/20240323055850daBOJx3GAYU5rp8h6D9q3CwrNVn.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie3/Loser_Lover_2023/Loser_Lover_2023_th_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
+  {
+   "name": "ไนน์ตี้ช๊อค เตลิดเปิดโลง 90 Shock (1997)",
+   "image": "https://img.inwiptv.net/postor/20240319040502dlmVbgPuIgwnzUyn2PiqMLQtezB.jpg",
+   "stations": [
+    {
+     "name": "ไนน์ตี้ช๊อค เตลิดเปิดโลง 90 Shock (1997)",
+     "info": " พากย์ไทย [720p]",
+     "image": "https://img.inwiptv.net/postor/20240319040502dlmVbgPuIgwnzUyn2PiqMLQtezB.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie3/90_Shock_1997/90_Shock_1997_th_720.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
+  {
+   "name": "เพื่อน (ไม่) สนิท Not Friends (2023)",
+   "image": "https://img.inwiptv.net/postor/20240317035432i3uTKXGNRrRCeCNIFvmpmDCmo5b.jpg",
+   "stations": [
+    {
+     "name": "เพื่อน (ไม่) สนิท Not Friends (2023)",
+     "info": " พากย์ไทย [1080p]",
+     "image": "https://img.inwiptv.net/postor/20240317035432i3uTKXGNRrRCeCNIFvmpmDCmo5b.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie3/Not_Friends_2023/Not_Friends_2023_th_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
+  {
+   "name": "อยากตาย อย่าตาย มรณา คาเฟ่ Death is All Around (2023)",
+   "image": "https://img.inwiptv.net/postor/20240310213935fEQohccMsu1n770TxteL7NuRq4n.jpg",
+   "stations": [
+    {
+     "name": "อยากตาย อย่าตาย มรณา คาเฟ่ Death is All Around (2023)",
+     "info": " พากย์ไทย [1080p]",
+     "image": "https://img.inwiptv.net/postor/20240310213935fEQohccMsu1n770TxteL7NuRq4n.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie3/Death_is_All_Around_2023/Death_is_All_Around_2023_th_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
+  {
+   "name": "ดินไร้แดน Soil Without Land (2019)",
+   "image": "https://img.inwiptv.net/postor/20240303215343vKkxVCcby1m0PcnEqjb02YxSl8S.jpg",
+   "stations": [
+    {
+     "name": "ดินไร้แดน Soil Without Land (2019)",
+     "info": " พากย์ไทย [1080p]",
+     "image": "https://img.inwiptv.net/postor/20240303215343vKkxVCcby1m0PcnEqjb02YxSl8S.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie3/Soil_Without_Land_2019/Soil_Without_Land_2019_th_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
+  {
+   "name": "สายน้ำติดเชื้อ‬ By the River (2013)",
+   "image": "https://img.inwiptv.net/postor/20240303214004318183254_5542141545896959_3109236993925520610_n.jpg",
+   "stations": [
+    {
+     "name": "สายน้ำติดเชื้อ‬ By the River (2013)",
+     "info": " พากย์ไทย [1080p]",
+     "image": "https://img.inwiptv.net/postor/20240303214004318183254_5542141545896959_3109236993925520610_n.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie3/By_the_River_2013/By_the_River_2013_th_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
+  {
+   "name": "ฟ้าต่ำ แผ่นดินสูง Boundary (2013)",
+   "image": "https://img.inwiptv.net/postor/20240302203437fUlN5idtMG0nwYKtoJ8OpY2C0Yt.jpg",
+   "stations": [
+    {
+     "name": "ฟ้าต่ำ แผ่นดินสูง Boundary (2013)",
+     "info": " พากย์ไทย [1080p]",
+     "image": "https://img.inwiptv.net/postor/20240302203437fUlN5idtMG0nwYKtoJ8OpY2C0Yt.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie3/Boundary_2013/Boundary_2013_th_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
+  {
+   "name": "แมนสรวง ManSuang (2023)",
+   "image": "https://img.inwiptv.net/postor/20240301010253kj4qVhsA4pPQsn7TKG7ZaYqTpFg.jpg",
+   "stations": [
+    {
+     "name": "แมนสรวง ManSuang (2023)",
+     "info": " พากย์ไทย [1080p]",
+     "image": "https://img.inwiptv.net/postor/20240301010253kj4qVhsA4pPQsn7TKG7ZaYqTpFg.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie3/ManSuang_2023/ManSuang_2023_th_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
+  {
+   "name": "คุณตูบสายดาร์ก ปิดเมืองกัด Darkdog Lockdown (2023)",
+   "image": "https://img.inwiptv.net/postor/20240226234623oI8PTpyftldnJkD031UdsRIXx95.jpg",
+   "stations": [
+    {
+     "name": "คุณตูบสายดาร์ก ปิดเมืองกัด Darkdog Lockdown (2023)",
+     "info": " พากย์ไทย [1080p]",
+     "image": "https://img.inwiptv.net/postor/20240226234623oI8PTpyftldnJkD031UdsRIXx95.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie3/Darkdog_Lockdown_2023/Darkdog_Lockdown_2023_th_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
+  {
+   "name": "มะหมา 4 ขาครับ ภาค 2 Mid Road Gang 2 (2012)",
+   "image": "https://img.inwiptv.net/postor/20240220232656c76pzMWsN9ouUmOfVlXulfhPC7F.jpg",
+   "stations": [
+    {
+     "name": "มะหมา 4 ขาครับ ภาค 2 Mid Road Gang 2 (2012)",
+     "info": " พากย์ไทย [720p]",
+     "image": "https://img.inwiptv.net/postor/20240220232656c76pzMWsN9ouUmOfVlXulfhPC7F.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie3/Mid_Road_Gang_2_2012/Mid_Road_Gang_2_2012_th_720.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
+  {
+   "name": "มะหมา 4 ขาครับ Mid Road Gang (2007)",
+   "image": "https://img.inwiptv.net/postor/2024022023224638eE2oY1ai0GwcOPKpEpMO4NNAu.jpg",
+   "stations": [
+    {
+     "name": "มะหมา 4 ขาครับ Mid Road Gang (2007)",
+     "info": " พากย์ไทย [720p]",
+     "image": "https://img.inwiptv.net/postor/2024022023224638eE2oY1ai0GwcOPKpEpMO4NNAu.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie3/Mid_Road_Gang_2007/Mid_Road_Gang_2007_th_720.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
+  {
+   "name": "ปราณี Love in an Old Album (2023)",
+   "image": "https://img.inwiptv.net/postor/20240220151244yPKNldqn8rH7NIcnIbXriT8eS20.jpg",
+   "stations": [
+    {
+     "name": "ปราณี Love in an Old Album (2023)",
+     "info": " พากย์ไทย [1080p]",
+     "image": "https://img.inwiptv.net/postor/20240220151244yPKNldqn8rH7NIcnIbXriT8eS20.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie3/Love_in_an_Old_Album_2023/Love_in_an_Old_Album_2023_th_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
+  {
+   "name": "เฟื่อน More Than Friend (2022)",
+   "image": "https://img.inwiptv.net/postor/20240220150108amIuFd0OF2a4WvWp1cMSoHHq3Hy.jpg",
+   "stations": [
+    {
+     "name": "เฟื่อน More Than Friend (2022)",
+     "info": " พากย์ไทย [1080p]",
+     "image": "https://img.inwiptv.net/postor/20240220150108amIuFd0OF2a4WvWp1cMSoHHq3Hy.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie3/More_Than_Friend_2022/More_Than_Friend_2022_th_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
+  {
+   "name": "ห่อหมกฮวกไปฝากป้า Journey To Aunt's House (2019)",
+   "image": "https://img.inwiptv.net/postor/20240220145418poster-ห่อหมกฮวด.jpg",
+   "stations": [
+    {
+     "name": "ห่อหมกฮวกไปฝากป้า Journey To Aunt's House (2019)",
+     "info": " พากย์ไทย [1080p]",
+     "image": "https://img.inwiptv.net/postor/20240220145418poster-ห่อหมกฮวด.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie3/Journey_To_Aunt_s_House_2019/Journey_To_Aunt_s_House_2019_th_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
+  {
+   "name": "The Last Breath of Sam Yan (2023)",
+   "image": "https://img.inwiptv.net/postor/20240217175358uOqAgAwQ8vGs2EAH5Qozc1l0tPd.jpg",
+   "stations": [
+    {
+     "name": "The Last Breath of Sam Yan (2023)",
+     "info": " พากย์ไทย [1080p]",
+     "image": "https://img.inwiptv.net/postor/20240217175358uOqAgAwQ8vGs2EAH5Qozc1l0tPd.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie3/The_Last_Breath_of_Sam_Yan_2023/The_Last_Breath_of_Sam_Yan_2023_th_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
+  {
+   "name": "14 อีกครั้ง 14 Again: I Love You Two Thousand (2023)",
+   "image": "https://img.inwiptv.net/postor/20240216213648yLvhjpq9yZ0jw60kMmnEWE35vzO.jpg",
+   "stations": [
+    {
+     "name": "14 อีกครั้ง 14 Again: I Love You Two Thousand (2023)",
+     "info": " พากย์ไทย [1080p]",
+     "image": "https://img.inwiptv.net/postor/20240216213648yLvhjpq9yZ0jw60kMmnEWE35vzO.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie3/14_Again_I_Love_You_Two_Thousand_2023/14_Again_I_Love_You_Two_Thousand_2023_th_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
   {
    "name": "อุกกาบาต The Meteor (2004)",
    "image": "https://img.inwiptv.net/postor/202402141715220233_THEMETEOR_h_05_th.jpg",
