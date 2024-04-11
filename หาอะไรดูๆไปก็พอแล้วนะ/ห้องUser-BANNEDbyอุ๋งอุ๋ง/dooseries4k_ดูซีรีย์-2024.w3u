@@ -1,215 +1,544 @@
 {
   "name": "ดูซีรีย์ 2024",
-  "author": "เจียว เจียว อัพวันที่ 07 เมษายน 2567",
+  "author": "เจียว เจียว อัพวันที่ 10 เมษายน 2567",
   "info": "ชีวิตไม่ได้ให้เราสิ่งที่ต้องการเสมอไป แต่มันจะให้เราสิ่งที่เราจำเป็นต้องการ",
   "image": "https://www.dooseries4k.com/wp-content/themes/dooseries4k/logo/logo.png",
   "groups": [
     {
-      "name": "Love Song for Illusion (2024)",
+      "name": "Queen of Tears (2024) ราชินีแห่งน้ำตา",
       "info": "SUB",
-      "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Love-Song-for-Illusion-220x300-c-default.jpg",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Queen-of-Tears-2024-220x300-c-default.jpg",
       "stations": [
         {
           "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Queen-of-Tears-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/a88bc8be-594e-5f86-b6b1-32c066869321.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 1",
           "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Love-Song-for-Illusion-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/8afbfbb6-7ca9-5357-b690-ee9ba17c1e29.m3u8",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Queen-of-Tears-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/9fc558b1-fffd-5ca9-b70c-7524fa279278.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Queen-of-Tears-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/34845765-3222-5a9e-b580-ff3134d1b50e.m3u8",
           "referer": "https://www.dooseries4k.com/"
         },
         {
           "name": "ตอนที่ 2",
           "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Love-Song-for-Illusion-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/61b5358d-880a-5f5e-b362-c524f84fc447.m3u8",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Queen-of-Tears-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/77fe8497-1795-528d-9338-99f33ab3780e.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Queen-of-Tears-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/23736068-674b-51f3-9a20-ecdb4b425cad.m3u8",
           "referer": "https://www.dooseries4k.com/"
         },
         {
           "name": "ตอนที่ 3",
           "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Love-Song-for-Illusion-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/78d5bebe-0bfd-5e87-bd2a-400b0c21e926.m3u8",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Queen-of-Tears-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/07d77bb9-4227-53e6-bcc0-3f721098dab8.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Queen-of-Tears-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/cdbdba7a-b0ff-506f-82cd-8f2932fe459f.m3u8",
           "referer": "https://www.dooseries4k.com/"
         },
         {
           "name": "ตอนที่ 4",
           "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Love-Song-for-Illusion-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/e944cf2b-3e20-5d03-b7a8-e99ac456e3cf.m3u8",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Queen-of-Tears-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/be1da660-4719-5e71-9c7a-31b1748c7375.m3u8",
           "referer": "https://www.dooseries4k.com/"
         },
         {
           "name": "ตอนที่ 5",
           "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Love-Song-for-Illusion-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/5cdda947-fd82-5794-8533-b224202a9627.m3u8",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Queen-of-Tears-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/c9c6cdd3-5a3d-597d-88cc-2fb949ee8690.m3u8",
           "referer": "https://www.dooseries4k.com/"
         },
         {
           "name": "ตอนที่ 6",
           "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Love-Song-for-Illusion-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/88d6839d-de1b-50de-8852-7fd1f822f8c0.m3u8",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Queen-of-Tears-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/e1e6d9d9-68e8-5e30-868c-80d3b1d150f5.m3u8",
           "referer": "https://www.dooseries4k.com/"
         },
         {
           "name": "ตอนที่ 7",
           "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Love-Song-for-Illusion-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/bfd8d51c-c2e2-5b4a-8719-9efc74f804ef.m3u8",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Queen-of-Tears-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/8d33c538-4ced-5d85-8f1b-eb676715f14c.m3u8",
           "referer": "https://www.dooseries4k.com/"
         },
         {
           "name": "ตอนที่ 8",
           "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Love-Song-for-Illusion-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/4da4bb95-ebf8-5558-9e5c-752255706996.m3u8",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Queen-of-Tears-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/951b2991-c5ad-534c-923d-263d413f56be.m3u8",
           "referer": "https://www.dooseries4k.com/"
         },
         {
           "name": "ตอนที่ 9",
           "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Love-Song-for-Illusion-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/4ee295b1-0ce9-56d4-b61e-5da4badea56f.m3u8",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Queen-of-Tears-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/102abe49-b661-5b51-b6c0-ec40b35d1939.m3u8",
           "referer": "https://www.dooseries4k.com/"
         },
         {
           "name": "ตอนที่ 10",
           "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Love-Song-for-Illusion-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/31936847-98d4-5149-897c-d6ff3d127425.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ตอนที่ 11",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Love-Song-for-Illusion-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/48cffffd-7c02-51c1-9abd-79d75c737122.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ตอนที่ 12",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Love-Song-for-Illusion-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/3dca8fff-c927-5293-b39b-e6dbd1f2fed0.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ตอนที่ 13",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Love-Song-for-Illusion-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/4560a20b-bcf4-52e8-b6f5-79754323f27d.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ตอนที่ 14",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Love-Song-for-Illusion-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/0c3bd735-9d03-52b4-a0e9-897a55bfc0cb.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ตอนที่ 15",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Love-Song-for-Illusion-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/11004134-ae80-56c2-ace0-ecf1bff81519.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ตอนที่ 16",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Love-Song-for-Illusion-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/096b3dff-ef35-554c-8467-46051e7d256b.m3u8",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Queen-of-Tears-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/4d34e25a-50c1-590e-97c3-ecc16fd57d21.m3u8",
           "referer": "https://www.dooseries4k.com/"
         }
       ]
     },
     {
-      "name": "Fortune Writer (2024) ท้าชะตาลิขิตรัก",
+      "name": "Wonderful World (2024) วันเดอร์ฟูล เวิลด์",
       "info": "SUB",
-      "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Fortune-Writer-220x300-c-default.jpg",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Wonderful-World-220x300-c-default.jpg",
       "stations": [
         {
           "name": "ตอนที่ 1",
           "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Fortune-Writer-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/17d27b61-bf86-5850-8039-7fea0a1021a2.m3u8",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Wonderful-World-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/45cb6afd-bfef-585d-9909-2c8f7a0af1ba.m3u8",
           "referer": "https://www.dooseries4k.com/"
         },
         {
           "name": "ตอนที่ 2",
           "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Fortune-Writer-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/1b3ab02e-14a5-5e8e-960f-9d748aaef717.m3u8",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Wonderful-World-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/8d29e6a0-15f1-51f2-8d95-0a1670022dc2.m3u8",
           "referer": "https://www.dooseries4k.com/"
         },
         {
           "name": "ตอนที่ 3",
           "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Fortune-Writer-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/d7d88ef2-777b-5a1d-882d-c3e6d67a1d9c.m3u8",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Wonderful-World-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/502aa58a-dedb-5e38-b190-5e490212c9d6.m3u8",
           "referer": "https://www.dooseries4k.com/"
         },
         {
           "name": "ตอนที่ 4",
           "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Fortune-Writer-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/cd1fda85-a07a-5e44-8396-48c25235c25d.m3u8",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Wonderful-World-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/4673ca11-f23e-5538-924b-7237073d8390.m3u8",
           "referer": "https://www.dooseries4k.com/"
         },
         {
           "name": "ตอนที่ 5",
           "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Fortune-Writer-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/3bd6acb7-2b09-5936-82a3-ee006dc141fb.m3u8",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Wonderful-World-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/b12b611d-500f-5f78-a572-c8cf1dfa820a.m3u8",
           "referer": "https://www.dooseries4k.com/"
         },
         {
           "name": "ตอนที่ 6",
           "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Fortune-Writer-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/ff7b73ac-4a41-5a34-a9df-1bb96c253d95.m3u8",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Wonderful-World-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/343ed253-ae58-5c1e-ac09-ed5ba6714176.m3u8",
           "referer": "https://www.dooseries4k.com/"
         },
         {
           "name": "ตอนที่ 7",
           "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Fortune-Writer-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/e469deee-d6a1-540e-b263-b2f13c9e98d6.m3u8",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Wonderful-World-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/e2f8b541-dcbf-5010-bccc-3074f6f2b317.m3u8",
           "referer": "https://www.dooseries4k.com/"
         },
         {
           "name": "ตอนที่ 8",
           "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Fortune-Writer-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/5e22cd69-d0c7-5f6a-adb3-98be8b864fb5.m3u8",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Wonderful-World-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/cefce9ba-aa7d-5a2f-950e-07f8bc36c7f6.m3u8",
           "referer": "https://www.dooseries4k.com/"
         },
         {
           "name": "ตอนที่ 9",
           "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Fortune-Writer-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/e6080023-4552-547d-a1e9-ca14f1eea080.m3u8",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Wonderful-World-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/8a1c0cb6-fb53-5642-9d3b-5bd7817c2406.m3u8",
           "referer": "https://www.dooseries4k.com/"
         },
         {
           "name": "ตอนที่ 10",
           "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Fortune-Writer-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/619006e3-ec45-5cb7-8cf3-5cfbb4325df1.m3u8",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Wonderful-World-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/77681ff9-6d8e-5145-ae46-e256ed1ce2fc.m3u8",
           "referer": "https://www.dooseries4k.com/"
         },
         {
           "name": "ตอนที่ 11",
           "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Fortune-Writer-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/fcbd04a1-7c09-580c-881f-0d73b5ab5ac9.m3u8",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Wonderful-World-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/2d2b2922-7aad-5382-959a-53541fbb01d6.m3u8",
           "referer": "https://www.dooseries4k.com/"
         },
         {
           "name": "ตอนที่ 12",
           "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Fortune-Writer-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/346f5f4b-76d2-5473-8de3-d7f254e54a61.m3u8",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Wonderful-World-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/3c18f816-f9ad-5a0f-b598-1757dc22eb16.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        }
+      ]
+    },
+    {
+      "name": "Legend of The Hidden Land (2024) ภูลังกา",
+      "info": "HD",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Legend-of-The-Hidden-Land-2024-220x300-c-default.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Legend-of-The-Hidden-Land-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/a2253ecd-9acb-59c3-865e-cd76beb3b43e.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Legend-of-The-Hidden-Land-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/48d7fd34-7039-54f5-9487-d72eb0b01ce8.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Legend-of-The-Hidden-Land-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/9cdaece0-3305-5e90-8358-b81f774e4b23.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Legend-of-The-Hidden-Land-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/1a2a0824-0b0c-5bad-9aa4-d3c385fa9f6f.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Legend-of-The-Hidden-Land-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/d6ab795b-f91a-5250-abc6-21948ab9a3aa.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Legend-of-The-Hidden-Land-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/8c12975c-d34e-5a78-9694-5a7dd4c88d8e.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Legend-of-The-Hidden-Land-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/f57eb3eb-814d-500e-a8f8-01301eea33e7.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Legend-of-The-Hidden-Land-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/69daad5d-4bb2-5856-9eb0-2c3397a75c0c.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 9",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Legend-of-The-Hidden-Land-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/5a4d29e0-2241-5f6c-9548-21cf587adc44.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 10",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Legend-of-The-Hidden-Land-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/086e122b-4113-52cd-b567-328129106c9c.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 11",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Legend-of-The-Hidden-Land-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/c708f521-04a9-585e-8ec4-b0995a91cb32.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 12",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Legend-of-The-Hidden-Land-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/1a76358b-2103-5861-a76f-2506dd18eaad.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 13",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Legend-of-The-Hidden-Land-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/97c3bae1-04bf-56b0-96ea-48052f9936e9.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 14",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Legend-of-The-Hidden-Land-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/2d7f985d-fbbe-5dc0-93c7-422fb4f5f80f.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 15",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Legend-of-The-Hidden-Land-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/30378590-f5a9-5b82-b69d-740c7c63ee53.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 16",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Legend-of-The-Hidden-Land-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/0662bac5-7934-5068-a079-270f33378c8c.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 17",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Legend-of-The-Hidden-Land-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/6adf348d-3d13-5b0f-b55f-a3713c42c60b.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 18",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Legend-of-The-Hidden-Land-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/280751c0-bbd8-5212-a556-472fc2a4bdd8.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 19",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Legend-of-The-Hidden-Land-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/f0bf9ebc-dfd4-58cc-925b-d6cf46c7d6ab.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 20",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Legend-of-The-Hidden-Land-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/7e119a99-bd8e-5691-a43d-f13cca483ed4.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 21",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Legend-of-The-Hidden-Land-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/5a252450-5927-5fd5-a10c-131d4b882809.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 22",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Legend-of-The-Hidden-Land-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/55dd461d-0363-51ff-8220-e7ee17fed460.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 23",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Legend-of-The-Hidden-Land-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/c3847b7f-3171-51a4-92b1-439cca1dcd87.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 24",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Legend-of-The-Hidden-Land-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/ca101d31-1647-5639-8e34-1f135dcfee6c.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 25",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Legend-of-The-Hidden-Land-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/2742ccc0-f8be-573d-9e76-70830601a0eb.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 26",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Legend-of-The-Hidden-Land-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/6130692a-0f36-5cd3-bc42-5868fd6b2549.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 27",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Legend-of-The-Hidden-Land-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/cf133cf0-28e4-5f8c-890c-5ef6750011d0.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 27",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Legend-of-The-Hidden-Land-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/cf133cf0-28e4-5f8c-890c-5ef6750011d0.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 28",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Legend-of-The-Hidden-Land-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/c57594f1-8187-5b94-8a46-6d7dee97ec73.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 28",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Legend-of-The-Hidden-Land-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/c57594f1-8187-5b94-8a46-6d7dee97ec73.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 29",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Legend-of-The-Hidden-Land-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/ed635d29-7335-50c2-8904-d21fe5210795.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        }
+      ]
+    },
+    {
+      "name": "Sword and Fairy 1 (2024) ตำนานเซียนกระบี่",
+      "info": "SUB",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Sword-and-Fairy-1-220x300-c-default.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Sword-and-Fairy-1-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/2157ff86-990f-53dd-a75a-210e98ad044b.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Sword-and-Fairy-1-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/7e8f2d1d-d911-56cc-bb14-0ba5f58e3c14.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Sword-and-Fairy-1-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/c547a1f2-3207-591f-b336-fbbd3823a814.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Sword-and-Fairy-1-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/dc5d55cd-ca6e-5ba8-9b3c-e41412e01f3a.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Sword-and-Fairy-1-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/ce0a27f9-c78f-5a16-a329-bb9b712f8e0f.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Sword-and-Fairy-1-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/37a6c748-34b5-55a1-b5d6-843506342490.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Sword-and-Fairy-1-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/370fe01a-1cd9-57b4-8e89-9abb894f9eed.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Sword-and-Fairy-1-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/51398952-dfd5-5751-b3b9-c2e77497a7b2.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 9",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Sword-and-Fairy-1-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/cc555fc1-3983-57ad-b69a-2559b42024e5.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 10",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Sword-and-Fairy-1-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/530278e8-bf75-5a8b-a2ca-7d6974edca76.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 11",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Sword-and-Fairy-1-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/c40d1d8d-a6c0-571e-8167-8965682277b2.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 12",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Sword-and-Fairy-1-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/7ea42f5d-2da4-5465-9375-2c3a7a6b8e92.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 13",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Sword-and-Fairy-1-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/931843bd-440d-51cd-b0bc-d9f6e853f2ce.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 14",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Sword-and-Fairy-1-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/e2e55d75-df3d-51f0-98c3-333429dd134b.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 15",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Sword-and-Fairy-1-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/aa40509c-43ac-5fbd-861a-2a22adae35e0.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 16",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Sword-and-Fairy-1-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/f3bcd328-5d40-58e3-a789-dbe5f74114c2.m3u8",
           "referer": "https://www.dooseries4k.com/"
         }
       ]
@@ -449,376 +778,768 @@
           "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/The-Legend-of-ShenLi-2024-220x300-c-default.jpg",
           "url": "https://www.sgcdnseriesn.xyz/view/e9dc3255-9134-5186-93ab-289d8a431e23.m3u8",
           "referer": "https://www.dooseries4k.com/"
-        }
-      ]
-    },
-    {
-      "name": "Wonderful World (2024) วันเดอร์ฟูล เวิลด์",
-      "info": "SUB",
-      "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Wonderful-World-220x300-c-default.jpg",
-      "stations": [
+        },
         {
-          "name": "ตอนที่ 1",
+          "name": "ตอนที่ 34",
           "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Wonderful-World-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/45cb6afd-bfef-585d-9909-2c8f7a0af1ba.m3u8",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/The-Legend-of-ShenLi-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/ae4aca02-51f1-5b40-bdae-2bcfb6ec9570.m3u8",
           "referer": "https://www.dooseries4k.com/"
         },
         {
-          "name": "ตอนที่ 2",
+          "name": "ตอนที่ 35",
           "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Wonderful-World-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/8d29e6a0-15f1-51f2-8d95-0a1670022dc2.m3u8",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/The-Legend-of-ShenLi-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/d9810033-69c6-599e-9b81-2df09ec0016d.m3u8",
           "referer": "https://www.dooseries4k.com/"
         },
         {
-          "name": "ตอนที่ 3",
+          "name": "ตอนที่ 36",
           "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Wonderful-World-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/502aa58a-dedb-5e38-b190-5e490212c9d6.m3u8",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/The-Legend-of-ShenLi-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/2a313189-780d-58d9-933b-581620f3e62f.m3u8",
           "referer": "https://www.dooseries4k.com/"
         },
         {
-          "name": "ตอนที่ 4",
+          "name": "ตอนที่ 37",
           "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Wonderful-World-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/4673ca11-f23e-5538-924b-7237073d8390.m3u8",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/The-Legend-of-ShenLi-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/d47fe298-6434-515a-8aaf-f775012236c9.m3u8",
           "referer": "https://www.dooseries4k.com/"
         },
         {
-          "name": "ตอนที่ 5",
+          "name": "ตอนที่ 38",
           "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Wonderful-World-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/b12b611d-500f-5f78-a572-c8cf1dfa820a.m3u8",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/The-Legend-of-ShenLi-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/c4d2dcf6-91e5-527b-b1ef-f06e6528c782.m3u8",
           "referer": "https://www.dooseries4k.com/"
         },
         {
-          "name": "ตอนที่ 6",
+          "name": "ตอนที่ 39",
           "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Wonderful-World-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/343ed253-ae58-5c1e-ac09-ed5ba6714176.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ตอนที่ 7",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Wonderful-World-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/e2f8b541-dcbf-5010-bccc-3074f6f2b317.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ตอนที่ 8",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Wonderful-World-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/cefce9ba-aa7d-5a2f-950e-07f8bc36c7f6.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ตอนที่ 9",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Wonderful-World-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/8a1c0cb6-fb53-5642-9d3b-5bd7817c2406.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ตอนที่ 10",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Wonderful-World-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/77681ff9-6d8e-5145-ae46-e256ed1ce2fc.m3u8",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/The-Legend-of-ShenLi-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/8ab6d206-64eb-58b1-8789-99b3f1003396.m3u8",
           "referer": "https://www.dooseries4k.com/"
         }
       ]
     },
     {
-      "name": "Legend of The Hidden Land (2024) ภูลังกา",
+      "name": "Pyramid Game (2024) เกมพีระมิด",
       "info": "HD",
-      "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Legend-of-The-Hidden-Land-2024-220x300-c-default.jpg",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Pyramid-Game-220x300-c-default.jpg",
       "stations": [
         {
           "name": "ตอนที่ 1",
           "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Legend-of-The-Hidden-Land-2024-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/a2253ecd-9acb-59c3-865e-cd76beb3b43e.m3u8",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Pyramid-Game-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/cbd23da6-bdbc-566e-b7ef-264054656cf3.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 1",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Pyramid-Game-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/b6a42f5c-30e2-5550-b956-d04729ac8304.m3u8",
           "referer": "https://www.dooseries4k.com/"
         },
         {
           "name": "ตอนที่ 2",
           "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Legend-of-The-Hidden-Land-2024-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/48d7fd34-7039-54f5-9487-d72eb0b01ce8.m3u8",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Pyramid-Game-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/62189f8d-bcd2-538e-9009-ae528e4a8eb3.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Pyramid-Game-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/eb75e828-1b5b-5925-a300-5cb800cb2ebc.m3u8",
           "referer": "https://www.dooseries4k.com/"
         },
         {
           "name": "ตอนที่ 3",
           "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Legend-of-The-Hidden-Land-2024-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/9cdaece0-3305-5e90-8358-b81f774e4b23.m3u8",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Pyramid-Game-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/d3813803-c188-5a5e-b3a5-e5ea81a20904.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Pyramid-Game-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/47d11984-f1f0-5e85-805d-eb563d0820b4.m3u8",
           "referer": "https://www.dooseries4k.com/"
         },
         {
           "name": "ตอนที่ 4",
           "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Legend-of-The-Hidden-Land-2024-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/1a2a0824-0b0c-5bad-9aa4-d3c385fa9f6f.m3u8",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Pyramid-Game-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/b5e969a8-dfdb-56b8-b8e1-80a4f5cc10d4.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Pyramid-Game-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/a30f1475-03e6-5514-9d3b-19090dddf199.m3u8",
           "referer": "https://www.dooseries4k.com/"
         },
         {
           "name": "ตอนที่ 5",
           "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Legend-of-The-Hidden-Land-2024-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/d6ab795b-f91a-5250-abc6-21948ab9a3aa.m3u8",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Pyramid-Game-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/82e151c4-2d8d-5b68-be1e-151dd5253764.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Pyramid-Game-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/70f089e2-2140-55bf-bdda-cec4b19ff0ea.m3u8",
           "referer": "https://www.dooseries4k.com/"
         },
         {
           "name": "ตอนที่ 6",
           "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Legend-of-The-Hidden-Land-2024-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/8c12975c-d34e-5a78-9694-5a7dd4c88d8e.m3u8",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Pyramid-Game-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/5f985712-2c46-520b-a7f1-dc6b13cc8fdc.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Pyramid-Game-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/3fd4b4b4-60dd-5f7a-b083-f92eb7df5067.m3u8",
           "referer": "https://www.dooseries4k.com/"
         },
         {
           "name": "ตอนที่ 7",
           "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Legend-of-The-Hidden-Land-2024-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/f57eb3eb-814d-500e-a8f8-01301eea33e7.m3u8",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Pyramid-Game-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/0746215e-c888-5bb8-8ca6-0a6d1a242387.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Pyramid-Game-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/74401722-b96e-519f-8b95-126e990b9c83.m3u8",
           "referer": "https://www.dooseries4k.com/"
         },
         {
           "name": "ตอนที่ 8",
           "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Legend-of-The-Hidden-Land-2024-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/69daad5d-4bb2-5856-9eb0-2c3397a75c0c.m3u8",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Pyramid-Game-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/7ec548cb-7d02-56f4-97a4-a7f6ae507e58.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Pyramid-Game-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/909e54d0-7a9f-57a0-b866-63f89392c9c6.m3u8",
           "referer": "https://www.dooseries4k.com/"
         },
         {
           "name": "ตอนที่ 9",
           "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Legend-of-The-Hidden-Land-2024-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/5a4d29e0-2241-5f6c-9548-21cf587adc44.m3u8",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Pyramid-Game-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/fa1ecbb3-802e-5bc2-9f4e-f7b041a3043c.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 9",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Pyramid-Game-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/a105c2a9-3dc1-5370-87de-ca64f3fa034f.m3u8",
           "referer": "https://www.dooseries4k.com/"
         },
         {
           "name": "ตอนที่ 10",
           "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Legend-of-The-Hidden-Land-2024-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/086e122b-4113-52cd-b567-328129106c9c.m3u8",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Pyramid-Game-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/35d4bb59-99fb-574e-b449-bce8e4018e20.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 10",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Pyramid-Game-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/38958670-dc6d-59c3-ad1e-a8dbc82e233c.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        }
+      ]
+    },
+    {
+      "name": "Blossoms in Adversity (2024) ฮวาจื่อ บุปผากลางภัย",
+      "info": "SUB",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Blossoms-in-Adversity-220x300-c-default.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Blossoms-in-Adversity-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/f7353820-38ff-51b5-99a1-49bd4562daf6.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Blossoms-in-Adversity-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/69c1f5b6-f5d1-5676-bd37-8d596d7781c6.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Blossoms-in-Adversity-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/67082f2e-e52c-5e83-b63f-0d4111c6e22d.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Blossoms-in-Adversity-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/b0dfa6ba-421b-5972-bc09-4e1364a80591.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Blossoms-in-Adversity-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/13a66361-5213-5757-a94c-23bb48d2155c.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Blossoms-in-Adversity-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/704366b8-2639-5354-87b5-8457c7e747ff.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Blossoms-in-Adversity-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/fa797555-8fad-59b9-8318-6478675dda5f.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Blossoms-in-Adversity-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/615a7022-6f26-54eb-99da-7f37b746c18c.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 9",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Blossoms-in-Adversity-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/428bbb65-2d4e-574a-b447-e735fd991639.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 10",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Blossoms-in-Adversity-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/b5cb36be-b579-58e5-a1d6-faa6b2e4eb1d.m3u8",
           "referer": "https://www.dooseries4k.com/"
         },
         {
           "name": "ตอนที่ 11",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Legend-of-The-Hidden-Land-2024-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/c708f521-04a9-585e-8ec4-b0995a91cb32.m3u8",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Blossoms-in-Adversity-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/27bc814e-5496-587a-9da8-4816385a276c.m3u8",
           "referer": "https://www.dooseries4k.com/"
         },
         {
           "name": "ตอนที่ 12",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Legend-of-The-Hidden-Land-2024-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/1a76358b-2103-5861-a76f-2506dd18eaad.m3u8",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Blossoms-in-Adversity-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/8b9be782-8704-5e64-979e-e19398f767aa.m3u8",
           "referer": "https://www.dooseries4k.com/"
         },
         {
           "name": "ตอนที่ 13",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Legend-of-The-Hidden-Land-2024-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/97c3bae1-04bf-56b0-96ea-48052f9936e9.m3u8",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Blossoms-in-Adversity-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/becf0906-145c-557d-b86f-2c285f56ea1b.m3u8",
           "referer": "https://www.dooseries4k.com/"
         },
         {
           "name": "ตอนที่ 14",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Legend-of-The-Hidden-Land-2024-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/2d7f985d-fbbe-5dc0-93c7-422fb4f5f80f.m3u8",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Blossoms-in-Adversity-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/a27bd866-b948-57d5-85ca-2dc7b96a42ea.m3u8",
           "referer": "https://www.dooseries4k.com/"
         },
         {
           "name": "ตอนที่ 15",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Legend-of-The-Hidden-Land-2024-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/30378590-f5a9-5b82-b69d-740c7c63ee53.m3u8",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Blossoms-in-Adversity-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/747cf014-7449-56a7-bea8-b5c17cead827.m3u8",
           "referer": "https://www.dooseries4k.com/"
         },
         {
           "name": "ตอนที่ 16",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Legend-of-The-Hidden-Land-2024-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/0662bac5-7934-5068-a079-270f33378c8c.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ตอนที่ 17",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Legend-of-The-Hidden-Land-2024-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/6adf348d-3d13-5b0f-b55f-a3713c42c60b.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ตอนที่ 18",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Legend-of-The-Hidden-Land-2024-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/280751c0-bbd8-5212-a556-472fc2a4bdd8.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ตอนที่ 19",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Legend-of-The-Hidden-Land-2024-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/f0bf9ebc-dfd4-58cc-925b-d6cf46c7d6ab.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ตอนที่ 20",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Legend-of-The-Hidden-Land-2024-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/7e119a99-bd8e-5691-a43d-f13cca483ed4.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ตอนที่ 21",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Legend-of-The-Hidden-Land-2024-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/5a252450-5927-5fd5-a10c-131d4b882809.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ตอนที่ 22",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Legend-of-The-Hidden-Land-2024-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/55dd461d-0363-51ff-8220-e7ee17fed460.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ตอนที่ 23",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Legend-of-The-Hidden-Land-2024-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/c3847b7f-3171-51a4-92b1-439cca1dcd87.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ตอนที่ 24",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Legend-of-The-Hidden-Land-2024-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/ca101d31-1647-5639-8e34-1f135dcfee6c.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ตอนที่ 25",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Legend-of-The-Hidden-Land-2024-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/2742ccc0-f8be-573d-9e76-70830601a0eb.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ตอนที่ 26",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Legend-of-The-Hidden-Land-2024-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/6130692a-0f36-5cd3-bc42-5868fd6b2549.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ตอนที่ 27",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Legend-of-The-Hidden-Land-2024-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/cf133cf0-28e4-5f8c-890c-5ef6750011d0.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ตอนที่ 27",
           "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Legend-of-The-Hidden-Land-2024-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/cf133cf0-28e4-5f8c-890c-5ef6750011d0.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ตอนที่ 28",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Legend-of-The-Hidden-Land-2024-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/c57594f1-8187-5b94-8a46-6d7dee97ec73.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ตอนที่ 28",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Legend-of-The-Hidden-Land-2024-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/c57594f1-8187-5b94-8a46-6d7dee97ec73.m3u8",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Blossoms-in-Adversity-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/1649fd77-d7fc-5692-8bb9-39ce12e8fbb9.m3u8",
           "referer": "https://www.dooseries4k.com/"
         }
       ]
     },
     {
-      "name": "Sword and Fairy 1 (2024) ตำนานเซียนกระบี่",
+      "name": "Wedding Impossible (2024) ป่วนวิวาห์สัญญารักกำมะลอ",
       "info": "SUB",
-      "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Sword-and-Fairy-1-220x300-c-default.jpg",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Wedding-Impossible-220x300-c-default.jpg",
       "stations": [
         {
           "name": "ตอนที่ 1",
           "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Sword-and-Fairy-1-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/2157ff86-990f-53dd-a75a-210e98ad044b.m3u8",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Wedding-Impossible-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/9a2f080b-983b-5234-a18d-14a1daa1803f.m3u8",
           "referer": "https://www.dooseries4k.com/"
         },
         {
           "name": "ตอนที่ 2",
           "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Sword-and-Fairy-1-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/7e8f2d1d-d911-56cc-bb14-0ba5f58e3c14.m3u8",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Wedding-Impossible-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/949b725f-eba7-5937-a0fb-2b9f4f7fea43.m3u8",
           "referer": "https://www.dooseries4k.com/"
         },
         {
           "name": "ตอนที่ 3",
           "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Sword-and-Fairy-1-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/c547a1f2-3207-591f-b336-fbbd3823a814.m3u8",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Wedding-Impossible-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/f209e5e0-7550-5932-9172-57150df6c7d2.m3u8",
           "referer": "https://www.dooseries4k.com/"
         },
         {
           "name": "ตอนที่ 4",
           "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Sword-and-Fairy-1-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/dc5d55cd-ca6e-5ba8-9b3c-e41412e01f3a.m3u8",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Wedding-Impossible-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/ff818131-3a24-5b9a-ae2f-35997e0007e2.m3u8",
           "referer": "https://www.dooseries4k.com/"
         },
         {
           "name": "ตอนที่ 5",
           "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Sword-and-Fairy-1-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/ce0a27f9-c78f-5a16-a329-bb9b712f8e0f.m3u8",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Wedding-Impossible-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/84bab683-160b-5102-8763-580ec2a1d5b6.m3u8",
           "referer": "https://www.dooseries4k.com/"
         },
         {
           "name": "ตอนที่ 6",
           "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Sword-and-Fairy-1-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/37a6c748-34b5-55a1-b5d6-843506342490.m3u8",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Wedding-Impossible-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/4841055e-058f-5ed8-a987-a07a40df8eab.m3u8",
           "referer": "https://www.dooseries4k.com/"
         },
         {
           "name": "ตอนที่ 7",
           "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Sword-and-Fairy-1-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/370fe01a-1cd9-57b4-8e89-9abb894f9eed.m3u8",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Wedding-Impossible-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/0037e801-5852-5ec3-8ce5-888d8fcf83ed.m3u8",
           "referer": "https://www.dooseries4k.com/"
         },
         {
           "name": "ตอนที่ 8",
           "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Sword-and-Fairy-1-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/51398952-dfd5-5751-b3b9-c2e77497a7b2.m3u8",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Wedding-Impossible-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/54648900-63fc-5e70-b5b9-e8c6dce78f73.m3u8",
           "referer": "https://www.dooseries4k.com/"
         },
         {
           "name": "ตอนที่ 9",
           "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Sword-and-Fairy-1-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/cc555fc1-3983-57ad-b69a-2559b42024e5.m3u8",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Wedding-Impossible-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/e7e5cdd2-f43f-53b3-9218-5576f7eb9d05.m3u8",
           "referer": "https://www.dooseries4k.com/"
         },
         {
           "name": "ตอนที่ 10",
           "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Sword-and-Fairy-1-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/530278e8-bf75-5a8b-a2ca-7d6974edca76.m3u8",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Wedding-Impossible-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/bf27202f-1fb8-593a-8fe4-5df5c1755f84.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 11",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Wedding-Impossible-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/ddc11001-6612-5434-a163-0629238e26fe.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 12",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Wedding-Impossible-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/4838a0af-471b-528d-b3b2-d2050e3e851d.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        }
+      ]
+    },
+    {
+      "name": "The Impossible Heir (2024) ดิอิมพอสซิเบิลแอร์",
+      "info": "SUB",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/The-Impossible-Heir-2024-220x300-c-default.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/The-Impossible-Heir-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/363b50c5-05f5-56dd-96ad-48ffc0663018.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/The-Impossible-Heir-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/c8a1d65a-41c7-55b5-90c9-463e0a007350.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/The-Impossible-Heir-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/fd4df047-6d99-5db5-acf8-ea96df6f0c9b.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/The-Impossible-Heir-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/b47fd1f6-7e12-597b-a751-4361228a3da0.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/The-Impossible-Heir-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/4779ab83-c56c-5e9c-aa5e-454acef7c4ae.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/The-Impossible-Heir-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/989c0ec5-9134-5224-80db-fed92167baff.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/The-Impossible-Heir-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/3dc56e0b-f1b5-5bb5-8210-95f3c114a428.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/The-Impossible-Heir-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/d7d47eb6-eba7-58af-a983-0eea12b2aad7.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 9",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/The-Impossible-Heir-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/5290c56d-b108-532a-9b8c-19b9c117b293.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 10",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/The-Impossible-Heir-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/5060a4f6-a3da-5a70-b696-9f62858b0cb2.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 11",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/The-Impossible-Heir-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/a7470319-2639-5480-b7c1-0a484cf9441e.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 12",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/The-Impossible-Heir-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/395b3945-6b7a-5fc6-8c44-8b63df8bc832.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        }
+      ]
+    },
+    {
+      "name": "Different Princess ฮวาชิงเกอ ป่วนรักทะลุมิติ (2024) พากย์ไทย",
+      "info": "HD",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Different-Princess-220x300-c-default.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Different-Princess-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/815d7f9f-bd3e-5d51-85af-a6eec9422ae9.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Different-Princess-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/453b8cfd-a9e8-58d1-81b9-9c84706fce9f.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Different-Princess-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/bfb348ae-4039-5e5a-ac00-84e0fcc6091b.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Different-Princess-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/e0c67871-1d61-533b-a0db-118ef3362434.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Different-Princess-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/262099a7-dae0-5ebf-a2e7-71ade147f782.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Different-Princess-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/0d05bc46-28f3-5cb7-8474-0fd093d760c6.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Different-Princess-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/4b82c6fe-8835-5942-a263-c6e8d8e7ae82.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Different-Princess-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/a353fa59-d2be-57f0-adc1-0c3bdc597f2e.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        }
+      ]
+    },
+    {
+      "name": "Love Song for Illusion (2024)",
+      "info": "SUB",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Love-Song-for-Illusion-220x300-c-default.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Love-Song-for-Illusion-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/8afbfbb6-7ca9-5357-b690-ee9ba17c1e29.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Love-Song-for-Illusion-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/61b5358d-880a-5f5e-b362-c524f84fc447.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Love-Song-for-Illusion-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/78d5bebe-0bfd-5e87-bd2a-400b0c21e926.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Love-Song-for-Illusion-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/e944cf2b-3e20-5d03-b7a8-e99ac456e3cf.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Love-Song-for-Illusion-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/5cdda947-fd82-5794-8533-b224202a9627.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Love-Song-for-Illusion-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/88d6839d-de1b-50de-8852-7fd1f822f8c0.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Love-Song-for-Illusion-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/bfd8d51c-c2e2-5b4a-8719-9efc74f804ef.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Love-Song-for-Illusion-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/4da4bb95-ebf8-5558-9e5c-752255706996.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 9",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Love-Song-for-Illusion-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/4ee295b1-0ce9-56d4-b61e-5da4badea56f.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 10",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Love-Song-for-Illusion-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/31936847-98d4-5149-897c-d6ff3d127425.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 11",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Love-Song-for-Illusion-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/48cffffd-7c02-51c1-9abd-79d75c737122.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 12",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Love-Song-for-Illusion-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/3dca8fff-c927-5293-b39b-e6dbd1f2fed0.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 13",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Love-Song-for-Illusion-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/4560a20b-bcf4-52e8-b6f5-79754323f27d.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 14",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Love-Song-for-Illusion-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/0c3bd735-9d03-52b4-a0e9-897a55bfc0cb.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 15",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Love-Song-for-Illusion-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/11004134-ae80-56c2-ace0-ecf1bff81519.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 16",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Love-Song-for-Illusion-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/096b3dff-ef35-554c-8467-46051e7d256b.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        }
+      ]
+    },
+    {
+      "name": "Fortune Writer (2024) ท้าชะตาลิขิตรัก",
+      "info": "SUB",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Fortune-Writer-220x300-c-default.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Fortune-Writer-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/17d27b61-bf86-5850-8039-7fea0a1021a2.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Fortune-Writer-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/1b3ab02e-14a5-5e8e-960f-9d748aaef717.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Fortune-Writer-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/d7d88ef2-777b-5a1d-882d-c3e6d67a1d9c.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Fortune-Writer-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/cd1fda85-a07a-5e44-8396-48c25235c25d.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Fortune-Writer-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/3bd6acb7-2b09-5936-82a3-ee006dc141fb.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Fortune-Writer-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/ff7b73ac-4a41-5a34-a9df-1bb96c253d95.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Fortune-Writer-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/e469deee-d6a1-540e-b263-b2f13c9e98d6.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Fortune-Writer-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/5e22cd69-d0c7-5f6a-adb3-98be8b864fb5.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 9",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Fortune-Writer-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/e6080023-4552-547d-a1e9-ca14f1eea080.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 10",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Fortune-Writer-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/619006e3-ec45-5cb7-8cf3-5cfbb4325df1.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 11",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Fortune-Writer-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/fcbd04a1-7c09-580c-881f-0d73b5ab5ac9.m3u8",
+          "referer": "https://www.dooseries4k.com/"
+        },
+        {
+          "name": "ตอนที่ 12",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Fortune-Writer-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/346f5f4b-76d2-5473-8de3-d7f254e54a61.m3u8",
           "referer": "https://www.dooseries4k.com/"
         }
       ]
@@ -1554,216 +2275,6 @@
           "info": "พากย์ไทย",
           "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Iwaju-220x300-c-default.jpg",
           "url": "https://www.sgcdnseriesn.xyz/view/623695b4-5d68-53ce-9266-6547ce5609b8.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        }
-      ]
-    },
-    {
-      "name": "Pyramid Game (2024) เกมพีระมิด",
-      "info": "SUB",
-      "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Pyramid-Game-220x300-c-default.jpg",
-      "stations": [
-        {
-          "name": "ตอนที่ 1",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Pyramid-Game-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/cbd23da6-bdbc-566e-b7ef-264054656cf3.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ตอนที่ 1",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Pyramid-Game-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/b6a42f5c-30e2-5550-b956-d04729ac8304.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ตอนที่ 2",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Pyramid-Game-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/62189f8d-bcd2-538e-9009-ae528e4a8eb3.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ตอนที่ 2",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Pyramid-Game-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/eb75e828-1b5b-5925-a300-5cb800cb2ebc.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ตอนที่ 3",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Pyramid-Game-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/d3813803-c188-5a5e-b3a5-e5ea81a20904.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ตอนที่ 3",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Pyramid-Game-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/47d11984-f1f0-5e85-805d-eb563d0820b4.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ตอนที่ 4",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Pyramid-Game-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/b5e969a8-dfdb-56b8-b8e1-80a4f5cc10d4.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ตอนที่ 4",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Pyramid-Game-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/a30f1475-03e6-5514-9d3b-19090dddf199.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ตอนที่ 5",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Pyramid-Game-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/82e151c4-2d8d-5b68-be1e-151dd5253764.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ตอนที่ 5",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Pyramid-Game-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/70f089e2-2140-55bf-bdda-cec4b19ff0ea.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ตอนที่ 6",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Pyramid-Game-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/5f985712-2c46-520b-a7f1-dc6b13cc8fdc.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ตอนที่ 6",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Pyramid-Game-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/3fd4b4b4-60dd-5f7a-b083-f92eb7df5067.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ตอนที่ 7",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Pyramid-Game-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/74401722-b96e-519f-8b95-126e990b9c83.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ตอนที่ 8",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Pyramid-Game-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/909e54d0-7a9f-57a0-b866-63f89392c9c6.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ตอนที่ 9",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Pyramid-Game-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/a105c2a9-3dc1-5370-87de-ca64f3fa034f.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ตอนที่ 10",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Pyramid-Game-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/38958670-dc6d-59c3-ad1e-a8dbc82e233c.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        }
-      ]
-    },
-    {
-      "name": "Queen of Tears (2024) ราชินีแห่งน้ำตา",
-      "info": "SUB",
-      "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Queen-of-Tears-2024-220x300-c-default.jpg",
-      "stations": [
-        {
-          "name": "ตอนที่ 1",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Queen-of-Tears-2024-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/a88bc8be-594e-5f86-b6b1-32c066869321.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ตอนที่ 1",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Queen-of-Tears-2024-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/9fc558b1-fffd-5ca9-b70c-7524fa279278.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ตอนที่ 2",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Queen-of-Tears-2024-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/34845765-3222-5a9e-b580-ff3134d1b50e.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ตอนที่ 2",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Queen-of-Tears-2024-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/77fe8497-1795-528d-9338-99f33ab3780e.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ตอนที่ 3",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Queen-of-Tears-2024-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/23736068-674b-51f3-9a20-ecdb4b425cad.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ตอนที่ 3",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Queen-of-Tears-2024-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/07d77bb9-4227-53e6-bcc0-3f721098dab8.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ตอนที่ 4",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Queen-of-Tears-2024-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/cdbdba7a-b0ff-506f-82cd-8f2932fe459f.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ตอนที่ 4",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Queen-of-Tears-2024-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/be1da660-4719-5e71-9c7a-31b1748c7375.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ตอนที่ 5",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Queen-of-Tears-2024-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/c9c6cdd3-5a3d-597d-88cc-2fb949ee8690.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ตอนที่ 6",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Queen-of-Tears-2024-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/e1e6d9d9-68e8-5e30-868c-80d3b1d150f5.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ตอนที่ 7",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Queen-of-Tears-2024-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/8d33c538-4ced-5d85-8f1b-eb676715f14c.m3u8",
-          "referer": "https://www.dooseries4k.com/"
-        },
-        {
-          "name": "ตอนที่ 8",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/03/Queen-of-Tears-2024-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/951b2991-c5ad-534c-923d-263d413f56be.m3u8",
           "referer": "https://www.dooseries4k.com/"
         }
       ]

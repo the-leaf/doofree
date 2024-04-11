@@ -1,9 +1,81 @@
 {
   "name": "หนังใหม่ 2024",
-  "author": "เจียว เจียว อัพวันที่ 08 เมษายน 2567",
+  "author": "เจียว เจียว อัพวันที่ 10 เมษายน 2567",
   "info": "เฉพาะเมื่อเราให้ความสุขโดยไม่ลังเลหรือคิดจะได้กำไรเราสามารถรู้ได้อย่างแท้จริงว่าความรักหมายถึงอะไร😊",
   "image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
   "groups": [
+    {
+      "name": "Kung Fu Panda 4 (2024) กังฟูแพนด้า 4",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/04/Kung-Fu-Panda-4-2024-กังฟูแพนด้า-4-300x450.jpg",
+      "stations": [
+        {
+          "name": "Kung Fu Panda ภาค 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/04/Kung-Fu-Panda-4-2024-กังฟูแพนด้า-4-300x450.jpg",
+          "url": "https://main.77player.xyz/newplaylist/946eb89924236cf4aa706a05/946eb89924236cf4aa706a05.m3u8"
+        },
+        {
+          "name": "Kung Fu Panda ภาค 4",
+          "info": "พากย์ไทย ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/04/Kung-Fu-Panda-4-2024-กังฟูแพนด้า-4-300x450.jpg",
+          "url": "https://xxx.77player.xyz/autoplaylist/4237b9dcd300ead423e8c6ab/4237b9dcd300ead423e8c6ab.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "Suspect (2024) ซูเปอร์นักสืบ",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/04/Suspect-2024-ซูเปอร์นักสืบ-300x450.jpg",
+      "stations": [
+        {
+          "name": "Suspect (2024) ซูเปอร์นักสืบ",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/04/Suspect-2024-ซูเปอร์นักสืบ-300x450.jpg",
+          "url": "https://main.77player.xyz/newplaylist/ea1041ab888b7fd4b44ae9c4/ea1041ab888b7fd4b44ae9c4.m3u8"
+        },
+        {
+          "name": "Suspect (2024) ซูเปอร์นักสืบ",
+          "info": "ซับไทย ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/04/Suspect-2024-ซูเปอร์นักสืบ-300x450.jpg",
+          "url": "https://xxx.77player.xyz/autoplaylist/878040ee3ab05b8dfa60f7c2/878040ee3ab05b8dfa60f7c2.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "Swords Drawn (2024) ตำนานสู่ซาน ยอดกระบี่หวนคืน",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/04/Swords-Drawn-2024-ตำนานสู่ซาน-ยอดกระบี่หวนคืน-300x450.jpg",
+      "stations": [
+        {
+          "name": "Swords Drawn (2024) ตำนานสู่ซาน ยอดกระบี่หวนคืน",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/04/Swords-Drawn-2024-ตำนานสู่ซาน-ยอดกระบี่หวนคืน-300x450.jpg",
+          "url": "https://main.77player.xyz/newplaylist/96c247899fc77c6ed58a5bdc/96c247899fc77c6ed58a5bdc.m3u8"
+        },
+        {
+          "name": "Swords Drawn (2024) ตำนานสู่ซาน ยอดกระบี่หวนคืน",
+          "info": "พากย์ไทย ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/04/Swords-Drawn-2024-ตำนานสู่ซาน-ยอดกระบี่หวนคืน-300x450.jpg",
+          "url": "https://xxx.77player.xyz/autoplaylist/0966cabbad2451a34ba41ac6/0966cabbad2451a34ba41ac6.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "Bob Marley One Love (2024) บ็อบ มาร์เลย์ วัน เลิฟ",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/04/Bob-Marley-One-Love-2024-บ็อบ-มาร์เลย์-วัน-เลิฟ-300x450.jpg",
+      "stations": [
+        {
+          "name": "Bob Marley One Love (2024) บ็อบ มาร์เลย์ วัน เลิฟ",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/04/Bob-Marley-One-Love-2024-บ็อบ-มาร์เลย์-วัน-เลิฟ-300x450.jpg",
+          "url": "https://main.77player.xyz/newplaylist/5946c5c2ac2cc146e66963ab/5946c5c2ac2cc146e66963ab.m3u8"
+        },
+        {
+          "name": "Bob Marley One Love (2024) บ็อบ มาร์เลย์ วัน เลิฟ",
+          "info": "ซับไทย ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/04/Bob-Marley-One-Love-2024-บ็อบ-มาร์เลย์-วัน-เลิฟ-300x450.jpg",
+          "url": "https://xxx.77player.xyz/autoplaylist/3edb7c45dda22fbe0cd27984/3edb7c45dda22fbe0cd27984.m3u8"
+        }
+      ]
+    },
     {
       "name": "The First Omen (2024) กำเนิดอาถรรพ์หมายเลข 6",
       "image": "https://www.123-hd.com/wp-content/uploads/2024/04/The-First-Omen-2024-กำเนิดอาถรรพ์หมายเลข-6-1-300x450.jpg",
@@ -12,7 +84,7 @@
           "name": "The Omen 1",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/04/The-First-Omen-2024-กำเนิดอาถรรพ์หมายเลข-6-1-300x450.jpg",
-          "url": "https://main.77player.xyz/newplaylist/7891903ed090d998813bd544/7891903ed090d998813bd544.m3u8"
+          "url": "https://main.77player.xyz/newplaylist/6d76620f9df227f6ab5ed44e/6d76620f9df227f6ab5ed44e.m3u8"
         },
         {
           "name": "The Omen 1",
@@ -132,7 +204,7 @@
           "name": "Strawberry Shortcake ภาค 2",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/04/Strawberry-Shortcakes-Spring-Spectacular-2024-300x450.jpg",
-          "url": "https://main.77player.xyz/newplaylist/ae6cf9915716da2e1a45a8f6/ae6cf9915716da2e1a45a8f6.m3u8"
+          "url": "https://main.77player.xyz/newplaylist/f4e74e558953198ff03faba4/f4e74e558953198ff03faba4.m3u8"
         },
         {
           "name": "Strawberry Shortcake ภาค 2",
@@ -156,7 +228,7 @@
           "name": "Strawberry Shortcake ภาค 3",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/04/Strawberry-Shortcakes-Spring-Spectacular-2024-300x450.jpg",
-          "url": "https://main.77player.xyz/newplaylist/9c771e17f80bfe7d563cca7c/9c771e17f80bfe7d563cca7c.m3u8"
+          "url": "https://main.77player.xyz/newplaylist/c45d34574638c45fbcd116fc/c45d34574638c45fbcd116fc.m3u8"
         },
         {
           "name": "Strawberry Shortcake ภาค 3",
@@ -205,24 +277,6 @@
           "info": "ซับไทย ตัวเล่นสำรอง",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/04/The-Tearsmith-2024-เจ้าแห่งน้ำตา-300x450.jpg",
           "url": "https://xxx.77player.xyz/autoplaylist/f9d97238ddb27665a5c36695/f9d97238ddb27665a5c36695.m3u8"
-        }
-      ]
-    },
-    {
-      "name": "Kung Fu Panda 4 (2024) กังฟูแพนด้า 4",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/04/Kung-Fu-Panda-4-2024-กังฟูแพนด้า-4-300x450.jpg",
-      "stations": [
-        {
-          "name": "Kung Fu Panda ภาค 4",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/04/Kung-Fu-Panda-4-2024-กังฟูแพนด้า-4-300x450.jpg",
-          "url": "https://main.77player.xyz/newplaylist/2f632c5a857fb86739af6cd7/2f632c5a857fb86739af6cd7.m3u8"
-        },
-        {
-          "name": "Kung Fu Panda ภาค 4",
-          "info": "พากย์ไทย ตัวเล่นสำรอง",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/04/Kung-Fu-Panda-4-2024-กังฟูแพนด้า-4-300x450.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/1fb67c91f8dcbb1f98880466/1fb67c91f8dcbb1f98880466.m3u8"
         }
       ]
     },
@@ -474,7 +528,7 @@
           "name": "Rob N Roll (2024) มหากาพย์ปล้นจารชน",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/03/Rob-N-Roll-2024-มหากาพย์ปล้นจารชน-300x450.jpg",
-          "url": "https://main.77player.xyz/newplaylist/9b0eb459777d28253da5935a/9b0eb459777d28253da5935a.m3u8"
+          "url": "https://main.77player.xyz/newplaylist/e1758ea5bfbf71e84efd5c3c/e1758ea5bfbf71e84efd5c3c.m3u8"
         },
         {
           "name": "Rob N Roll (2024) มหากาพย์ปล้นจารชน",
@@ -503,80 +557,44 @@
       ]
     },
     {
-      "name": "Marmalade (2024) แผนปล้นยัยส้มซ่า",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Marmalade-2024-แผนปล้นยัยส้มซ่า-1-300x450.jpg",
+      "name": "Road House (2024) คนเดือดบวกเมืองเถื่อน",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/03/Road-House-2024-คนเดือดบวกเมืองเถื่อน-300x450.jpg",
       "stations": [
         {
-          "name": "Marmalade (2024) แผนปล้นยัยส้มซ่า",
+          "name": "Road House (2024) คนเดือดบวกเมืองเถื่อน",
           "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Marmalade-2024-แผนปล้นยัยส้มซ่า-1-300x450.jpg",
-          "url": "https://main.77player.xyz/newplaylist/87dda96e3809212c208a59f5/87dda96e3809212c208a59f5.m3u8"
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/03/Road-House-2024-คนเดือดบวกเมืองเถื่อน-300x450.jpg",
+          "url": "https://main.77player.xyz/newplaylist/c8e04a91695b8bf6c314bd77/c8e04a91695b8bf6c314bd77.m3u8"
         },
         {
-          "name": "Marmalade (2024) แผนปล้นยัยส้มซ่า",
+          "name": "Road House (2024) คนเดือดบวกเมืองเถื่อน",
           "info": "พากย์ไทย ตัวเล่นสำรอง",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Marmalade-2024-แผนปล้นยัยส้มซ่า-1-300x450.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/2a6d275a3a3062233019fc11/2a6d275a3a3062233019fc11.m3u8"
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/03/Road-House-2024-คนเดือดบวกเมืองเถื่อน-300x450.jpg",
+          "url": "https://xxx.77player.xyz/autoplaylist/f94ad1b07c699573a270f894/f94ad1b07c699573a270f894.m3u8"
         },
         {
-          "name": "Marmalade (2024) แผนปล้นยัยส้มซ่า",
+          "name": "Road House (2024) คนเดือดบวกเมืองเถื่อน",
           "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Marmalade-2024-แผนปล้นยัยส้มซ่า-1-300x450.jpg",
-          "url": "https://main.77player.xyz/newplaylist/17c8d2041cf68d05b6d81fea/17c8d2041cf68d05b6d81fea.m3u8"
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/03/Road-House-2024-คนเดือดบวกเมืองเถื่อน-300x450.jpg",
+          "url": "https://main.77player.xyz/newplaylist/f28c6814cd63f6424875364c/f28c6814cd63f6424875364c.m3u8"
         },
         {
-          "name": "Marmalade (2024) แผนปล้นยัยส้มซ่า",
+          "name": "Road House (2024) คนเดือดบวกเมืองเถื่อน",
           "info": "ซับไทย ตัวเล่นสำรอง",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Marmalade-2024-แผนปล้นยัยส้มซ่า-1-300x450.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/3c883f0f854fd355577faf0f/3c883f0f854fd355577faf0f.m3u8"
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/03/Road-House-2024-คนเดือดบวกเมืองเถื่อน-300x450.jpg",
+          "url": "https://xxx.77player.xyz/autoplaylist/582c253206bc9f6b237b3ee3/582c253206bc9f6b237b3ee3.m3u8"
         }
       ]
     },
     {
-      "name": "Fighter (2024) นักสู้ปีกเหล็ก",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/03/Fighter-2024-นักสู้ปีกเหล็ก-1-300x450.jpg",
+      "name": "2475 Dawn of Revolution (2024) 2475 รุ่งอรุณแห่งการปฏิวัติ",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/03/2475-Dawn-of-Revolution-2024-2475-รุ่งอรุณแห่งการปฏิวัติ-300x450.jpg",
       "stations": [
         {
-          "name": "Fighter (2024) นักสู้ปีกเหล็ก",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/03/Fighter-2024-นักสู้ปีกเหล็ก-1-300x450.jpg",
-          "url": "https://main.77player.xyz/newplaylist/2d2a6811bca4fd11823fb700/2d2a6811bca4fd11823fb700.m3u8"
-        },
-        {
-          "name": "Fighter (2024) นักสู้ปีกเหล็ก",
-          "info": "ซับไทย ตัวเล่นสำรอง",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/03/Fighter-2024-นักสู้ปีกเหล็ก-1-300x450.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/ff3f8a1c39ea9e36268d9922/ff3f8a1c39ea9e36268d9922.m3u8"
-        }
-      ]
-    },
-    {
-      "name": "The Casagrandes Movie (2024) เดอะ คาซากรานเดส์ มูฟวี่",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/03/The-Casagrandes-Movie-2024-เดอะ-คาซากรานเดส์-มูฟวี่-300x450.jpg",
-      "stations": [
-        {
-          "name": "The Casagrandes Movie (2024) เดอะ คาซากรานเดส์ มูฟวี่",
+          "name": "2475 Dawn of Revolution (2024) 2475 รุ่งอรุณแห่งการปฏิวัติ",
           "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/03/The-Casagrandes-Movie-2024-เดอะ-คาซากรานเดส์-มูฟวี่-300x450.jpg",
-          "url": "https://main.77player.xyz/newplaylist/923fad2900aa105fc77a4247/923fad2900aa105fc77a4247.m3u8"
-        },
-        {
-          "name": "The Casagrandes Movie (2024) เดอะ คาซากรานเดส์ มูฟวี่",
-          "info": "พากย์ไทย ตัวเล่นสำรอง",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/03/The-Casagrandes-Movie-2024-เดอะ-คาซากรานเดส์-มูฟวี่-300x450.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/0d6d95c8ab06e2cc7efd5430/0d6d95c8ab06e2cc7efd5430.m3u8"
-        },
-        {
-          "name": "The Casagrandes Movie (2024) เดอะ คาซากรานเดส์ มูฟวี่",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/03/The-Casagrandes-Movie-2024-เดอะ-คาซากรานเดส์-มูฟวี่-300x450.jpg",
-          "url": "https://main.77player.xyz/newplaylist/c62521e6edcdabc6cfa4415a/c62521e6edcdabc6cfa4415a.m3u8"
-        },
-        {
-          "name": "The Casagrandes Movie (2024) เดอะ คาซากรานเดส์ มูฟวี่",
-          "info": "ซับไทย ตัวเล่นสำรอง",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/03/The-Casagrandes-Movie-2024-เดอะ-คาซากรานเดส์-มูฟวี่-300x450.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/6156eae93ec0ed4eeab46f02/6156eae93ec0ed4eeab46f02.m3u8"
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/03/2475-Dawn-of-Revolution-2024-2475-รุ่งอรุณแห่งการปฏิวัติ-300x450.jpg",
+          "url": "https://xxx.77player.xyz/autoplaylist/5692cc9892ae6aa3b449c28f/5692cc9892ae6aa3b449c28f.m3u8"
         }
       ]
     },
@@ -638,6 +656,18 @@
       "name": "Dune Part Two (2024)",
       "image": "https://www.123-hd.com/wp-content/uploads/2024/03/Dune-Part-Two-2024-1-300x450.jpg",
       "stations": [
+        {
+          "name": "Dune Part Two (2024)",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/03/Dune-Part-Two-2024-1-300x450.jpg",
+          "url": "https://main.77player.xyz/newplaylist/579f11667adfb4bd5a74a4e7/579f11667adfb4bd5a74a4e7.m3u8"
+        },
+        {
+          "name": "Dune Part Two (2024)",
+          "info": "พากย์ไทย ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/03/Dune-Part-Two-2024-1-300x450.jpg",
+          "url": "https://xxx.77player.xyz/autoplaylist/3c944bd3af8d97c07c9ed672/3c944bd3af8d97c07c9ed672.m3u8"
+        },
         {
           "name": "Dune Part Two (2024)",
           "info": "ซับไทย",
@@ -930,7 +960,7 @@
           "name": "Xianxi Guishi (2024) เรื่องแปลกเซียงซี",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/03/Xianxi-Guishi-2024-เรื่องแปลกเซียงซี-300x450.jpg",
-          "url": "https://main.77player.xyz/newplaylist/e3f0003cebeb95b2cf3e6410/e3f0003cebeb95b2cf3e6410.m3u8"
+          "url": "https://main.77player.xyz/newplaylist/93cad160f3f6c45e033297ef/93cad160f3f6c45e033297ef.m3u8"
         },
         {
           "name": "Xianxi Guishi (2024) เรื่องแปลกเซียงซี",
@@ -1037,38 +1067,20 @@
       ]
     },
     {
-      "name": "Biography of Meng Po (2024) ตำนานเมิ่งโผ",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/03/Biography-of-Meng-Po-2024-ตำนานเมิ่งโผ-300x450.jpg",
+      "name": "The Greatest Love Story Never Told (2024) รักยิ่งใหญ่ที่สุดที่ไม่เคยถูกบอกขาน",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/03/The-Greatest-Love-Story-Never-Told-2024-รักยิ่งใหญ่ที่สุดที่ไม่เคยถูกบอกขาน-300x450.jpg",
       "stations": [
         {
-          "name": "Biography of Meng Po (2024) ตำนานเมิ่งโผ",
+          "name": "The Greatest Love Story Never Told (2024) รักยิ่งใหญ่ที่สุดที่ไม่เคยถูกบอกขาน",
           "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/03/Biography-of-Meng-Po-2024-ตำนานเมิ่งโผ-300x450.jpg",
-          "url": "https://main.77player.xyz/newplaylist/8723d7b8ae580133d792c07b/8723d7b8ae580133d792c07b.m3u8"
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/03/The-Greatest-Love-Story-Never-Told-2024-รักยิ่งใหญ่ที่สุดที่ไม่เคยถูกบอกขาน-300x450.jpg",
+          "url": "https://main.77player.xyz/newplaylist/8cb808ea33444c0b0752d1b3/8cb808ea33444c0b0752d1b3.m3u8"
         },
         {
-          "name": "Biography of Meng Po (2024) ตำนานเมิ่งโผ",
+          "name": "The Greatest Love Story Never Told (2024) รักยิ่งใหญ่ที่สุดที่ไม่เคยถูกบอกขาน",
           "info": "ซับไทย ตัวเล่นสำรอง",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/03/Biography-of-Meng-Po-2024-ตำนานเมิ่งโผ-300x450.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/7d103810c745091a702109b3/7d103810c745091a702109b3.m3u8"
-        }
-      ]
-    },
-    {
-      "name": "Mean Girls (2024) ก๊วนสาวซ่าส์ วีนซะไม่มี",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/03/Mean-Girls-2024-ก๊วนสาวซ่าส์-วีนซะไม่มี-300x450.jpg",
-      "stations": [
-        {
-          "name": "Mean Girls (2024) ก๊วนสาวซ่าส์ วีนซะไม่มี",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/03/Mean-Girls-2024-ก๊วนสาวซ่าส์-วีนซะไม่มี-300x450.jpg",
-          "url": "https://main.77player.xyz/newplaylist/2d0fd7e2718118bca838deda/2d0fd7e2718118bca838deda.m3u8"
-        },
-        {
-          "name": "Mean Girls (2024) ก๊วนสาวซ่าส์ วีนซะไม่มี",
-          "info": "ซับไทย ตัวเล่นสำรอง",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/03/Mean-Girls-2024-ก๊วนสาวซ่าส์-วีนซะไม่มี-300x450.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/3ce564d01fe2eb127c96b985/3ce564d01fe2eb127c96b985.m3u8"
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/03/The-Greatest-Love-Story-Never-Told-2024-รักยิ่งใหญ่ที่สุดที่ไม่เคยถูกบอกขาน-300x450.jpg",
+          "url": "https://xxx.77player.xyz/autoplaylist/e111de705a7d8a377a88d550/e111de705a7d8a377a88d550.m3u8"
         }
       ]
     },
@@ -1158,7 +1170,7 @@
           "name": "Eye for an Eye ภาค 1",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/03/Eye-for-an-Eye-2-2024-ยอดกระบี่ไร้เทียมทาน-2-300x450.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/f8d2fd46b2498eb0f5eabe9623bd7bc3/f8d2fd46b2498eb0f5eabe9623bd7bc3.m3u8"
+          "url": "https://xxx.77player.xyz/autoplaylist/4651756dc349d398d8312c771b4ed2a6/4651756dc349d398d8312c771b4ed2a6.m3u8"
         },
         {
           "name": "Eye for an Eye ภาค 2",
@@ -1230,7 +1242,7 @@
           "name": "My Name Is Loh Kiwan (2024) ผมชื่อโรกีวาน",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/03/My-Name-Is-Loh-Kiwan-2024-ผมชื่อโรกีวาน-300x450.jpg",
-          "url": "https://main.77player.xyz/newplaylist/793208cfc98cbde9aa3f7172/793208cfc98cbde9aa3f7172.m3u8"
+          "url": "https://main.77player.xyz/newplaylist/b09cb775781425d6017221aa/b09cb775781425d6017221aa.m3u8"
         },
         {
           "name": "My Name Is Loh Kiwan (2024) ผมชื่อโรกีวาน",
@@ -1470,13 +1482,13 @@
           "name": "Through My Window ภาค 1",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Through-My-Window-3-Looking-at-You-2024-รักผ่านหน้าต่าง-ดวงตาจ้องมองเธอ-300x450.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/0ceeb309022e23bfd962c101be2708ec/0ceeb309022e23bfd962c101be2708ec.m3u8"
+          "url": "https://xxx.77player.xyz/autoplaylist/75e03ea417decf818829f251b0f6eb4e/75e03ea417decf818829f251b0f6eb4e.m3u8"
         },
         {
           "name": "Through My Window ภาค 1",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Through-My-Window-3-Looking-at-You-2024-รักผ่านหน้าต่าง-ดวงตาจ้องมองเธอ-300x450.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/e56d5bb1f04be98e8a9665f74d01a306/e56d5bb1f04be98e8a9665f74d01a306.m3u8"
+          "url": "https://xxx.77player.xyz/autoplaylist/eea4f64efad34c182ce9b3e8b140c83a/eea4f64efad34c182ce9b3e8b140c83a.m3u8"
         },
         {
           "name": "Through My Window ภาค 2",
