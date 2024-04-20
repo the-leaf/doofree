@@ -1,13 +1,26 @@
 {
   "name": "หนังใหม่ 2024",
-  "author": "เจียว เจียว อัพวันที่ 17 เมษายน 2567",
+  "author": "เจียว เจียว อัพวันที่ 20 เมษายน 2567",
   "info": "เฉพาะเมื่อเราให้ความสุขโดยไม่ลังเลหรือคิดจะได้กำไรเราสามารถรู้ได้อย่างแท้จริงว่าความรักหมายถึงอะไร😊",
   "image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
   "groups": [
     {
-      "name": "Ghostbusters 5 Frozen Empire (2024) โกสต์บัสเตอร์ส มหันตภัยเมืองเยือกแข็ง",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/04/Ghostbusters-5-Frozen-Empire-2024-โกสต์บัสเตอร์ส-มหันตภัยเมืองเยือกแข็ง-300x450.jpg",
-      "stations": []
+      "name": "Off the Stage (2024) สู่เวทีฝัน",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/04/Off-the-Stage-2024-สู่เวทีฝัน-300x450.jpg",
+      "stations": [
+        {
+          "name": "Off the Stage (2024) สู่เวทีฝัน",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/04/Off-the-Stage-2024-สู่เวทีฝัน-300x450.jpg",
+          "url": "https://main.77player.xyz/newplaylist/2d5978c8b2cc34b303d3e55c/2d5978c8b2cc34b303d3e55c.m3u8"
+        },
+        {
+          "name": "Off the Stage (2024) สู่เวทีฝัน",
+          "info": "ซับไทย ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/04/Off-the-Stage-2024-สู่เวทีฝัน-300x450.jpg",
+          "url": "https://xxx.77player.xyz/autoplaylist/2bee94adba30e803fb4e14d6/2bee94adba30e803fb4e14d6.m3u8"
+        }
+      ]
     },
     {
       "name": "Civil War (2024) วิบัติสมรภูมิเมืองเดือด",
@@ -17,13 +30,103 @@
           "name": "Civil War (2024) วิบัติสมรภูมิเมืองเดือด",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/04/Civil-War-2024-วิบัติสมรภูมิเมืองเดือด-300x450.jpg",
-          "url": "https://main.77player.xyz/newplaylist/f0a4827ae0932437ca4f9dc5/f0a4827ae0932437ca4f9dc5.m3u8"
+          "url": "https://main.77player.xyz/newplaylist/17971bcbea22bc81ebb5a4e0/17971bcbea22bc81ebb5a4e0.m3u8"
         },
         {
           "name": "Civil War (2024) วิบัติสมรภูมิเมืองเดือด",
           "info": "พากย์ไทย ตัวเล่นสำรอง",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/04/Civil-War-2024-วิบัติสมรภูมิเมืองเดือด-300x450.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/147ffb2c52c9346141c3c8bf/147ffb2c52c9346141c3c8bf.m3u8"
+          "url": "https://xxx.77player.xyz/autoplaylist/977421c4dd52c244c5605a15/977421c4dd52c244c5605a15.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "Imaginary (2024) ตุ๊กตาซาตาน",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/04/Imaginary-2024-ตุ๊กตาซาตาน-300x450.jpg",
+      "stations": [
+        {
+          "name": "Imaginary (2024) ตุ๊กตาซาตาน",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/04/Imaginary-2024-ตุ๊กตาซาตาน-300x450.jpg",
+          "url": "https://main.77player.xyz/newplaylist/fde5747d6f7d1b5aede58970/fde5747d6f7d1b5aede58970.m3u8"
+        },
+        {
+          "name": "Imaginary (2024) ตุ๊กตาซาตาน",
+          "info": "ซับไทย ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/04/Imaginary-2024-ตุ๊กตาซาตาน-300x450.jpg",
+          "url": "https://xxx.77player.xyz/autoplaylist/5e72e295e2a73c4149107312/5e72e295e2a73c4149107312.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "Ghostbusters 5 Frozen Empire (2024) โกสต์บัสเตอร์ส มหันตภัยเมืองเยือกแข็ง",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/04/Ghostbusters-5-Frozen-Empire-2024-โกสต์บัสเตอร์ส-มหันตภัยเมืองเยือกแข็ง-300x450.jpg",
+      "stations": [
+        {
+          "name": "Ghostbusters 5 Frozen Empire (2024) โกสต์บัสเตอร์ส มหันตภัยเมืองเยือกแข็ง",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/04/Ghostbusters-5-Frozen-Empire-2024-โกสต์บัสเตอร์ส-มหันตภัยเมืองเยือกแข็ง-300x450.jpg",
+          "url": "https://main.77player.xyz/newplaylist/9c19ca29b07b3e932bd87e87/9c19ca29b07b3e932bd87e87.m3u8"
+        },
+        {
+          "name": "Ghostbusters 5 Frozen Empire (2024) โกสต์บัสเตอร์ส มหันตภัยเมืองเยือกแข็ง",
+          "info": "พากย์ไทย ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/04/Ghostbusters-5-Frozen-Empire-2024-โกสต์บัสเตอร์ส-มหันตภัยเมืองเยือกแข็ง-300x450.jpg",
+          "url": "https://xxx.77player.xyz/autoplaylist/ed3d5b27a0ff2e730de1903d/ed3d5b27a0ff2e730de1903d.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "Immaculate (2024) บริสุทธิ์ผุดปีศาจ",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/04/Immaculate-2024-บริสุทธิ์ผุดปีศาจ-1-300x450.jpg",
+      "stations": [
+        {
+          "name": "Immaculate (2024) บริสุทธิ์ผุดปีศาจ",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/04/Immaculate-2024-บริสุทธิ์ผุดปีศาจ-1-300x450.jpg",
+          "url": "https://main.77player.xyz/newplaylist/e88585a40b35519fd9fb737b/e88585a40b35519fd9fb737b.m3u8"
+        },
+        {
+          "name": "Immaculate (2024) บริสุทธิ์ผุดปีศาจ",
+          "info": "ซับไทย ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/04/Immaculate-2024-บริสุทธิ์ผุดปีศาจ-1-300x450.jpg",
+          "url": "https://xxx.77player.xyz/autoplaylist/500887273891099af8cb8d4c/500887273891099af8cb8d4c.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "The Lord of The Monsters (2024) ประกาศิตเทพปีศาจ",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/04/The-Lord-of-The-Monsters-2024-ประกาศิตเทพปีศาจ-300x450.jpg",
+      "stations": [
+        {
+          "name": "The Lord of The Monsters (2024) ประกาศิตเทพปีศาจ",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/04/The-Lord-of-The-Monsters-2024-ประกาศิตเทพปีศาจ-300x450.jpg",
+          "url": "https://main.77player.xyz/newplaylist/35f708b9771b66568ff2b462/35f708b9771b66568ff2b462.m3u8"
+        },
+        {
+          "name": "The Lord of The Monsters (2024) ประกาศิตเทพปีศาจ",
+          "info": "ซับไทย ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/04/The-Lord-of-The-Monsters-2024-ประกาศิตเทพปีศาจ-300x450.jpg",
+          "url": "https://xxx.77player.xyz/autoplaylist/4bc7cedce21aa817ef2b4f28/4bc7cedce21aa817ef2b4f28.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "Sleeping Dogs (2024)",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/04/Sleeping-Dogs-2024-300x450.jpg",
+      "stations": [
+        {
+          "name": "Sleeping Dogs (2024)",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/04/Sleeping-Dogs-2024-300x450.jpg",
+          "url": "https://main.77player.xyz/newplaylist/7054a6be95dc53acd067fed2/7054a6be95dc53acd067fed2.m3u8"
+        },
+        {
+          "name": "Sleeping Dogs (2024)",
+          "info": "ซับไทย ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/04/Sleeping-Dogs-2024-300x450.jpg",
+          "url": "https://xxx.77player.xyz/autoplaylist/74e8efd6632b514c14e11830/74e8efd6632b514c14e11830.m3u8"
         }
       ]
     },
@@ -118,12 +221,6 @@
         {
           "name": "The Mystery of Jade (2024) เปาบุ้นจิ้น คดีประหลาดดาวปลาคู่",
           "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/04/The-Mystery-of-Jade-2024-เปาบุ้นจิ้น-คดีประหลาดดาวปลาคู่-1-300x450.jpg",
-          "url": "https://main.77player.xyz/newplaylist/cf1582917997e91a05ba9e45/cf1582917997e91a05ba9e45.m3u8"
-        },
-        {
-          "name": "The Mystery of Jade (2024) เปาบุ้นจิ้น คดีประหลาดดาวปลาคู่",
-          "info": "ซับไทย ตัวเล่นสำรอง",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/04/The-Mystery-of-Jade-2024-เปาบุ้นจิ้น-คดีประหลาดดาวปลาคู่-1-300x450.jpg",
           "url": "https://xxx.77player.xyz/autoplaylist/b763e6c13d4584e91ad642ca/b763e6c13d4584e91ad642ca.m3u8"
         }
@@ -246,12 +343,6 @@
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/04/Stolen-2024-พราก-300x450.jpg",
           "url": "https://main.77player.xyz/newplaylist/4c68f532fcec5f302f0b7576/4c68f532fcec5f302f0b7576.m3u8"
-        },
-        {
-          "name": "Stolen (2024) พราก",
-          "info": "ซับไทย ตัวเล่นสำรอง",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/04/Stolen-2024-พราก-300x450.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/397a2831140915e517f5d042/397a2831140915e517f5d042.m3u8"
         }
       ]
     },
@@ -454,120 +545,6 @@
       ]
     },
     {
-      "name": "Musica (2024) ดนตรีดลใจ",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/04/Musica-2024-ดนตรีดลใจ-300x450.jpg",
-      "stations": [
-        {
-          "name": "Musica (2024) ดนตรีดลใจ",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/04/Musica-2024-ดนตรีดลใจ-300x450.jpg",
-          "url": "https://main.77player.xyz/newplaylist/aa9932cfe3eaf7dfbce60d86/aa9932cfe3eaf7dfbce60d86.m3u8"
-        },
-        {
-          "name": "Musica (2024) ดนตรีดลใจ",
-          "info": "ซับไทย ตัวเล่นสำรอง",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/04/Musica-2024-ดนตรีดลใจ-300x450.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/dfa1d551389f7a6779ee294a/dfa1d551389f7a6779ee294a.m3u8"
-        }
-      ]
-    },
-    {
-      "name": "Strawberry Shortcake's Spring Spectacular (2024)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/04/Strawberry-Shortcakes-Spring-Spectacular-2024-300x450.jpg",
-      "stations": [
-        {
-          "name": "Strawberry Shortcake ภาค 1",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/04/Strawberry-Shortcakes-Spring-Spectacular-2024-300x450.jpg",
-          "url": "https://main.77player.xyz/newplaylist/dc33361287b0b987d8c6cc96/dc33361287b0b987d8c6cc96.m3u8"
-        },
-        {
-          "name": "Strawberry Shortcake ภาค 1",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/04/Strawberry-Shortcakes-Spring-Spectacular-2024-300x450.jpg",
-          "url": "https://main.77player.xyz/newplaylist/9beec999dd1b08cc6e5fa8b5/9beec999dd1b08cc6e5fa8b5.m3u8"
-        },
-        {
-          "name": "Strawberry Shortcake ภาค 2",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/04/Strawberry-Shortcakes-Spring-Spectacular-2024-300x450.jpg",
-          "url": "https://main.77player.xyz/newplaylist/f4e74e558953198ff03faba4/f4e74e558953198ff03faba4.m3u8"
-        },
-        {
-          "name": "Strawberry Shortcake ภาค 2",
-          "info": "พากย์ไทย ตัวเล่นสำรอง",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/04/Strawberry-Shortcakes-Spring-Spectacular-2024-300x450.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/2f2d9f46dd6360c78620a7ec/2f2d9f46dd6360c78620a7ec.m3u8"
-        },
-        {
-          "name": "Strawberry Shortcake ภาค 2",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/04/Strawberry-Shortcakes-Spring-Spectacular-2024-300x450.jpg",
-          "url": "https://main.77player.xyz/newplaylist/925c03fd0e2ce47647914888/925c03fd0e2ce47647914888.m3u8"
-        },
-        {
-          "name": "Strawberry Shortcake ภาค 2",
-          "info": "ซับไทย ตัวเล่นสำรอง",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/04/Strawberry-Shortcakes-Spring-Spectacular-2024-300x450.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/ee38e90f18e251c803d89caf/ee38e90f18e251c803d89caf.m3u8"
-        },
-        {
-          "name": "Strawberry Shortcake ภาค 3",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/04/Strawberry-Shortcakes-Spring-Spectacular-2024-300x450.jpg",
-          "url": "https://main.77player.xyz/newplaylist/c45d34574638c45fbcd116fc/c45d34574638c45fbcd116fc.m3u8"
-        },
-        {
-          "name": "Strawberry Shortcake ภาค 3",
-          "info": "พากย์ไทย ตัวเล่นสำรอง",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/04/Strawberry-Shortcakes-Spring-Spectacular-2024-300x450.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/a39c5f13de7bfe26a3aa44a9/a39c5f13de7bfe26a3aa44a9.m3u8"
-        },
-        {
-          "name": "Strawberry Shortcake ภาค 3",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/04/Strawberry-Shortcakes-Spring-Spectacular-2024-300x450.jpg",
-          "url": "https://main.77player.xyz/newplaylist/2f6a297ff5d7f457f9d87600/2f6a297ff5d7f457f9d87600.m3u8"
-        },
-        {
-          "name": "Strawberry Shortcake ภาค 3",
-          "info": "ซับไทย ตัวเล่นสำรอง",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/04/Strawberry-Shortcakes-Spring-Spectacular-2024-300x450.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/e2eb674d5cf05817c3265837/e2eb674d5cf05817c3265837.m3u8"
-        }
-      ]
-    },
-    {
-      "name": "The Tearsmith (2024) เจ้าแห่งน้ำตา",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/04/The-Tearsmith-2024-เจ้าแห่งน้ำตา-300x450.jpg",
-      "stations": [
-        {
-          "name": "The Tearsmith (2024) เจ้าแห่งน้ำตา",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/04/The-Tearsmith-2024-เจ้าแห่งน้ำตา-300x450.jpg",
-          "url": "https://main.77player.xyz/newplaylist/49f39299ee648c40ec9027fe/49f39299ee648c40ec9027fe.m3u8"
-        },
-        {
-          "name": "The Tearsmith (2024) เจ้าแห่งน้ำตา",
-          "info": "พากย์ไทย ตัวเล่นสำรอง",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/04/The-Tearsmith-2024-เจ้าแห่งน้ำตา-300x450.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/0e73f460768993068476198a/0e73f460768993068476198a.m3u8"
-        },
-        {
-          "name": "The Tearsmith (2024) เจ้าแห่งน้ำตา",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/04/The-Tearsmith-2024-เจ้าแห่งน้ำตา-300x450.jpg",
-          "url": "https://main.77player.xyz/newplaylist/731186633e48863f7bbf0d2c/731186633e48863f7bbf0d2c.m3u8"
-        },
-        {
-          "name": "The Tearsmith (2024) เจ้าแห่งน้ำตา",
-          "info": "ซับไทย ตัวเล่นสำรอง",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/04/The-Tearsmith-2024-เจ้าแห่งน้ำตา-300x450.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/f9d97238ddb27665a5c36695/f9d97238ddb27665a5c36695.m3u8"
-        }
-      ]
-    },
-    {
       "name": "Godzilla x Kong The New Empire (2024) ก็อดซิลล่า ปะทะ คอง 2 อาณาจักรใหม่",
       "image": "https://www.123-hd.com/wp-content/uploads/2024/03/Godzilla-x-Kong-The-New-Empire-2024-ก็อดซิลล่า-ปะทะ-คอง-2-อาณาจักรใหม่-300x450.jpg",
       "stations": [
@@ -600,6 +577,66 @@
           "info": "ซับไทย ตัวเล่นสำรอง",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/04/The-Third-Suspect-2024-ผู้ต้องสงสัยคนที่สาม-300x450.jpg",
           "url": "https://xxx.77player.xyz/autoplaylist/789c66901ba64cca1bd4db23/789c66901ba64cca1bd4db23.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "Guntur Kaaram (2024) เจ้าพ่อกุนตูร์ ",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/04/Guntur-Kaaram-2024-เจ้าพ่อกุนตูร์-300x450.jpg",
+      "stations": [
+        {
+          "name": "Guntur Kaaram (2024) เจ้าพ่อกุนตูร์ ",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/04/Guntur-Kaaram-2024-เจ้าพ่อกุนตูร์-300x450.jpg",
+          "url": "https://main.77player.xyz/newplaylist/fad985a1d78de8c72a23f4a0/fad985a1d78de8c72a23f4a0.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "To Kill a Tiger (2024) เมื่อต้องฆ่าเสือ ",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/04/To-Kill-a-Tiger-2024-เมื่อต้องฆ่าเสือ-300x450.jpg",
+      "stations": [
+        {
+          "name": "To Kill a Tiger (2024) เมื่อต้องฆ่าเสือ ",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/04/To-Kill-a-Tiger-2024-เมื่อต้องฆ่าเสือ-300x450.jpg",
+          "url": "https://main.77player.xyz/newplaylist/a61fc8dcf33f4d3155bd9af1/a61fc8dcf33f4d3155bd9af1.m3u8"
+        },
+        {
+          "name": "To Kill a Tiger (2024) เมื่อต้องฆ่าเสือ ",
+          "info": "ซับไทย ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/04/To-Kill-a-Tiger-2024-เมื่อต้องฆ่าเสือ-300x450.jpg",
+          "url": "https://xxx.77player.xyz/autoplaylist/76328e4c92cc670fe4aa1f6c/76328e4c92cc670fe4aa1f6c.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "Zhou Gong Subdues Demons (2024) ตระกูลโจวปราบปีศาจ",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/03/Zhou-Gong-Subdues-Demons-2024-ตระกูลโจวปราบปีศาจ-300x450.jpg",
+      "stations": [
+        {
+          "name": "Zhou Gong Subdues Demons (2024) ตระกูลโจวปราบปีศาจ",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/03/Zhou-Gong-Subdues-Demons-2024-ตระกูลโจวปราบปีศาจ-300x450.jpg",
+          "url": "https://xxx.77player.xyz/autoplaylist/a0151463eb015c7f054ada1a/a0151463eb015c7f054ada1a.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "Ae Watan Mere Watan (2024) อินเดียที่รัก",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/03/Ae-Watan-Mere-Watan-2024-อินเดียที่รัก-300x450.jpg",
+      "stations": [
+        {
+          "name": "Ae Watan Mere Watan (2024) อินเดียที่รัก",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/03/Ae-Watan-Mere-Watan-2024-อินเดียที่รัก-300x450.jpg",
+          "url": "https://main.77player.xyz/newplaylist/693384e24d3128c89505964e/693384e24d3128c89505964e.m3u8"
+        },
+        {
+          "name": "Ae Watan Mere Watan (2024) อินเดียที่รัก",
+          "info": "ซับไทย ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/03/Ae-Watan-Mere-Watan-2024-อินเดียที่รัก-300x450.jpg",
+          "url": "https://xxx.77player.xyz/autoplaylist/a33743ef3a56fbe852d982d8/a33743ef3a56fbe852d982d8.m3u8"
         }
       ]
     },
@@ -948,6 +985,24 @@
           "info": "ซับไทย ตัวเล่นสำรอง",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/03/Punish-Evil-2024-บทลงโทษความชั่วร้าย-300x450.jpg",
           "url": "https://xxx.77player.xyz/autoplaylist/db382e1d55efd8bd885c71b5/db382e1d55efd8bd885c71b5.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "Hunt The Wicked (2024) ไล่ล่าวายร้าย",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/03/Hunt-The-Wicked-2024-ไล่ล่าวายร้าย-300x450.jpg",
+      "stations": [
+        {
+          "name": "Hunt The Wicked (2024) ไล่ล่าวายร้าย",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/03/Hunt-The-Wicked-2024-ไล่ล่าวายร้าย-300x450.jpg",
+          "url": "https://main.77player.xyz/newplaylist/2e9d25e4e8b5cbe6702c864f/2e9d25e4e8b5cbe6702c864f.m3u8"
+        },
+        {
+          "name": "Hunt The Wicked (2024) ไล่ล่าวายร้าย",
+          "info": "ซับไทย ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/03/Hunt-The-Wicked-2024-ไล่ล่าวายร้าย-300x450.jpg",
+          "url": "https://xxx.77player.xyz/autoplaylist/9cbccf7c4ac7f07fcad7ffbc/9cbccf7c4ac7f07fcad7ffbc.m3u8"
         }
       ]
     },
@@ -1601,12 +1656,6 @@
           "name": "Spaceman (2024) สเปซแมน",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/03/Spaceman-2024-สเปซแมน-300x450.jpg",
-          "url": "https://main.77player.xyz/newplaylist/4b3fbf5070c64329a3e42a52/4b3fbf5070c64329a3e42a52.m3u8"
-        },
-        {
-          "name": "Spaceman (2024) สเปซแมน",
-          "info": "ซับไทย ตัวเล่นสำรอง",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/03/Spaceman-2024-สเปซแมน-300x450.jpg",
           "url": "https://xxx.77player.xyz/autoplaylist/907bdca6d2d8aece6e8cd405/907bdca6d2d8aece6e8cd405.m3u8"
         }
       ]
@@ -1715,12 +1764,6 @@
           "name": "Wolf Hiding (2024) แก๊งโฉด โคตรระห่ำ",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Wolf-Hiding-2024-แก๊งโฉด-โคตรระห่ำ-300x450.jpg",
-          "url": "https://main.77player.xyz/newplaylist/0d1269483bcb1417ea84e207/0d1269483bcb1417ea84e207.m3u8"
-        },
-        {
-          "name": "Wolf Hiding (2024) แก๊งโฉด โคตรระห่ำ",
-          "info": "ซับไทย ตัวเล่นสำรอง",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Wolf-Hiding-2024-แก๊งโฉด-โคตรระห่ำ-300x450.jpg",
           "url": "https://xxx.77player.xyz/autoplaylist/c82fcadcefcacb458b9e6601/c82fcadcefcacb458b9e6601.m3u8"
         }
       ]
@@ -1799,7 +1842,7 @@
           "name": "Through My Window ภาค 1",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Through-My-Window-3-Looking-at-You-2024-รักผ่านหน้าต่าง-ดวงตาจ้องมองเธอ-300x450.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/75e03ea417decf818829f251b0f6eb4e/75e03ea417decf818829f251b0f6eb4e.m3u8"
+          "url": "https://xxx.77player.xyz/autoplaylist/cf5bcfdbdfbe6f8e533be23b1765ab51/cf5bcfdbdfbe6f8e533be23b1765ab51.m3u8"
         },
         {
           "name": "Through My Window ภาค 1",
@@ -1884,12 +1927,6 @@
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/02/This-Is-Me...-Now-2024-ดิส-อิส-มี-นาว-เรื่องราวความรัก-300x450.jpg",
           "url": "https://main.77player.xyz/newplaylist/6c64011d97068c8131a69747/6c64011d97068c8131a69747.m3u8"
-        },
-        {
-          "name": "This Is Me... Now (2024) ดิส อิส มี นาว เรื่องราวความรัก",
-          "info": "ซับไทย ตัวเล่นสำรอง",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/02/This-Is-Me...-Now-2024-ดิส-อิส-มี-นาว-เรื่องราวความรัก-300x450.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/0c7c926d2e0625eb4cca517b/0c7c926d2e0625eb4cca517b.m3u8"
         }
       ]
     },
@@ -2225,12 +2262,6 @@
           "name": "Suncoast (2024)",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Suncoast-2024-300x450.jpg",
-          "url": "https://main.77player.xyz/newplaylist/9376f3501b8527e5061ba994/9376f3501b8527e5061ba994.m3u8"
-        },
-        {
-          "name": "Suncoast (2024)",
-          "info": "ซับไทย ตัวเล่นสำรอง",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Suncoast-2024-300x450.jpg",
           "url": "https://xxx.77player.xyz/autoplaylist/8131a55324790e676fe56af1/8131a55324790e676fe56af1.m3u8"
         }
       ]
@@ -2419,12 +2450,6 @@
       "name": "The Beekeeper (2024) นรกเรียกพ่อ",
       "image": "https://www.123-hd.com/wp-content/uploads/2024/01/The-Beekeeper-2024-นรกเรียกพ่อ-300x450.jpg",
       "stations": [
-        {
-          "name": "The Beekeeper (2024) นรกเรียกพ่อ",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/The-Beekeeper-2024-นรกเรียกพ่อ-300x450.jpg",
-          "url": "https://main.77player.xyz/newplaylist/5b226b5984919b5fcbe60273/5b226b5984919b5fcbe60273.m3u8"
-        },
         {
           "name": "The Beekeeper (2024) นรกเรียกพ่อ",
           "info": "ซับไทย",
