@@ -1,9 +1,301 @@
 {
   "name": "ซีรีย์ละครไทย",
-  "author": "เจียว เจียว อัพวันที่ 31 มีนาคม 2567",
+  "author": "เจียว เจียว อัพวันที่ 22 เมษายน 2567",
   "info": "อยู่ในมุมที่ตัวเองมีความสุข ไม่จำเป็นต้องโดดเด่น ไม่จำเป็นต้องเหมือนใคร",
   "image": "https://tvallseries.co/wp-content/uploads/2021/01/logotvseries.png.webp",
   "groups": [
+    {
+      "name": "Remember (2024) จำ จน ตาย EP.1-18 (กำลังรอฉาย)",
+      "info": "พากย์ไทย",
+      "image": "https://tvallseries.co/wp-content/uploads/2024/04/Remember-2024-185x278.webp",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/04/Remember-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/fb030058-7cff-47a3-b6d3-90ad729b80be/0"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/04/Remember-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/f7ac0719-051e-43be-bea3-4253e2b0500f/0"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/04/Remember-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/b3f10285-5536-4320-8f2a-9ddf0c9f8c6b/0"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/04/Remember-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/8f52cffe-c3db-4aaf-9100-433ac242d521/0"
+        }
+      ]
+    },
+    {
+      "name": "Bromise (2024) สัตย์เสือ EP.1-18 (จบ)",
+      "info": "พากย์ไทย",
+      "image": "https://tvallseries.co/wp-content/uploads/2024/04/Bromise-2024-185x278.webp",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/04/Bromise-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/39b4500a-c5bb-4b8e-994b-04ac559419f6/0"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/04/Bromise-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/ff171de8-249b-4bb3-b440-79c9ace81753/0"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/04/Bromise-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/ce861546-db10-41b2-9a70-d343837c2da8/0"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/04/Bromise-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/82d9128e-fbb9-4647-b370-a32cd247917e/0"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/04/Bromise-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/29a6214b-f2bc-45e5-94ac-476e0d3fdf87/0"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/04/Bromise-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/908c117d-0733-43be-adad-4cf0b7e2259c/0"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/04/Bromise-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/a0c42116-759f-4fe9-b23e-cddc0222f781/0"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/04/Bromise-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/afa6b1ff-5269-487a-b2a5-8652decd31b6/0"
+        },
+        {
+          "name": "ตอนที่ 9",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/04/Bromise-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/5ec978bc-2095-4b3f-bdad-cb3ea8638029/0"
+        },
+        {
+          "name": "ตอนที่ 10",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/04/Bromise-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/ad76d380-4b1d-41af-93b9-478ea89d494f/0"
+        },
+        {
+          "name": "ตอนที่ 11",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/04/Bromise-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/78bd22a5-c656-44cf-9da7-01db42e6744f/0"
+        },
+        {
+          "name": "ตอนที่ 12",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/04/Bromise-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/16f2e9f9-c0e9-4d17-9d45-cab838177b98/0"
+        },
+        {
+          "name": "ตอนที่ 13",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/04/Bromise-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/56ddef6d-0583-4ab4-b07c-7268b4ba9dd2/0"
+        },
+        {
+          "name": "ตอนที่ 14",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/04/Bromise-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/d094c30c-7036-4bbd-bfe8-d41855d5ae33/0"
+        },
+        {
+          "name": "ตอนที่ 15",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/04/Bromise-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/82e2218e-29b9-4fe6-81a7-6cc065df1819/0"
+        },
+        {
+          "name": "ตอนที่ 16",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/04/Bromise-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/98812320-31ff-4bdd-809f-5ba62c0fe7f6/0"
+        },
+        {
+          "name": "ตอนที่ 17",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/04/Bromise-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/78fe8b42-31a4-4674-896d-d4d3a46b93f0/0"
+        },
+        {
+          "name": "ตอนที่ 18 (ตอนจบ)",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/04/Bromise-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/46b135c1-12ce-4bcb-a9a7-b9226f8bb20a/0"
+        }
+      ]
+    },
+    {
+      "name": "Cherry Magic (2023) 30 ยังซิง EP.1-12 (จบ)",
+      "info": "พากย์ไทย",
+      "image": "https://tvallseries.co/wp-content/uploads/2024/04/Cherry-Magic-2023-185x278.webp",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/04/Cherry-Magic-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/c624d3c3-c589-4c2a-a3eb-d7c75ab759f8/0"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/04/Cherry-Magic-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/dff7b365-64c4-4825-b99a-0f05dbf94aa8/0"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/04/Cherry-Magic-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/33e0aab6-4e79-4d08-a8de-8ce5bfefc7c0/0"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/04/Cherry-Magic-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/7fb2d0ef-83f2-489c-bd7a-b1af7cfd099e/0"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/04/Cherry-Magic-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/73964148-1f64-4aa2-a101-45763c582a7b/0"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/04/Cherry-Magic-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/0a881eb6-c5ad-43fc-a34c-700a8f9a1b10/0"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/04/Cherry-Magic-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/948f2e7b-278a-4aba-a594-3a7a4ee3b556/0"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/04/Cherry-Magic-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/c66a7ed7-ecf3-4ad4-9465-c273430de679/0"
+        },
+        {
+          "name": "ตอนที่ 9",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/04/Cherry-Magic-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/767a51c0-2af2-45dd-adfa-6237186f40df/0"
+        },
+        {
+          "name": "ตอนที่ 10",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/04/Cherry-Magic-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/bcec9c84-4f01-425b-a4c9-c80f2a3d571d/0"
+        },
+        {
+          "name": "ตอนที่ 11",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/04/Cherry-Magic-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/476e661e-9730-4503-a4e4-1b3967b955a0/0"
+        },
+        {
+          "name": "ตอนที่ 12 (ตอนจบ)",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/04/Cherry-Magic-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/650ba910-e84d-4a2a-8980-751ee0df80b3/0"
+        }
+      ]
+    },
+    {
+      "name": "Emergency Couple (2024) EP.1-18 (กำลังรอฉาย)",
+      "info": "พากย์ไทย",
+      "image": "https://tvallseries.co/wp-content/uploads/2024/04/Emergency-Couple-2024-185x278.webp",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/04/Emergency-Couple-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/0ffea005-9962-42bd-87b9-30b14c45fbbe/0"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/04/Emergency-Couple-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/655bddac-1827-4fbd-886d-bcdb4683bc2f/0"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/04/Emergency-Couple-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/461b7c5c-eed6-4d82-89eb-2c889d52ba9a/0"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/04/Emergency-Couple-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/10eaffaf-5c90-409a-be76-e67d03b54b3a/0"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/04/Emergency-Couple-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/24043652-5a51-44a1-9c81-557da9de5ea3/0"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/04/Emergency-Couple-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/7d6c8474-2e06-4aa5-9783-8e6d1d5370e1/0"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/04/Emergency-Couple-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/7c9a6b3b-3354-4174-8c6b-2497301471c8/0"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/04/Emergency-Couple-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/825dabad-8764-4539-94bf-1dddb52a1357/0"
+        },
+        {
+          "name": "ตอนที่ 9",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/04/Emergency-Couple-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/c8aabfab-e8be-4fec-8b4a-2cea7d0f8eec/0"
+        },
+        {
+          "name": "ตอนที่ 10",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/04/Emergency-Couple-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/0d880b7d-92f8-4216-9614-da095a98c779/0"
+        }
+      ]
+    },
     {
       "name": "The Believers (2024) สาธุ EP.1-9 (จบ)",
       "info": "พากย์ไทย",
@@ -472,6 +764,12 @@
           "url": "https://playcdn.tvallseries.com/7fb460ba-57ea-4dbb-9f73-cf0fede340bc/0"
         },
         {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/02/Hangout-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/90c2364f-a9da-4e1d-abbf-765e7b48c3aa/0"
+        },
+        {
           "name": "ตอนที่ 5",
           "info": "พากย์ไทย",
           "image": "https://tvallseries.co/wp-content/uploads/2024/02/Hangout-2023-185x278.webp",
@@ -554,7 +852,7 @@
           "name": "ตอนที่ 1",
           "info": "พากย์ไทย",
           "image": "https://tvallseries.co/wp-content/uploads/2024/02/Coin-Digger-2023-185x278.webp",
-          "url": "https://playcdn.tvallseries.com/e9c140b9-0050-457d-88a9-95276e99c77a/_"
+          "url": "https://playcdn.tvallseries.com/d2ec410e-429b-4381-9af9-70fd673d569b/0"
         },
         {
           "name": "ตอนที่ 2",
@@ -906,6 +1204,30 @@
           "info": "พากย์ไทย",
           "image": "https://tvallseries.co/wp-content/uploads/2024/01/Pentor-2024-185x278.webp",
           "url": "https://playcdn.tvallseries.com/332d3eed-245e-4dbc-bc2e-7cf9dc72607f/0"
+        },
+        {
+          "name": "ตอนที่ 13",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/01/Pentor-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/8d63472a-569b-44c4-985f-16f5e440cc5e/0"
+        },
+        {
+          "name": "ตอนที่ 14",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/01/Pentor-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/e5f879e2-1ddd-41db-ba2c-9894214d6acc/0"
+        },
+        {
+          "name": "ตอนที่ 15",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/01/Pentor-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/7a584971-6146-44ee-b33c-83bb8c217c1f/0"
+        },
+        {
+          "name": "ตอนที่ 16",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/01/Pentor-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/37a1eee0-30b0-434f-85cd-4211db7a9d36/0"
         }
       ]
     },
