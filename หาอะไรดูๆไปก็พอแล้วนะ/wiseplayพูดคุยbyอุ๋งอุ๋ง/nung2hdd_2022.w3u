@@ -1,9 +1,279 @@
 {
  "name": "2022",
- "author": "เจียว เจียว อัพวันที่ 19 มีนาคม 2567",
+ "author": "เจียว เจียว อัพวันที่ 05 พฤษภาคม 2567",
  "info": "ชีวิตไม่ได้ให้เราสิ่งที่ต้องการเสมอไป แต่มันจะให้เราสิ่งที่เราจำเป็นต้องการ",
  "image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
  "groups": [
+  {
+   "name": "Hilma (2022)",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Hilma-2022.jpg",
+   "stations": [
+    {
+     "name": "Hilma (2022)",
+     "info": "ตัวเล่นสำรอง ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Hilma-2022.jpg",
+     "url": "https://streamhls.com/view/871bd2ea-3206-51ee-bdfc-94efc12ea734.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Hilma (2022)",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Hilma-2022.jpg",
+     "url": "https://play.kakjeawplay.xyz/754bb453-a266-41bb-bbd5-94a6b3a5c2a8/_",
+     "referer": "https://www.nung2hdd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Swords Drawn (2022) ตำนานสู่ซาน: ยอดกระบี่หวนคืน",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2023/02/Swords-Drawn-2022.jpg",
+   "stations": [
+    {
+     "name": "Swords Drawn (2022) ตำนานสู่ซาน: ยอดกระบี่หวนคืน",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/02/Swords-Drawn-2022.jpg",
+     "url": "https://streamhls.com/view/d66296bc-09c1-5754-a521-5bd531a28127.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Swords Drawn (2022) ตำนานสู่ซาน: ยอดกระบี่หวนคืน",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/02/Swords-Drawn-2022.jpg",
+     "url": "https://play.kakjeawplay.xyz/992470dc-f1d8-4ec9-a10b-25bf505f47a3/_",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Swords Drawn (2022) ตำนานสู่ซาน: ยอดกระบี่หวนคืน",
+     "info": "ตัวเล่นสำรอง ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/02/Swords-Drawn-2022.jpg",
+     "url": "https://streamhls.com/view/ae678eac-d0d9-5a37-8c64-5778704da5e5.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Swords Drawn (2022) ตำนานสู่ซาน: ยอดกระบี่หวนคืน",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/02/Swords-Drawn-2022.jpg",
+     "url": "https://play.kakjeawplay.xyz/3e72c205-58f4-414a-b852-dbee409faf07/_",
+     "referer": "https://www.nung2hdd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Huesera: The Bone Woman (2022) สิงร่างหักกระดูก",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Huesera.jpg",
+   "stations": [
+    {
+     "name": "Huesera: The Bone Woman (2022) สิงร่างหักกระดูก",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Huesera.jpg",
+     "url": "https://streamhls.com/view/98c058f6-bf67-5841-ab13-5ef16344dce6.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Huesera: The Bone Woman (2022) สิงร่างหักกระดูก",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Huesera.jpg",
+     "url": "https://play.kakjeawplay.xyz/87d5be42-43df-46ff-8a83-8fd9d150458f/_",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Huesera: The Bone Woman (2022) สิงร่างหักกระดูก",
+     "info": "ตัวเล่นสำรอง ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Huesera.jpg",
+     "url": "https://streamhls.com/view/9930efd3-d508-511a-a1e4-b4ea4211c200.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Huesera: The Bone Woman (2022) สิงร่างหักกระดูก",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Huesera.jpg",
+     "url": "https://play.kakjeawplay.xyz/f0c111d8-9f7e-4f0c-9d5c-407e4d025945/_",
+     "referer": "https://www.nung2hdd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Ghost Book (2022) อัศจรรย์หนังสือดูดวิญญาณ",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Ghost-Book-Obake-Zukan-2022.png",
+   "stations": [
+    {
+     "name": "Ghost Book (2022) อัศจรรย์หนังสือดูดวิญญาณ",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Ghost-Book-Obake-Zukan-2022.png",
+     "url": "https://streamhls.com/view/2fa85a4d-6804-5606-8f0a-95dd990c848d.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Ghost Book (2022) อัศจรรย์หนังสือดูดวิญญาณ",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Ghost-Book-Obake-Zukan-2022.png",
+     "url": "https://play.kakjeawplay.xyz/5938b52d-14af-4404-adb7-f82fea844dc4/_",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Ghost Book (2022) อัศจรรย์หนังสือดูดวิญญาณ",
+     "info": "ตัวเล่นสำรอง ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Ghost-Book-Obake-Zukan-2022.png",
+     "url": "https://streamhls.com/view/7e4fda0f-1669-5819-b9fb-a63dbdbff1e3.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Ghost Book (2022) อัศจรรย์หนังสือดูดวิญญาณ",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Ghost-Book-Obake-Zukan-2022.png",
+     "url": "https://play.kakjeawplay.xyz/d3486f16-b0b6-462e-b38a-f9418ecfc946/_",
+     "referer": "https://www.nung2hdd.com/"
+    }
+   ]
+  },
+  {
+   "name": "The Devil’s Deception (2022) บ้านเฮี้ยนปีศาจหลอน",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/The-Devils-Deception-2022.jpg",
+   "stations": [
+    {
+     "name": "The Devil’s Deception (2022) บ้านเฮี้ยนปีศาจหลอน",
+     "info": "ตัวเล่นสำรอง ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/The-Devils-Deception-2022.jpg",
+     "url": "https://streamhls.com/view/d97658f6-c551-5462-bf1d-7a51063da7fb.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "The Devil’s Deception (2022) บ้านเฮี้ยนปีศาจหลอน",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/The-Devils-Deception-2022.jpg",
+     "url": "https://play.kakjeawplay.xyz/92ab44ae-c6d9-4da1-8a45-6cd928bbe616/_",
+     "referer": "https://www.nung2hdd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Mira (2022)",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Mira-2022.jpg",
+   "stations": [
+    {
+     "name": "Mira (2022)",
+     "info": "ตัวเล่นสำรอง ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Mira-2022.jpg",
+     "url": "https://streamhls.com/view/0627e8b1-2074-58b7-ab3a-4906e0d735b2.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Mira (2022)",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Mira-2022.jpg",
+     "url": "https://play.kakjeawplay.xyz/58dc41ac-d98a-4637-850d-7d8196b5822d/_",
+     "referer": "https://www.nung2hdd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Badhaai Do (2022) ยินดีอย่างที่ซู้ด",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Badhaai-Do-2022.jpg",
+   "stations": [
+    {
+     "name": "Badhaai Do (2022) ยินดีอย่างที่ซู้ด",
+     "info": "ตัวเล่นสำรอง ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Badhaai-Do-2022.jpg",
+     "url": "https://streamhls.com/view/8efe64a7-f4ce-5a62-9c42-56630291cc0d.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Badhaai Do (2022) ยินดีอย่างที่ซู้ด",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Badhaai-Do-2022.jpg",
+     "url": "https://play.kakjeawplay.xyz/f9f10393-cbcb-4a22-9bcf-a4b1b33dac25/_",
+     "referer": "https://www.nung2hdd.com/"
+    }
+   ]
+  },
+  {
+   "name": "The Blue Skies at Your Feet (2022) แอบรักเติมฝันในวันฟ้าใส",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/The-Blue-Skies-at-Your-Feet-2022.jpg",
+   "stations": [
+    {
+     "name": "The Blue Skies at Your Feet (2022) แอบรักเติมฝันในวันฟ้าใส",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/The-Blue-Skies-at-Your-Feet-2022.jpg",
+     "url": "https://streamhls.com/view/707fc1e7-cb85-5c38-a2dc-6c284f80108d.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "The Blue Skies at Your Feet (2022) แอบรักเติมฝันในวันฟ้าใส",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/The-Blue-Skies-at-Your-Feet-2022.jpg",
+     "url": "https://play.kakjeawplay.xyz/5adba6cf-244e-4b75-b95a-bedc4731459a/_",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "The Blue Skies at Your Feet (2022) แอบรักเติมฝันในวันฟ้าใส",
+     "info": "ตัวเล่นสำรอง ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/The-Blue-Skies-at-Your-Feet-2022.jpg",
+     "url": "https://streamhls.com/view/ba7ea52c-5081-584d-a388-60eaea3b9dc5.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "The Blue Skies at Your Feet (2022) แอบรักเติมฝันในวันฟ้าใส",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/The-Blue-Skies-at-Your-Feet-2022.jpg",
+     "url": "https://play.kakjeawplay.xyz/b78cb9f6-a464-49ec-a68d-e768bad33b1b/_",
+     "referer": "https://www.nung2hdd.com/"
+    }
+   ]
+  },
+  {
+   "name": "R.I.P.D. 2: Rise of the Damned (2022) อาร์.ไอ.พี.ดี.หน่วยพิฆาตสยบวิญญาณ 2: ดวลดับอสุรผงาด",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/RIPD-2-Rise-of-the-Damned-2022.jpg",
+   "stations": [
+    {
+     "name": "R.I.P.D. 2: Rise of the Damned (2022) อาร์.ไอ.พี.ดี.หน่วยพิฆาตสยบวิญญาณ 2: ดวลดับอสุรผงาด",
+     "info": "ตัวเล่นสำรอง ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/RIPD-2-Rise-of-the-Damned-2022.jpg",
+     "url": "https://streamhls.com/view/7149a42f-5966-5f18-8822-d3b5f32c933d.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "R.I.P.D. 2: Rise of the Damned (2022) อาร์.ไอ.พี.ดี.หน่วยพิฆาตสยบวิญญาณ 2: ดวลดับอสุรผงาด",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/RIPD-2-Rise-of-the-Damned-2022.jpg",
+     "url": "https://play.kakjeawplay.xyz/826b750c-4e81-46f1-a3ed-3bd1bea7f961/_",
+     "referer": "https://www.nung2hdd.com/"
+    }
+   ]
+  },
+  {
+   "name": "The Offering (2022) มันสิงอยู่ในร่าง",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2020/10/The-Offering-2022-Poster.jpg",
+   "stations": [
+    {
+     "name": "The Offering (2022) มันสิงอยู่ในร่าง",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2020/10/The-Offering-2022-Poster.jpg",
+     "url": "https://streamhls.com/view/71c6cf7b-6a76-542c-bd4d-c0bedef1782e.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "The Offering (2022) มันสิงอยู่ในร่าง",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2020/10/The-Offering-2022-Poster.jpg",
+     "url": "https://play.kakjeawplay.xyz/791be187-abb4-489c-a290-0a59fc9441e2/_",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "The Offering (2022) มันสิงอยู่ในร่าง",
+     "info": "ตัวเล่นสำรอง ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2020/10/The-Offering-2022-Poster.jpg",
+     "url": "https://streamhls.com/view/56c9275d-a3ea-5c64-8084-12880eb0e607.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "The Offering (2022) มันสิงอยู่ในร่าง",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2020/10/The-Offering-2022-Poster.jpg",
+     "url": "https://play.kakjeawplay.xyz/ce4c22d4-938a-486b-b445-b9efb57b7bc5/_",
+     "referer": "https://www.nung2hdd.com/"
+    }
+   ]
+  },
   {
    "name": "Dog (2022) ด็อก เพื่อนกันพันธุ์ห้าว",
    "image": "https://www.nung2hdd.com/wp-content/uploads/2022/04/dog2022.jpg",
