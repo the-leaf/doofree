@@ -1,40 +1,82 @@
 {
  "name": "ซีรีย์ญี่ปุ่น",
- "author": "เจียว เจียว อัพวันที่ 15 มกราคม 2567",
+ "author": "เจียว เจียว อัพวันที่ 06 พฤษภาคม 2567",
  "info": "ความสำเร็จไม่ใช่จุดสิ้นสุด ความล้มเหลวไม่ใช่เรื่องร้ายแรง ความกล้าหาญที่จะทำต่อไปต่างหากที่สำคัญ",
  "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/01/series1111.png",
  "groups": [
   {
-   "name": "Dragons of Wonderhatch (ซับไทย)",
-   "info": "Dragons of Wonderhatch (ซับไทย) 2023  ซีซั่น 1 Ep 4",
-   "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2023/12/Dragons-of-Wonderhatch-scaled.jpg?resize=200,300",
+   "name": "Shōgun ซับไทย",
+   "info": "Shōgun ซับไทย 2024  ซีซั่น 1 Ep 10",
+   "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2024/02/shogun-scaled.jpg?resize=200,300",
    "stations": [
     {
      "name": "ตอนที่ 1",
-     "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2023/12/Dragons-of-Wonderhatch-scaled.jpg?resize=200,300",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2024/02/shogun-scaled.jpg?resize=200,300",
      "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/EcJoGQyYxu/video.mp4/playlist.m3u8",
+     "url": "https://series-cdn.team-indy.net:8443/vod/uxZC3vsn48/video.mp4/playlist.m3u8",
      "referer": "https://series.team-indy.net/"
     },
     {
      "name": "ตอนที่ 2",
-     "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2023/12/Dragons-of-Wonderhatch-scaled.jpg?resize=200,300",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2024/02/shogun-scaled.jpg?resize=200,300",
      "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/WLIG4Ouwsl/video.mp4/playlist.m3u8",
+     "url": "https://series-cdn.team-indy.net:8443/vod/8YWO3naUSj/video.mp4/playlist.m3u8",
      "referer": "https://series.team-indy.net/"
     },
     {
      "name": "ตอนที่ 3",
-     "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2023/12/Dragons-of-Wonderhatch-scaled.jpg?resize=200,300",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2024/02/shogun-scaled.jpg?resize=200,300",
      "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/l6l7SrTO4h/video.mp4/playlist.m3u8",
+     "url": "https://series-cdn.team-indy.net:8443/vod/u0SqmibEiG/video.mp4/playlist.m3u8",
      "referer": "https://series.team-indy.net/"
     },
     {
      "name": "ตอนที่ 4",
-     "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2023/12/Dragons-of-Wonderhatch-scaled.jpg?resize=200,300",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2024/02/shogun-scaled.jpg?resize=200,300",
      "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/ce7mCe4aqn/video.mp4/playlist.m3u8",
+     "url": "https://series-cdn.team-indy.net:8443/vod/QRsip4CYKk/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 5",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2024/02/shogun-scaled.jpg?resize=200,300",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/yidQ8QZGiX/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2024/02/shogun-scaled.jpg?resize=200,300",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/jFmnP4ipmQ/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 7",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2024/02/shogun-scaled.jpg?resize=200,300",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/0kMcpUI8Do/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 8",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2024/02/shogun-scaled.jpg?resize=200,300",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/x8uL917FRg/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 9",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2024/02/shogun-scaled.jpg?resize=200,300",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/yRFYz3QOds/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 10",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2024/02/shogun-scaled.jpg?resize=200,300",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/chyApw5Hfm/video.mp4/playlist.m3u8",
      "referer": "https://series.team-indy.net/"
     }
    ]
@@ -105,6 +147,195 @@
      "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2022/11/Yakuza-Lover-2022-ซับไทย.jpg?resize=200,300",
      "info": "ซับไทย",
      "url": "https://series-cdn.team-indy.net:8443/vod/1ymMw3vH/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    }
+   ]
+  },
+  {
+   "name": "House of Ninjas – เฮาส์ ออฟ นินจา พากย์ไทย",
+   "info": "House of Ninjas – เฮาส์ ออฟ นินจา พากย์ไทย 2024  ซีซั่น 1 Ep 8",
+   "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2024/02/final-2.jpg?resize=200,300",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2024/02/final-2.jpg?resize=200,300",
+     "info": "พากย์ไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/41KgczV137/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2024/02/final-2.jpg?resize=200,300",
+     "info": "พากย์ไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/BCinhJq2Rb/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 3",
+     "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2024/02/final-2.jpg?resize=200,300",
+     "info": "พากย์ไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/1yebGy8lce/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2024/02/final-2.jpg?resize=200,300",
+     "info": "พากย์ไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/evapPiDe6/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 5",
+     "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2024/02/final-2.jpg?resize=200,300",
+     "info": "พากย์ไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/oI651kimRd/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2024/02/final-2.jpg?resize=200,300",
+     "info": "พากย์ไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/sxE9xaScgm/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 7",
+     "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2024/02/final-2.jpg?resize=200,300",
+     "info": "พากย์ไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/9MmcD6WVs/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 8",
+     "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2024/02/final-2.jpg?resize=200,300",
+     "info": "พากย์ไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/715E2Ws2lD/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    }
+   ]
+  },
+  {
+   "name": "Kei x Yaku Dangerous Buddy (2022) – เคย์ x ยากุ คู่หูอันตราย (ซับไทย)",
+   "info": "Kei x Yaku Dangerous Buddy (2022) – เคย์ x ยากุ คู่หูอันตราย (ซับไทย) 2022  ซีซั่น 1 Ep 10",
+   "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2022/02/Kei-Yaku-Abunai-Aibou-2022.jpg?resize=200,300",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2022/02/Kei-Yaku-Abunai-Aibou-2022.jpg?resize=200,300",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/Qo9eo7tQ/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2022/02/Kei-Yaku-Abunai-Aibou-2022.jpg?resize=200,300",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/8YtkPm3t/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 3",
+     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2022/02/Kei-Yaku-Abunai-Aibou-2022.jpg?resize=200,300",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/UtbziEAX/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2022/02/Kei-Yaku-Abunai-Aibou-2022.jpg?resize=200,300",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/C4YvVbyq/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 5",
+     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2022/02/Kei-Yaku-Abunai-Aibou-2022.jpg?resize=200,300",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/uwXFAw0m/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2022/02/Kei-Yaku-Abunai-Aibou-2022.jpg?resize=200,300",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/mHT0xykS/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 7",
+     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2022/02/Kei-Yaku-Abunai-Aibou-2022.jpg?resize=200,300",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/57TVcxzM/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 8",
+     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2022/02/Kei-Yaku-Abunai-Aibou-2022.jpg?resize=200,300",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/IiFX95kZ/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 9",
+     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2022/02/Kei-Yaku-Abunai-Aibou-2022.jpg?resize=200,300",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/PaSOnyE/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 10",
+     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2022/02/Kei-Yaku-Abunai-Aibou-2022.jpg?resize=200,300",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/7F0K8qCY/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    }
+   ]
+  },
+  {
+   "name": "Kesenai Watashi (Chain of Revenge) ลบ ฉัน ไม่เลือน ซับไทย",
+   "info": "Kesenai Watashi (Chain of Revenge) ลบ ฉัน ไม่เลือน ซับไทย 2024  ซีซั่น 1 Ep 4",
+   "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2024/01/1705152609-1113-nP8ua468PapuEWsgaevGLbECvux.jpg?resize=200,300",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2024/01/1705152609-1113-nP8ua468PapuEWsgaevGLbECvux.jpg?resize=200,300",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/8L0adkSN0D/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2024/01/1705152609-1113-nP8ua468PapuEWsgaevGLbECvux.jpg?resize=200,300",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/6tBTMlLjVa/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 3",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2024/01/1705152609-1113-nP8ua468PapuEWsgaevGLbECvux.jpg?resize=200,300",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/ifY2lLYQZ0/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2024/01/1705152609-1113-nP8ua468PapuEWsgaevGLbECvux.jpg?resize=200,300",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/ELavjQb0Co/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    }
+   ]
+  },
+  {
+   "name": "Ooku (2024) – หลังม่านบัลลังก์จอมนาง ซับไทย",
+   "info": "Ooku (2024) – หลังม่านบัลลังก์จอมนาง ซับไทย 2024  ซีซั่น 1 Ep 1",
+   "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2024/01/1705759125-7556-lGzcYMpZjkpCTIkywb2qj17urvI.jpg?resize=200,300",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2024/01/1705759125-7556-lGzcYMpZjkpCTIkywb2qj17urvI.jpg?resize=200,300",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/FZ4hzduSEY/video.mp4/playlist.m3u8",
      "referer": "https://series.team-indy.net/"
     }
    ]
@@ -1618,78 +1849,7 @@
    "name": "Old Enough! 2 – ผจญภัยวัยอนุบาล 2 (ซับไทย)",
    "info": "Old Enough! 2 – ผจญภัยวัยอนุบาล 2 (ซับไทย) 2013  ซีซั่น 2 Ep 10",
    "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2023/01/Old-Enough-2.jpg?resize=200,300",
-   "stations": [
-    {
-     "name": "ตอนที่ 1",
-     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2023/01/Old-Enough-2.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/IFhv61l8/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 2",
-     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2023/01/Old-Enough-2.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/UIlpgpgc/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 3",
-     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2023/01/Old-Enough-2.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/ubIYc2kE/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 4",
-     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2023/01/Old-Enough-2.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/BXBaprRO/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 5",
-     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2023/01/Old-Enough-2.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/o22MOd6N/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 6",
-     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2023/01/Old-Enough-2.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/pUFCGRMA/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 7",
-     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2023/01/Old-Enough-2.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/hXo30m9G/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 8",
-     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2023/01/Old-Enough-2.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/ZGjuL6qs/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 9",
-     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2023/01/Old-Enough-2.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/xETzhQvi/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 10",
-     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2023/01/Old-Enough-2.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/YF29DSGg/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    }
-   ]
+   "stations": []
   },
   {
    "name": "Cooking for the Maiko House (2023) – แม่ครัวแห่งบ้านไมโกะ (ซับไทย)",
@@ -7199,153 +7359,6 @@
    ]
   },
   {
-   "name": "Old Enough! (2013) – ผจญภัยวัยอนุบาล (ซับไทย)",
-   "info": "Old Enough! (2013) – ผจญภัยวัยอนุบาล (ซับไทย) 2013  ซีซั่น 1 Ep 20",
-   "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/04/Old-Enough-2013-ผจญภัยวัยอนุบาล-ซับไทย.jpg?resize=200,300",
-   "stations": [
-    {
-     "name": "ตอนที่ 1",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/04/Old-Enough-2013-ผจญภัยวัยอนุบาล-ซับไทย.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/sLqINP0A/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 2",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/04/Old-Enough-2013-ผจญภัยวัยอนุบาล-ซับไทย.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/lotkp1ft/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 3",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/04/Old-Enough-2013-ผจญภัยวัยอนุบาล-ซับไทย.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/wacoVFNO/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 4",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/04/Old-Enough-2013-ผจญภัยวัยอนุบาล-ซับไทย.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/m5FNGvqS/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 5",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/04/Old-Enough-2013-ผจญภัยวัยอนุบาล-ซับไทย.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/1WcMSmnn/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 6",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/04/Old-Enough-2013-ผจญภัยวัยอนุบาล-ซับไทย.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/eZmNXn5A/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 7",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/04/Old-Enough-2013-ผจญภัยวัยอนุบาล-ซับไทย.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/YztMteP/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 8",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/04/Old-Enough-2013-ผจญภัยวัยอนุบาล-ซับไทย.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/0Y5mc2jL/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 9",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/04/Old-Enough-2013-ผจญภัยวัยอนุบาล-ซับไทย.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/CRHlZypE/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 10",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/04/Old-Enough-2013-ผจญภัยวัยอนุบาล-ซับไทย.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/PEgzCy6C/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 11",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/04/Old-Enough-2013-ผจญภัยวัยอนุบาล-ซับไทย.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/a7rEXBOA/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 12",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/04/Old-Enough-2013-ผจญภัยวัยอนุบาล-ซับไทย.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/WrAwUsYJ/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 13",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/04/Old-Enough-2013-ผจญภัยวัยอนุบาล-ซับไทย.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/kLLZxgt5/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 14",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/04/Old-Enough-2013-ผจญภัยวัยอนุบาล-ซับไทย.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/82gDEru/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 15",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/04/Old-Enough-2013-ผจญภัยวัยอนุบาล-ซับไทย.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/e3Onlw32/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 16",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/04/Old-Enough-2013-ผจญภัยวัยอนุบาล-ซับไทย.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/b5gR2NqQ/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 17",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/04/Old-Enough-2013-ผจญภัยวัยอนุบาล-ซับไทย.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/APPhGIuK/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 18",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/04/Old-Enough-2013-ผจญภัยวัยอนุบาล-ซับไทย.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/wGLF6T7n/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 19",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/04/Old-Enough-2013-ผจญภัยวัยอนุบาล-ซับไทย.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/pKUYPQVu/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 20",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/04/Old-Enough-2013-ผจญภัยวัยอนุบาล-ซับไทย.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/WITNyDxO/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    }
-   ]
-  },
-  {
    "name": "Emergency Interrogation Room (2014) – ห้องสอบสวนด่วนพิเศษ (ซับไทย)",
    "info": "Emergency Interrogation Room (2014) – ห้องสอบสวนด่วนพิเศษ (ซับไทย) 2014  ซีซั่น 1 Ep 9",
    "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2022/04/Emergency-Interrogation-Room-2014-ห้องสอบสวนด่วนพิเศษ-ซับไทย-1.jpg?resize=200,300",
@@ -8494,83 +8507,6 @@
    ]
   },
   {
-   "name": "Kei x Yaku Dangerous Buddy (2022) – เคย์ x ยากุ คู่หูอันตราย (ซับไทย)",
-   "info": "Kei x Yaku Dangerous Buddy (2022) – เคย์ x ยากุ คู่หูอันตราย (ซับไทย) 2022  ซีซั่น 1 Ep 10",
-   "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2022/02/Kei-Yaku-Abunai-Aibou-2022.jpg?resize=200,300",
-   "stations": [
-    {
-     "name": "ตอนที่ 1",
-     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2022/02/Kei-Yaku-Abunai-Aibou-2022.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/Qo9eo7tQ/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 2",
-     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2022/02/Kei-Yaku-Abunai-Aibou-2022.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/8YtkPm3t/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 3",
-     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2022/02/Kei-Yaku-Abunai-Aibou-2022.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/UtbziEAX/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 4",
-     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2022/02/Kei-Yaku-Abunai-Aibou-2022.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/C4YvVbyq/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 5",
-     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2022/02/Kei-Yaku-Abunai-Aibou-2022.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/uwXFAw0m/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 6",
-     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2022/02/Kei-Yaku-Abunai-Aibou-2022.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/mHT0xykS/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 7",
-     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2022/02/Kei-Yaku-Abunai-Aibou-2022.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/57TVcxzM/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 8",
-     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2022/02/Kei-Yaku-Abunai-Aibou-2022.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/IiFX95kZ/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 9",
-     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2022/02/Kei-Yaku-Abunai-Aibou-2022.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/PaSOnyE/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 10",
-     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2022/02/Kei-Yaku-Abunai-Aibou-2022.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/7F0K8qCY/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    }
-   ]
-  },
-  {
    "name": "Dying Eye (2019) – ภาพสุดท้ายที่คนตายเห็น (ซับไทย)",
    "info": "Dying Eye (2019) – ภาพสุดท้ายที่คนตายเห็น (ซับไทย) 2019  ซีซั่น 1 Ep 6",
    "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/03/Dying-Eye-2019-ภาพสุดท้ายที่คนตายเห็น-ซับไทย.jpg?resize=200,300",
@@ -8930,202 +8866,6 @@
      "image": "https://i1.wp.com/series-indy.com/wp-content/uploads/2022/03/Im-Mita-Your-Housekeeper-2011-มิตะ-แม่บ้านพันธุ์แปลก-ซับไทย.jpg?resize=200,300",
      "info": "ซับไทย",
      "url": "https://series-cdn.team-indy.net:8443/vod/LqTg1ZFY/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    }
-   ]
-  },
-  {
-   "name": "Tokyo Dokushin Danshi (2019) – โสด ซิ่ง วิ่งหารัก (ซับไทย)",
-   "info": "Tokyo Dokushin Danshi (2019) – โสด ซิ่ง วิ่งหารัก (ซับไทย) 2019  ซีซั่น 1 Ep 8",
-   "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/03/Tokyo-Dokushin-Danshi-2019-โสด-ซิ่ง-วิ่งหารัก-ซับไทย.jpg?resize=200,300",
-   "stations": [
-    {
-     "name": "ตอนที่ 1",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/03/Tokyo-Dokushin-Danshi-2019-โสด-ซิ่ง-วิ่งหารัก-ซับไทย.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/23sOtFZo/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 2",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/03/Tokyo-Dokushin-Danshi-2019-โสด-ซิ่ง-วิ่งหารัก-ซับไทย.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/xkO46nA5/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 3",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/03/Tokyo-Dokushin-Danshi-2019-โสด-ซิ่ง-วิ่งหารัก-ซับไทย.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/ANHIQysH/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 4",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/03/Tokyo-Dokushin-Danshi-2019-โสด-ซิ่ง-วิ่งหารัก-ซับไทย.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/esef3wE/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 5",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/03/Tokyo-Dokushin-Danshi-2019-โสด-ซิ่ง-วิ่งหารัก-ซับไทย.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/iFikQ1sI/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 6",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/03/Tokyo-Dokushin-Danshi-2019-โสด-ซิ่ง-วิ่งหารัก-ซับไทย.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/pbL98Lx/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 7",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/03/Tokyo-Dokushin-Danshi-2019-โสด-ซิ่ง-วิ่งหารัก-ซับไทย.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/jPdgOUKf/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 8",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/03/Tokyo-Dokushin-Danshi-2019-โสด-ซิ่ง-วิ่งหารัก-ซับไทย.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/sNZe4bRP/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    }
-   ]
-  },
-  {
-   "name": "Kotaro Lives Alone (2021) – โคทาโร่อยู่คนเดียว (ซับไทย)",
-   "info": "Kotaro Lives Alone (2021) – โคทาโร่อยู่คนเดียว (ซับไทย) 2021  ซีซั่น 1 Ep 10",
-   "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2022/03/Kotaro-Lives-Alone-2021-โคทาโร่อยู่คนเดียว-ซับไทย.jpg?resize=200,300",
-   "stations": [
-    {
-     "name": "ตอนที่ 1",
-     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2022/03/Kotaro-Lives-Alone-2021-โคทาโร่อยู่คนเดียว-ซับไทย.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/CkDmj5bV/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 2",
-     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2022/03/Kotaro-Lives-Alone-2021-โคทาโร่อยู่คนเดียว-ซับไทย.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6UXleKcf/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 3",
-     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2022/03/Kotaro-Lives-Alone-2021-โคทาโร่อยู่คนเดียว-ซับไทย.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/Cfv8AvS/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 4",
-     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2022/03/Kotaro-Lives-Alone-2021-โคทาโร่อยู่คนเดียว-ซับไทย.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/PDl182fw/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 5",
-     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2022/03/Kotaro-Lives-Alone-2021-โคทาโร่อยู่คนเดียว-ซับไทย.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/XfJkpbvL/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 6",
-     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2022/03/Kotaro-Lives-Alone-2021-โคทาโร่อยู่คนเดียว-ซับไทย.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/nwroz4b/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 7",
-     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2022/03/Kotaro-Lives-Alone-2021-โคทาโร่อยู่คนเดียว-ซับไทย.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/jCk3gKl/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 8",
-     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2022/03/Kotaro-Lives-Alone-2021-โคทาโร่อยู่คนเดียว-ซับไทย.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/LVz28dFq/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 9",
-     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2022/03/Kotaro-Lives-Alone-2021-โคทาโร่อยู่คนเดียว-ซับไทย.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/YTW8Aqov/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 10",
-     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2022/03/Kotaro-Lives-Alone-2021-โคทาโร่อยู่คนเดียว-ซับไทย.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/WGQJTB2/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    }
-   ]
-  },
-  {
-   "name": "Last One Standing (2022) – ท้ายสุดคือสุดยอด (ซับไทย)",
-   "info": "Last One Standing (2022) – ท้ายสุดคือสุดยอด (ซับไทย) 2022  ซีซั่น 1 Ep 8",
-   "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/03/Last-One-Standing-2022-ท้ายสุดคือสุดยอด-ซับไทย.jpg?resize=200,300",
-   "stations": [
-    {
-     "name": "ตอนที่ 1",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/03/Last-One-Standing-2022-ท้ายสุดคือสุดยอด-ซับไทย.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/WenX1blE/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 2",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/03/Last-One-Standing-2022-ท้ายสุดคือสุดยอด-ซับไทย.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/isUqPCEq/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 3",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/03/Last-One-Standing-2022-ท้ายสุดคือสุดยอด-ซับไทย.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/IBoVw3Bh/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 4",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/03/Last-One-Standing-2022-ท้ายสุดคือสุดยอด-ซับไทย.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/2oHXeWBf/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 6",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/03/Last-One-Standing-2022-ท้ายสุดคือสุดยอด-ซับไทย.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/ppX3fqrt/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 7",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/03/Last-One-Standing-2022-ท้ายสุดคือสุดยอด-ซับไทย.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/uDLrRqWu/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 8",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/03/Last-One-Standing-2022-ท้ายสุดคือสุดยอด-ซับไทย.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/PHhXQvQu/video.mp4/playlist.m3u8",
      "referer": "https://series.team-indy.net/"
     }
    ]
@@ -10779,76 +10519,6 @@
    ]
   },
   {
-   "name": "Doctor X 2 (2013) – หมอซ่าส์พันธุ์เอ็กซ์ ภาค2 (ซับไทย)",
-   "info": "Doctor X 2 (2013) – หมอซ่าส์พันธุ์เอ็กซ์ ภาค2 (ซับไทย) 2013  ซีซั่น 2 Ep 9",
-   "image": "https://i1.wp.com/series-indy.com/wp-content/uploads/2022/01/Doctor-X-2-2013.jpg?resize=200,300",
-   "stations": [
-    {
-     "name": "ตอนที่ 1",
-     "image": "https://i1.wp.com/series-indy.com/wp-content/uploads/2022/01/Doctor-X-2-2013.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/PyrQSRuF/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 2",
-     "image": "https://i1.wp.com/series-indy.com/wp-content/uploads/2022/01/Doctor-X-2-2013.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/qMm5rE3H/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 3",
-     "image": "https://i1.wp.com/series-indy.com/wp-content/uploads/2022/01/Doctor-X-2-2013.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/jpNbaD4H/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 4",
-     "image": "https://i1.wp.com/series-indy.com/wp-content/uploads/2022/01/Doctor-X-2-2013.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/5sDWHVK8/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 5",
-     "image": "https://i1.wp.com/series-indy.com/wp-content/uploads/2022/01/Doctor-X-2-2013.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/xtg2aa2G/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 6",
-     "image": "https://i1.wp.com/series-indy.com/wp-content/uploads/2022/01/Doctor-X-2-2013.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/ae8KuOE6/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 7",
-     "image": "https://i1.wp.com/series-indy.com/wp-content/uploads/2022/01/Doctor-X-2-2013.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/YmBT8QLi/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 8",
-     "image": "https://i1.wp.com/series-indy.com/wp-content/uploads/2022/01/Doctor-X-2-2013.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/TgQXsciv/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 9",
-     "image": "https://i1.wp.com/series-indy.com/wp-content/uploads/2022/01/Doctor-X-2-2013.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/BbrCCx3J/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    }
-   ]
-  },
-  {
    "name": "Homeroom (2020) – คาบเรียนโฮมรูมของคุณครูไอดะ (พากย์ไทย)",
    "info": "Homeroom (2020) – คาบเรียนโฮมรูมของคุณครูไอดะ (พากย์ไทย) 2020  ซีซั่น 1 Ep 10",
    "image": "https://i1.wp.com/series-indy.com/wp-content/uploads/2022/01/Homeroom-2020.jpg?resize=200,300",
@@ -11334,83 +11004,6 @@
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/12/Hanzawa-Naoki-2.jpg?resize=200,300",
      "info": "ซับไทย",
      "url": "https://series-cdn.team-indy.net:8443/vod/LqN8C1vr/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    }
-   ]
-  },
-  {
-   "name": "Hitman in Love (2021) – มือปืนปล้นรัก (ซับไทย)",
-   "info": "Hitman in Love (2021) – มือปืนปล้นรัก (ซับไทย) 2021  ซีซั่น 1 Ep 10",
-   "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/12/Hitman-in-Love-2021.jpg?resize=200,300",
-   "stations": [
-    {
-     "name": "ตอนที่ 1",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/12/Hitman-in-Love-2021.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/qjnUKoU/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 2",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/12/Hitman-in-Love-2021.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/7ODLgbZg/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 3",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/12/Hitman-in-Love-2021.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/R0UoThJb/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 4",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/12/Hitman-in-Love-2021.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/QsJgQC5v/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 5",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/12/Hitman-in-Love-2021.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/MMVrs3CP/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 6",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/12/Hitman-in-Love-2021.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/g4ulrfbu/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 7",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/12/Hitman-in-Love-2021.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/wgLERsKL/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 8",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/12/Hitman-in-Love-2021.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/PPibEx4l/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 9",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/12/Hitman-in-Love-2021.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/StIcR8zG/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 10",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/12/Hitman-in-Love-2021.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/N578hMy/video.mp4/playlist.m3u8",
      "referer": "https://series.team-indy.net/"
     }
    ]

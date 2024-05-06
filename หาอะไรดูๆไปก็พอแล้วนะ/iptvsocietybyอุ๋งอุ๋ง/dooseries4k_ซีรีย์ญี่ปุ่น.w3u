@@ -1,9 +1,51 @@
 {
   "name": "ซีรีย์ญี่ปุ่น",
-  "author": "เจียว เจียว อัพวันที่ 26 มีนาคม 2567",
+  "author": "เจียว เจียว อัพวันที่ 06 พฤษภาคม 2567",
   "info": "ชีวิตไม่ได้ให้เราสิ่งที่ต้องการเสมอไป แต่มันจะให้เราสิ่งที่เราจำเป็นต้องการ",
   "image": "https://www.dooseries4k.com/wp-content/themes/dooseries4k/logo/logo.png",
   "groups": [
+    {
+      "name": "House of the Owl (2024)",
+      "info": "SUB",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/House-of-the-Owl-2024-220x300-c-default.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/House-of-the-Owl-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/842a4d47-bd6b-5ae6-bfd4-0f5461946a9d.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/House-of-the-Owl-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/4569175e-e3f5-51ef-ad58-0f01aad71b8c.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/House-of-the-Owl-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/2e4a41e3-8052-53b5-9f7f-2f7fbb9f1a69.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/House-of-the-Owl-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/0d3a475c-c156-583c-a4ce-51d6ecdd513e.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/House-of-the-Owl-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/c6ba0d61-561c-53f8-a6bb-19de9ecfe6de.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        }
+      ]
+    },
     {
       "name": "The Silent Service (2024) ยุทธการใต้สมุทร",
       "info": "HD",

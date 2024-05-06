@@ -1,9 +1,366 @@
 {
   "name": "ลึกลับซ่อนเงื่อน",
-  "author": "เจียว เจียว อัพวันที่ 26 มีนาคม 2567",
+  "author": "เจียว เจียว อัพวันที่ 06 พฤษภาคม 2567",
   "info": "ชีวิตไม่ได้ให้เราสิ่งที่ต้องการเสมอไป แต่มันจะให้เราสิ่งที่เราจำเป็นต้องการ",
   "image": "https://www.dooseries4k.com/wp-content/themes/dooseries4k/logo/logo.png",
   "groups": [
+    {
+      "name": "House of the Owl (2024)",
+      "info": "SUB",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/House-of-the-Owl-2024-220x300-c-default.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/House-of-the-Owl-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/842a4d47-bd6b-5ae6-bfd4-0f5461946a9d.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/House-of-the-Owl-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/4569175e-e3f5-51ef-ad58-0f01aad71b8c.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/House-of-the-Owl-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/2e4a41e3-8052-53b5-9f7f-2f7fbb9f1a69.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/House-of-the-Owl-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/0d3a475c-c156-583c-a4ce-51d6ecdd513e.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/House-of-the-Owl-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/c6ba0d61-561c-53f8-a6bb-19de9ecfe6de.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        }
+      ]
+    },
+    {
+      "name": "Legend of The Hidden Land (2024) ภูลังกา",
+      "info": "HD",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Legend-of-The-Hidden-Land-2024-220x300-c-default.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Legend-of-The-Hidden-Land-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/a2253ecd-9acb-59c3-865e-cd76beb3b43e.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Legend-of-The-Hidden-Land-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/48d7fd34-7039-54f5-9487-d72eb0b01ce8.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Legend-of-The-Hidden-Land-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/9cdaece0-3305-5e90-8358-b81f774e4b23.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Legend-of-The-Hidden-Land-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/1a2a0824-0b0c-5bad-9aa4-d3c385fa9f6f.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Legend-of-The-Hidden-Land-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/d6ab795b-f91a-5250-abc6-21948ab9a3aa.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Legend-of-The-Hidden-Land-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/8c12975c-d34e-5a78-9694-5a7dd4c88d8e.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Legend-of-The-Hidden-Land-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/f57eb3eb-814d-500e-a8f8-01301eea33e7.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Legend-of-The-Hidden-Land-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/69daad5d-4bb2-5856-9eb0-2c3397a75c0c.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 9",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Legend-of-The-Hidden-Land-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/5a4d29e0-2241-5f6c-9548-21cf587adc44.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 10",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Legend-of-The-Hidden-Land-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/086e122b-4113-52cd-b567-328129106c9c.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 11",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Legend-of-The-Hidden-Land-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/c708f521-04a9-585e-8ec4-b0995a91cb32.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 12",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Legend-of-The-Hidden-Land-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/1a76358b-2103-5861-a76f-2506dd18eaad.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 13",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Legend-of-The-Hidden-Land-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/97c3bae1-04bf-56b0-96ea-48052f9936e9.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 14",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Legend-of-The-Hidden-Land-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/2d7f985d-fbbe-5dc0-93c7-422fb4f5f80f.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 15",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Legend-of-The-Hidden-Land-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/30378590-f5a9-5b82-b69d-740c7c63ee53.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 16",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Legend-of-The-Hidden-Land-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/0662bac5-7934-5068-a079-270f33378c8c.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 17",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Legend-of-The-Hidden-Land-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/6adf348d-3d13-5b0f-b55f-a3713c42c60b.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 18",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Legend-of-The-Hidden-Land-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/280751c0-bbd8-5212-a556-472fc2a4bdd8.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 19",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Legend-of-The-Hidden-Land-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/f0bf9ebc-dfd4-58cc-925b-d6cf46c7d6ab.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 20",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Legend-of-The-Hidden-Land-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/7e119a99-bd8e-5691-a43d-f13cca483ed4.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 21",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Legend-of-The-Hidden-Land-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/5a252450-5927-5fd5-a10c-131d4b882809.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 22",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Legend-of-The-Hidden-Land-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/55dd461d-0363-51ff-8220-e7ee17fed460.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 23",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Legend-of-The-Hidden-Land-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/c3847b7f-3171-51a4-92b1-439cca1dcd87.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 24",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Legend-of-The-Hidden-Land-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/ca101d31-1647-5639-8e34-1f135dcfee6c.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 25",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Legend-of-The-Hidden-Land-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/2742ccc0-f8be-573d-9e76-70830601a0eb.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 26",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Legend-of-The-Hidden-Land-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/6130692a-0f36-5cd3-bc42-5868fd6b2549.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 27",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Legend-of-The-Hidden-Land-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/cf133cf0-28e4-5f8c-890c-5ef6750011d0.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 27",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Legend-of-The-Hidden-Land-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/cf133cf0-28e4-5f8c-890c-5ef6750011d0.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 28",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Legend-of-The-Hidden-Land-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/c57594f1-8187-5b94-8a46-6d7dee97ec73.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 28",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Legend-of-The-Hidden-Land-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/c57594f1-8187-5b94-8a46-6d7dee97ec73.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 29",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Legend-of-The-Hidden-Land-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/ed635d29-7335-50c2-8904-d21fe5210795.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 30",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Legend-of-The-Hidden-Land-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/7c2e1efa-0c20-5f66-93c0-9ef17a9f56b9.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 31",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Legend-of-The-Hidden-Land-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/c5d8644c-b686-5b22-864e-c536d266eb55.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 32",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Legend-of-The-Hidden-Land-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/44c12417-9dbc-5dea-a925-19ef0be3ae51.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 33",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Legend-of-The-Hidden-Land-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/5dda3bd9-cb40-5d4f-b2bb-bf13a13b72c2.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 34",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Legend-of-The-Hidden-Land-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/9115a6e9-6c54-5b91-9207-69e2d40f768e.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 35",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Legend-of-The-Hidden-Land-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/facab09a-16cc-572a-afab-2995a870e7cb.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        }
+      ]
+    },
+    {
+      "name": "Anthracite (2024) เถ้าความตาย",
+      "info": "HD",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Anthracite-220x300-c-default.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Anthracite-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/46f9164e-8001-5174-aa75-c9dbaf4b1e39.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Anthracite-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/cff3f674-81c6-51b6-9bfa-3de4ed415d6b.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Anthracite-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/41f910bc-d0d9-54e2-bb2e-610bc67f563b.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Anthracite-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/d33d7cdd-0a67-5025-a4c0-8a1836f5e449.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Anthracite-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/b9547537-731b-584d-b9d4-1b6e28692b9f.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Anthracite-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/7456f9a5-594e-59bd-ab07-8916afb5c4f5.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        }
+      ]
+    },
     {
       "name": "3 Body Problem (2024) ดาวซานถี่ อุบัติการณ์สงครามล้างโลก",
       "info": "HD",

@@ -1,9 +1,534 @@
 {
  "name": "Action",
- "author": "เจียว เจียว อัพวันที่ 15 มกราคม 2567",
+ "author": "เจียว เจียว อัพวันที่ 06 พฤษภาคม 2567",
  "info": "ความสำเร็จไม่ใช่จุดสิ้นสุด ความล้มเหลวไม่ใช่เรื่องร้ายแรง ความกล้าหาญที่จะทำต่อไปต่างหากที่สำคัญ",
  "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/01/series1111.png",
  "groups": [
+  {
+   "name": "War of Faith (2024) – สมรภูมิแห่งศรัทธา (ซับไทย)",
+   "info": "War of Faith (2024) – สมรภูมิแห่งศรัทธา (ซับไทย) 2024  ซีซั่น 1 Ep 38",
+   "image": "https://i1.wp.com/series-indy.com/wp-content/uploads/2024/03/War-of-Faith.jpg?resize=200,300",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "image": "https://i1.wp.com/series-indy.com/wp-content/uploads/2024/03/War-of-Faith.jpg?resize=200,300",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/wsjDryabeT/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "image": "https://i1.wp.com/series-indy.com/wp-content/uploads/2024/03/War-of-Faith.jpg?resize=200,300",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/8L7fYqGrN9/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 3",
+     "image": "https://i1.wp.com/series-indy.com/wp-content/uploads/2024/03/War-of-Faith.jpg?resize=200,300",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/QUwI9i0tjz/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "image": "https://i1.wp.com/series-indy.com/wp-content/uploads/2024/03/War-of-Faith.jpg?resize=200,300",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/S8QWhFgNa2/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 5",
+     "image": "https://i1.wp.com/series-indy.com/wp-content/uploads/2024/03/War-of-Faith.jpg?resize=200,300",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/y0Xho2udeu/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "image": "https://i1.wp.com/series-indy.com/wp-content/uploads/2024/03/War-of-Faith.jpg?resize=200,300",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/7LL0qStpXZ/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 7",
+     "image": "https://i1.wp.com/series-indy.com/wp-content/uploads/2024/03/War-of-Faith.jpg?resize=200,300",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/YrX8yvEcb/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 8",
+     "image": "https://i1.wp.com/series-indy.com/wp-content/uploads/2024/03/War-of-Faith.jpg?resize=200,300",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/KPXVfzrvTm/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 9",
+     "image": "https://i1.wp.com/series-indy.com/wp-content/uploads/2024/03/War-of-Faith.jpg?resize=200,300",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/hJhZDZCjXW/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 10",
+     "image": "https://i1.wp.com/series-indy.com/wp-content/uploads/2024/03/War-of-Faith.jpg?resize=200,300",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/qh0O9KG4h0/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 11",
+     "image": "https://i1.wp.com/series-indy.com/wp-content/uploads/2024/03/War-of-Faith.jpg?resize=200,300",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/WiizCd8OmL/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 12",
+     "image": "https://i1.wp.com/series-indy.com/wp-content/uploads/2024/03/War-of-Faith.jpg?resize=200,300",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/ldW1acEemz/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 13",
+     "image": "https://i1.wp.com/series-indy.com/wp-content/uploads/2024/03/War-of-Faith.jpg?resize=200,300",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/sVayqW8oC8/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 14",
+     "image": "https://i1.wp.com/series-indy.com/wp-content/uploads/2024/03/War-of-Faith.jpg?resize=200,300",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/5mWZiM7BPm/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 15",
+     "image": "https://i1.wp.com/series-indy.com/wp-content/uploads/2024/03/War-of-Faith.jpg?resize=200,300",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/vA6sMbOXs/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 16",
+     "image": "https://i1.wp.com/series-indy.com/wp-content/uploads/2024/03/War-of-Faith.jpg?resize=200,300",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/uedW20desr/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 17",
+     "image": "https://i1.wp.com/series-indy.com/wp-content/uploads/2024/03/War-of-Faith.jpg?resize=200,300",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/vscedlcMrh/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 18",
+     "image": "https://i1.wp.com/series-indy.com/wp-content/uploads/2024/03/War-of-Faith.jpg?resize=200,300",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/iHzkV8bxgh/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 19",
+     "image": "https://i1.wp.com/series-indy.com/wp-content/uploads/2024/03/War-of-Faith.jpg?resize=200,300",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/mbY06UgnQi/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 20",
+     "image": "https://i1.wp.com/series-indy.com/wp-content/uploads/2024/03/War-of-Faith.jpg?resize=200,300",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/Go1Gv2dh2T/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 21",
+     "image": "https://i1.wp.com/series-indy.com/wp-content/uploads/2024/03/War-of-Faith.jpg?resize=200,300",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/pySD7UYrYq/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 22",
+     "image": "https://i1.wp.com/series-indy.com/wp-content/uploads/2024/03/War-of-Faith.jpg?resize=200,300",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/RKyL0fSv9V/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 23",
+     "image": "https://i1.wp.com/series-indy.com/wp-content/uploads/2024/03/War-of-Faith.jpg?resize=200,300",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/8rpbH2QXj0/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 24",
+     "image": "https://i1.wp.com/series-indy.com/wp-content/uploads/2024/03/War-of-Faith.jpg?resize=200,300",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/pAAaELEGcL/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 25",
+     "image": "https://i1.wp.com/series-indy.com/wp-content/uploads/2024/03/War-of-Faith.jpg?resize=200,300",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/Sx2cmhdxIl/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 26",
+     "image": "https://i1.wp.com/series-indy.com/wp-content/uploads/2024/03/War-of-Faith.jpg?resize=200,300",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/ojQVa2mSXw/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 27",
+     "image": "https://i1.wp.com/series-indy.com/wp-content/uploads/2024/03/War-of-Faith.jpg?resize=200,300",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/3lERiuTecP/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 28",
+     "image": "https://i1.wp.com/series-indy.com/wp-content/uploads/2024/03/War-of-Faith.jpg?resize=200,300",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/O3qwTcbU2b/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 29",
+     "image": "https://i1.wp.com/series-indy.com/wp-content/uploads/2024/03/War-of-Faith.jpg?resize=200,300",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/FBosWKLEau/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 30",
+     "image": "https://i1.wp.com/series-indy.com/wp-content/uploads/2024/03/War-of-Faith.jpg?resize=200,300",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/5qCfwSX70T/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 31",
+     "image": "https://i1.wp.com/series-indy.com/wp-content/uploads/2024/03/War-of-Faith.jpg?resize=200,300",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/0pCwYfJmb0/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 32",
+     "image": "https://i1.wp.com/series-indy.com/wp-content/uploads/2024/03/War-of-Faith.jpg?resize=200,300",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/H1itJywFuo/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 33",
+     "image": "https://i1.wp.com/series-indy.com/wp-content/uploads/2024/03/War-of-Faith.jpg?resize=200,300",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/zue17OVsGm/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 34",
+     "image": "https://i1.wp.com/series-indy.com/wp-content/uploads/2024/03/War-of-Faith.jpg?resize=200,300",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/6sWWpfnw2g/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 35",
+     "image": "https://i1.wp.com/series-indy.com/wp-content/uploads/2024/03/War-of-Faith.jpg?resize=200,300",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/lZzb9wUy2/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 36",
+     "image": "https://i1.wp.com/series-indy.com/wp-content/uploads/2024/03/War-of-Faith.jpg?resize=200,300",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/BQJGQkeDvy/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 37",
+     "image": "https://i1.wp.com/series-indy.com/wp-content/uploads/2024/03/War-of-Faith.jpg?resize=200,300",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/XvIaW5riuW/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 38",
+     "image": "https://i1.wp.com/series-indy.com/wp-content/uploads/2024/03/War-of-Faith.jpg?resize=200,300",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/vJymIrvn0m/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    }
+   ]
+  },
+  {
+   "name": "Eternal Brotherhood สามสงครามสหาย ซับไทย",
+   "info": "Eternal Brotherhood สามสงครามสหาย ซับไทย 2024  ซีซั่น 1 Ep 24",
+   "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2024/02/Eternal-Brotherhood-1.jpg?resize=200,300",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2024/02/Eternal-Brotherhood-1.jpg?resize=200,300",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/07eh0NLAH9/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2024/02/Eternal-Brotherhood-1.jpg?resize=200,300",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/QMoAeIGnXK/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 3",
+     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2024/02/Eternal-Brotherhood-1.jpg?resize=200,300",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/H6X5poub7b/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2024/02/Eternal-Brotherhood-1.jpg?resize=200,300",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/VcZsQTzj5n/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 5",
+     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2024/02/Eternal-Brotherhood-1.jpg?resize=200,300",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/1lyvh5JTvR/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2024/02/Eternal-Brotherhood-1.jpg?resize=200,300",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/DKrssuCmNu/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 7",
+     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2024/02/Eternal-Brotherhood-1.jpg?resize=200,300",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/VVPKvnVwQj/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 8",
+     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2024/02/Eternal-Brotherhood-1.jpg?resize=200,300",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/GqTlCvVBV/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 9",
+     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2024/02/Eternal-Brotherhood-1.jpg?resize=200,300",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/eQrCQF5gA/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 10",
+     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2024/02/Eternal-Brotherhood-1.jpg?resize=200,300",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/k2FgZbCA1S/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 11",
+     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2024/02/Eternal-Brotherhood-1.jpg?resize=200,300",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/EmrKKBnbUj/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 12",
+     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2024/02/Eternal-Brotherhood-1.jpg?resize=200,300",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/A9tZyPS6fw/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 13",
+     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2024/02/Eternal-Brotherhood-1.jpg?resize=200,300",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/wxdv41slEi/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 14",
+     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2024/02/Eternal-Brotherhood-1.jpg?resize=200,300",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/6AX9xZJ6UU/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 15",
+     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2024/02/Eternal-Brotherhood-1.jpg?resize=200,300",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/jawIDnYX6w/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 16",
+     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2024/02/Eternal-Brotherhood-1.jpg?resize=200,300",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/xVGtb4vjTE/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 17",
+     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2024/02/Eternal-Brotherhood-1.jpg?resize=200,300",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/A1Bjt5ymtV/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 18",
+     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2024/02/Eternal-Brotherhood-1.jpg?resize=200,300",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/UXSwkVVTEs/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 19",
+     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2024/02/Eternal-Brotherhood-1.jpg?resize=200,300",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/5da5JRSE1n/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 20",
+     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2024/02/Eternal-Brotherhood-1.jpg?resize=200,300",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/mBorJ7s1L9/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 21",
+     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2024/02/Eternal-Brotherhood-1.jpg?resize=200,300",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/soy5qkDAFk/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 22",
+     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2024/02/Eternal-Brotherhood-1.jpg?resize=200,300",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/ZS7BpJ3HWd/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 23",
+     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2024/02/Eternal-Brotherhood-1.jpg?resize=200,300",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/ApQhewVIXo/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 24",
+     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2024/02/Eternal-Brotherhood-1.jpg?resize=200,300",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/C8KTv1bTCo/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    }
+   ]
+  },
+  {
+   "name": "Kei x Yaku Dangerous Buddy (2022) – เคย์ x ยากุ คู่หูอันตราย (ซับไทย)",
+   "info": "Kei x Yaku Dangerous Buddy (2022) – เคย์ x ยากุ คู่หูอันตราย (ซับไทย) 2022  ซีซั่น 1 Ep 10",
+   "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2022/02/Kei-Yaku-Abunai-Aibou-2022.jpg?resize=200,300",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2022/02/Kei-Yaku-Abunai-Aibou-2022.jpg?resize=200,300",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/Qo9eo7tQ/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2022/02/Kei-Yaku-Abunai-Aibou-2022.jpg?resize=200,300",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/8YtkPm3t/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 3",
+     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2022/02/Kei-Yaku-Abunai-Aibou-2022.jpg?resize=200,300",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/UtbziEAX/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2022/02/Kei-Yaku-Abunai-Aibou-2022.jpg?resize=200,300",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/C4YvVbyq/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 5",
+     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2022/02/Kei-Yaku-Abunai-Aibou-2022.jpg?resize=200,300",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/uwXFAw0m/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2022/02/Kei-Yaku-Abunai-Aibou-2022.jpg?resize=200,300",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/mHT0xykS/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 7",
+     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2022/02/Kei-Yaku-Abunai-Aibou-2022.jpg?resize=200,300",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/57TVcxzM/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 8",
+     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2022/02/Kei-Yaku-Abunai-Aibou-2022.jpg?resize=200,300",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/IiFX95kZ/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 9",
+     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2022/02/Kei-Yaku-Abunai-Aibou-2022.jpg?resize=200,300",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/PaSOnyE/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 10",
+     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2022/02/Kei-Yaku-Abunai-Aibou-2022.jpg?resize=200,300",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/7F0K8qCY/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    }
+   ]
+  },
   {
    "name": "Mr. & Mrs. Chen (ซับไทย)",
    "info": "Mr. & Mrs. Chen (ซับไทย) 2023  ซีซั่น 1 Ep 32",
@@ -364,76 +889,6 @@
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/1691235815-5727-jBRcuHl29sZBnG5lUQ1DFzlVdx5.jpg?resize=200,300",
      "info": "ซับไทย ok.ru",
      "url": "https://ok.ru/videoembed/6439351028258/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 18",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/1691235815-5727-jBRcuHl29sZBnG5lUQ1DFzlVdx5.jpg?resize=200,300",
-     "info": "ซับไทย ok.ru",
-     "url": "https://ok.ru/videoembed/6442235464226/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 19",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/1691235815-5727-jBRcuHl29sZBnG5lUQ1DFzlVdx5.jpg?resize=200,300",
-     "info": "ซับไทย ok.ru",
-     "url": "https://ok.ru/videoembed/6442251520546/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 20",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/1691235815-5727-jBRcuHl29sZBnG5lUQ1DFzlVdx5.jpg?resize=200,300",
-     "info": "ซับไทย ok.ru",
-     "url": "https://ok.ru/videoembed/6457271781922/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 21",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/1691235815-5727-jBRcuHl29sZBnG5lUQ1DFzlVdx5.jpg?resize=200,300",
-     "info": "ซับไทย ok.ru",
-     "url": "https://ok.ru/videoembed/6460379367970/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 22",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/1691235815-5727-jBRcuHl29sZBnG5lUQ1DFzlVdx5.jpg?resize=200,300",
-     "info": "ซับไทย ok.ru",
-     "url": "https://ok.ru/videoembed/6460404533794/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 23",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/1691235815-5727-jBRcuHl29sZBnG5lUQ1DFzlVdx5.jpg?resize=200,300",
-     "info": "ซับไทย ok.ru",
-     "url": "https://ok.ru/videoembed/6460404599330/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 24",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/1691235815-5727-jBRcuHl29sZBnG5lUQ1DFzlVdx5.jpg?resize=200,300",
-     "info": "ซับไทย ok.ru",
-     "url": "https://ok.ru/videoembed/6463858608674/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 25",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/1691235815-5727-jBRcuHl29sZBnG5lUQ1DFzlVdx5.jpg?resize=200,300",
-     "info": "ซับไทย ok.ru",
-     "url": "https://ok.ru/videoembed/6463858543138/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 26",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/1691235815-5727-jBRcuHl29sZBnG5lUQ1DFzlVdx5.jpg?resize=200,300",
-     "info": "ซับไทย ok.ru",
-     "url": "https://ok.ru/videoembed/6481223813666/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 27",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/1691235815-5727-jBRcuHl29sZBnG5lUQ1DFzlVdx5.jpg?resize=200,300",
-     "info": "ซับไทย ok.ru",
-     "url": "https://ok.ru/videoembed/6481223748130/",
      "referer": "https://ok.ru/"
     }
    ]
@@ -7774,83 +8229,6 @@
    ]
   },
   {
-   "name": "Kei x Yaku Dangerous Buddy (2022) – เคย์ x ยากุ คู่หูอันตราย (ซับไทย)",
-   "info": "Kei x Yaku Dangerous Buddy (2022) – เคย์ x ยากุ คู่หูอันตราย (ซับไทย) 2022  ซีซั่น 1 Ep 10",
-   "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2022/02/Kei-Yaku-Abunai-Aibou-2022.jpg?resize=200,300",
-   "stations": [
-    {
-     "name": "ตอนที่ 1",
-     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2022/02/Kei-Yaku-Abunai-Aibou-2022.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/Qo9eo7tQ/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 2",
-     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2022/02/Kei-Yaku-Abunai-Aibou-2022.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/8YtkPm3t/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 3",
-     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2022/02/Kei-Yaku-Abunai-Aibou-2022.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/UtbziEAX/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 4",
-     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2022/02/Kei-Yaku-Abunai-Aibou-2022.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/C4YvVbyq/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 5",
-     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2022/02/Kei-Yaku-Abunai-Aibou-2022.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/uwXFAw0m/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 6",
-     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2022/02/Kei-Yaku-Abunai-Aibou-2022.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/mHT0xykS/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 7",
-     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2022/02/Kei-Yaku-Abunai-Aibou-2022.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/57TVcxzM/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 8",
-     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2022/02/Kei-Yaku-Abunai-Aibou-2022.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/IiFX95kZ/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 9",
-     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2022/02/Kei-Yaku-Abunai-Aibou-2022.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/PaSOnyE/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 10",
-     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2022/02/Kei-Yaku-Abunai-Aibou-2022.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/7F0K8qCY/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    }
-   ]
-  },
-  {
    "name": "Lucky With You (2021) – โชคดีนักที่รักเป็นเธอ (พากย์ไทย)",
    "info": "Lucky With You (2021) – โชคดีนักที่รักเป็นเธอ (พากย์ไทย) 2021  ซีซั่น 1 Ep 40",
    "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2022/01/Lucky-With-You.jpg?resize=200,300",
@@ -9260,55 +9638,6 @@
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/12/Jupiters-Legacy.jpg?resize=200,300",
      "info": "พากย์ไทย",
      "url": "https://series-cdn.team-indy.net:8443/vod/Y6nRH6Km/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    }
-   ]
-  },
-  {
-   "name": "Into the Night Season 2 (ซับไทย)",
-   "info": "Into the Night Season 2 (ซับไทย) 2020  ซีซั่น 2 Ep 6",
-   "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2021/12/into-the-night2.jpg?resize=200,300",
-   "stations": [
-    {
-     "name": "ตอนที่ 1",
-     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2021/12/into-the-night2.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/hIBCjRUL/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 2",
-     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2021/12/into-the-night2.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/2DFGxpZB/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 3",
-     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2021/12/into-the-night2.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/asTyNOo0/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 4",
-     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2021/12/into-the-night2.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/y4IlPSj/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 5",
-     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2021/12/into-the-night2.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/XGuoJcKi/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 6",
-     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2021/12/into-the-night2.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/UlWJs4L7/video.mp4/playlist.m3u8",
      "referer": "https://series.team-indy.net/"
     }
    ]

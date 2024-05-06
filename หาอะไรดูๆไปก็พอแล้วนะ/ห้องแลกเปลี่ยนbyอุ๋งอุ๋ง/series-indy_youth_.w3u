@@ -1,9 +1,618 @@
 {
  "name": "Youth",
- "author": "เจียว เจียว อัพวันที่ 15 มกราคม 2567",
+ "author": "เจียว เจียว อัพวันที่ 06 พฤษภาคม 2567",
  "info": "ความสำเร็จไม่ใช่จุดสิ้นสุด ความล้มเหลวไม่ใช่เรื่องร้ายแรง ความกล้าหาญที่จะทำต่อไปต่างหากที่สำคัญ",
  "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/01/series1111.png",
  "groups": [
+  {
+   "name": "Pegasus (2024) – วิถีเพกาซัส ซับไทย",
+   "info": "Pegasus (2024) – วิถีเพกาซัส ซับไทย 2024  ซีซั่น 1 Ep 28",
+   "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2024/03/Pegasus-scaled.jpg?resize=200,300",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2024/03/Pegasus-scaled.jpg?resize=200,300",
+     "info": "ซับไทย ok.ru",
+     "url": "https://ok.ru/videoembed/7046606817826/",
+     "referer": "https://ok.ru/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2024/03/Pegasus-scaled.jpg?resize=200,300",
+     "info": "ซับไทย ok.ru",
+     "url": "https://ok.ru/videoembed/7046606752290/",
+     "referer": "https://ok.ru/"
+    },
+    {
+     "name": "ตอนที่ 3",
+     "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2024/03/Pegasus-scaled.jpg?resize=200,300",
+     "info": "ซับไทย ok.ru",
+     "url": "https://ok.ru/videoembed/7046606686754/",
+     "referer": "https://ok.ru/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2024/03/Pegasus-scaled.jpg?resize=200,300",
+     "info": "ซับไทย ok.ru",
+     "url": "https://ok.ru/videoembed/7046624840226/",
+     "referer": "https://ok.ru/"
+    },
+    {
+     "name": "ตอนที่ 5",
+     "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2024/03/Pegasus-scaled.jpg?resize=200,300",
+     "info": "ซับไทย ok.ru",
+     "url": "https://ok.ru/videoembed/7046630214178/",
+     "referer": "https://ok.ru/"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2024/03/Pegasus-scaled.jpg?resize=200,300",
+     "info": "ซับไทย ok.ru",
+     "url": "https://ok.ru/videoembed/7046624905762/",
+     "referer": "https://ok.ru/"
+    },
+    {
+     "name": "ตอนที่ 7",
+     "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2024/03/Pegasus-scaled.jpg?resize=200,300",
+     "info": "ซับไทย ok.ru",
+     "url": "https://ok.ru/videoembed/7046606621218/",
+     "referer": "https://ok.ru/"
+    },
+    {
+     "name": "ตอนที่ 8",
+     "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2024/03/Pegasus-scaled.jpg?resize=200,300",
+     "info": "ซับไทย ok.ru",
+     "url": "https://ok.ru/videoembed/7046606490146/",
+     "referer": "https://ok.ru/"
+    },
+    {
+     "name": "ตอนที่ 9",
+     "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2024/03/Pegasus-scaled.jpg?resize=200,300",
+     "info": "ซับไทย ok.ru",
+     "url": "https://ok.ru/videoembed/7046606424610/",
+     "referer": "https://ok.ru/"
+    },
+    {
+     "name": "ตอนที่ 10",
+     "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2024/03/Pegasus-scaled.jpg?resize=200,300",
+     "info": "ซับไทย ok.ru",
+     "url": "https://ok.ru/videoembed/7046606359074/",
+     "referer": "https://ok.ru/"
+    },
+    {
+     "name": "ตอนที่ 11",
+     "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2024/03/Pegasus-scaled.jpg?resize=200,300",
+     "info": "ซับไทย ok.ru",
+     "url": "https://ok.ru/videoembed/7049028176418/",
+     "referer": "https://ok.ru/"
+    },
+    {
+     "name": "ตอนที่ 12",
+     "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2024/03/Pegasus-scaled.jpg?resize=200,300",
+     "info": "ซับไทย ok.ru",
+     "url": "https://ok.ru/videoembed/7052297767458/",
+     "referer": "https://ok.ru/"
+    },
+    {
+     "name": "ตอนที่ 13",
+     "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2024/03/Pegasus-scaled.jpg?resize=200,300",
+     "info": "ซับไทย ok.ru",
+     "url": "https://ok.ru/videoembed/7052297898530/",
+     "referer": "https://ok.ru/"
+    },
+    {
+     "name": "ตอนที่ 14",
+     "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2024/03/Pegasus-scaled.jpg?resize=200,300",
+     "info": "ซับไทย ok.ru",
+     "url": "https://ok.ru/videoembed/7055921187362/",
+     "referer": "https://ok.ru/"
+    },
+    {
+     "name": "ตอนที่ 15",
+     "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2024/03/Pegasus-scaled.jpg?resize=200,300",
+     "info": "ซับไทย ok.ru",
+     "url": "https://ok.ru/videoembed/7058518837794/",
+     "referer": "https://ok.ru/"
+    },
+    {
+     "name": "ตอนที่ 16",
+     "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2024/03/Pegasus-scaled.jpg?resize=200,300",
+     "info": "ซับไทย ok.ru",
+     "url": "https://ok.ru/videoembed/7058518706722/",
+     "referer": "https://ok.ru/"
+    },
+    {
+     "name": "ตอนที่ 17",
+     "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2024/03/Pegasus-scaled.jpg?resize=200,300",
+     "info": "ซับไทย ok.ru",
+     "url": "https://ok.ru/videoembed/7062073444898/",
+     "referer": "https://ok.ru/"
+    },
+    {
+     "name": "ตอนที่ 18",
+     "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2024/03/Pegasus-scaled.jpg?resize=200,300",
+     "info": "ซับไทย ok.ru",
+     "url": "https://ok.ru/videoembed/7066832079394/",
+     "referer": "https://ok.ru/"
+    },
+    {
+     "name": "ตอนที่ 19",
+     "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2024/03/Pegasus-scaled.jpg?resize=200,300",
+     "info": "ซับไทย ok.ru",
+     "url": "https://ok.ru/videoembed/7080597588514/",
+     "referer": "https://ok.ru/"
+    },
+    {
+     "name": "ตอนที่ 20",
+     "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2024/03/Pegasus-scaled.jpg?resize=200,300",
+     "info": "ซับไทย ok.ru",
+     "url": "https://ok.ru/videoembed/7080597654050/",
+     "referer": "https://ok.ru/"
+    },
+    {
+     "name": "ตอนที่ 21",
+     "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2024/03/Pegasus-scaled.jpg?resize=200,300",
+     "info": "ซับไทย ok.ru",
+     "url": "https://ok.ru/videoembed/7080597522978/",
+     "referer": "https://ok.ru/"
+    },
+    {
+     "name": "ตอนที่ 22",
+     "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2024/03/Pegasus-scaled.jpg?resize=200,300",
+     "info": "ซับไทย ok.ru",
+     "url": "https://ok.ru/videoembed/7082870966818/",
+     "referer": "https://ok.ru/"
+    },
+    {
+     "name": "ตอนที่ 23",
+     "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2024/03/Pegasus-scaled.jpg?resize=200,300",
+     "info": "ซับไทย ok.ru",
+     "url": "https://ok.ru/videoembed/7082872867362/",
+     "referer": "https://ok.ru/"
+    },
+    {
+     "name": "ตอนที่ 24",
+     "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2024/03/Pegasus-scaled.jpg?resize=200,300",
+     "info": "ซับไทย ok.ru",
+     "url": "https://ok.ru/videoembed/7085657557538/",
+     "referer": "https://ok.ru/"
+    },
+    {
+     "name": "ตอนที่ 25",
+     "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2024/03/Pegasus-scaled.jpg?resize=200,300",
+     "info": "ซับไทย ok.ru",
+     "url": "https://ok.ru/videoembed/7101708110370/",
+     "referer": "https://ok.ru/"
+    },
+    {
+     "name": "ตอนที่ 26",
+     "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2024/03/Pegasus-scaled.jpg?resize=200,300",
+     "info": "ซับไทย ok.ru",
+     "url": "https://ok.ru/videoembed/7101708175906/",
+     "referer": "https://ok.ru/"
+    },
+    {
+     "name": "ตอนที่ 27",
+     "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2024/03/Pegasus-scaled.jpg?resize=200,300",
+     "info": "ซับไทย ok.ru",
+     "url": "https://ok.ru/videoembed/7101759162914/",
+     "referer": "https://ok.ru/"
+    },
+    {
+     "name": "ตอนที่ 28",
+     "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2024/03/Pegasus-scaled.jpg?resize=200,300",
+     "info": "ซับไทย ok.ru",
+     "url": "https://ok.ru/videoembed/7104293177890/",
+     "referer": "https://ok.ru/"
+    }
+   ]
+  },
+  {
+   "name": "Everyone Loves Me (2024) ซับไทย",
+   "info": "Everyone Loves Me (2024) ซับไทย 2024  ซีซั่น 1 Ep 24",
+   "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2024/03/1709393924-4310-sgWR52ebu4rRCgJjYxCliCITh7H.jpg?resize=200,300",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2024/03/1709393924-4310-sgWR52ebu4rRCgJjYxCliCITh7H.jpg?resize=200,300",
+     "info": "ซับไทย ok.ru",
+     "url": "https://ok.ru/videoembed/7046573263394/",
+     "referer": "https://ok.ru/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2024/03/1709393924-4310-sgWR52ebu4rRCgJjYxCliCITh7H.jpg?resize=200,300",
+     "info": "ซับไทย ok.ru",
+     "url": "https://ok.ru/videoembed/7046573197858/",
+     "referer": "https://ok.ru/"
+    },
+    {
+     "name": "ตอนที่ 3",
+     "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2024/03/1709393924-4310-sgWR52ebu4rRCgJjYxCliCITh7H.jpg?resize=200,300",
+     "info": "ซับไทย ok.ru",
+     "url": "https://ok.ru/videoembed/7046573132322/",
+     "referer": "https://ok.ru/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2024/03/1709393924-4310-sgWR52ebu4rRCgJjYxCliCITh7H.jpg?resize=200,300",
+     "info": "ซับไทย ok.ru",
+     "url": "https://ok.ru/videoembed/7046588664354/",
+     "referer": "https://ok.ru/"
+    },
+    {
+     "name": "ตอนที่ 5",
+     "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2024/03/1709393924-4310-sgWR52ebu4rRCgJjYxCliCITh7H.jpg?resize=200,300",
+     "info": "ซับไทย ok.ru",
+     "url": "https://ok.ru/videoembed/7046588533282/",
+     "referer": "https://ok.ru/"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2024/03/1709393924-4310-sgWR52ebu4rRCgJjYxCliCITh7H.jpg?resize=200,300",
+     "info": "ซับไทย ok.ru",
+     "url": "https://ok.ru/videoembed/7046588598818/",
+     "referer": "https://ok.ru/"
+    },
+    {
+     "name": "ตอนที่ 7",
+     "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2024/03/1709393924-4310-sgWR52ebu4rRCgJjYxCliCITh7H.jpg?resize=200,300",
+     "info": "ซับไทย ok.ru",
+     "url": "https://ok.ru/videoembed/7049031125538/",
+     "referer": "https://ok.ru/"
+    },
+    {
+     "name": "ตอนที่ 8",
+     "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2024/03/1709393924-4310-sgWR52ebu4rRCgJjYxCliCITh7H.jpg?resize=200,300",
+     "info": "ซับไทย ok.ru",
+     "url": "https://ok.ru/videoembed/7049031191074/",
+     "referer": "https://ok.ru/"
+    },
+    {
+     "name": "ตอนที่ 9",
+     "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2024/03/1709393924-4310-sgWR52ebu4rRCgJjYxCliCITh7H.jpg?resize=200,300",
+     "info": "ซับไทย ok.ru",
+     "url": "https://ok.ru/videoembed/7052297832994/",
+     "referer": "https://ok.ru/"
+    },
+    {
+     "name": "ตอนที่ 10",
+     "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2024/03/1709393924-4310-sgWR52ebu4rRCgJjYxCliCITh7H.jpg?resize=200,300",
+     "info": "ซับไทย ok.ru",
+     "url": "https://ok.ru/videoembed/7055910570530/",
+     "referer": "https://ok.ru/"
+    },
+    {
+     "name": "ตอนที่ 11",
+     "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2024/03/1709393924-4310-sgWR52ebu4rRCgJjYxCliCITh7H.jpg?resize=200,300",
+     "info": "ซับไทย ok.ru",
+     "url": "https://ok.ru/videoembed/7058518772258/",
+     "referer": "https://ok.ru/"
+    },
+    {
+     "name": "ตอนที่ 12",
+     "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2024/03/1709393924-4310-sgWR52ebu4rRCgJjYxCliCITh7H.jpg?resize=200,300",
+     "info": "ซับไทย ok.ru",
+     "url": "https://ok.ru/videoembed/7062073510434/",
+     "referer": "https://ok.ru/"
+    },
+    {
+     "name": "ตอนที่ 13",
+     "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2024/03/1709393924-4310-sgWR52ebu4rRCgJjYxCliCITh7H.jpg?resize=200,300",
+     "info": "ซับไทย ok.ru",
+     "url": "https://ok.ru/videoembed/7066513705506/",
+     "referer": "https://ok.ru/"
+    },
+    {
+     "name": "ตอนที่ 14",
+     "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2024/03/1709393924-4310-sgWR52ebu4rRCgJjYxCliCITh7H.jpg?resize=200,300",
+     "info": "ซับไทย ok.ru",
+     "url": "https://ok.ru/videoembed/7073107216930/",
+     "referer": "https://ok.ru/"
+    },
+    {
+     "name": "ตอนที่ 15",
+     "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2024/03/1709393924-4310-sgWR52ebu4rRCgJjYxCliCITh7H.jpg?resize=200,300",
+     "info": "ซับไทย ok.ru",
+     "url": "https://ok.ru/videoembed/7073107348002/",
+     "referer": "https://ok.ru/"
+    },
+    {
+     "name": "ตอนที่ 16",
+     "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2024/03/1709393924-4310-sgWR52ebu4rRCgJjYxCliCITh7H.jpg?resize=200,300",
+     "info": "ซับไทย ok.ru",
+     "url": "https://ok.ru/videoembed/7079978600994/",
+     "referer": "https://ok.ru/"
+    },
+    {
+     "name": "ตอนที่ 17",
+     "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2024/03/1709393924-4310-sgWR52ebu4rRCgJjYxCliCITh7H.jpg?resize=200,300",
+     "info": "ซับไทย ok.ru",
+     "url": "https://ok.ru/videoembed/7082869131810/",
+     "referer": "https://ok.ru/"
+    },
+    {
+     "name": "ตอนที่ 18",
+     "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2024/03/1709393924-4310-sgWR52ebu4rRCgJjYxCliCITh7H.jpg?resize=200,300",
+     "info": "ซับไทย ok.ru",
+     "url": "https://ok.ru/videoembed/7085492931106/",
+     "referer": "https://ok.ru/"
+    },
+    {
+     "name": "ตอนที่ 19",
+     "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2024/03/1709393924-4310-sgWR52ebu4rRCgJjYxCliCITh7H.jpg?resize=200,300",
+     "info": "ซับไทย ok.ru",
+     "url": "https://ok.ru/videoembed/7091568314914/",
+     "referer": "https://ok.ru/"
+    },
+    {
+     "name": "ตอนที่ 20",
+     "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2024/03/1709393924-4310-sgWR52ebu4rRCgJjYxCliCITh7H.jpg?resize=200,300",
+     "info": "ซับไทย ok.ru",
+     "url": "https://ok.ru/videoembed/7091595512354/",
+     "referer": "https://ok.ru/"
+    },
+    {
+     "name": "ตอนที่ 21",
+     "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2024/03/1709393924-4310-sgWR52ebu4rRCgJjYxCliCITh7H.jpg?resize=200,300",
+     "info": "ซับไทย ok.ru",
+     "url": "https://ok.ru/videoembed/7095593994786/",
+     "referer": "https://ok.ru/"
+    },
+    {
+     "name": "ตอนที่ 22",
+     "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2024/03/1709393924-4310-sgWR52ebu4rRCgJjYxCliCITh7H.jpg?resize=200,300",
+     "info": "ซับไทย ok.ru",
+     "url": "https://ok.ru/videoembed/7095593929250/",
+     "referer": "https://ok.ru/"
+    },
+    {
+     "name": "ตอนที่ 23",
+     "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2024/03/1709393924-4310-sgWR52ebu4rRCgJjYxCliCITh7H.jpg?resize=200,300",
+     "info": "ซับไทย ok.ru",
+     "url": "https://ok.ru/videoembed/7095594060322/",
+     "referer": "https://ok.ru/"
+    },
+    {
+     "name": "ตอนที่ 24",
+     "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2024/03/1709393924-4310-sgWR52ebu4rRCgJjYxCliCITh7H.jpg?resize=200,300",
+     "info": "ซับไทย ok.ru",
+     "url": "https://ok.ru/videoembed/7095594125858/",
+     "referer": "https://ok.ru/"
+    }
+   ]
+  },
+  {
+   "name": "Love Endures (2024) – รักไม่เคยจางไปจากใจ ซับไทย",
+   "info": "Love Endures (2024) – รักไม่เคยจางไปจากใจ ซับไทย 2024  ซีซั่น 1 Ep 32",
+   "image": "https://series-indy.com/wp-content/uploads/2024/01/Love-Endures-2024-.webp",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "image": "https://series-indy.com/wp-content/uploads/2024/01/Love-Endures-2024-.webp",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/uFnJAp2ct1/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "image": "https://series-indy.com/wp-content/uploads/2024/01/Love-Endures-2024-.webp",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/EIKvTznfHr/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 3",
+     "image": "https://series-indy.com/wp-content/uploads/2024/01/Love-Endures-2024-.webp",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/GMMWQVY4LU/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "image": "https://series-indy.com/wp-content/uploads/2024/01/Love-Endures-2024-.webp",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/QRqtHIt16m/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 5",
+     "image": "https://series-indy.com/wp-content/uploads/2024/01/Love-Endures-2024-.webp",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/NEI6ZQlg0b/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "image": "https://series-indy.com/wp-content/uploads/2024/01/Love-Endures-2024-.webp",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/0RKrBOCbKU/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 7",
+     "image": "https://series-indy.com/wp-content/uploads/2024/01/Love-Endures-2024-.webp",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/hOPfXnujMi/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 8",
+     "image": "https://series-indy.com/wp-content/uploads/2024/01/Love-Endures-2024-.webp",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/GN4nLv2Ne/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 9",
+     "image": "https://series-indy.com/wp-content/uploads/2024/01/Love-Endures-2024-.webp",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/SRnOdDavi9/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 10",
+     "image": "https://series-indy.com/wp-content/uploads/2024/01/Love-Endures-2024-.webp",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/eBtxxWaa19/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 11",
+     "image": "https://series-indy.com/wp-content/uploads/2024/01/Love-Endures-2024-.webp",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/07zfIJDb6/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 12",
+     "image": "https://series-indy.com/wp-content/uploads/2024/01/Love-Endures-2024-.webp",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/zZTZ3xiM1d/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 13",
+     "image": "https://series-indy.com/wp-content/uploads/2024/01/Love-Endures-2024-.webp",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/T5JwoJQYIf/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 14",
+     "image": "https://series-indy.com/wp-content/uploads/2024/01/Love-Endures-2024-.webp",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/WKgnqGQFc8/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 15",
+     "image": "https://series-indy.com/wp-content/uploads/2024/01/Love-Endures-2024-.webp",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/ZiVfdQX6v/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 16",
+     "image": "https://series-indy.com/wp-content/uploads/2024/01/Love-Endures-2024-.webp",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/xoZVaeSoM/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 17",
+     "image": "https://series-indy.com/wp-content/uploads/2024/01/Love-Endures-2024-.webp",
+     "info": "ซับไทย ok.ru",
+     "url": "https://ok.ru/videoembed/6533954603583/",
+     "referer": "https://ok.ru/"
+    },
+    {
+     "name": "ตอนที่ 18",
+     "image": "https://series-indy.com/wp-content/uploads/2024/01/Love-Endures-2024-.webp",
+     "info": "ซับไทย ok.ru",
+     "url": "https://ok.ru/videoembed/6626180139584/",
+     "referer": "https://ok.ru/"
+    },
+    {
+     "name": "ตอนที่ 19",
+     "image": "https://series-indy.com/wp-content/uploads/2024/01/Love-Endures-2024-.webp",
+     "info": "ซับไทย ok.ru",
+     "url": "https://ok.ru/videoembed/6626180205120/",
+     "referer": "https://ok.ru/"
+    },
+    {
+     "name": "ตอนที่ 20",
+     "image": "https://series-indy.com/wp-content/uploads/2024/01/Love-Endures-2024-.webp",
+     "info": "ซับไทย ok.ru",
+     "url": "https://ok.ru/videoembed/6536873970239/",
+     "referer": "https://ok.ru/"
+    },
+    {
+     "name": "ตอนที่ 21",
+     "image": "https://series-indy.com/wp-content/uploads/2024/01/Love-Endures-2024-.webp",
+     "info": "ซับไทย ok.ru",
+     "url": "https://ok.ru/videoembed/6536874756671/",
+     "referer": "https://ok.ru/"
+    },
+    {
+     "name": "ตอนที่ 22",
+     "image": "https://series-indy.com/wp-content/uploads/2024/01/Love-Endures-2024-.webp",
+     "info": "ซับไทย ok.ru",
+     "url": "https://ok.ru/videoembed/6643084823104/",
+     "referer": "https://ok.ru/"
+    },
+    {
+     "name": "ตอนที่ 23",
+     "image": "https://series-indy.com/wp-content/uploads/2024/01/Love-Endures-2024-.webp",
+     "info": "ซับไทย ok.ru",
+     "url": "https://ok.ru/videoembed/6643084757568/",
+     "referer": "https://ok.ru/"
+    },
+    {
+     "name": "ตอนที่ 24",
+     "image": "https://series-indy.com/wp-content/uploads/2024/01/Love-Endures-2024-.webp",
+     "info": "ซับไทย ok.ru",
+     "url": "https://ok.ru/videoembed/6643084692032/",
+     "referer": "https://ok.ru/"
+    },
+    {
+     "name": "ตอนที่ 25",
+     "image": "https://series-indy.com/wp-content/uploads/2024/01/Love-Endures-2024-.webp",
+     "info": "ซับไทย ok.ru",
+     "url": "https://ok.ru/videoembed/6643095571008/",
+     "referer": "https://ok.ru/"
+    },
+    {
+     "name": "ตอนที่ 26",
+     "image": "https://series-indy.com/wp-content/uploads/2024/01/Love-Endures-2024-.webp",
+     "info": "ซับไทย ok.ru",
+     "url": "https://ok.ru/videoembed/6556736424511/",
+     "referer": "https://ok.ru/"
+    },
+    {
+     "name": "ตอนที่ 27",
+     "image": "https://series-indy.com/wp-content/uploads/2024/01/Love-Endures-2024-.webp",
+     "info": "ซับไทย ok.ru",
+     "url": "https://ok.ru/videoembed/7039828757026/",
+     "referer": "https://ok.ru/"
+    },
+    {
+     "name": "ตอนที่ 28",
+     "image": "https://series-indy.com/wp-content/uploads/2024/01/Love-Endures-2024-.webp",
+     "info": "ซับไทย ok.ru",
+     "url": "https://ok.ru/videoembed/7039828691490/",
+     "referer": "https://ok.ru/"
+    },
+    {
+     "name": "ตอนที่ 29",
+     "image": "https://series-indy.com/wp-content/uploads/2024/01/Love-Endures-2024-.webp",
+     "info": "ซับไทย ok.ru",
+     "url": "https://ok.ru/videoembed/7039828822562/",
+     "referer": "https://ok.ru/"
+    },
+    {
+     "name": "ตอนที่ 30",
+     "image": "https://series-indy.com/wp-content/uploads/2024/01/Love-Endures-2024-.webp",
+     "info": "ซับไทย ok.ru",
+     "url": "https://ok.ru/videoembed/7055912602146/",
+     "referer": "https://ok.ru/"
+    },
+    {
+     "name": "ตอนที่ 31",
+     "image": "https://series-indy.com/wp-content/uploads/2024/01/Love-Endures-2024-.webp",
+     "info": "ซับไทย ok.ru",
+     "url": "https://ok.ru/videoembed/7055912274466/",
+     "referer": "https://ok.ru/"
+    },
+    {
+     "name": "ตอนที่ 32",
+     "image": "https://series-indy.com/wp-content/uploads/2024/01/Love-Endures-2024-.webp",
+     "info": "ซับไทย ok.ru",
+     "url": "https://ok.ru/videoembed/7055912405538/",
+     "referer": "https://ok.ru/"
+    }
+   ]
+  },
   {
    "name": "Miss Lucky Go ! 2023 – ออกแบบรัก (ซับไทย)",
    "info": "Miss Lucky Go ! 2023 – ออกแบบรัก (ซับไทย) 2023  ซีซั่น 1 Ep 24",
@@ -12995,69 +13604,6 @@
    "info": "If The Voice Has Memory (2021) – พากย์รักแทนใจ (ซับไทย) 2021  ซีซั่น 1 Ep 32",
    "image": "https://i1.wp.com/series-indy.com/wp-content/uploads/2021/12/If-The-Voice-Has-Memory.jpg?resize=200,300",
    "stations": [
-    {
-     "name": "ตอนที่ 1",
-     "image": "https://i1.wp.com/series-indy.com/wp-content/uploads/2021/12/If-The-Voice-Has-Memory.jpg?resize=200,300",
-     "info": "ซับไทย ok.ru",
-     "url": "https://ok.ru/videoembed/2847272340032/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 2",
-     "image": "https://i1.wp.com/series-indy.com/wp-content/uploads/2021/12/If-The-Voice-Has-Memory.jpg?resize=200,300",
-     "info": "ซับไทย ok.ru",
-     "url": "https://ok.ru/videoembed/2847282498112/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 3",
-     "image": "https://i1.wp.com/series-indy.com/wp-content/uploads/2021/12/If-The-Voice-Has-Memory.jpg?resize=200,300",
-     "info": "ซับไทย ok.ru",
-     "url": "https://ok.ru/videoembed/2847288986176/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 4",
-     "image": "https://i1.wp.com/series-indy.com/wp-content/uploads/2021/12/If-The-Voice-Has-Memory.jpg?resize=200,300",
-     "info": "ซับไทย ok.ru",
-     "url": "https://ok.ru/videoembed/2847295998528/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 5",
-     "image": "https://i1.wp.com/series-indy.com/wp-content/uploads/2021/12/If-The-Voice-Has-Memory.jpg?resize=200,300",
-     "info": "ซับไทย ok.ru",
-     "url": "https://ok.ru/videoembed/2847304190528/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 6",
-     "image": "https://i1.wp.com/series-indy.com/wp-content/uploads/2021/12/If-The-Voice-Has-Memory.jpg?resize=200,300",
-     "info": "ซับไทย ok.ru",
-     "url": "https://ok.ru/videoembed/2847308515904/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 7",
-     "image": "https://i1.wp.com/series-indy.com/wp-content/uploads/2021/12/If-The-Voice-Has-Memory.jpg?resize=200,300",
-     "info": "ซับไทย ok.ru",
-     "url": "https://ok.ru/videoembed/2860072307264/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 8",
-     "image": "https://i1.wp.com/series-indy.com/wp-content/uploads/2021/12/If-The-Voice-Has-Memory.jpg?resize=200,300",
-     "info": "ซับไทย ok.ru",
-     "url": "https://ok.ru/videoembed/2860086069824/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 9",
-     "image": "https://i1.wp.com/series-indy.com/wp-content/uploads/2021/12/If-The-Voice-Has-Memory.jpg?resize=200,300",
-     "info": "ซับไทย ok.ru",
-     "url": "https://ok.ru/videoembed/2968687872520/",
-     "referer": "https://ok.ru/"
-    },
     {
      "name": "ตอนที่ 10",
      "image": "https://i1.wp.com/series-indy.com/wp-content/uploads/2021/12/If-The-Voice-Has-Memory.jpg?resize=200,300",

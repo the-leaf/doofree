@@ -1,9 +1,365 @@
 {
  "name": "Life",
- "author": "เจียว เจียว อัพวันที่ 15 มกราคม 2567",
+ "author": "เจียว เจียว อัพวันที่ 06 พฤษภาคม 2567",
  "info": "ความสำเร็จไม่ใช่จุดสิ้นสุด ความล้มเหลวไม่ใช่เรื่องร้ายแรง ความกล้าหาญที่จะทำต่อไปต่างหากที่สำคัญ",
  "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/01/series1111.png",
  "groups": [
+  {
+   "name": "What If – สาวสตรองสองชีวิต (ซับไทย)",
+   "info": "What If – สาวสตรองสองชีวิต (ซับไทย) 2024",
+   "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2024/05/1714884038-6913-qGM0WutoTPNmac0IL3Bx7hAeyrk.jpg?resize=200,300",
+   "stations": []
+  },
+  {
+   "name": "Love Endures (2024) – รักไม่เคยจางไปจากใจ ซับไทย",
+   "info": "Love Endures (2024) – รักไม่เคยจางไปจากใจ ซับไทย 2024  ซีซั่น 1 Ep 32",
+   "image": "https://series-indy.com/wp-content/uploads/2024/01/Love-Endures-2024-.webp",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "image": "https://series-indy.com/wp-content/uploads/2024/01/Love-Endures-2024-.webp",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/uFnJAp2ct1/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "image": "https://series-indy.com/wp-content/uploads/2024/01/Love-Endures-2024-.webp",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/EIKvTznfHr/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 3",
+     "image": "https://series-indy.com/wp-content/uploads/2024/01/Love-Endures-2024-.webp",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/GMMWQVY4LU/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "image": "https://series-indy.com/wp-content/uploads/2024/01/Love-Endures-2024-.webp",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/QRqtHIt16m/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 5",
+     "image": "https://series-indy.com/wp-content/uploads/2024/01/Love-Endures-2024-.webp",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/NEI6ZQlg0b/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "image": "https://series-indy.com/wp-content/uploads/2024/01/Love-Endures-2024-.webp",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/0RKrBOCbKU/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 7",
+     "image": "https://series-indy.com/wp-content/uploads/2024/01/Love-Endures-2024-.webp",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/hOPfXnujMi/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 8",
+     "image": "https://series-indy.com/wp-content/uploads/2024/01/Love-Endures-2024-.webp",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/GN4nLv2Ne/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 9",
+     "image": "https://series-indy.com/wp-content/uploads/2024/01/Love-Endures-2024-.webp",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/SRnOdDavi9/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 10",
+     "image": "https://series-indy.com/wp-content/uploads/2024/01/Love-Endures-2024-.webp",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/eBtxxWaa19/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 11",
+     "image": "https://series-indy.com/wp-content/uploads/2024/01/Love-Endures-2024-.webp",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/07zfIJDb6/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 12",
+     "image": "https://series-indy.com/wp-content/uploads/2024/01/Love-Endures-2024-.webp",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/zZTZ3xiM1d/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 13",
+     "image": "https://series-indy.com/wp-content/uploads/2024/01/Love-Endures-2024-.webp",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/T5JwoJQYIf/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 14",
+     "image": "https://series-indy.com/wp-content/uploads/2024/01/Love-Endures-2024-.webp",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/WKgnqGQFc8/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 15",
+     "image": "https://series-indy.com/wp-content/uploads/2024/01/Love-Endures-2024-.webp",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/ZiVfdQX6v/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 16",
+     "image": "https://series-indy.com/wp-content/uploads/2024/01/Love-Endures-2024-.webp",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/xoZVaeSoM/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 17",
+     "image": "https://series-indy.com/wp-content/uploads/2024/01/Love-Endures-2024-.webp",
+     "info": "ซับไทย ok.ru",
+     "url": "https://ok.ru/videoembed/6533954603583/",
+     "referer": "https://ok.ru/"
+    },
+    {
+     "name": "ตอนที่ 18",
+     "image": "https://series-indy.com/wp-content/uploads/2024/01/Love-Endures-2024-.webp",
+     "info": "ซับไทย ok.ru",
+     "url": "https://ok.ru/videoembed/6626180139584/",
+     "referer": "https://ok.ru/"
+    },
+    {
+     "name": "ตอนที่ 19",
+     "image": "https://series-indy.com/wp-content/uploads/2024/01/Love-Endures-2024-.webp",
+     "info": "ซับไทย ok.ru",
+     "url": "https://ok.ru/videoembed/6626180205120/",
+     "referer": "https://ok.ru/"
+    },
+    {
+     "name": "ตอนที่ 20",
+     "image": "https://series-indy.com/wp-content/uploads/2024/01/Love-Endures-2024-.webp",
+     "info": "ซับไทย ok.ru",
+     "url": "https://ok.ru/videoembed/6536873970239/",
+     "referer": "https://ok.ru/"
+    },
+    {
+     "name": "ตอนที่ 21",
+     "image": "https://series-indy.com/wp-content/uploads/2024/01/Love-Endures-2024-.webp",
+     "info": "ซับไทย ok.ru",
+     "url": "https://ok.ru/videoembed/6536874756671/",
+     "referer": "https://ok.ru/"
+    },
+    {
+     "name": "ตอนที่ 22",
+     "image": "https://series-indy.com/wp-content/uploads/2024/01/Love-Endures-2024-.webp",
+     "info": "ซับไทย ok.ru",
+     "url": "https://ok.ru/videoembed/6643084823104/",
+     "referer": "https://ok.ru/"
+    },
+    {
+     "name": "ตอนที่ 23",
+     "image": "https://series-indy.com/wp-content/uploads/2024/01/Love-Endures-2024-.webp",
+     "info": "ซับไทย ok.ru",
+     "url": "https://ok.ru/videoembed/6643084757568/",
+     "referer": "https://ok.ru/"
+    },
+    {
+     "name": "ตอนที่ 24",
+     "image": "https://series-indy.com/wp-content/uploads/2024/01/Love-Endures-2024-.webp",
+     "info": "ซับไทย ok.ru",
+     "url": "https://ok.ru/videoembed/6643084692032/",
+     "referer": "https://ok.ru/"
+    },
+    {
+     "name": "ตอนที่ 25",
+     "image": "https://series-indy.com/wp-content/uploads/2024/01/Love-Endures-2024-.webp",
+     "info": "ซับไทย ok.ru",
+     "url": "https://ok.ru/videoembed/6643095571008/",
+     "referer": "https://ok.ru/"
+    },
+    {
+     "name": "ตอนที่ 26",
+     "image": "https://series-indy.com/wp-content/uploads/2024/01/Love-Endures-2024-.webp",
+     "info": "ซับไทย ok.ru",
+     "url": "https://ok.ru/videoembed/6556736424511/",
+     "referer": "https://ok.ru/"
+    },
+    {
+     "name": "ตอนที่ 27",
+     "image": "https://series-indy.com/wp-content/uploads/2024/01/Love-Endures-2024-.webp",
+     "info": "ซับไทย ok.ru",
+     "url": "https://ok.ru/videoembed/7039828757026/",
+     "referer": "https://ok.ru/"
+    },
+    {
+     "name": "ตอนที่ 28",
+     "image": "https://series-indy.com/wp-content/uploads/2024/01/Love-Endures-2024-.webp",
+     "info": "ซับไทย ok.ru",
+     "url": "https://ok.ru/videoembed/7039828691490/",
+     "referer": "https://ok.ru/"
+    },
+    {
+     "name": "ตอนที่ 29",
+     "image": "https://series-indy.com/wp-content/uploads/2024/01/Love-Endures-2024-.webp",
+     "info": "ซับไทย ok.ru",
+     "url": "https://ok.ru/videoembed/7039828822562/",
+     "referer": "https://ok.ru/"
+    },
+    {
+     "name": "ตอนที่ 30",
+     "image": "https://series-indy.com/wp-content/uploads/2024/01/Love-Endures-2024-.webp",
+     "info": "ซับไทย ok.ru",
+     "url": "https://ok.ru/videoembed/7055912602146/",
+     "referer": "https://ok.ru/"
+    },
+    {
+     "name": "ตอนที่ 31",
+     "image": "https://series-indy.com/wp-content/uploads/2024/01/Love-Endures-2024-.webp",
+     "info": "ซับไทย ok.ru",
+     "url": "https://ok.ru/videoembed/7055912274466/",
+     "referer": "https://ok.ru/"
+    },
+    {
+     "name": "ตอนที่ 32",
+     "image": "https://series-indy.com/wp-content/uploads/2024/01/Love-Endures-2024-.webp",
+     "info": "ซับไทย ok.ru",
+     "url": "https://ok.ru/videoembed/7055912405538/",
+     "referer": "https://ok.ru/"
+    }
+   ]
+  },
+  {
+   "name": "Itaewon Class – ธุรกิจปิดเกมแค้น (ซับไทย)",
+   "info": "Itaewon Class – ธุรกิจปิดเกมแค้น (ซับไทย) 2020  ซีซั่น 1 Ep 16",
+   "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2021/12/Itaewon-Class.jpg?resize=200,300",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2021/12/Itaewon-Class.jpg?resize=200,300",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/VWKSneiV/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2021/12/Itaewon-Class.jpg?resize=200,300",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/2tnJ6qox/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 3",
+     "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2021/12/Itaewon-Class.jpg?resize=200,300",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/f0nv6p25/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2021/12/Itaewon-Class.jpg?resize=200,300",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/7SbgR7xF/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 5",
+     "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2021/12/Itaewon-Class.jpg?resize=200,300",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/d96Fv0bA/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2021/12/Itaewon-Class.jpg?resize=200,300",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/toiB0Sng/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 7",
+     "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2021/12/Itaewon-Class.jpg?resize=200,300",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/rLXKJhTz/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 8",
+     "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2021/12/Itaewon-Class.jpg?resize=200,300",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/e0Cs3Tkt/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 9",
+     "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2021/12/Itaewon-Class.jpg?resize=200,300",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/CJCvZqhp/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 10",
+     "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2021/12/Itaewon-Class.jpg?resize=200,300",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/iH6m4kDO/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 11",
+     "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2021/12/Itaewon-Class.jpg?resize=200,300",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/xJPNn6sW/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 12",
+     "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2021/12/Itaewon-Class.jpg?resize=200,300",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/U34FHbww/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 13",
+     "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2021/12/Itaewon-Class.jpg?resize=200,300",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/jRtDqR9J/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 14",
+     "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2021/12/Itaewon-Class.jpg?resize=200,300",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/pq9sepbF/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 15",
+     "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2021/12/Itaewon-Class.jpg?resize=200,300",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/Szqcmlv1/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 16",
+     "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2021/12/Itaewon-Class.jpg?resize=200,300",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/ADLVMgob/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    }
+   ]
+  },
   {
    "name": "Sisterhood – บุตรสาวแห่งหนานหยาง (ซับไทย)",
    "info": "Sisterhood – บุตรสาวแห่งหนานหยาง (ซับไทย) 2023  ซีซั่น 1 Ep 40",
@@ -2031,78 +2387,7 @@
    "name": "Old Enough! 2 – ผจญภัยวัยอนุบาล 2 (ซับไทย)",
    "info": "Old Enough! 2 – ผจญภัยวัยอนุบาล 2 (ซับไทย) 2013  ซีซั่น 2 Ep 10",
    "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2023/01/Old-Enough-2.jpg?resize=200,300",
-   "stations": [
-    {
-     "name": "ตอนที่ 1",
-     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2023/01/Old-Enough-2.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/IFhv61l8/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 2",
-     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2023/01/Old-Enough-2.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/UIlpgpgc/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 3",
-     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2023/01/Old-Enough-2.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/ubIYc2kE/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 4",
-     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2023/01/Old-Enough-2.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/BXBaprRO/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 5",
-     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2023/01/Old-Enough-2.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/o22MOd6N/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 6",
-     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2023/01/Old-Enough-2.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/pUFCGRMA/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 7",
-     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2023/01/Old-Enough-2.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/hXo30m9G/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 8",
-     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2023/01/Old-Enough-2.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/ZGjuL6qs/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 9",
-     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2023/01/Old-Enough-2.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/xETzhQvi/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 10",
-     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2023/01/Old-Enough-2.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/YF29DSGg/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    }
-   ]
+   "stations": []
   },
   {
    "name": "Cooking for the Maiko House (2023) – แม่ครัวแห่งบ้านไมโกะ (ซับไทย)",
@@ -5720,92 +6005,7 @@
    "name": "The Disappearing Child (2022) – เด็กที่สาบสูญ (ซับไทย)",
    "info": "The Disappearing Child (2022) – เด็กที่สาบสูญ (ซับไทย) 2022  ซีซั่น 1 Ep 12",
    "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/08/The-Disappearing-Child-2022-เด็กที่สาบสูญ-ซับไทย.jpg?resize=200,300",
-   "stations": [
-    {
-     "name": "ตอนที่ 1",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/08/The-Disappearing-Child-2022-เด็กที่สาบสูญ-ซับไทย.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/newvid8tilosD/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 2",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/08/The-Disappearing-Child-2022-เด็กที่สาบสูญ-ซับไทย.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/newvidmX5sZeAS/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 3",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/08/The-Disappearing-Child-2022-เด็กที่สาบสูญ-ซับไทย.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/newvidRpIwGFAh/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 4",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/08/The-Disappearing-Child-2022-เด็กที่สาบสูญ-ซับไทย.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/newvidfKTnCxwH/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 5",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/08/The-Disappearing-Child-2022-เด็กที่สาบสูญ-ซับไทย.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/newvidjURfGyM/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 6",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/08/The-Disappearing-Child-2022-เด็กที่สาบสูญ-ซับไทย.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/newvidmAvyJfbH/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 7",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/08/The-Disappearing-Child-2022-เด็กที่สาบสูญ-ซับไทย.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/newvidJwCOaXuF/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 8",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/08/The-Disappearing-Child-2022-เด็กที่สาบสูญ-ซับไทย.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/newvidq47RVj85/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 9",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/08/The-Disappearing-Child-2022-เด็กที่สาบสูญ-ซับไทย.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/JBU1wAGc/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 10",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/08/The-Disappearing-Child-2022-เด็กที่สาบสูญ-ซับไทย.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/fDwdNzWT/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 11",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/08/The-Disappearing-Child-2022-เด็กที่สาบสูญ-ซับไทย.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/5i4yppyq/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 12",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/08/The-Disappearing-Child-2022-เด็กที่สาบสูญ-ซับไทย.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/h8FrPofd/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    }
-   ]
+   "stations": []
   },
   {
    "name": "Discovery of Romance (2022) – ซัมเมอร์ฤดูรัก (ซับไทย)",
@@ -15791,62 +15991,6 @@
    "image": "https://i1.wp.com/series-indy.com/wp-content/uploads/2021/12/She-Is-the-One.jpg?resize=200,300",
    "stations": [
     {
-     "name": "ตอนที่ 1",
-     "image": "https://i1.wp.com/series-indy.com/wp-content/uploads/2021/12/She-Is-the-One.jpg?resize=200,300",
-     "info": "ซับไทย ok.ru",
-     "url": "https://ok.ru/videoembed/2448621898433/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 2",
-     "image": "https://i1.wp.com/series-indy.com/wp-content/uploads/2021/12/She-Is-the-One.jpg?resize=200,300",
-     "info": "ซับไทย ok.ru",
-     "url": "https://ok.ru/videoembed/2330905283288/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 3",
-     "image": "https://i1.wp.com/series-indy.com/wp-content/uploads/2021/12/She-Is-the-One.jpg?resize=200,300",
-     "info": "ซับไทย ok.ru",
-     "url": "https://ok.ru/videoembed/2467241462465/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 4",
-     "image": "https://i1.wp.com/series-indy.com/wp-content/uploads/2021/12/She-Is-the-One.jpg?resize=200,300",
-     "info": "ซับไทย ok.ru",
-     "url": "https://ok.ru/videoembed/3288270965397/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 5",
-     "image": "https://i1.wp.com/series-indy.com/wp-content/uploads/2021/12/She-Is-the-One.jpg?resize=200,300",
-     "info": "ซับไทย ok.ru",
-     "url": "https://ok.ru/videoembed/3288270899861/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 6",
-     "image": "https://i1.wp.com/series-indy.com/wp-content/uploads/2021/12/She-Is-the-One.jpg?resize=200,300",
-     "info": "ซับไทย ok.ru",
-     "url": "https://ok.ru/videoembed/2479493483201/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 7",
-     "image": "https://i1.wp.com/series-indy.com/wp-content/uploads/2021/12/She-Is-the-One.jpg?resize=200,300",
-     "info": "ซับไทย ok.ru",
-     "url": "https://ok.ru/videoembed/3293896379029/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 8",
-     "image": "https://i1.wp.com/series-indy.com/wp-content/uploads/2021/12/She-Is-the-One.jpg?resize=200,300",
-     "info": "ซับไทย ok.ru",
-     "url": "https://ok.ru/videoembed/2486648507073/",
-     "referer": "https://ok.ru/"
-    },
-    {
      "name": "ตอนที่ 9",
      "image": "https://i1.wp.com/series-indy.com/wp-content/uploads/2021/12/She-Is-the-One.jpg?resize=200,300",
      "info": "ซับไทย ok.ru",
@@ -16174,181 +16318,6 @@
      "info": "ซับไทย ok.ru",
      "url": "https://ok.ru/videoembed/2834333305408/",
      "referer": "https://ok.ru/"
-    }
-   ]
-  },
-  {
-   "name": "Meeting You Loving You (2021) – ป่วนรักนายพลังจิต (ซับไทย)",
-   "info": "Meeting You Loving You (2021) – ป่วนรักนายพลังจิต (ซับไทย) 2021  ซีซั่น 1 Ep 24",
-   "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2021/12/Meeting-You-Loving-You.jpg?resize=200,300",
-   "stations": [
-    {
-     "name": "ตอนที่ 1",
-     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2021/12/Meeting-You-Loving-You.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/LAasocGa/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 2",
-     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2021/12/Meeting-You-Loving-You.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/sazHVFj5/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 3",
-     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2021/12/Meeting-You-Loving-You.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/mTzdQLGb/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 4",
-     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2021/12/Meeting-You-Loving-You.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/ZoF8TIRZ/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 5",
-     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2021/12/Meeting-You-Loving-You.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/EXXGZcWN/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 6",
-     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2021/12/Meeting-You-Loving-You.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/pLful0wG/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 7",
-     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2021/12/Meeting-You-Loving-You.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/9T9rr5g5/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 8",
-     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2021/12/Meeting-You-Loving-You.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/A1dAqqH/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 9",
-     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2021/12/Meeting-You-Loving-You.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/eJ996oau/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 10",
-     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2021/12/Meeting-You-Loving-You.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/McaCB0y/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 11",
-     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2021/12/Meeting-You-Loving-You.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/QqQMHcgH/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 12",
-     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2021/12/Meeting-You-Loving-You.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/7CCcFM8d/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 13",
-     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2021/12/Meeting-You-Loving-You.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/pJQ4x4Qi/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 14",
-     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2021/12/Meeting-You-Loving-You.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/MCCpicF8/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 15",
-     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2021/12/Meeting-You-Loving-You.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/mw0cfPN/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 16",
-     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2021/12/Meeting-You-Loving-You.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/NN9qO3NH/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 17",
-     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2021/12/Meeting-You-Loving-You.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/CBlmy6qa/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 18",
-     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2021/12/Meeting-You-Loving-You.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/GwY8qyUo/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 19",
-     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2021/12/Meeting-You-Loving-You.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/CvTMdFFe/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 20",
-     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2021/12/Meeting-You-Loving-You.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/PiOhGhLo/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 21",
-     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2021/12/Meeting-You-Loving-You.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/hN5uUb2Y/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 22",
-     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2021/12/Meeting-You-Loving-You.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/YCpJS3Hr/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 23",
-     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2021/12/Meeting-You-Loving-You.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/G0WKZseG/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 24",
-     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2021/12/Meeting-You-Loving-You.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/IYbqGbUZ/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
     }
    ]
   },
@@ -17102,125 +17071,6 @@
      "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2021/12/Navillera.jpg?resize=200,300",
      "info": "ซับไทย",
      "url": "https://series-cdn.team-indy.net:8443/vod/ljPY9pNM/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    }
-   ]
-  },
-  {
-   "name": "Itaewon Class – ธุรกิจปิดเกมแค้น (ซับไทย)",
-   "info": "Itaewon Class – ธุรกิจปิดเกมแค้น (ซับไทย) 2020  ซีซั่น 1 Ep 16",
-   "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2021/12/Itaewon-Class.jpg?resize=200,300",
-   "stations": [
-    {
-     "name": "ตอนที่ 1",
-     "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2021/12/Itaewon-Class.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/VWKSneiV/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 2",
-     "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2021/12/Itaewon-Class.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/2tnJ6qox/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 3",
-     "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2021/12/Itaewon-Class.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/f0nv6p25/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 4",
-     "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2021/12/Itaewon-Class.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/7SbgR7xF/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 5",
-     "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2021/12/Itaewon-Class.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/d96Fv0bA/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 6",
-     "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2021/12/Itaewon-Class.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/toiB0Sng/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 7",
-     "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2021/12/Itaewon-Class.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/rLXKJhTz/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 8",
-     "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2021/12/Itaewon-Class.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/e0Cs3Tkt/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 9",
-     "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2021/12/Itaewon-Class.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/CJCvZqhp/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 10",
-     "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2021/12/Itaewon-Class.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/iH6m4kDO/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 11",
-     "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2021/12/Itaewon-Class.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/xJPNn6sW/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 12",
-     "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2021/12/Itaewon-Class.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/U34FHbww/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 13",
-     "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2021/12/Itaewon-Class.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/jRtDqR9J/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 14",
-     "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2021/12/Itaewon-Class.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/pq9sepbF/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 15",
-     "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2021/12/Itaewon-Class.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/Szqcmlv1/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 16",
-     "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2021/12/Itaewon-Class.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/ADLVMgob/video.mp4/playlist.m3u8",
      "referer": "https://series.team-indy.net/"
     }
    ]

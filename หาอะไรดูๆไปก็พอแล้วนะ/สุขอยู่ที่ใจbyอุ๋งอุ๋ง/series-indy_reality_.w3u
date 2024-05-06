@@ -1,9 +1,113 @@
 {
  "name": "Reality",
- "author": "เจียว เจียว อัพวันที่ 15 มกราคม 2567",
+ "author": "เจียว เจียว อัพวันที่ 06 พฤษภาคม 2567",
  "info": "ความสำเร็จไม่ใช่จุดสิ้นสุด ความล้มเหลวไม่ใช่เรื่องร้ายแรง ความกล้าหาญที่จะทำต่อไปต่างหากที่สำคัญ",
  "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/01/series1111.png",
  "groups": [
+  {
+   "name": "The Truth 2 (ซับไทย)",
+   "info": "The Truth 2 (ซับไทย) 2024",
+   "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2024/05/The-truth-2.jpg?resize=200,300",
+   "stations": []
+  },
+  {
+   "name": "Apartment 404 อพาร์ตเมนท์ 404 (2024) ซับไทย",
+   "info": "Apartment 404 อพาร์ตเมนท์ 404 (2024) ซับไทย 2024  ซีซั่น 1 Ep 8",
+   "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2024/02/1708747753-7494-ovtBb9ljq7LkTzFjKHhUSK7jEiT.jpg?resize=200,300",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2024/02/1708747753-7494-ovtBb9ljq7LkTzFjKHhUSK7jEiT.jpg?resize=200,300",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/vJpGidlXAH/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2024/02/1708747753-7494-ovtBb9ljq7LkTzFjKHhUSK7jEiT.jpg?resize=200,300",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/0ZmBAGiLjR/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 3",
+     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2024/02/1708747753-7494-ovtBb9ljq7LkTzFjKHhUSK7jEiT.jpg?resize=200,300",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/Jakclboya7/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2024/02/1708747753-7494-ovtBb9ljq7LkTzFjKHhUSK7jEiT.jpg?resize=200,300",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/zInHphOpEU/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 5",
+     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2024/02/1708747753-7494-ovtBb9ljq7LkTzFjKHhUSK7jEiT.jpg?resize=200,300",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/okp2oNdibf/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2024/02/1708747753-7494-ovtBb9ljq7LkTzFjKHhUSK7jEiT.jpg?resize=200,300",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/94Xun9GGj6/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 7",
+     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2024/02/1708747753-7494-ovtBb9ljq7LkTzFjKHhUSK7jEiT.jpg?resize=200,300",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/Y2LOP92mQy/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 8",
+     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2024/02/1708747753-7494-ovtBb9ljq7LkTzFjKHhUSK7jEiT.jpg?resize=200,300",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/juQNesmfWQ/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    }
+   ]
+  },
+  {
+   "name": "In the SOOP: Friendcation (ซับไทย)",
+   "info": "In the SOOP: Friendcation (ซับไทย) 2022  ซีซั่น 1 Ep 4",
+   "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/08/In-the-soop.jpg?resize=200,300",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/08/In-the-soop.jpg?resize=200,300",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/newvidnecnc8bu/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/08/In-the-soop.jpg?resize=200,300",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/newvidVKCAqrMK/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 3",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/08/In-the-soop.jpg?resize=200,300",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/newvid8IaXEAy5/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/08/In-the-soop.jpg?resize=200,300",
+     "info": "ซับไทย",
+     "url": "https://series-cdn.team-indy.net:8443/vod/newvidu4WCsxEg/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    }
+   ]
+  },
   {
    "name": "Single’s Inferno Season 3 – โอน้อยออก ใครโสดตกนรก ซีซั่น 3 (พากย์ไทย)",
    "info": "Single’s Inferno Season 3 – โอน้อยออก ใครโสดตกนรก ซีซั่น 3 (พากย์ไทย) 2023  ซีซั่น 3 Ep 11",
@@ -722,64 +826,7 @@
    "name": "Outlast Season 1 – เอาท์ลาสต์ ภาค 1 (ซับไทย)",
    "info": "Outlast Season 1 – เอาท์ลาสต์ ภาค 1 (ซับไทย) 2023  ซีซั่น 1 Ep 8",
    "image": "https://i1.wp.com/series-indy.com/wp-content/uploads/2023/03/1678424004-3725-jr7GxQpohdJ67IPedXIO7rN1dMv.jpg?resize=200,300",
-   "stations": [
-    {
-     "name": "ตอนที่ 1",
-     "image": "https://i1.wp.com/series-indy.com/wp-content/uploads/2023/03/1678424004-3725-jr7GxQpohdJ67IPedXIO7rN1dMv.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/tQ8lY8gI/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 2",
-     "image": "https://i1.wp.com/series-indy.com/wp-content/uploads/2023/03/1678424004-3725-jr7GxQpohdJ67IPedXIO7rN1dMv.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/QSNKbasF/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 3",
-     "image": "https://i1.wp.com/series-indy.com/wp-content/uploads/2023/03/1678424004-3725-jr7GxQpohdJ67IPedXIO7rN1dMv.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6cZzxPHv/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 4",
-     "image": "https://i1.wp.com/series-indy.com/wp-content/uploads/2023/03/1678424004-3725-jr7GxQpohdJ67IPedXIO7rN1dMv.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/RgwVmJDO/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 5",
-     "image": "https://i1.wp.com/series-indy.com/wp-content/uploads/2023/03/1678424004-3725-jr7GxQpohdJ67IPedXIO7rN1dMv.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/rNCP9w8V/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 6",
-     "image": "https://i1.wp.com/series-indy.com/wp-content/uploads/2023/03/1678424004-3725-jr7GxQpohdJ67IPedXIO7rN1dMv.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/Y3ux4BZM/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 7",
-     "image": "https://i1.wp.com/series-indy.com/wp-content/uploads/2023/03/1678424004-3725-jr7GxQpohdJ67IPedXIO7rN1dMv.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/QFMken1B/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 8",
-     "image": "https://i1.wp.com/series-indy.com/wp-content/uploads/2023/03/1678424004-3725-jr7GxQpohdJ67IPedXIO7rN1dMv.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/b9wz8yIh/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    }
-   ]
+   "stations": []
   },
   {
    "name": "MH370 – เครื่องบินที่หายไป (ซับไทย)",
@@ -1446,230 +1493,6 @@
    ]
   },
   {
-   "name": "In the SOOP: Friendcation (ซับไทย)",
-   "info": "In the SOOP: Friendcation (ซับไทย) 2022  ซีซั่น 1 Ep 4",
-   "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/08/In-the-soop.jpg?resize=200,300",
-   "stations": [
-    {
-     "name": "ตอนที่ 1",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/08/In-the-soop.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/newvidnecnc8bu/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 2",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/08/In-the-soop.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/newvidVKCAqrMK/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 3",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/08/In-the-soop.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/newvid8IaXEAy5/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 4",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/08/In-the-soop.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/newvidu4WCsxEg/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    }
-   ]
-  },
-  {
-   "name": "Pirate Gold of Adak Island Season 1 – ทองคำโจรสลัดแห่งเกาะเอดัก 1",
-   "info": "Pirate Gold of Adak Island Season 1 – ทองคำโจรสลัดแห่งเกาะเอดัก 1 2022  ซีซั่น 1 Ep 8",
-   "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2022/06/1656569420-3733-xaq3mnifkknC8cGA7I65W3bTmu0.jpg?resize=200,300",
-   "stations": [
-    {
-     "name": "ตอนที่ 1",
-     "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2022/06/1656569420-3733-xaq3mnifkknC8cGA7I65W3bTmu0.jpg?resize=200,300",
-     "info": "พากย์ไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/39XSJNIb/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 2",
-     "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2022/06/1656569420-3733-xaq3mnifkknC8cGA7I65W3bTmu0.jpg?resize=200,300",
-     "info": "พากย์ไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/D5ZKiU0Q/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 3",
-     "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2022/06/1656569420-3733-xaq3mnifkknC8cGA7I65W3bTmu0.jpg?resize=200,300",
-     "info": "พากย์ไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/wYxfYg6/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 4",
-     "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2022/06/1656569420-3733-xaq3mnifkknC8cGA7I65W3bTmu0.jpg?resize=200,300",
-     "info": "พากย์ไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/aoL0GevC/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 5",
-     "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2022/06/1656569420-3733-xaq3mnifkknC8cGA7I65W3bTmu0.jpg?resize=200,300",
-     "info": "พากย์ไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/BnAz3PIl/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 6",
-     "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2022/06/1656569420-3733-xaq3mnifkknC8cGA7I65W3bTmu0.jpg?resize=200,300",
-     "info": "พากย์ไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/KbbU94fu/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 7",
-     "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2022/06/1656569420-3733-xaq3mnifkknC8cGA7I65W3bTmu0.jpg?resize=200,300",
-     "info": "พากย์ไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/QmZDYlMV/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 8",
-     "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2022/06/1656569420-3733-xaq3mnifkknC8cGA7I65W3bTmu0.jpg?resize=200,300",
-     "info": "พากย์ไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/QHnXWfL/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    }
-   ]
-  },
-  {
-   "name": "Rhythm + Flow France Season 1 – จังหวะ + ลีลา เฟ้นหาดาวฮิปฮอป (ซับไทย)",
-   "info": "Rhythm + Flow France Season 1 – จังหวะ + ลีลา เฟ้นหาดาวฮิปฮอป (ซับไทย) 2022  ซีซั่น 1 Ep 8",
-   "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2022/06/1654611937-8424-86uZxkMc0Lo0OgwxiVZplYYjYhm.jpg?resize=200,300",
-   "stations": [
-    {
-     "name": "ตอนที่ 1",
-     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2022/06/1654611937-8424-86uZxkMc0Lo0OgwxiVZplYYjYhm.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/hlMMHZ7b/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 2",
-     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2022/06/1654611937-8424-86uZxkMc0Lo0OgwxiVZplYYjYhm.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/upYi8qM/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 3",
-     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2022/06/1654611937-8424-86uZxkMc0Lo0OgwxiVZplYYjYhm.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/oqyVp5WU/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 4",
-     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2022/06/1654611937-8424-86uZxkMc0Lo0OgwxiVZplYYjYhm.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/kl7xmZkC/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 5",
-     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2022/06/1654611937-8424-86uZxkMc0Lo0OgwxiVZplYYjYhm.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/QbjKgJ57/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 6",
-     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2022/06/1654611937-8424-86uZxkMc0Lo0OgwxiVZplYYjYhm.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/M4wWlJf5/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 7",
-     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2022/06/1654611937-8424-86uZxkMc0Lo0OgwxiVZplYYjYhm.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/Nk1IUgSH/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 8",
-     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2022/06/1654611937-8424-86uZxkMc0Lo0OgwxiVZplYYjYhm.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/3iNbBDup/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    }
-   ]
-  },
-  {
-   "name": "Snowflake Mountain Season 1 – ค่ายฝึกโต 1 (พากย์ไทย)",
-   "info": "Snowflake Mountain Season 1 – ค่ายฝึกโต 1 (พากย์ไทย) 2022  ซีซั่น 1 Ep 8",
-   "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2022/06/Snowflake-Mountain-Season-1.jpg?resize=200,300",
-   "stations": [
-    {
-     "name": "ตอนที่ 1",
-     "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2022/06/Snowflake-Mountain-Season-1.jpg?resize=200,300",
-     "info": "พากย์ไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/YMh6ALGu/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 2",
-     "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2022/06/Snowflake-Mountain-Season-1.jpg?resize=200,300",
-     "info": "พากย์ไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/A0nldUSM/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 3",
-     "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2022/06/Snowflake-Mountain-Season-1.jpg?resize=200,300",
-     "info": "พากย์ไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/iBhDP18I/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 4",
-     "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2022/06/Snowflake-Mountain-Season-1.jpg?resize=200,300",
-     "info": "พากย์ไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/Q1ees1pB/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 5",
-     "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2022/06/Snowflake-Mountain-Season-1.jpg?resize=200,300",
-     "info": "พากย์ไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/rFoXb01/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 6",
-     "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2022/06/Snowflake-Mountain-Season-1.jpg?resize=200,300",
-     "info": "พากย์ไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/95UlboRO/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 7",
-     "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2022/06/Snowflake-Mountain-Season-1.jpg?resize=200,300",
-     "info": "พากย์ไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/yeavxfN/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 8",
-     "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2022/06/Snowflake-Mountain-Season-1.jpg?resize=200,300",
-     "info": "พากย์ไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/A8NKqZx3/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    }
-   ]
-  },
-  {
    "name": "Falling in Love Like a Romantic Drama Season 1 – ตกหลุมรักเหมือนหนังโรแมนติก",
    "info": "Falling in Love Like a Romantic Drama Season 1 – ตกหลุมรักเหมือนหนังโรแมนติก 2018  ซีซั่น 1 Ep 10",
    "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2022/06/Falling-in-Love-Like-a-Romantic-Drama-1.jpg?resize=200,300",
@@ -1831,55 +1654,6 @@
    ]
   },
   {
-   "name": "Love on the Spectrum U.S. Season 1 – รักหลากสเปกตรัม สหรัฐ 1 (ซับไทย)",
-   "info": "Love on the Spectrum U.S. Season 1 – รักหลากสเปกตรัม สหรัฐ 1 (ซับไทย) 2022  ซีซั่น 1 Ep 6",
-   "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/06/1655630544-8705-9vvwS95aGG8pxWuVQ9rRu0IywG7.jpg?resize=200,300",
-   "stations": [
-    {
-     "name": "ตอนที่ 1",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/06/1655630544-8705-9vvwS95aGG8pxWuVQ9rRu0IywG7.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/kgIRNHsu/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 2",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/06/1655630544-8705-9vvwS95aGG8pxWuVQ9rRu0IywG7.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/ChbZwDr/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 3",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/06/1655630544-8705-9vvwS95aGG8pxWuVQ9rRu0IywG7.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/7ELUGu3n/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 4",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/06/1655630544-8705-9vvwS95aGG8pxWuVQ9rRu0IywG7.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/Vpvj8L2i/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 5",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/06/1655630544-8705-9vvwS95aGG8pxWuVQ9rRu0IywG7.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/SEUUJL2W/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 6",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/06/1655630544-8705-9vvwS95aGG8pxWuVQ9rRu0IywG7.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/BlT3xcWF/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    }
-   ]
-  },
-  {
    "name": "The Future Diary 2 (2022) – รักมีสคริปต์ 2 (ซับไทย)",
    "info": "The Future Diary 2 (2022) – รักมีสคริปต์ 2 (ซับไทย) 2022  ซีซั่น 2 Ep 9",
    "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/05/The-Future-Diary-2-2022-รักมีสคริปต์-2-ซับไทย.jpg?resize=200,300",
@@ -2013,69 +1787,6 @@
    ]
   },
   {
-   "name": "Bling Empire Season 2 – บลิงค์ เอ็มไพร์ 2(ซับไทย)",
-   "info": "Bling Empire Season 2 – บลิงค์ เอ็มไพร์ 2(ซับไทย) 2022  ซีซั่น 2 Ep 8",
-   "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2022/05/1652449985-6955-gMiq9zJs4UNFV61HKhfWvbzLFgu.jpg?resize=200,300",
-   "stations": [
-    {
-     "name": "ตอนที่ 1",
-     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2022/05/1652449985-6955-gMiq9zJs4UNFV61HKhfWvbzLFgu.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/Wfh409qU/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 2",
-     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2022/05/1652449985-6955-gMiq9zJs4UNFV61HKhfWvbzLFgu.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/xOezvUJF/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 3",
-     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2022/05/1652449985-6955-gMiq9zJs4UNFV61HKhfWvbzLFgu.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/9uAImsMZ/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 4",
-     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2022/05/1652449985-6955-gMiq9zJs4UNFV61HKhfWvbzLFgu.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/dzujXteI/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 5",
-     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2022/05/1652449985-6955-gMiq9zJs4UNFV61HKhfWvbzLFgu.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/SGwSnm4w/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 6",
-     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2022/05/1652449985-6955-gMiq9zJs4UNFV61HKhfWvbzLFgu.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/UZszwbZ3/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 7",
-     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2022/05/1652449985-6955-gMiq9zJs4UNFV61HKhfWvbzLFgu.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/XSOT80PV/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 8",
-     "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2022/05/1652449985-6955-gMiq9zJs4UNFV61HKhfWvbzLFgu.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/YEaumb5q/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    }
-   ]
-  },
-  {
    "name": "I Am Georgina Season 1 – ฉันชื่อจอร์จิน่า 1 (ซับไทย)",
    "info": "I Am Georgina Season 1 – ฉันชื่อจอร์จิน่า 1 (ซับไทย) 2022  ซีซั่น 1 Ep 6",
    "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2022/05/1652604466-8868-wLx0JlCwWvaAY4Y55qQSQJDfDO7.jpg?resize=200,300",
@@ -2120,153 +1831,6 @@
      "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2022/05/1652604466-8868-wLx0JlCwWvaAY4Y55qQSQJDfDO7.jpg?resize=200,300",
      "info": "ซับไทย",
      "url": "https://series-cdn.team-indy.net:8443/vod/lB8oSJGV/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    }
-   ]
-  },
-  {
-   "name": "Old Enough! (2013) – ผจญภัยวัยอนุบาล (ซับไทย)",
-   "info": "Old Enough! (2013) – ผจญภัยวัยอนุบาล (ซับไทย) 2013  ซีซั่น 1 Ep 20",
-   "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/04/Old-Enough-2013-ผจญภัยวัยอนุบาล-ซับไทย.jpg?resize=200,300",
-   "stations": [
-    {
-     "name": "ตอนที่ 1",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/04/Old-Enough-2013-ผจญภัยวัยอนุบาล-ซับไทย.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/sLqINP0A/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 2",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/04/Old-Enough-2013-ผจญภัยวัยอนุบาล-ซับไทย.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/lotkp1ft/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 3",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/04/Old-Enough-2013-ผจญภัยวัยอนุบาล-ซับไทย.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/wacoVFNO/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 4",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/04/Old-Enough-2013-ผจญภัยวัยอนุบาล-ซับไทย.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/m5FNGvqS/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 5",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/04/Old-Enough-2013-ผจญภัยวัยอนุบาล-ซับไทย.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/1WcMSmnn/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 6",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/04/Old-Enough-2013-ผจญภัยวัยอนุบาล-ซับไทย.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/eZmNXn5A/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 7",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/04/Old-Enough-2013-ผจญภัยวัยอนุบาล-ซับไทย.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/YztMteP/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 8",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/04/Old-Enough-2013-ผจญภัยวัยอนุบาล-ซับไทย.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/0Y5mc2jL/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 9",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/04/Old-Enough-2013-ผจญภัยวัยอนุบาล-ซับไทย.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/CRHlZypE/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 10",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/04/Old-Enough-2013-ผจญภัยวัยอนุบาล-ซับไทย.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/PEgzCy6C/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 11",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/04/Old-Enough-2013-ผจญภัยวัยอนุบาล-ซับไทย.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/a7rEXBOA/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 12",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/04/Old-Enough-2013-ผจญภัยวัยอนุบาล-ซับไทย.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/WrAwUsYJ/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 13",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/04/Old-Enough-2013-ผจญภัยวัยอนุบาล-ซับไทย.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/kLLZxgt5/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 14",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/04/Old-Enough-2013-ผจญภัยวัยอนุบาล-ซับไทย.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/82gDEru/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 15",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/04/Old-Enough-2013-ผจญภัยวัยอนุบาล-ซับไทย.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/e3Onlw32/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 16",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/04/Old-Enough-2013-ผจญภัยวัยอนุบาล-ซับไทย.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/b5gR2NqQ/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 17",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/04/Old-Enough-2013-ผจญภัยวัยอนุบาล-ซับไทย.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/APPhGIuK/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 18",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/04/Old-Enough-2013-ผจญภัยวัยอนุบาล-ซับไทย.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/wGLF6T7n/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 19",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/04/Old-Enough-2013-ผจญภัยวัยอนุบาล-ซับไทย.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/pKUYPQVu/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 20",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/04/Old-Enough-2013-ผจญภัยวัยอนุบาล-ซับไทย.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/WITNyDxO/video.mp4/playlist.m3u8",
      "referer": "https://series.team-indy.net/"
     }
    ]
@@ -2462,69 +2026,6 @@
      "image": "https://i2.wp.com/series-indy.com/wp-content/uploads/2022/02/Love-Is-Blind-Season-1.jpg?resize=200,300",
      "info": "พากย์ไทย",
      "url": "https://series-cdn.team-indy.net:8443/vod/AiOBj1xn/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    }
-   ]
-  },
-  {
-   "name": "Bling Empire Season 1 (ซับไทย)",
-   "info": "Bling Empire Season 1 (ซับไทย) 2021  ซีซั่น 1 Ep 8",
-   "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2022/02/Bling-Empire.jpg?resize=200,300",
-   "stations": [
-    {
-     "name": "ตอนที่ 1",
-     "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2022/02/Bling-Empire.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/5GKVXGxd/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 2",
-     "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2022/02/Bling-Empire.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/gqiTLPMD/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 3",
-     "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2022/02/Bling-Empire.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/0kOm67FF/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 4",
-     "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2022/02/Bling-Empire.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/iKKRfQSv/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 5",
-     "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2022/02/Bling-Empire.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/oSgkCqsz/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 6",
-     "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2022/02/Bling-Empire.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/V7LPl3K/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 7",
-     "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2022/02/Bling-Empire.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/DsMC772/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 8",
-     "image": "https://i3.wp.com/series-indy.com/wp-content/uploads/2022/02/Bling-Empire.jpg?resize=200,300",
-     "info": "ซับไทย",
-     "url": "https://series-cdn.team-indy.net:8443/vod/15r6bLws/video.mp4/playlist.m3u8",
      "referer": "https://series.team-indy.net/"
     }
    ]

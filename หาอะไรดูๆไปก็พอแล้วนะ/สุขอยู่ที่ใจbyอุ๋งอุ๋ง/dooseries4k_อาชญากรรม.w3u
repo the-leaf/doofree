@@ -1,9 +1,436 @@
 {
   "name": "อาชญากรรม",
-  "author": "เจียว เจียว อัพวันที่ 26 มีนาคม 2567",
+  "author": "เจียว เจียว อัพวันที่ 06 พฤษภาคม 2567",
   "info": "ชีวิตไม่ได้ให้เราสิ่งที่ต้องการเสมอไป แต่มันจะให้เราสิ่งที่เราจำเป็นต้องการ",
   "image": "https://www.dooseries4k.com/wp-content/themes/dooseries4k/logo/logo.png",
   "groups": [
+    {
+      "name": "Blood Free (2023)",
+      "info": "SUB",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Blood-Free-220x300-c-default.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Blood-Free-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/8e6aea17-735c-5347-b51c-cfaa50934b8c.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Blood-Free-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/86009782-51e4-54c6-a48a-cdd4a6d2efc3.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Blood-Free-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/d60ca255-d303-5716-826e-d44e5655cb4b.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Blood-Free-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/87ffce96-efa6-5029-87dc-dfbb72e55063.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Blood-Free-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/cb475daf-ce82-57c3-9364-af0d5e504a3a.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Blood-Free-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/1793a37c-8602-50f1-a403-fae3d5ab71c3.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Blood-Free-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/e340925b-75b9-507c-8a57-f5b862add8d2.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Blood-Free-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/f58b51c9-4fd0-54db-90cd-e607de8105c3.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        }
+      ]
+    },
+    {
+      "name": "Under The Gun (2024) เกมรัก นักเดิมพัน",
+      "info": "SUB",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Under-The-Gun-220x300-c-default.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Under-The-Gun-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/5bd3b072-9601-5979-9358-add8ecac0cf3.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Under-The-Gun-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/63691384-1f91-5596-a7e1-7ad87cd79d1c.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Under-The-Gun-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/b5436718-39d6-58fe-8a80-8fbebb7b67bc.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Under-The-Gun-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/d6f83681-7b82-5db0-a06c-12735a8ba991.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Under-The-Gun-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/c4c40c83-3c87-54c5-90c6-4eab0aea979f.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Under-The-Gun-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/e1a2b565-f946-5eda-9766-2b945154fab1.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        }
+      ]
+    },
+    {
+      "name": "House of the Owl (2024)",
+      "info": "SUB",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/House-of-the-Owl-2024-220x300-c-default.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/House-of-the-Owl-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/842a4d47-bd6b-5ae6-bfd4-0f5461946a9d.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/House-of-the-Owl-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/4569175e-e3f5-51ef-ad58-0f01aad71b8c.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/House-of-the-Owl-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/2e4a41e3-8052-53b5-9f7f-2f7fbb9f1a69.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/House-of-the-Owl-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/0d3a475c-c156-583c-a4ce-51d6ecdd513e.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/House-of-the-Owl-2024-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/c6ba0d61-561c-53f8-a6bb-19de9ecfe6de.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        }
+      ]
+    },
+    {
+      "name": "Brigands The Quest for Gold (2024) ตามล่าหาขุมทอง",
+      "info": "SUB",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Brigands-The-Quest-for-Gold-220x300-c-default.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Brigands-The-Quest-for-Gold-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/78c04ebf-69c6-53cd-a9f9-512a40a5771e.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Brigands-The-Quest-for-Gold-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/df58023d-528c-53e6-8428-ba1e471e0ce8.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Brigands-The-Quest-for-Gold-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/cc29456f-46df-542b-a473-35b7e69ce98f.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Brigands-The-Quest-for-Gold-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/1259b429-6a59-543b-97c8-562a3b5833a6.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Brigands-The-Quest-for-Gold-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/b2e042a1-58dd-50fe-bc01-432e2d6aca4f.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Brigands-The-Quest-for-Gold-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/611861dd-6391-52e8-8f34-2713915ca3b2.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        }
+      ]
+    },
+    {
+      "name": "Anthracite (2024) เถ้าความตาย",
+      "info": "HD",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Anthracite-220x300-c-default.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Anthracite-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/46f9164e-8001-5174-aa75-c9dbaf4b1e39.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Anthracite-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/cff3f674-81c6-51b6-9bfa-3de4ed415d6b.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Anthracite-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/41f910bc-d0d9-54e2-bb2e-610bc67f563b.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Anthracite-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/d33d7cdd-0a67-5025-a4c0-8a1836f5e449.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Anthracite-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/b9547537-731b-584d-b9d4-1b6e28692b9f.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Anthracite-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/7456f9a5-594e-59bd-ab07-8916afb5c4f5.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        }
+      ]
+    },
+    {
+      "name": "Fallout (2024) ฟอลล์เอาท์ ภารกิจฝ่าแดนฝุ่นมฤตยู",
+      "info": "HD",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Fallout-220x300-c-default.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Fallout-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/944cdc7a-29a9-5001-96c1-80c66c11dd18.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Fallout-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/d3cbfe30-dd07-5cd3-ad2f-8a140c2e5c28.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Fallout-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/0d1b0f57-3616-5885-a520-4252c858abab.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Fallout-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/7713e820-1aec-5135-abf2-eab417ecbd1d.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Fallout-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/8f7b017e-fbd5-57d2-93bd-8a3bab492372.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Fallout-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/a153eede-49b7-50de-a51d-5bf002698b95.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Fallout-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/cc142bdd-26c4-5356-ba9e-99ec86829ecc.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Fallout-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/a73bab7a-077c-5c6b-8bb2-94076e7a59eb.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        }
+      ]
+    },
+    {
+      "name": "Parasyte The Grey (2024) ปรสิต: เดอะ เกรย์",
+      "info": "HD",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Parasyte-The-Grey-220x300-c-default.png",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Parasyte-The-Grey-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/6b78042c-dee8-56c1-bfea-c19195d7546b.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Parasyte-The-Grey-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/6c41925a-5930-56c6-81ff-2de27fcd33a3.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Parasyte-The-Grey-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/1691d64e-978a-5012-9e67-38f3bd1a85e9.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Parasyte-The-Grey-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/9e4a31df-4ef8-543c-9e43-c2776883789b.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Parasyte-The-Grey-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/0f2025f1-9fdd-5f62-8652-85878ea38b5a.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Parasyte-The-Grey-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/265e3204-4d68-54cd-8ef4-a616abfc2709.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        }
+      ]
+    },
+    {
+      "name": "Crooks (2024) ทางโจร",
+      "info": "HD",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Crooks-220x300-c-default.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Crooks-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/7f0ba298-413c-5e35-93e5-1773612b4941.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Crooks-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/1e457df6-3709-51d7-9970-52ca59ce8a93.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Crooks-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/82ac8a58-32cc-589b-bdb1-b440feb26824.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Crooks-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/e8923b70-a124-5674-9817-3b9242c18d7e.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Crooks-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/331a958d-b79d-538b-a20f-e15ec8f448ff.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Crooks-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/43ca1c0f-627e-51fd-bc75-26a3c726d739.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Crooks-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/fce9cb00-0976-569c-af4b-6a0ca13fd35e.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Crooks-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/18b52a1f-c84c-59a4-b9ab-ae1dc4b3aa62.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        }
+      ]
+    },
     {
       "name": "Flex X Cop (2024)",
       "info": "SUB",
@@ -10728,104 +11155,6 @@
       ]
     },
     {
-      "name": "Good Girls Season 2 (2019)",
-      "info": "SUB",
-      "image": "https://www.dooseries4k.com/wp-content/uploads/2023/07/Good-Girls-Season-2-220x300-c-default.jpg",
-      "stations": [
-        {
-          "name": "ซีซั่น 2 ตอนที่ 1",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/07/Good-Girls-Season-2-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/bf8b837f-d2f1-539e-8f3d-9d60b5a0a54c.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 2 ตอนที่ 2",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/07/Good-Girls-Season-2-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/24a69f8b-c483-54dd-bafa-1f46f4da5a67.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 2 ตอนที่ 3",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/07/Good-Girls-Season-2-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/bcf76d61-c593-5b69-b916-694f207b38c3.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 2 ตอนที่ 4",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/07/Good-Girls-Season-2-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/22438325-df94-5a4a-8590-c693601d651a.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 2 ตอนที่ 5",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/07/Good-Girls-Season-2-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/3ede7ee4-a818-572f-9513-7e6fa9104639.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 2 ตอนที่ 6",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/07/Good-Girls-Season-2-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/0d1adf9c-ccd9-5174-976e-72f68c9d8038.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 2 ตอนที่ 7",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/07/Good-Girls-Season-2-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/25581198-eec6-5ace-892a-d571a297f6d9.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 2 ตอนที่ 8",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/07/Good-Girls-Season-2-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/94d831ba-62c8-56a1-911f-40e9fc4bd53e.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 2 ตอนที่ 9",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/07/Good-Girls-Season-2-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/6c0406a6-973a-5cd5-a8f9-9d847c5c0df8.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 2 ตอนที่ 10",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/07/Good-Girls-Season-2-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/71188c68-15f5-5663-aad1-b61265f1977f.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 2 ตอนที่ 11",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/07/Good-Girls-Season-2-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/b088cbe9-f8d2-57b5-afd7-7414013e36f0.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 2 ตอนที่ 12",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/07/Good-Girls-Season-2-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/929c60dc-5c8d-5712-be95-09a42afab229.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 2 ตอนที่ 13",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/07/Good-Girls-Season-2-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/cbe70658-3bd8-506d-8ab7-888c14e5f2b7.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        }
-      ]
-    },
-    {
       "name": "Good Girls Season 3 (2020)",
       "info": "SUB",
       "image": "https://www.dooseries4k.com/wp-content/uploads/2023/07/Good-Girls-Season-3-220x300-c-default.jpg",
@@ -10905,6 +11234,125 @@
           "info": "ซับไทย",
           "image": "https://www.dooseries4k.com/wp-content/uploads/2023/07/Good-Girls-Season-3-220x300-c-default.jpg",
           "url": "https://www.sgcdnseriesn.xyz/view/7b9ddee2-71a6-590a-a60a-2f879d0777b1.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        }
+      ]
+    },
+    {
+      "name": "Good Girls Season 4 (2021)",
+      "info": "SUB",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2023/07/Good-Girls-Season-4-220x300-c-default.jpg",
+      "stations": [
+        {
+          "name": "ซีซั่น 4 ตอนที่ 1",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/07/Good-Girls-Season-4-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/63562237-ac53-5617-9492-faaacb55f476.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 4 ตอนที่ 2",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/07/Good-Girls-Season-4-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/cb6ef948-1118-5e4c-93a7-95a46a4ea5e9.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 4 ตอนที่ 3",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/07/Good-Girls-Season-4-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/9c9bd382-9b22-5448-8e75-55ef633a0456.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 4 ตอนที่ 4",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/07/Good-Girls-Season-4-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/9daa7077-8b9a-555c-bdb4-006cbd690fac.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 4 ตอนที่ 5",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/07/Good-Girls-Season-4-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/9330d8af-0521-5b7c-9823-cf2b4e3b6edf.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 4 ตอนที่ 6",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/07/Good-Girls-Season-4-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/ab909f17-4683-5867-bfe2-5cc212089047.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 4 ตอนที่ 7",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/07/Good-Girls-Season-4-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/552f4960-6305-5167-870b-64239de53fd2.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 4 ตอนที่ 8",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/07/Good-Girls-Season-4-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/f25c509a-60d0-569c-bdff-50d70bc9f3d6.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 4 ตอนที่ 9",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/07/Good-Girls-Season-4-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/cdd280f8-0c89-5169-b3f1-e85fd6615bb8.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 4 ตอนที่ 10",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/07/Good-Girls-Season-4-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/0c67ff01-5c62-5a98-9695-1dfc354c444e.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 4 ตอนที่ 11",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/07/Good-Girls-Season-4-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/4b203796-a015-569a-bfb3-9cf8f203da61.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 4 ตอนที่ 12",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/07/Good-Girls-Season-4-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/a107cd5e-6e3e-5c07-b172-7f8b2d9eccb9.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 4 ตอนที่ 13",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/07/Good-Girls-Season-4-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/22e09604-f44f-593f-b0ec-8aa4e592bdc6.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 4 ตอนที่ 14",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/07/Good-Girls-Season-4-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/f96800fc-b651-5b13-846b-e096099456cd.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 4 ตอนที่ 15",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/07/Good-Girls-Season-4-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/7b359138-1daf-580e-9e9f-5f846b1553ed.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 4 ตอนที่ 16",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/07/Good-Girls-Season-4-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/dc7d8ac2-4763-55f9-9baf-5e5f4b871dc3.m3u8",
           "referer": "https://www.sgcdnseriesn.xyz/"
         }
       ]
@@ -12905,167 +13353,6 @@
       ]
     },
     {
-      "name": "Riverdale ริเวอร์เดล Season 6 (2021) พากย์ไทย",
-      "info": "HD",
-      "image": "https://www.dooseries4k.com/wp-content/uploads/2023/04/Riverdale-SS6-220x300-c-default.jpg",
-      "stations": [
-        {
-          "name": "ซีซั่น 6 ตอนที่ 1",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/04/Riverdale-SS6-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/08bd4ba8-0545-5032-889d-de765ccf2af9.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 6 ตอนที่ 2",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/04/Riverdale-SS6-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/e0dc23e6-b8df-50f0-8eb8-bc170de80173.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 6 ตอนที่ 3",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/04/Riverdale-SS6-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/230a663f-4250-5b0e-9460-7e22a8559c00.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 6 ตอนที่ 4",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/04/Riverdale-SS6-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/9766f358-3396-567d-8d34-50811edeb3f4.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 6 ตอนที่ 5",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/04/Riverdale-SS6-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/89a4dc4e-f72e-5bee-9fae-19a45a226544.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 6 ตอนที่ 6",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/04/Riverdale-SS6-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/06aa2b1b-b8be-55eb-bae2-e07cf05a0721.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 6 ตอนที่ 7",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/04/Riverdale-SS6-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/26ef4f28-3a2b-502e-ad07-595e2746bda0.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 6 ตอนที่ 8",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/04/Riverdale-SS6-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/0b3ebe8f-cd14-56ab-a2d7-c102f8b88b99.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 6 ตอนที่ 9",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/04/Riverdale-SS6-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/d7cc80cc-057d-5d98-80ce-8e264526b4da.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 6 ตอนที่ 10",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/04/Riverdale-SS6-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/a42a8089-b1a9-5bfb-b3a0-7fbdbe8b7cbd.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 6 ตอนที่ 11",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/04/Riverdale-SS6-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/708440eb-6e5f-575e-ad66-dbad51ea50c0.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 6 ตอนที่ 12",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/04/Riverdale-SS6-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/eba20e5e-ad6a-5ba8-8b84-947cd05f20a1.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 6 ตอนที่ 13",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/04/Riverdale-SS6-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/7f94ea14-cd07-585d-8095-06a388a58163.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 6 ตอนที่ 14",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/04/Riverdale-SS6-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/f4215e68-1e22-5373-ab33-eb6865a06457.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 6 ตอนที่ 15",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/04/Riverdale-SS6-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/2854fb7a-0c83-5930-a76b-1c8640061612.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 6 ตอนที่ 16",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/04/Riverdale-SS6-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/a5f55352-00a9-528a-a9b4-18c2ea21426e.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 6 ตอนที่ 17",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/04/Riverdale-SS6-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/7b8f46c5-099d-559e-837d-462fd591ccbd.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 6 ตอนที่ 18",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/04/Riverdale-SS6-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/375661c7-4dac-51ae-ade8-b89e3fe36943.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 6 ตอนที่ 19",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/04/Riverdale-SS6-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/a5d21761-9795-5208-a2a2-11f2f6b5347c.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 6 ตอนที่ 20",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/04/Riverdale-SS6-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/2770f007-bfd5-5baf-bf73-ebc4edfebde2.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 6 ตอนที่ 21",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/04/Riverdale-SS6-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/41838c44-8f54-577e-a968-2e10b6b58cfd.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 6 ตอนที่ 22",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/04/Riverdale-SS6-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/900bbe8a-12b8-55cc-ac36-dd6b00d1ce31.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        }
-      ]
-    },
-    {
       "name": "Riverdale ริเวอร์เดล Season 3 (2018) พากย์ไทย",
       "info": "HD",
       "image": "https://www.dooseries4k.com/wp-content/uploads/2023/04/Riverdale-SS3-220x300-c-default.jpg",
@@ -13474,6 +13761,167 @@
           "info": "พากย์ไทย",
           "image": "https://www.dooseries4k.com/wp-content/uploads/2023/04/Riverdale-SS5-220x300-c-default.jpg",
           "url": "https://www.sgcdnseriesn.xyz/view/1fc7affc-b814-5816-bfac-d5687a5db347.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        }
+      ]
+    },
+    {
+      "name": "Riverdale ริเวอร์เดล Season 6 (2021) พากย์ไทย",
+      "info": "HD",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2023/04/Riverdale-SS6-220x300-c-default.jpg",
+      "stations": [
+        {
+          "name": "ซีซั่น 6 ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/04/Riverdale-SS6-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/08bd4ba8-0545-5032-889d-de765ccf2af9.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 6 ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/04/Riverdale-SS6-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/e0dc23e6-b8df-50f0-8eb8-bc170de80173.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 6 ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/04/Riverdale-SS6-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/230a663f-4250-5b0e-9460-7e22a8559c00.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 6 ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/04/Riverdale-SS6-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/9766f358-3396-567d-8d34-50811edeb3f4.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 6 ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/04/Riverdale-SS6-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/89a4dc4e-f72e-5bee-9fae-19a45a226544.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 6 ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/04/Riverdale-SS6-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/06aa2b1b-b8be-55eb-bae2-e07cf05a0721.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 6 ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/04/Riverdale-SS6-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/26ef4f28-3a2b-502e-ad07-595e2746bda0.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 6 ตอนที่ 8",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/04/Riverdale-SS6-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/0b3ebe8f-cd14-56ab-a2d7-c102f8b88b99.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 6 ตอนที่ 9",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/04/Riverdale-SS6-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/d7cc80cc-057d-5d98-80ce-8e264526b4da.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 6 ตอนที่ 10",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/04/Riverdale-SS6-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/a42a8089-b1a9-5bfb-b3a0-7fbdbe8b7cbd.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 6 ตอนที่ 11",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/04/Riverdale-SS6-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/708440eb-6e5f-575e-ad66-dbad51ea50c0.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 6 ตอนที่ 12",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/04/Riverdale-SS6-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/eba20e5e-ad6a-5ba8-8b84-947cd05f20a1.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 6 ตอนที่ 13",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/04/Riverdale-SS6-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/7f94ea14-cd07-585d-8095-06a388a58163.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 6 ตอนที่ 14",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/04/Riverdale-SS6-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/f4215e68-1e22-5373-ab33-eb6865a06457.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 6 ตอนที่ 15",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/04/Riverdale-SS6-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/2854fb7a-0c83-5930-a76b-1c8640061612.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 6 ตอนที่ 16",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/04/Riverdale-SS6-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/a5f55352-00a9-528a-a9b4-18c2ea21426e.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 6 ตอนที่ 17",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/04/Riverdale-SS6-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/7b8f46c5-099d-559e-837d-462fd591ccbd.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 6 ตอนที่ 18",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/04/Riverdale-SS6-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/375661c7-4dac-51ae-ade8-b89e3fe36943.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 6 ตอนที่ 19",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/04/Riverdale-SS6-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/a5d21761-9795-5208-a2a2-11f2f6b5347c.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 6 ตอนที่ 20",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/04/Riverdale-SS6-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/2770f007-bfd5-5baf-bf73-ebc4edfebde2.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 6 ตอนที่ 21",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/04/Riverdale-SS6-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/41838c44-8f54-577e-a968-2e10b6b58cfd.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 6 ตอนที่ 22",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/04/Riverdale-SS6-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/900bbe8a-12b8-55cc-ac36-dd6b00d1ce31.m3u8",
           "referer": "https://www.sgcdnseriesn.xyz/"
         }
       ]
