@@ -1,9 +1,61 @@
 {
  "name": "หนังไทย",
- "author": "เจียว เจียว (=◍․̫◍=) ดูฟรีเพื่อความบันเทิงภายในที่พักอาศัย (=◍․̫◍=)วันที่ 10 เมษายน 2567",
+ "author": "เจียว เจียว (=◍․̫◍=) ดูฟรีเพื่อความบันเทิงภายในที่พักอาศัย (=◍․̫◍=)วันที่ 15 พฤษภาคม 2567",
  "info": "เฉพาะเมื่อเราให้ความสุขโดยไม่ลังเลหรือคิดจะได้กำไรเราสามารถรู้ได้อย่างแท้จริงว่าความรักหมายถึงอะไร😊",
  "image": "https://fw4free.com/images/logo7.png",
  "groups": [
+  {
+   "name": "สลิธ โปรเจกต์ล่า Slyth: The Hunt Saga (2023)",
+   "image": "https://img.inwiptv.net/postor/202405082239157q1dA0i4yPfjSBX3G6UnU8fdEjI.jpg",
+   "stations": [
+    {
+     "name": "สลิธ โปรเจกต์ล่า Slyth: The Hunt Saga (2023)",
+     "info": " พากย์ไทย [1080p]",
+     "image": "https://img.inwiptv.net/postor/202405082239157q1dA0i4yPfjSBX3G6UnU8fdEjI.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie3/Slyth_The_Hunt_Saga_2023/Slyth_The_Hunt_Saga_2023_th_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
+  {
+   "name": "ผีฮา คนเฮ Ghost's News (2023)",
+   "image": "https://img.inwiptv.net/postor/2024050118500188LVYhfPEfuJE7raPOeGlf9X1EL.jpg",
+   "stations": [
+    {
+     "name": "ผีฮา คนเฮ Ghost's News (2023)",
+     "info": " พากย์ไทย [1080p]",
+     "image": "https://img.inwiptv.net/postor/2024050118500188LVYhfPEfuJE7raPOeGlf9X1EL.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie3/Ghost_s_News_2023/Ghost_s_News_2023_th_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
+  {
+   "name": "พัสดุฝ่าแดนมรณะ The Package (2024)",
+   "image": "https://img.inwiptv.net/postor/20240425235000quyFXbmbOAk77QZh20o3Uac8IvR.jpg",
+   "stations": [
+    {
+     "name": "พัสดุฝ่าแดนมรณะ The Package (2024)",
+     "info": " พากย์ไทย [1080p]",
+     "image": "https://img.inwiptv.net/postor/20240425235000quyFXbmbOAk77QZh20o3Uac8IvR.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie3/The_Package_2024/The_Package_2024_th_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
+  {
+   "name": "ของแขก The Djinn's Curse (2023)",
+   "image": "https://img.inwiptv.net/postor/20240418003739vACxlHSSndGxKK1AYPZva6kWX9L.jpg",
+   "stations": [
+    {
+     "name": "ของแขก The Djinn's Curse (2023)",
+     "info": " พากย์ไทย [1080p]",
+     "image": "https://img.inwiptv.net/postor/20240418003739vACxlHSSndGxKK1AYPZva6kWX9L.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie3/The_Djinn_s_Curse_2023/The_Djinn_s_Curse_2023_th_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
   {
    "name": "ธี่หยด Death Whisperer (2023)",
    "image": "https://img.inwiptv.net/postor/20240410001304dsS99k66XydZP6lHStoda5DGtxd.jpg",
