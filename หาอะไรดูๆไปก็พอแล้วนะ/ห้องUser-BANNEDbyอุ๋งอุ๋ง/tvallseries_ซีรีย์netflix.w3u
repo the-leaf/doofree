@@ -1,9 +1,284 @@
 {
   "name": "ซีรีย์Netflix",
-  "author": "เจียว เจียว อัพวันที่ 15 พฤษภาคม 2567",
+  "author": "เจียว เจียว อัพวันที่ 30 พฤษภาคม 2567",
   "info": "อยู่ในมุมที่ตัวเองมีความสุข ไม่จำเป็นต้องโดดเด่น ไม่จำเป็นต้องเหมือนใคร",
   "image": "https://tvallseries.co/wp-content/uploads/2021/01/logotvseries.png.webp",
   "groups": [
+    {
+      "name": "Jurassic World Chaos Theory (2024) จูราสสิค เวิลด์ ทฤษฎีความอลวน EP.1-10 (จบ)",
+      "info": "พากย์ไทย",
+      "image": "https://tvallseries.co/wp-content/uploads/2024/05/Jurassic-World-Chaos-Theory-2024-185x278.webp",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/05/Jurassic-World-Chaos-Theory-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/4b8aac85-8d2e-4cbc-8fc1-aee814af363e/0"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/05/Jurassic-World-Chaos-Theory-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/198c62b9-64e0-4c62-9f44-09a9554ef483/0"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/05/Jurassic-World-Chaos-Theory-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/c8b967fb-6cb6-40fa-a98a-f9295153ee59/0"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/05/Jurassic-World-Chaos-Theory-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/4e4285ae-19e7-4cdb-abc9-d3d21e0c7f08/0"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/05/Jurassic-World-Chaos-Theory-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/599f563d-e6d1-404a-aee0-3729b707fe3e/0"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/05/Jurassic-World-Chaos-Theory-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/bcfa4c0d-711d-4247-887f-438f3484be74/0"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/05/Jurassic-World-Chaos-Theory-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/1c85822a-b61e-4752-90b0-bcec90dce776/0"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/05/Jurassic-World-Chaos-Theory-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/92c3a6f2-4c9f-4673-b9d5-01f11f9dae87/0"
+        },
+        {
+          "name": "ตอนที่ 9",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/05/Jurassic-World-Chaos-Theory-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/42e324be-fef0-4cdc-91ea-c2358c127e55/0"
+        },
+        {
+          "name": "ตอนที่ 10 (ตอนจบ)",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/05/Jurassic-World-Chaos-Theory-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/5b6c6bf2-890f-45ea-91d3-475e73582809/0"
+        }
+      ]
+    },
+    {
+      "name": "Garouden The Way of the Lone Wolf (2024) กาโร่เดน ศึกยอดคน วิถีหมาป่าเดียวดาย EP.1-8 (จบ)",
+      "info": "พากย์ไทย",
+      "image": "https://tvallseries.co/wp-content/uploads/2024/05/Garouden-The-Way-of-the-Lone-Wolf-2024-185x278.webp",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/05/Garouden-The-Way-of-the-Lone-Wolf-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/14ccf5ea-1a29-4f44-933b-8e56bc723662/0"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/05/Garouden-The-Way-of-the-Lone-Wolf-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/7ef7dc30-ac06-46e4-b1a7-df4b0d1b4d1b/0"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/05/Garouden-The-Way-of-the-Lone-Wolf-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/702d5ce1-8663-4ea0-b158-571978a474f0/0"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/05/Garouden-The-Way-of-the-Lone-Wolf-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/86ef34e9-31ff-46ed-809b-f4b25242fbf8/0"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/05/Garouden-The-Way-of-the-Lone-Wolf-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/bc60585f-3627-43cc-acac-41fee36be02f/0"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/05/Garouden-The-Way-of-the-Lone-Wolf-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/d55c6f66-74c5-48a1-9e0f-e115d3fc179b/0"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/05/Garouden-The-Way-of-the-Lone-Wolf-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/3ab51efc-d0ef-4817-9435-ecef63269226/0"
+        },
+        {
+          "name": "ตอนที่ 8 (ตอนจบ)",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/05/Garouden-The-Way-of-the-Lone-Wolf-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/b4a90c00-9145-4250-82b5-21c7a21b5593/0"
+        }
+      ]
+    },
+    {
+      "name": "Ronja the Robber s Daughter (2024) EP.1-6 (จบ)",
+      "info": "ซับไทย",
+      "image": "https://tvallseries.co/wp-content/uploads/2024/05/Ronja-the-Robber-s-Daughter-2024-185x278.webp",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "ซับไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/05/Ronja-the-Robber-s-Daughter-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/c25410fe-0257-4e15-8331-2f010886f795/0"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "ซับไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/05/Ronja-the-Robber-s-Daughter-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/b89e9af7-5be9-4554-9bce-53c2ee820411/0"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "ซับไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/05/Ronja-the-Robber-s-Daughter-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/d5d4c6ec-ae5b-4d0a-bb9f-8d550a273e4c/0"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "ซับไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/05/Ronja-the-Robber-s-Daughter-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/bb756464-8689-4fe6-b7d6-e2c12aee2d3a/0"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "ซับไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/05/Ronja-the-Robber-s-Daughter-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/3100cba7-51da-4227-a1c5-e3dac8777801/0"
+        },
+        {
+          "name": "ตอนที่ 6 (ตอนจบ)",
+          "info": "ซับไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/05/Ronja-the-Robber-s-Daughter-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/6244049c-f26c-44cb-9746-75dbd6ffae8b/0"
+        }
+      ]
+    },
+    {
+      "name": "Kaleidoscope (2023) คาไลโดสโคป ส่องกล้องปล้น EP.1-8 (จบ)",
+      "info": "พากย์ไทย",
+      "image": "https://tvallseries.co/wp-content/uploads/2024/05/Kaleidoscope-2023-185x278.webp",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/05/Kaleidoscope-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/fe949402-026b-4861-86c1-1bcc637135a3/0"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/05/Kaleidoscope-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/e214e9d0-1c21-4286-87f6-912682ac10b5/0"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/05/Kaleidoscope-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/dcc92890-eaef-44e1-9b7e-24dcd5015319/0"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/05/Kaleidoscope-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/56fb2acf-e66a-4142-8440-e311599a984b/0"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/05/Kaleidoscope-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/a0db9ef8-6b1f-4e43-a7ec-608b3ba148d1/0"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/05/Kaleidoscope-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/c98e9d49-375a-4d14-a13d-2ca3b54d0e4b/0"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/05/Kaleidoscope-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/54e23323-05e9-4329-871f-09e7ebce7323/0"
+        },
+        {
+          "name": "ตอนที่ 8 (ตอนจบ)",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/05/Kaleidoscope-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/5565ab47-2bdd-4987-86d0-a0dce64b8203/0"
+        }
+      ]
+    },
+    {
+      "name": "The 8 Show (2024) เกมโชว์เลือดแลกเงิน EP.1-8 (จบ)",
+      "info": "พากย์ไทย",
+      "image": "https://tvallseries.co/wp-content/uploads/2024/05/The-8-Show-2024-185x278.webp",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/05/The-8-Show-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/f06a005b-2ad8-4fb0-92a8-c68ed9c92266/0"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/05/The-8-Show-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/85353a34-dfe7-4f19-9cd2-936bbff4af1c/0"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/05/The-8-Show-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/b0a74c8d-cf82-40d5-8e23-80b353208aec/0"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/05/The-8-Show-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/65cdb55c-7ed9-43b8-9b82-be317aa6798a/0"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/05/The-8-Show-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/039b939f-cc73-4ef6-90cf-2cbec128d144/0"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/05/The-8-Show-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/5af10b6f-a247-4d94-b899-815dea1dfe1e/0"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/05/The-8-Show-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/981fb9ab-3ae7-42b0-b49c-33276ed0b806/0"
+        },
+        {
+          "name": "ตอนที่ 8 (ตอนจบ)",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/05/The-8-Show-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/134af0ef-8dae-4d2e-8f29-cfad602c2450/0"
+        }
+      ]
+    },
     {
       "name": "Dare To Love Me (2024) ท้ารักให้ฉ่ำปอด EP.1-16 (กำลังรอฉาย)",
       "info": "ซับไทย",
@@ -20,6 +295,24 @@
           "info": "ซับไทย",
           "image": "https://tvallseries.co/wp-content/uploads/2024/05/Dare-To-Love-Me-2024-185x278.webp",
           "url": "https://playcdn.tvallseries.com/b0272964-20c0-4fb3-ab89-588938d1de9a/0"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "ซับไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/05/Dare-To-Love-Me-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/5d6b178d-beb8-43f8-820f-fa7cc99bd241/0"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "ซับไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/05/Dare-To-Love-Me-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/77e45ffb-d418-46fc-a637-e117997047c9/0"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "ซับไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/05/Dare-To-Love-Me-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/38f56108-628b-4e4b-bd5a-af33753c0695/0"
         }
       ]
     },
@@ -39,6 +332,12 @@
           "info": "Soundtrack",
           "image": "https://tvallseries.co/wp-content/uploads/2024/05/Anti-Hero-2024-185x278.webp",
           "url": "https://playcdn.tvallseries.com/19df5c6e-15b8-489f-9602-9a006a61a03d/0"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "Soundtrack",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/05/Anti-Hero-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/0f0c7966-40d1-480e-8070-f7d97bc9f03c/0"
         }
       ]
     },

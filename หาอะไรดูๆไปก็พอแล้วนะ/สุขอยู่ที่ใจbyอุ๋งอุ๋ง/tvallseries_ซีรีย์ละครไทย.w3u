@@ -1,9 +1,126 @@
 {
   "name": "ซีรีย์ละครไทย",
-  "author": "เจียว เจียว อัพวันที่ 15 พฤษภาคม 2567",
+  "author": "เจียว เจียว อัพวันที่ 30 พฤษภาคม 2567",
   "info": "อยู่ในมุมที่ตัวเองมีความสุข ไม่จำเป็นต้องโดดเด่น ไม่จำเป็นต้องเหมือนใคร",
   "image": "https://tvallseries.co/wp-content/uploads/2021/01/logotvseries.png.webp",
   "groups": [
+    {
+      "name": "Lawless (2024) ทนายเดือด EP.1-16 (กำลังรอฉาย)",
+      "info": "พากย์ไทย",
+      "image": "https://tvallseries.co/wp-content/uploads/2024/05/Lawless-2024-185x278.webp",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/05/Lawless-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/89c4d925-93c8-4992-8ad5-7c0a8845b353/0"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/05/Lawless-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/5d5dde21-4c90-4db2-bc26-21cc20909ac3/0"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/05/Lawless-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/e443013a-bfa1-46ce-9f2b-550a04ee2d78/0"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/05/Lawless-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/b9ecdfac-c627-40bc-a7d2-4517848f63a1/0"
+        }
+      ]
+    },
+    {
+      "name": "Dark Faith (2024) เจ้าพ่อ EP.1-26 (กำลังรอฉาย)",
+      "info": "พากย์ไทย",
+      "image": "https://tvallseries.co/wp-content/uploads/2024/05/Dark-Faith-2024-185x278.webp",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/05/Dark-Faith-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/d451c4c3-fcf8-477b-a0e4-7572e0a69a92/0"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/05/Dark-Faith-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/ad7d03b9-c42e-40e9-abe4-4e6955afc290/0"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/05/Dark-Faith-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/2a2fd92c-4c9e-430f-b205-2647f8fa9222/0"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/05/Dark-Faith-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/d672d38e-81b0-4844-bdf4-0802fe6a1692/0"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/05/Dark-Faith-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/59518d59-cc70-4192-8da4-824c7a660de6/0"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/05/Dark-Faith-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/460ed9d4-48f0-4f2d-823d-6ca8fce4f6d6/0"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/05/Dark-Faith-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/761a9d14-8cb7-4fc8-bbcd-a0a86531fdf2/0"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/05/Dark-Faith-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/b3f650cd-7dd1-4582-ba82-162052307e3a/0"
+        },
+        {
+          "name": "ตอนที่ 9",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/05/Dark-Faith-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/bbae7a08-91b2-4f5d-b521-c39735f9e1ef/0"
+        },
+        {
+          "name": "ตอนที่ 10",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/05/Dark-Faith-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/61ba4d45-bd53-4d77-a188-0aebb94eb1a1/0"
+        }
+      ]
+    },
+    {
+      "name": "OMG Vampire (2024) แวมไพร์ไวน์แดง EP.1-10 (กำลังรอฉาย)",
+      "info": "พากย์ไทย",
+      "image": "https://tvallseries.co/wp-content/uploads/2024/05/OMG-Vampire-2024-185x278.webp",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/05/OMG-Vampire-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/3ce4651e-bdce-414f-a7ae-a67f811007c4/0"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/05/OMG-Vampire-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/554ccc43-ed13-4676-8eeb-1e5841c7d832/0"
+        }
+      ]
+    },
     {
       "name": "Dark App (2021) แอป ป่วน เมือง EP.1-6 (จบ)",
       "info": "พากย์ไทย",
@@ -63,6 +180,36 @@
           "info": "พากย์ไทย",
           "image": "https://tvallseries.co/wp-content/uploads/2024/05/Bangkok-Blossom-2024-185x278.webp",
           "url": "https://playcdn.tvallseries.com/df9185fa-afaf-410b-a14d-c804a2b4400f/0"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/05/Bangkok-Blossom-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/bdc298e3-c346-4915-8c17-d74009ccbaca/0"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/05/Bangkok-Blossom-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/d1fbbe11-0c47-4441-964c-6358cc3c677a/0"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/05/Bangkok-Blossom-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/8fba587e-55af-4308-8e21-b59563354ff0/0"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/05/Bangkok-Blossom-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/8e9ec031-7db6-45b1-8397-827d605efa7a/0"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/05/Bangkok-Blossom-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/63e7c8eb-e820-43ce-873d-b6cff46ec1c0/0"
         }
       ]
     },
@@ -130,6 +277,30 @@
           "info": "พากย์ไทย",
           "image": "https://tvallseries.co/wp-content/uploads/2024/04/Remember-2024-185x278.webp",
           "url": "https://playcdn.tvallseries.com/d146ff76-09a4-4736-a881-b840353da608/0"
+        },
+        {
+          "name": "ตอนที่ 11",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/04/Remember-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/c15a16c0-3797-4888-9ce8-db60d9ba67e8/0"
+        },
+        {
+          "name": "ตอนที่ 12",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/04/Remember-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/08efdab4-20cc-4862-a407-ef368a9dea1b/0"
+        },
+        {
+          "name": "ตอนที่ 13",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/04/Remember-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/69f6c472-d3d9-4178-8a68-b4bd75ddfc2e/0"
+        },
+        {
+          "name": "ตอนที่ 14",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/04/Remember-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/dbb782ef-5aef-4cb1-b38e-3c354a7840f1/0"
         }
       ]
     },
@@ -1392,6 +1563,18 @@
           "info": "พากย์ไทย",
           "image": "https://tvallseries.co/wp-content/uploads/2024/01/Pentor-2024-185x278.webp",
           "url": "https://playcdn.tvallseries.com/59c31613-eb2d-4e1c-886d-f4c31d8df664/0"
+        },
+        {
+          "name": "ตอนที่ 20",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/01/Pentor-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/00b67bef-23e2-485c-ac5e-34f7e512a638/0"
+        },
+        {
+          "name": "ตอนที่ 21",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/01/Pentor-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/181efe2e-5962-48dd-8389-36445aef1ca8/0"
         }
       ]
     },
