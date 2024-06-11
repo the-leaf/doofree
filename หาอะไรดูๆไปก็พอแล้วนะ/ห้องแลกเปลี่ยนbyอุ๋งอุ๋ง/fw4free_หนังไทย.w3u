@@ -1,9 +1,87 @@
 {
  "name": "หนังไทย",
- "author": "เจียว เจียว (=◍․̫◍=) ดูฟรีเพื่อความบันเทิงภายในที่พักอาศัย (=◍․̫◍=)วันที่ 15 พฤษภาคม 2567",
+ "author": "เจียว เจียว (=◍․̫◍=) ดูฟรีเพื่อความบันเทิงภายในที่พักอาศัย (=◍․̫◍=)วันที่ 11 มิถุนายน 2567",
  "info": "เฉพาะเมื่อเราให้ความสุขโดยไม่ลังเลหรือคิดจะได้กำไรเราสามารถรู้ได้อย่างแท้จริงว่าความรักหมายถึงอะไร😊",
  "image": "https://fw4free.com/images/logo7.png",
  "groups": [
+  {
+   "name": "อีสานซอมบี้ E-Sarn Zombie (2023)",
+   "image": "https://img.inwiptv.net/postor/20240606034947sVisg0ppJqHcDOHAwlChL4MCfn.jpg",
+   "stations": [
+    {
+     "name": "อีสานซอมบี้ E-Sarn Zombie (2023)",
+     "info": " พากย์ไทย [1080p]",
+     "image": "https://img.inwiptv.net/postor/20240606034947sVisg0ppJqHcDOHAwlChL4MCfn.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie3/E_Sarn_Zombie_2023/E_Sarn_Zombie_2023_th_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
+  {
+   "name": "ผีหัวขาด 2 Headless Hero 2 (2004)",
+   "image": "https://img.inwiptv.net/postor/202406010344143SaDxQuEuvdHQTwX.jpg",
+   "stations": [
+    {
+     "name": "ผีหัวขาด 2 Headless Hero 2 (2004)",
+     "info": " พากย์ไทย [1080p]",
+     "image": "https://img.inwiptv.net/postor/202406010344143SaDxQuEuvdHQTwX.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie3/Headless_Hero_2_2004/Headless_Hero_2_2004_th_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
+  {
+   "name": "ผีหัวขาด 1 Headless Hero (2002)",
+   "image": "https://img.inwiptv.net/postor/20240601031920vnLegTejtq8w5DMuDaS4I7CqXr7.jpg",
+   "stations": [
+    {
+     "name": "ผีหัวขาด 1 Headless Hero (2002)",
+     "info": " พากย์ไทย [1080p]",
+     "image": "https://img.inwiptv.net/postor/20240601031920vnLegTejtq8w5DMuDaS4I7CqXr7.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie3/Headless_Hero_2002/Headless_Hero_2002_th_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
+  {
+   "name": "ส้ม แบงค์ มือใหม่หัดขาย One Take Only (2001)",
+   "image": "https://img.inwiptv.net/postor/20240527141520fNlhXYZZd7peqt5pRTRk34WGw2M.jpg",
+   "stations": [
+    {
+     "name": "ส้ม แบงค์ มือใหม่หัดขาย One Take Only (2001)",
+     "info": " พากย์ไทย [1080p]",
+     "image": "https://img.inwiptv.net/postor/20240527141520fNlhXYZZd7peqt5pRTRk34WGw2M.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie3/One_Take_Only_2001/One_Take_Only_2001_th_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
+  {
+   "name": "4 Kings 2 (2023)",
+   "image": "https://img.inwiptv.net/postor/20240521085043515151515.jpg",
+   "stations": [
+    {
+     "name": "4 Kings 2 (2023)",
+     "info": " พากย์ไทย [1080p]",
+     "image": "https://img.inwiptv.net/postor/20240521085043515151515.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie3/4_Kings_2_2023/4_Kings_2_2023_th_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
+  {
+   "name": "18 ปี ความทรงจำ ความฝัน ความรุนแรง 18 Years - Memories, Dreams and Violence (2022)",
+   "image": "https://img.inwiptv.net/postor/202405172016254tDkO4fLTuH6of1UdZRbNdEURc2.jpg",
+   "stations": [
+    {
+     "name": "18 ปี ความทรงจำ ความฝัน ความรุนแรง 18 Years - Memories, Dreams and Violence (2022)",
+     "info": " พากย์ไทย [1080p]",
+     "image": "https://img.inwiptv.net/postor/202405172016254tDkO4fLTuH6of1UdZRbNdEURc2.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie3/18_Years_Memories_Dreams_and_Violence_2022/18_Years_Memories_Dreams_and_Violence_2022_th_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
   {
    "name": "สลิธ โปรเจกต์ล่า Slyth: The Hunt Saga (2023)",
    "image": "https://img.inwiptv.net/postor/202405082239157q1dA0i4yPfjSBX3G6UnU8fdEjI.jpg",
@@ -1865,12 +1943,12 @@
   },
   {
    "name": "พี่นาค 3 Pee Nak 3 (2022)",
-   "image": "https://img.inwiptv.net/postor/202207152056117uWGD8TaFrDsh6AUpfdJNqjn4kM.jpg",
+   "image": "https://img.inwiptv.net/postor/20240225175543upvzNHUJJFBTpMVtqgiIMuql5qH.jpg",
    "stations": [
     {
      "name": "พี่นาค 3 Pee Nak 3 (2022)",
      "info": " พากย์ไทย [1080p]",
-     "image": "https://img.inwiptv.net/postor/202207152056117uWGD8TaFrDsh6AUpfdJNqjn4kM.jpg",
+     "image": "https://img.inwiptv.net/postor/20240225175543upvzNHUJJFBTpMVtqgiIMuql5qH.jpg",
      "url": "https://m1free.inwstream.com:1936/movie3/Pee_Nak_3_2022/Pee_Nak_3_2022_th_1080p_NF.mp4/playlist.m3u8",
      "referer": "https://fw4free.com/"
     }
@@ -5413,11 +5491,11 @@
    ]
   },
   {
-   "name": "กลิ่นสีและกาวแป้ง (Somthing About",
+   "name": "กลิ่นสีและกาวแป้ง Something About Art (1988)",
    "image": "https://img.inwiptv.net/postor/20200129143215กลิ่นสีและกาวแป้ง (Somthing About ..jpg",
    "stations": [
     {
-     "name": "กลิ่นสีและกาวแป้ง (Somthing About",
+     "name": "กลิ่นสีและกาวแป้ง Something About Art (1988)",
      "info": " พากย์ไทย [1080p]",
      "image": "https://img.inwiptv.net/postor/20200129143215กลิ่นสีและกาวแป้ง (Somthing About ..jpg",
      "url": "https://m1free.inwstream.com:1936/movie3/Klin-See-Lae-Kao-Pang-1988/Klin-See-Lae-Kao-Pang-1988-TH-1080p.mp4/playlist.m3u8",
@@ -5426,11 +5504,11 @@
    ]
   },
   {
-   "name": "กลิ่นสีและกาวแป้ง 2 (Somthing About",
+   "name": "กลิ่นสีและกาวแป้ง 2 Something About Art 2 (1989)",
    "image": "https://img.inwiptv.net/postor/20200129143115กลิ่นสีและกาวแป้ง 2 (Somthing About.jpg",
    "stations": [
     {
-     "name": "กลิ่นสีและกาวแป้ง 2 (Somthing About",
+     "name": "กลิ่นสีและกาวแป้ง 2 Something About Art 2 (1989)",
      "info": " พากย์ไทย [480p]",
      "image": "https://img.inwiptv.net/postor/20200129143115กลิ่นสีและกาวแป้ง 2 (Somthing About.jpg",
      "url": "https://m1free.inwstream.com:1936/movie3/Klin-See-Lae-Kao-Pang-2-1989/Klin-See-Lae-Kao-Pang-2-1989-TH-480p.m4v/playlist.m3u8",
