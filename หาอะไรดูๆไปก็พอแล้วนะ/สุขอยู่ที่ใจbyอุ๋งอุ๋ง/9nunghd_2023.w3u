@@ -1,9 +1,219 @@
 {
  "name": "2023",
- "author": "เจียว เจียว อัพวันที่ 11 มิถุนายน 2567",
+ "author": "เจียว เจียว อัพวันที่ 23 มิถุนายน 2567",
  "info": "ความสำเร็จไม่ใช่จุดสิ้นสุด ความล้มเหลวไม่ใช่เรื่องร้ายแรง ความกล้าหาญที่จะทำต่อไปต่างหากที่สำคัญ",
  "image": "https://www.9nunghd.com/wp-content/themes/9nunghd/img/logo-9nung-2023.png",
  "groups": [
+  {
+   "name": "Jigarthanda DoubleX (2023)",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2024/06/rlPTdgLfgsSv8WiQXRZ2AVIDwAi-190x300-c-default.webp",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "Jigarthanda DoubleX (2023)",
+     "info": "ตัวเล่นสำรอง ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/06/rlPTdgLfgsSv8WiQXRZ2AVIDwAi-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/5db7cf82-3d20-51c4-8938-e730fc50e076.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "The Last Voyage of the Demeter (2023) การเดินทางครั้งสุดท้ายของเดอมิเทอร์",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/The-Last-Voyage-of-the-Demeter-2023-190x300-c-default.webp",
+   "info": "พากย์ไทย+ซับไทย",
+   "stations": [
+    {
+     "name": "The Last Voyage of the Demeter (2023) การเดินทางครั้งสุดท้ายของเดอมิเทอร์",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/The-Last-Voyage-of-the-Demeter-2023-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/c5c3641d-0994-5314-8e71-929217909723.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "The Last Voyage of the Demeter (2023) การเดินทางครั้งสุดท้ายของเดอมิเทอร์",
+     "info": "ตัวเล่นสำรอง ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/The-Last-Voyage-of-the-Demeter-2023-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/ad57d4fc-1d5f-56a4-b9da-4f4d040e6200.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Mallari (2023) มัลลารี ตำนานเชือด โลกสะท้าน",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2024/06/5305recRHuL8Ddwk05kfClVgffW-190x300-c-default.webp",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "Mallari (2023) มัลลารี ตำนานเชือด โลกสะท้าน",
+     "info": "ตัวเล่นสำรอง ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/06/5305recRHuL8Ddwk05kfClVgffW-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/2b549387-7cc7-531e-862d-f7ee6ad9c762.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Hopeless (2023) คน/จน/ตรอก",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2024/06/hfAPFGmMAlg4RIjMMgGPcE2s7wk-190x300-c-default.webp",
+   "info": "พากย์ไทย+ซับไทย",
+   "stations": [
+    {
+     "name": "Hopeless (2023) คน/จน/ตรอก",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/06/hfAPFGmMAlg4RIjMMgGPcE2s7wk-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/85934d68-52b5-5b6e-862d-6a6426737600.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Hopeless (2023) คน/จน/ตรอก",
+     "info": "ตัวเล่นสำรอง ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/06/hfAPFGmMAlg4RIjMMgGPcE2s7wk-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/5b46ab43-cf19-58b0-b08d-3b6774c263bb.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Assassin Club (2023)",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/05/Assassin-Club-2023-190x300-c-default.webp",
+   "info": "พากย์ไทย+ซับไทย",
+   "stations": [
+    {
+     "name": "Assassin Club (2023)",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/05/Assassin-Club-2023-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/2a0261ad-9e3c-5b59-addc-0f36f65eedaf.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Assassin Club (2023)",
+     "info": "ตัวเล่นสำรอง ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/05/Assassin-Club-2023-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/99db217e-f528-56c6-abaa-b776f0288b7e.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Assassin Club (2023)",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/05/Assassin-Club-2023-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/926ca24b-0c37-4d5e-a690-1e6fa35e57b0/_",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Black Barbie (2023) แบล็ค บาร์บี้",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2024/06/y6vyzS6gIhC8vriCf0axTZyxErg-190x300-c-default.webp",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "Black Barbie (2023) แบล็ค บาร์บี้",
+     "info": "ตัวเล่นสำรอง ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/06/y6vyzS6gIhC8vriCf0axTZyxErg-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/8b42d4b2-f781-558b-bd4d-396d3e854d69.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Kleks Academy (2023) โรงเรียนมายาคุณเคล็กซ์",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2024/06/1bU3cnkS2ampZuV2Om4wzRpQRIt-190x300-c-default.webp",
+   "info": "พากย์ไทย+ซับไทย",
+   "stations": [
+    {
+     "name": "Kleks Academy (2023) โรงเรียนมายาคุณเคล็กซ์",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/06/1bU3cnkS2ampZuV2Om4wzRpQRIt-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/15b16daf-71e2-56e0-9c43-842b9c458f9f.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Kleks Academy (2023) โรงเรียนมายาคุณเคล็กซ์",
+     "info": "ตัวเล่นสำรอง ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/06/1bU3cnkS2ampZuV2Om4wzRpQRIt-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/6386ed11-a5ba-5e86-885b-a442e28f31da.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Late Night with the Devil (2023) คืนนี้ผีมาคุย",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2024/06/sEiOwwD6ULly7hUFru3oDPYGBK9-190x300-c-default.webp",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "Late Night with the Devil (2023) คืนนี้ผีมาคุย",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/06/sEiOwwD6ULly7hUFru3oDPYGBK9-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/c8234f63-14ad-5dad-a57d-1d11aea8f8c9.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "How To Have Sex (2023) ซิงนั้นสำคัญไฉน",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2024/06/yvC4qMlMEgiFt9ailNd1VPsXfbU-190x300-c-default.webp",
+   "info": "พากย์ไทย+ซับไทย",
+   "stations": [
+    {
+     "name": "How To Have Sex (2023) ซิงนั้นสำคัญไฉน",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/06/yvC4qMlMEgiFt9ailNd1VPsXfbU-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/c247a854-b683-5310-bfd8-2967e32cb621.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "How To Have Sex (2023) ซิงนั้นสำคัญไฉน",
+     "info": "ตัวเล่นสำรอง ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/06/yvC4qMlMEgiFt9ailNd1VPsXfbU-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/7e3618a0-a02b-5fb8-8821-0e07755010d0.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "The Three Musketeers D’Artagnan (2023) สามทหารเสือ กำเนิดนักรบดาร์ตาญัง",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/The-Three-Musketeers-D-Artagnan-2023-190x300-c-default.webp",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "The Three Musketeers D’Artagnan (2023) สามทหารเสือ กำเนิดนักรบดาร์ตาญัง",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/The-Three-Musketeers-D-Artagnan-2023-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/7c1561ac-a293-53d6-a1ab-3a55405cbb8c.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "The Three Musketeers 2 Milady (2023) สามทหารเสือ มิลาดี้ สตรีสีเลือด",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2024/04/k2RsE6xfR7nqIKuxEg45rekpTw1-190x300-c-default.webp",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "The Three Musketeers 2 Milady (2023) สามทหารเสือ มิลาดี้ สตรีสีเลือด",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/04/k2RsE6xfR7nqIKuxEg45rekpTw1-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/74142bb5-c367-57b3-9e41-cbe6f21a4b0d.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Spy x Family Code White (2023) สปาย x แฟมิลี โค้ด ไวท์",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2024/06/mBO1s2Z8JcbLJz15VUkb3PfwZKh-190x300-c-default.webp",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "Spy x Family Code White (2023) สปาย x แฟมิลี โค้ด ไวท์",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/06/mBO1s2Z8JcbLJz15VUkb3PfwZKh-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/5409d1b0-55e9-5248-b93e-d90cee88c4c3.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
   {
    "name": "Penduko (2023) เปนดูโก้",
    "image": "https://www.9nunghd.com/wp-content/uploads/2024/06/hbSB1c2ZZbwW8gMgGwxmAfJt970-190x300-c-default.webp",
@@ -1659,27 +1869,6 @@
      "info": "ตัวเล่นหลัก ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2024/03/yjsxat9oMmiqYubps359YFCbkF1-190x300-c-default.webp",
      "url": "https://play.kakjeawplay.xyz/2be28188-13e8-4d54-b94a-9a217080d11b/_",
-     "referer": "https://www.9nunghd.com/"
-    }
-   ]
-  },
-  {
-   "name": "The Three Musketeers 2 Milady (2023) สามทหารเสือ มิลาดี้ สตรีสีเลือด",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2024/04/k2RsE6xfR7nqIKuxEg45rekpTw1-190x300-c-default.webp",
-   "info": "พากย์ไทย",
-   "stations": [
-    {
-     "name": "The Three Musketeers 2 Milady (2023) สามทหารเสือ มิลาดี้ สตรีสีเลือด",
-     "info": "ตัวเล่นสำรอง พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2024/04/k2RsE6xfR7nqIKuxEg45rekpTw1-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/bd05bb87-74d9-5b05-985f-0402a3a5d3ab.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    },
-    {
-     "name": "The Three Musketeers 2 Milady (2023) สามทหารเสือ มิลาดี้ สตรีสีเลือด",
-     "info": "ตัวเล่นหลัก พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2024/04/k2RsE6xfR7nqIKuxEg45rekpTw1-190x300-c-default.webp",
-     "url": "https://play.kakjeawplay.xyz/f01548cd-d2b1-407c-8553-ea2717e7d3a1/_",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -9623,27 +9812,6 @@
    ]
   },
   {
-   "name": "The Last Voyage of the Demeter (2023) การเดินทางครั้งสุดท้ายของเดอมิเทอร์",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/The-Last-Voyage-of-the-Demeter-2023-190x300-c-default.webp",
-   "info": "ซับไทย",
-   "stations": [
-    {
-     "name": "The Last Voyage of the Demeter (2023) การเดินทางครั้งสุดท้ายของเดอมิเทอร์",
-     "info": "ตัวเล่นสำรอง ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/The-Last-Voyage-of-the-Demeter-2023-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/77b3dc20-9f9c-5165-b969-94d3ab612fb2.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    },
-    {
-     "name": "The Last Voyage of the Demeter (2023) การเดินทางครั้งสุดท้ายของเดอมิเทอร์",
-     "info": "ตัวเล่นหลัก ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/The-Last-Voyage-of-the-Demeter-2023-190x300-c-default.webp",
-     "url": "https://play.kakjeawplay.xyz/54e68859-3ce4-4ff1-b9bf-6c5ec03352e1/_",
-     "referer": "https://www.9nunghd.com/"
-    }
-   ]
-  },
-  {
    "name": "A Thousand and One (2023) หนึ่งพันหนึ่ง",
    "image": "https://www.9nunghd.com/wp-content/uploads/2023/12/yW97MlBddOeiw17zUSf2iWvOmkr-scaled-190x300-c-default.webp",
    "info": "ซับไทย",
@@ -17162,27 +17330,6 @@
    ]
   },
   {
-   "name": "My Happy Ending (2023)",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/My-Happy-Ending-2023-190x300-c-default.webp",
-   "info": "ซับไทย",
-   "stations": [
-    {
-     "name": "My Happy Ending (2023)",
-     "info": "ตัวเล่นสำรอง ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/My-Happy-Ending-2023-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/4227d040-fef0-52e9-ae6f-8c47d1ca1121.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    },
-    {
-     "name": "My Happy Ending (2023)",
-     "info": "ตัวเล่นหลัก ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/My-Happy-Ending-2023-190x300-c-default.webp",
-     "url": "https://play.kakjeawplay.xyz/e9bc627c-a91e-498f-9421-3ff6debc28e9/_",
-     "referer": "https://www.9nunghd.com/"
-    }
-   ]
-  },
-  {
    "name": "Bhola Shankar (2023) โบลา ชังการ์",
    "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Bhola-Shankar-2023-190x300-c-default.webp",
    "info": "ซับไทย",
@@ -17436,133 +17583,133 @@
      "name": "ซีซั่น 1 ตอนที่ 15",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Arthdal-Chronicles-2023-190x300-c-default.webp",
-     "url": "https://sgcdnseriesn.xyz/view/d683d6df-be53-5931-9982-3040ef439a91.m3u8",
+     "url": "https://sgcdnseriesn.xyz/view/b802e770-1823-589e-98b7-81393c6e00fb.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
      "name": "ซีซั่น 1 ตอนที่ 16",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Arthdal-Chronicles-2023-190x300-c-default.webp",
-     "url": "https://sgcdnseriesn.xyz/view/d683d6df-be53-5931-9982-3040ef439a91.m3u8",
+     "url": "https://sgcdnseriesn.xyz/view/14c33f5b-170a-5407-818f-1fdfc97e3609.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
      "name": "ซีซั่น 1 ตอนที่ 16",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Arthdal-Chronicles-2023-190x300-c-default.webp",
-     "url": "https://sgcdnseriesn.xyz/view/d683d6df-be53-5931-9982-3040ef439a91.m3u8",
+     "url": "https://sgcdnseriesn.xyz/view/e44e6311-1586-59c2-9304-f63cfeb5adc2.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
      "name": "ซีซั่น 1 ตอนที่ 17",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Arthdal-Chronicles-2023-190x300-c-default.webp",
-     "url": "https://sgcdnseriesn.xyz/view/d683d6df-be53-5931-9982-3040ef439a91.m3u8",
+     "url": "https://sgcdnseriesn.xyz/view/7a6123e2-2b56-5429-825f-2308ee56b3ec.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
      "name": "ซีซั่น 1 ตอนที่ 17",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Arthdal-Chronicles-2023-190x300-c-default.webp",
-     "url": "https://sgcdnseriesn.xyz/view/d683d6df-be53-5931-9982-3040ef439a91.m3u8",
+     "url": "https://sgcdnseriesn.xyz/view/5d3269db-5ef0-5df4-9852-37d21556fbc6.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
      "name": "ซีซั่น 1 ตอนที่ 18",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Arthdal-Chronicles-2023-190x300-c-default.webp",
-     "url": "https://sgcdnseriesn.xyz/view/d683d6df-be53-5931-9982-3040ef439a91.m3u8",
+     "url": "https://sgcdnseriesn.xyz/view/5d65e918-51d9-5e55-a97e-5adaa15fe72b.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
      "name": "ซีซั่น 1 ตอนที่ 18",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Arthdal-Chronicles-2023-190x300-c-default.webp",
-     "url": "https://sgcdnseriesn.xyz/view/d683d6df-be53-5931-9982-3040ef439a91.m3u8",
+     "url": "https://sgcdnseriesn.xyz/view/160a8f53-a660-5386-a243-4c9fc10abbcb.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
      "name": "ซีซั่น 2 ตอนที่ 1",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Arthdal-Chronicles-2023-190x300-c-default.webp",
-     "url": "https://sgcdnseriesn.xyz/view/d683d6df-be53-5931-9982-3040ef439a91.m3u8",
+     "url": "https://sgcdnseriesn.xyz/view/c03fe242-12af-5155-8473-545230aacc99.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
      "name": "ซีซั่น 2 ตอนที่ 2",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Arthdal-Chronicles-2023-190x300-c-default.webp",
-     "url": "https://sgcdnseriesn.xyz/view/d683d6df-be53-5931-9982-3040ef439a91.m3u8",
+     "url": "https://sgcdnseriesn.xyz/view/ae154d3a-a15c-5d42-9a73-4159b67430cc.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
      "name": "ซีซั่น 2 ตอนที่ 3",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Arthdal-Chronicles-2023-190x300-c-default.webp",
-     "url": "https://sgcdnseriesn.xyz/view/d683d6df-be53-5931-9982-3040ef439a91.m3u8",
+     "url": "https://sgcdnseriesn.xyz/view/1388fcd4-cce6-51f3-a846-3e86c64f0cf9.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
      "name": "ซีซั่น 2 ตอนที่ 4",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Arthdal-Chronicles-2023-190x300-c-default.webp",
-     "url": "https://sgcdnseriesn.xyz/view/d683d6df-be53-5931-9982-3040ef439a91.m3u8",
+     "url": "https://sgcdnseriesn.xyz/view/e0e6bc3b-e2ef-5ed1-855d-db5ea25f000e.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
      "name": "ซีซั่น 2 ตอนที่ 5",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Arthdal-Chronicles-2023-190x300-c-default.webp",
-     "url": "https://sgcdnseriesn.xyz/view/d683d6df-be53-5931-9982-3040ef439a91.m3u8",
+     "url": "https://sgcdnseriesn.xyz/view/b27fe7d2-c2b7-5216-98df-75674164117a.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
      "name": "ซีซั่น 2 ตอนที่ 6",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Arthdal-Chronicles-2023-190x300-c-default.webp",
-     "url": "https://sgcdnseriesn.xyz/view/d683d6df-be53-5931-9982-3040ef439a91.m3u8",
+     "url": "https://sgcdnseriesn.xyz/view/a550b835-520b-57a1-b56a-4c31d66ff90c.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
      "name": "ซีซั่น 2 ตอนที่ 7",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Arthdal-Chronicles-2023-190x300-c-default.webp",
-     "url": "https://sgcdnseriesn.xyz/view/d683d6df-be53-5931-9982-3040ef439a91.m3u8",
+     "url": "https://sgcdnseriesn.xyz/view/b908d939-7af6-5818-b61e-bc70fcfc4c7d.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
      "name": "ซีซั่น 2 ตอนที่ 8",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Arthdal-Chronicles-2023-190x300-c-default.webp",
-     "url": "https://sgcdnseriesn.xyz/view/d683d6df-be53-5931-9982-3040ef439a91.m3u8",
+     "url": "https://sgcdnseriesn.xyz/view/3ab2902c-ec41-53ea-823a-3c6c6e845cf4.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
      "name": "ซีซั่น 2 ตอนที่ 9",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Arthdal-Chronicles-2023-190x300-c-default.webp",
-     "url": "https://sgcdnseriesn.xyz/view/d683d6df-be53-5931-9982-3040ef439a91.m3u8",
+     "url": "https://sgcdnseriesn.xyz/view/24fc4166-5daf-51f3-90b3-3b77a2c6bc0c.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
      "name": "ซีซั่น 2 ตอนที่ 10",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Arthdal-Chronicles-2023-190x300-c-default.webp",
-     "url": "https://sgcdnseriesn.xyz/view/d683d6df-be53-5931-9982-3040ef439a91.m3u8",
+     "url": "https://sgcdnseriesn.xyz/view/f700f875-6c99-5d6f-9e32-7241198a0e86.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
      "name": "ซีซั่น 2 ตอนที่ 11",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Arthdal-Chronicles-2023-190x300-c-default.webp",
-     "url": "https://sgcdnseriesn.xyz/view/d683d6df-be53-5931-9982-3040ef439a91.m3u8",
+     "url": "https://sgcdnseriesn.xyz/view/07166fc5-295a-5787-b4eb-7310b2798ce8.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
      "name": "ซีซั่น 2 ตอนที่ 12",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Arthdal-Chronicles-2023-190x300-c-default.webp",
-     "url": "https://sgcdnseriesn.xyz/view/d683d6df-be53-5931-9982-3040ef439a91.m3u8",
+     "url": "https://sgcdnseriesn.xyz/view/89f1f461-e813-5d6e-966a-b62948f33088.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -17576,112 +17723,112 @@
      "name": "ตอนที่ 1",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Ahsoka-2023-190x300-c-default.webp",
-     "url": "https://sgcdnseriesn.xyz/view/d683d6df-be53-5931-9982-3040ef439a91.m3u8",
+     "url": "https://sgcdnseriesn.xyz/view/8b818d52-60a5-567c-b575-47152a28f35f.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
      "name": "ตอนที่ 1",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Ahsoka-2023-190x300-c-default.webp",
-     "url": "https://sgcdnseriesn.xyz/view/d683d6df-be53-5931-9982-3040ef439a91.m3u8",
+     "url": "https://sgcdnseriesn.xyz/view/3b1726a8-01ed-54a0-8410-46417b983f45.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
      "name": "ตอนที่ 2",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Ahsoka-2023-190x300-c-default.webp",
-     "url": "https://sgcdnseriesn.xyz/view/d683d6df-be53-5931-9982-3040ef439a91.m3u8",
+     "url": "https://sgcdnseriesn.xyz/view/127d2bf2-1834-52bc-95db-9469dda6dea0.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
      "name": "ตอนที่ 2",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Ahsoka-2023-190x300-c-default.webp",
-     "url": "https://sgcdnseriesn.xyz/view/d683d6df-be53-5931-9982-3040ef439a91.m3u8",
+     "url": "https://sgcdnseriesn.xyz/view/2a2e84c3-1062-5f9c-9773-64424493988b.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
      "name": "ตอนที่ 3",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Ahsoka-2023-190x300-c-default.webp",
-     "url": "https://sgcdnseriesn.xyz/view/d683d6df-be53-5931-9982-3040ef439a91.m3u8",
+     "url": "https://sgcdnseriesn.xyz/view/ab05020c-2a14-5705-8bf2-9e5eaa3f8220.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
      "name": "ตอนที่ 3",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Ahsoka-2023-190x300-c-default.webp",
-     "url": "https://sgcdnseriesn.xyz/view/d683d6df-be53-5931-9982-3040ef439a91.m3u8",
+     "url": "https://sgcdnseriesn.xyz/view/9c276fab-4fff-529c-ad6c-27059f6d0b9e.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
      "name": "ตอนที่ 4",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Ahsoka-2023-190x300-c-default.webp",
-     "url": "https://sgcdnseriesn.xyz/view/d683d6df-be53-5931-9982-3040ef439a91.m3u8",
+     "url": "https://sgcdnseriesn.xyz/view/f20451cd-13aa-5e32-85a9-dcffe4d4849c.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
      "name": "ตอนที่ 4",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Ahsoka-2023-190x300-c-default.webp",
-     "url": "https://sgcdnseriesn.xyz/view/d683d6df-be53-5931-9982-3040ef439a91.m3u8",
+     "url": "https://sgcdnseriesn.xyz/view/4551efbc-1cc2-5a39-86bc-2d565a5dcb66.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
      "name": "ตอนที่ 5",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Ahsoka-2023-190x300-c-default.webp",
-     "url": "https://sgcdnseriesn.xyz/view/d683d6df-be53-5931-9982-3040ef439a91.m3u8",
+     "url": "https://sgcdnseriesn.xyz/view/c1654503-d02a-5246-b9de-3e3ffc91366b.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
      "name": "ตอนที่ 5",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Ahsoka-2023-190x300-c-default.webp",
-     "url": "https://sgcdnseriesn.xyz/view/d683d6df-be53-5931-9982-3040ef439a91.m3u8",
+     "url": "https://sgcdnseriesn.xyz/view/a9f83d32-47d8-5a6f-a627-7c7076c3b484.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
      "name": "ตอนที่ 6",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Ahsoka-2023-190x300-c-default.webp",
-     "url": "https://sgcdnseriesn.xyz/view/d683d6df-be53-5931-9982-3040ef439a91.m3u8",
+     "url": "https://sgcdnseriesn.xyz/view/c2364088-296d-57ea-a503-83d4ed036ae3.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
      "name": "ตอนที่ 6",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Ahsoka-2023-190x300-c-default.webp",
-     "url": "https://sgcdnseriesn.xyz/view/d683d6df-be53-5931-9982-3040ef439a91.m3u8",
+     "url": "https://sgcdnseriesn.xyz/view/d97859b6-dfd6-5694-b8da-0ef6e5696095.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
      "name": "ตอนที่ 7",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Ahsoka-2023-190x300-c-default.webp",
-     "url": "https://sgcdnseriesn.xyz/view/d683d6df-be53-5931-9982-3040ef439a91.m3u8",
+     "url": "https://sgcdnseriesn.xyz/view/95cdbba7-e6a7-587a-a355-4022e2462f7b.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
      "name": "ตอนที่ 7",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Ahsoka-2023-190x300-c-default.webp",
-     "url": "https://sgcdnseriesn.xyz/view/d683d6df-be53-5931-9982-3040ef439a91.m3u8",
+     "url": "https://sgcdnseriesn.xyz/view/c11545e6-c831-55fc-990e-36eb9561a9d6.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
      "name": "ตอนที่ 8",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Ahsoka-2023-190x300-c-default.webp",
-     "url": "https://sgcdnseriesn.xyz/view/d683d6df-be53-5931-9982-3040ef439a91.m3u8",
+     "url": "https://sgcdnseriesn.xyz/view/83689710-5a53-5992-bfd4-2e0cbd919c4e.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
      "name": "ตอนที่ 8",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Ahsoka-2023-190x300-c-default.webp",
-     "url": "https://sgcdnseriesn.xyz/view/d683d6df-be53-5931-9982-3040ef439a91.m3u8",
+     "url": "https://sgcdnseriesn.xyz/view/a43b760b-4291-5b38-871e-51cccd70b3e0.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -18185,7 +18332,7 @@
      "name": "ตอนที่ 1",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/A-Time-Called-You-2023-190x300-c-default.webp",
-     "url": "https://play.kakjeawplay.xyz/a7007b54-aba9-4738-a70f-8e7196b3bed4/_",
+     "url": "https://sgcdnseriesn.xyz/view/512344ac-08f3-5a12-9738-b17ad7fcc7b0.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
@@ -18613,27 +18760,6 @@
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Phanom-Nakha-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/10522de1-0c26-5bde-82cc-6ec791d5f5af.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    }
-   ]
-  },
-  {
-   "name": "The Three Musketeers D’Artagnan (2023) สามทหารเสือ กำเนิดนักรบดาร์ตาญัง",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/The-Three-Musketeers-D-Artagnan-2023-190x300-c-default.webp",
-   "info": "พากย์ไทย",
-   "stations": [
-    {
-     "name": "The Three Musketeers D’Artagnan (2023) สามทหารเสือ กำเนิดนักรบดาร์ตาญัง",
-     "info": "ตัวเล่นสำรอง พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/The-Three-Musketeers-D-Artagnan-2023-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/c4159d35-4b49-5392-b2ab-a629e7948605.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    },
-    {
-     "name": "The Three Musketeers D’Artagnan (2023) สามทหารเสือ กำเนิดนักรบดาร์ตาญัง",
-     "info": "ตัวเล่นหลัก พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/The-Three-Musketeers-D-Artagnan-2023-190x300-c-default.webp",
-     "url": "https://play.kakjeawplay.xyz/bcd21511-e6fd-463f-8eaa-19b89a6a3823/_",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -29568,27 +29694,6 @@
      "info": "ตัวเล่นหลัก ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/05/Hustler-Vs-Scammer-2023-190x300-c-default.webp",
      "url": "https://play.kakjeawplay.xyz/131ac38d-cc2e-4485-b7cc-430bd739bb7d/_",
-     "referer": "https://www.9nunghd.com/"
-    }
-   ]
-  },
-  {
-   "name": "Assassin Club (2023)",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2023/05/Assassin-Club-2023-190x300-c-default.webp",
-   "info": "ซับไทย",
-   "stations": [
-    {
-     "name": "Assassin Club (2023)",
-     "info": "ตัวเล่นสำรอง ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/05/Assassin-Club-2023-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/99db217e-f528-56c6-abaa-b776f0288b7e.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    },
-    {
-     "name": "Assassin Club (2023)",
-     "info": "ตัวเล่นหลัก ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/05/Assassin-Club-2023-190x300-c-default.webp",
-     "url": "https://play.kakjeawplay.xyz/926ca24b-0c37-4d5e-a690-1e6fa35e57b0/_",
      "referer": "https://www.9nunghd.com/"
     }
    ]
