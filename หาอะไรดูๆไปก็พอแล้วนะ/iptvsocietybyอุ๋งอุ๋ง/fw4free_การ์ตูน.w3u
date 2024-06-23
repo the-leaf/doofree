@@ -1,9 +1,42 @@
 {
  "name": "การ์ตูน",
- "author": "เจียว เจียว (=◍․̫◍=) ดูฟรีเพื่อความบันเทิงภายในที่พักอาศัย (=◍․̫◍=)วันที่ 11 มิถุนายน 2567",
+ "author": "เจียว เจียว (=◍․̫◍=) ดูฟรีเพื่อความบันเทิงภายในที่พักอาศัย (=◍․̫◍=)วันที่ 23 มิถุนายน 2567",
  "info": "เฉพาะเมื่อเราให้ความสุขโดยไม่ลังเลหรือคิดจะได้กำไรเราสามารถรู้ได้อย่างแท้จริงว่าความรักหมายถึงอะไร😊",
  "image": "https://fw4free.com/images/logo7.png",
  "groups": [
+  {
+   "name": "Big City Greens the Movie: Spacecation (2024) บรรยายไทย",
+   "image": "https://img.inwiptv.net/postor/20240619095811wV0nNtlL0nxgse8llRi7SypkCQI.jpg",
+   "stations": [
+    {
+     "name": "Big City Greens the Movie: Spacecation (2024) บรรยายไทย",
+     "info": " บรรยายไทย [1080p]",
+     "image": "https://img.inwiptv.net/postor/20240619095811wV0nNtlL0nxgse8llRi7SypkCQI.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie3/Big_City_Greens_the_Movie_Spacecation_2024/Big_City_Greens_the_Movie_Spacecation_2024_EN_1080p.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
+  {
+   "name": "Ultraman: Rising อุลตร้าแมน: ผงาด (2024) NETFLIX",
+   "image": "https://img.inwiptv.net/postor/20240614171059j886YEkIUsiImY53px5VHKD4lRa.jpg",
+   "stations": [
+    {
+     "name": "Ultraman: Rising อุลตร้าแมน: ผงาด (2024) NETFLIX",
+     "info": " พากย์ไทย [1080p]",
+     "image": "https://img.inwiptv.net/postor/20240614171059j886YEkIUsiImY53px5VHKD4lRa.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie3/Ultraman_Rising_2024/Ultraman_Rising_2024_TH_1080p.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    },
+    {
+     "name": "Ultraman: Rising อุลตร้าแมน: ผงาด (2024) NETFLIX",
+     "info": " บรรยายไทย [1080p]",
+     "image": "https://img.inwiptv.net/postor/20240614171059j886YEkIUsiImY53px5VHKD4lRa.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie3/Ultraman_Rising_2024/Ultraman_Rising_2024_EN_1080p.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
   {
    "name": "Mobile Suit Gundam SEED FREEDOM (2024)",
    "image": "https://img.inwiptv.net/postor/202406081311551EBnttleJaKnWWyyEqfiSn76ZjT.jpg",
